@@ -1,0 +1,68 @@
+---
+title: "Rpaso"
+author: "Guillermo Puente"
+date: "24 de julio de 2019"
+output: html_document
+---
+
+Ola k ase
+
+
+##Instalar Librerías
+
+```{r, cahce = TRUE, echo=false}
+install.packages("markdown")
+install.packages("lubridate")
+install.packages("stringr")
+install.packages("dplyr")
+install.packages("RMySQL")
+install.packages("openxlsx")
+install.packages("tidyverse")
+install.packages("readr")
+```
+## Cargando librerías
+```{r}
+require(dplyr)
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+##Tipos de Datos
+```{r}
+String <- "this is a string"
+String
+class(String)
+nchar(String)
+length(String)
+```
+```{r}
+number <- 234L
+class(number)
+typeof(number)
+```
+```{r}
+logical <- FALSE
+logical
+logical*1
+```
+## Vectores
+```{r, cache = TRUE}
+sample(x = 1:100, size = 8, replace = FALSE)
+class(sample(x=1:5, size = 8, replace=TRUE))
+vector_1 <- c(1:5)
+vector_1
+c(vector_1, "B", "C", "D")
+
+```
+##Listas
+```{r, cache = true}
+V_1 <- c(1, 2, 3, 4, 5)
+v_2 <- c(FALSE, TRUE, FALSE)
+v_3 <- c("a", "b", "c")
+list_1 <- list(V_1, v_2, v_3)
+names(list_1) <- c("first", "second", "third")
+```
+
