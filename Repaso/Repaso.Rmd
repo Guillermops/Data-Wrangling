@@ -2,7 +2,7 @@
 title: "Rpaso"
 author: "Guillermo Puente"
 date: "24 de julio de 2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 Ola k ase
