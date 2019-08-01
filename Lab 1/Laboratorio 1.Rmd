@@ -1,0 +1,67 @@
+---
+title: "Laboratorio 1"
+author: "Guillermo Puente"
+date: "31 de julio de 2019"
+output: rmarkdown::github_document
+---
+
+##Problema 1
+```{r, cache=TRUE}
+tabla_1 <- read_excel("01-2018.xlsx")
+tabla_2 <- read_excel("02-2018.xlsx") 
+tabla_3 <- read_excel("03-2018.xlsx")
+tabla_4 <- read_excel("04-2018.xlsx")
+tabla_5 <- read_excel("05-2018.xlsx")
+tabla_6 <- read_excel("06-2018.xlsx")
+tabla_7 <- read_excel("07-2018.xlsx") 
+tabla_8 <- read_excel("08-2018.xlsx")
+tabla_9 <- read_excel("09-2018.xlsx")
+tabla_10 <- read_excel("10-2018.xlsx")
+tabla_11 <- read_excel("11-2018.xlsx")
+
+tabla_1$FECHA="01-2018"
+tabla_2$FECHA="02-2018"
+tabla_3$FECHA="03-2018"
+tabla_4$FECHA="04-2018"
+tabla_5$FECHA="05-2018"
+tabla_6$FECHA="06-2018"
+tabla_7$FECHA="07-2018"
+tabla_8$FECHA="08-2018"
+tabla_9$FECHA="09-2018"
+tabla_10$FECHA="10-2018"
+tabla_11$FECHA="11-2018"
+
+tabla_10 <- tabla_10[, -9]
+tabla_11 <- tabla_11[, -9]
+tabla_7 <- tabla_7[, -9]
+tabla_9 <- tabla_9[, -9]
+tabla_8 <- tabla_8[, -9]
+
+
+tablas_combinadas <- rbind(tabla_1, tabla_2, tabla_3, tabla_4, tabla_5, tabla_6, tabla_7, tabla_8, tabla_9, tabla_10, tabla_11)
+```
+
+##Problema 2
+```{r, cache=TRUE}
+V_1 <- c(1, 2, 2, 4, 5)
+v_2 <- sample(x = 1:10, size = 5, replace = FALSE)
+v_3 <- sample(x = 1:10, size = 5, replace = TRUE)
+list_1 <- list(V_1, v_2, v_3)
+names(list_1) <- c("first", "second", "third")
+list_1
+
+moda <- function(x){
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+
+lapply(list_1, moda)
+list_1
+```
+##Problema 3
+```{r, cache=TRUE}
+library("readr")
+parque <- read_delim("INE_PARQUE_VEHICULAR_080219.txt", "/t")
+```
+
+
