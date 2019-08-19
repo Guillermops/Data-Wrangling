@@ -1,0 +1,272 @@
+---
+title: "Lab 3"
+author: "Guillermo Puente"
+date: "14 de agosto de 2019"
+output: rmarkdown::github_document
+---
+##Ejercicio de 2 puntos netos extras de fut
+```{r, cache=TRUE}
+##Porcentaje de  Pases
+player_score %>% 
+  select(PS, club, player) %>% 
+  arrange(desc(PS)) %>% 
+  distinct()
+
+##MOTM y Promedio de Goles por Partido
+player_score %>% 
+  filter(Goals > 0) %>% 
+  mutate(GoaxGame = (Mins/Goals)/90) %>% 
+  arrange(desc(MotM)) %>% 
+  distinct()
+
+##Jugador más jóven con más  goles anotados
+player_score %>% 
+  select(player, age, Goals) %>% 
+  arrange(age, desc(Goals)) %>% 
+  filter(Goals > 0) %>% 
+  distinct()
+
+##Cambio más efectivo
+player_score %>% 
+  filter(Goals > 0) %>% 
+  mutate(GoalxCambio = cambio/Goals) %>% 
+  arrange(desc(Goals, cambio, GoalxCambio)) %>% 
+  distinct()
+
+##El más Sucio
+player_score %>% 
+  filter(Red > 0, Yel > 0) %>%
+  mutate(RXM = Mins/Red) %>% 
+  mutate(AXM = Mins/Yel) %>% 
+  arrange(desc(Yel, Red), RXM, AXM) %>% 
+  distinct()
+
+##Mejor equipo
+player_score %>% 
+  select(club) %>% 
+  arrange(desc(player_score$Goals, player_score$MotM)) %>% 
+  distinct()
+##Aquí estamos buscando a los equipos que tienen la mayor cantidad de goles anotados y a la mayor cantidad de Man of the Match ya que estas
+##Nos pueden decir el desempeño que este ha tenido y la calidad de los juegos que han dado.
+```
+
+
+###Antes de responder a cada pregunta limpio el global enviroment para que no me afecte a la hora de trabajar algún archivo###
+
+##Tabla
+```{r, cache=TRUE}
+library(readr)
+library(tidyverse)
+
+tabla <- read_csv("tabla_completa.csv", locale = readr::locale(encoding= "latin1"))
+tabla %>% 
+  head(40) %>% 
+  view()
+```
+
+##¿Nos están robando los pilotos?
+```{r, cache=TRUE}
+faltantes <- grep("FALTANTE", tabla$CLIENTE, ignore.case=TRUE)
+sinfaltantes <- tabla[-faltantes,]
+confaltantes <- tabla[faltantes,]
+
+menosde1000 <- tabla[(confaltantes$CANTIDAD<1000),]
+
+#Total de viajes
+tt <- tabla %>% 
+  group_by(PILOTO) %>% 
+  summarise(conteo1=n()) %>% 
+  arrange(PILOTO)
+#Viajes Faltantes
+ft <- confaltantes %>% 
+  group_by(PILOTO) %>% 
+  summarise(conteo=n()) %>% 
+  arrange(PILOTO)
+
+t <- (ft$conteo/tt$conteo1)*100
+print(t)
+
+##Cantidades mayores a 1,000
+cf1000<-confaltantes %>% 
+  select(PILOTO, CANTIDAD) %>% 
+  filter(confaltantes$CANTIDAD > 1000) %>% 
+  arrange(desc(PILOTO))
+
+#Total de viajes (+1000 cantidades)
+m1000 <- cf1000 %>% 
+  group_by(PILOTO) %>% 
+  summarise(conteo2=n()) %>% 
+  arrange(PILOTO)
+
+##Cantidades totales
+canttotales<-tabla %>% 
+  select(PILOTO, CANTIDAD) %>% 
+  arrange(desc(PILOTO))
+
+#Total de viajes
+totalviajes <- canttotales %>% 
+  group_by(PILOTO) %>% 
+  summarise(conteo3=n()) %>% 
+  arrange(PILOTO)
+
+t2 <- (m1000$conteo2/totalviajes$conteo3)*100
+print(t2)
+
+```
+
+##¿Debemos inivertir en nuevos camiones?
+```{r, cache=TRUE}
+tabla %>% 
+  select(UNIDAD) %>%
+  distinct()
+
+camionesg <- tabla[tabla$UNIDAD == "Camion Grande",]
+camionesp <- tabla[tabla$UNIDAD == "Camion Pequeño",]
+paneles <- tabla[tabla$UNIDAD == "Panel",]
+
+
+tabla %>% 
+  group_by(UNIDAD) %>% 
+  summarise(conteo=n()) %>%
+  arrange(desc(conteo)) %>% 
+  mutate(sumatcm = sum(camionesg$Q)) %>% 
+  mutate(mediaporcg = sum(camionesg$Q)/conteocg) 
+
+cg <- camionesg %>% 
+  group_by(UNIDAD) %>% 
+  summarise(conteocg=n()) %>%
+  arrange(desc(conteocg)) %>% 
+  mutate(sumatcm = sum(camionesg$Q)) %>% 
+  mutate(mediaporcg = sum(camionesg$Q)/conteocg) 
+
+cp <- camionesp %>% 
+  group_by(UNIDAD) %>% 
+  summarise(conteocp=n()) %>%
+  arrange(desc(conteocp)) %>% 
+  mutate(sumatcp = sum(camionesp$Q)) %>% 
+  mutate(mediaporcp = sum(camionesp$Q)/conteocp)
+
+p <- paneles %>% 
+  group_by(UNIDAD) %>% 
+  summarise(conteop=n()) %>%
+  arrange(desc(conteop)) %>% 
+  mutate(sumatp = sum(paneles$Q)) %>% 
+  mutate(mediaporp = sum(paneles$Q)/conteop)
+
+#Hay 3.3 veces más camiones grandes que paneles y podemos ver que la media de venta por camión es casi 4.5 veces más que la de la panel.
+print(cg$conteocg/p$conteop)
+print(cg$mediaporcg/p$mediaporp)
+
+#Hay el doble de camiones grandes que de medianos y lo que venden lo grande es el doble de lo que venden los medianos.
+print(cg$conteocg/cp$conteocp)
+print(cg$mediaporcg/cp$mediaporcp)
+
+
+#Hay 2 veces más camiones pequeños que paneles y la media de venta por camión pequeño es 2.2 veces más que la de panel.
+print(cp$conteocp/p$conteop)
+print(cp$mediaporcp/p$mediaporp)
+
+#Cantidades que llevan los 1211 camiones grandes (1996 > 1002), los 605 camiones pequeños (1000 < x < 502) y las 364 paneles (500 < 200)
+
+
+
+
+```
+
+##¿Qué estrategia deberíamos seguir?
+```{r, cache=TRUE}
+
+## Peedidos que se hacen por mes
+totalmes <- tabla %>% 
+  group_by(MES) %>% 
+  summarise(conteomes=n()) %>% 
+  arrange(conteomes)
+#  En base a los meses podemos ver que en el que más se vende hay una diferencia de 30 con el que menos vende. En el mes que más se vende es Mayo, podemos asumir que influye el día de la madre. Los otros meses son Julio, Febrero y Octubre (más de 200). En Febrero y Julio no hay fechas que resalten, en Octubre podríamos considerar que es cuando los colegios salen entonces podría haber una pequeña relación. Viendo los meses nada más recomendaría que en esos hayan más vehículos disponibles para poder hacer más entregas y en los meses con menores entregas podíamos no tener tantas unidades disponibles.
+
+## Cantidad de pedidos por lugar.
+totallugares <- tabla %>% 
+  group_by(CLIENTE) %>% 
+  summarise(conteocliente=n()) %>% 
+  arrange(conteocliente)
+# De todos los lugares podemos ver que hay 5 a los que vendemos más artículos, una buena estrategia para que estos lugares sigan usando los servicios podemos ofrecer mejores precios y ofrecer, tambien, tiempos mayores de créditos para que puedan hacer compras más grandes ya que sabemos que los clientes prefieren comprar ahora y pagar después.
+
+```
+
+##¿Deberíamos contratar más repartidores?
+```{r, cache=TRUE}
+
+viajesporpiloto <- tabla %>% 
+  group_by(PILOTO) %>% 
+  summarise(conteo1=n()) %>%
+  arrange(PILOTO)
+
+print(viajesporpiloto$PILOTO)
+
+viajestotales <- 2180
+
+JFPG <- viajesporpiloto[viajesporpiloto$PILOTO == "Juan Francisco Portillo Gomez",]
+print((JFPG$conteo1/viajestotales)*100)
+HG <- viajesporpiloto[viajesporpiloto$PILOTO == "Hector Giron",]
+print((HG$conteo1/viajestotales)*100)
+AVA <- viajesporpiloto[viajesporpiloto$PILOTO == "Angel Valdez Alegria",]
+print((AVA$conteo1/viajestotales)*100)
+FV <- viajesporpiloto[viajesporpiloto$PILOTO == "Felipe Villatoro",]
+print((FV$conteo1/viajestotales)*100)
+FMB <- viajesporpiloto[viajesporpiloto$PILOTO == "Fernando Mariano Berrio",]
+print((FMB$conteo1/viajestotales)*100)
+HAF <- viajesporpiloto[viajesporpiloto$PILOTO == "Hector Aragones Frutos",]
+print((HAF$conteo1/viajestotales)*100)
+IRM <- viajesporpiloto[viajesporpiloto$PILOTO == "Ismael Rodero Monteagudo",]
+print((IRM$conteo1/viajestotales)*100)
+LJU <- viajesporpiloto[viajesporpiloto$PILOTO == "Luis Jaime Urbano",]
+print((LJU$conteo1/viajestotales)*100)
+PAP <- viajesporpiloto[viajesporpiloto$PILOTO == "Pedro Alvarez Parejo",]
+print((PAP$conteo1/viajestotales)*100)
+
+# Al ver el porcentaje de viajes que hace cada piloto podemos ver que tienen un porcentaje muy similar, lo que nos dice que no hay algún conductor que haga muchs más viajes que el resto. 
+
+2180*0.09724771/11
+2180*.1224771/11
+2180/10/11
+
+# Aproximadamente el piloto que menos viajes hace al mes hace 19 y el que más hace es 24 al mes. Asumiendo que hay 30 días al mes y que dos días a la semana hay descanso, podemos ver que algunos pilotos hacen, aproximadamente un viaje diario y otros que podrían llegar a hacer dos dos viajes al día alguna semana. Ahora si metemos un décimo conductor tenemos un aproximado de 1 viaje al día (hábil) por persona al mes.
+
+```
+
+##¿Son las tarifas actuales aceptadas por los clientes?
+```{r, cache=TRUE}
+
+mediaq <- mean(tabla$Q)
+qmayormedia <- tabla[tabla$Q > mediaq,]
+qmenormedia <- tabla[tabla$Q < mediaq,]
+
+
+qmayor <- qmayormedia %>% 
+  group_by(CREDITO) %>% 
+  summarise(conteo=n()) %>% 
+  arrange(desc(conteo))
+
+qmenor <- qmenormedia %>% 
+  group_by(CREDITO) %>% 
+  summarise(conteo1=n()) %>% 
+  arrange(desc(conteo1))
+
+# Al observar los días de credito que damos para poder pagar por la mercadería podemos observar que en los precios menores a la media (los cobros más bajos) y los más altos son de 60 y 30 días respectivamente, lo que nos dice que las personas no tienen tantos problemas en pagarnos ya que no necestian tantos días para poder hacer los pagos. Hay varios que piden créditos de 90 días pero de entre los tres métodos la mayoría prefiere menos días, lo que nos puede indicar que no tienen tantos problemas para pagar -indicador que los precios no están tan fuera de alcance de las personas-.
+```
+
+##Gráficas
+```{r, cache=TRUE}
+## Mejores Clientes
+graf <- tabla %>% 
+  group_by(CLIENTE) %>% 
+  summarise(conteo=n()) %>% 
+  arrange(CLIENTE) %>% 
+  distinct()
+
+barplot(table(tabla$CLIENTE))
+
+
+
+```
+
+
