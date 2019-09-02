@@ -1,0 +1,20 @@
+---
+title: "Lab 4"
+author: "Guillermo Puente"
+date: "1 de septiembre de 2019"
+output: rmarkdown::github_document
+---
+
+```{r, cache=TRUE}
+
+install.packages("tidyr")
+library("tidyr")
+library("readr")
+
+load("wide_religion.Rda")
+read_csv("raw.csv")
+
+melt
+
+```
+
