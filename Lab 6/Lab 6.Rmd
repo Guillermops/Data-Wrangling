@@ -1,0 +1,76 @@
+---
+title: "Lab 6"
+author: "Guillermo Puente"
+date: "11 de septiembre de 2019"
+output: rmarkdown::github_document
+---
+##Librerias
+```{r, cache=TRUE}
+
+library("stringr")
+library("stringr")
+
+```
+
+
+##Placas
+```{r, cache=TRUE}
+
+str_detect(string = c("P243CNJ", "P214HNS", "P345FVJ", "A344SDF", "P2314ASD", "P245ABC"), "^[P]{1}[0-9]{3}[^AEIOUaeiou]{3}$")
+
+```
+
+##Archivos pdf o jpg
+```{r, cache = TRUE}
+
+str_detect(string = c("Ejemplo1.pdf", "prueba2.PDF", "respuestas_del_examen.jpg", "amor.JPG", "hola.hpq"), "^?(.pdf|.PDF|.jpg|.JPG)$")
+
+```
+
+##Password
+```{r, cache=TRUE}
+
+str_detect(string = c("Hola123!", "$H123488", "$H123488Nu", "AERFSdnf", "12345678", "asdfghjk", "ASDFGHJK", "adfd!!1L","Datawrangling2019!"),"")
+
+```
+
+##Carnet Galileo
+```{r, cache=TRUE}
+
+str_detect(string = c("19002324", "31001564", "14011110", "11008921", "2003421"), "^([1-9]|1[0-9]|2[0-9]|30)[0]{2}(1{3}[0-9]|11[1-9]{2}|1[2-9]{3}|[2-7][1-9]{3}|8[0-8][0-9]{2}|89[0-6][0-9]|8970)$"),
+
+
+```
+
+##Palabras
+```{r, cache=TRUE}
+
+str_detect(string = c("pit", "spot", "spate", "slap two", "respite", "pt", "Pot", "peat", "part"), "^(^(p|P)(eat|art|ot|t))$", negate = TRUE)
+
+```
+
+##Teléfonos
+```{r, cache=TRUE}
+
+str_detect(string = c("4560 7010", "+5025482-1151", "4210-7640", "50222217622", "+5025800 5802"), "^(502|^\\+502|5025|^\\+5025|5024|^\\+5024|5026|^\\+5026|5022|^\\+5022||5|4|6|2)[0-9]{3}(\\s|-|\\S){1}[0-9]{4}")
+
+```
+
+##Correos UFM
+```{r, cache=TRUE}
+
+str_detect(string = c("guillermops@ufm.edu", "ivega@ufm.edu", "pdmf27@ufm.edu", "gfurlan@hotmail.com", "asolares@dhs.gov"), ".(\\@)ufm.edu")
+
+
+```
+
+##1984
+```{r, cache=TRUE}
+
+str_detect(string = c("abc012333ABCDEEEE"), "^[a-z]{0,3}[0-9]{2,9}[A-Z]{3,}")
+
+```
+
+
+
+
