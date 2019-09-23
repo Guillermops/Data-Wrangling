@@ -1,0 +1,237 @@
+---
+title: "Lab 7"
+author: "Guillermo Puente"
+date: "19 de septiembre de 2019"
+output: rmarkdown::github_document
+---
+
+
+
+##Librerías
+```{r, cache=TRUE}
+
+library(dplyr)
+library(tidyr)
+library(plotly)
+library(readxl)
+library(readr)
+library(lubridate)
+
+```
+
+
+
+##Intentando entender la data
+```{r, cache=TRUE}
+#Fecha: Fecha del servicio al poste.
+#ID: Código del poste al que se le hizo el servicio (hay varios ID's ya que se pueden hacer varios servicios al mismo poste)
+#Camión, Pickup y Moto: Vehículos en los que se va a hacer los servicios (dependiendo del tipo de servicio es el vehículo)
+#Cod: Tipo de servicio que se le hace al poste.
+#Origen:
+#Latitud y Longitud: Coordenadas en donde se ecnuentra el poste desde el lugar donde se envía a hacer la reparación.
+#Factura: Total de la reparación del poste.
+#Directo: Costo directo de usar un determinado vehículo para el servicio que se realiza.
+#Fijo: Costo que se debe pagar por usar el vehículo.
+#5.30, 30.45, 45.75, 75.120, 120+: Tiempo que toma hacer el servicio o reparación del poste.
+
+```
+
+
+
+##Intento de limpieza
+```{r, cache=TRUE}
+
+d <- read_csv("c1.csv")
+data <- read_csv("c1.csv")
+data
+str(data)
+
+data$Fecha <- lubridate::ymd(data$Fecha)
+data[] <- lapply(data, gsub, pattern=' ', replacement='')
+data[] <- lapply(data, gsub, pattern='Q', replacement='')
+data[data == "-"] <- "0"
+
+data$`5-30` <- lapply(data$`5-30`, gsub, pattern='x', replacement='5.30')
+data$`30-45` <- lapply(data$`30-45` , gsub, pattern='x', replacement='30.45')
+data$`45-75` <- lapply(data$`45-75` , gsub, pattern='x', replacement='45.75')
+data$`75-120` <- lapply(data$`75-120` , gsub, pattern='x', replacement='75.120')
+data$`120+` <- lapply(data$`120+` , gsub, pattern='x', replacement='120')
+
+data$`5-30`<- as.numeric(data$`5-30`)
+str(data$`5-30`)
+data$`30-45`<- as.numeric(data$`30-45`)
+str(data$`30-45`)
+data$`45-75`<- as.numeric(data$`45-75`)
+str(data$`45-75`)
+data$`75-120`<- as.numeric(data$`75-120`)
+str(data$`75-120`)
+data$`120+` <- as.numeric(data$`120+`)
+str(data$`120+`)
+
+data <- replace(data, is.na(data), '')
+data <- unite(data, tiemposdeservicios, 13:17, sep = '')
+data[] <- lapply(data, gsub, pattern=' ', replacement='')
+str(data$tiemposdeservicios)
+data$tiemposdeservicios <- as.numeric(data$tiemposdeservicios)
+str(data$tiemposdeservicios)
+
+data$Camion_5 <- as.numeric(data$Camion_5)
+data$Moto <- as.numeric(data$Moto)
+data$Pickup <- as.numeric(data$Pickup)
+data$Lat <- as.numeric(data$Lat)
+data$Long <- as.numeric(data$Long)
+data$factura <- as.numeric(data$factura)
+data$height <- as.numeric(data$height)
+data$origen <- as.numeric(data$origen)
+data$directoCamion_5 <- as.numeric(data$directoCamion_5)
+data$directoPickup <- as.numeric(data$directoPickup)
+data$directoMoto <- as.numeric(data$directoMoto)
+data$fijoCamion_5 <- as.numeric(data$fijoCamion_5)
+data$fijoPickup <- as.numeric(data$fijoPickup)
+data$fijoMoto <- as.numeric(data$fijoMoto)
+
+
+
+##CORREGIR EL NUMERO DE COLUMNAS QUE SALEN!!!!!!!!!!!!!!!!##
+
+str(data)
+
+```
+
+
+
+### 1 ###
+```{r, cache=True}
+
+ventas <- sum(data$factura)
+costosdeventas <- sum(sum(data$directoCamion_5)+sum(data$directoMoto)+sum(data$directoPickup))
+gastosoperativos <- sum(sum(data$fijoCamion_5)+sum(data$fijoPickup)+sum(data$fijoMoto))
+
+# Utilidad Bruta = Ventas - COGS
+# UAI = Utilidad Bruta - Gastos de Operación (El gasto que se hace para mantener el vehículo es uno que no se hace para 
+# realizar la venta pero es necesario para continuar las operaciones)
+# IVA = 25% de la UAI
+# Utulidad Neta = UAI - Impuestos
+
+
+UtilidadBruta = ventas - costosdeventas
+UAI = UtilidadBruta - gastosoperativos
+IVA = .25*UAI
+UtilidadNeta = UAI - IVA
+print(UtilidadNeta)
+
+```
+
+
+
+### 2 ###
+```{r, cache=TRUE}
+
+data %>% 
+  select(cod, factura) %>% 
+  group_by(cod) %>% 
+  summarise(ventapromedio1 = mean(factura)) %>% 
+  arrange(ventapromedio1, .by_group = TRUE)
+data %>% 
+  select(vehiculo, factura) %>% 
+  group_by(vehiculo) %>% 
+  summarise(ventapromedio2 = mean(factura)) %>% 
+  arrange(ventapromedio, .by_group = TRUE)
+data %>% 
+  select(minutos, factura) %>% 
+  group_by(minutos) %>% 
+  summarise(ventapromedio3 = mean(factura)) %>% 
+  arrange(ventapromedio, .by_group = TRUE)
+
+data %>% 
+  select(cod, vehiculo, minutos, factura) %>% 
+  group_by(cod, minutos, vehiculo) %>% 
+  summarise(ventapromedio4 = mean(factura)) %>% 
+  arrange(desc(ventapromedio4), .by_group = TRUE)
+
+
+```
+
+
+
+### 3 ###
+```{r, cache=TRUE}
+
+
+mes <- month(data$Fecha, label = TRUE)
+data %>% 
+  select(mes, factura) %>% 
+  group_by(mes) %>% 
+  count(mes) %>% 
+  arrange(mes)
+  
+
+data %>% 
+  mutate(mes = month(Fecha, label = TRUE)) %>% 
+  select(mes, cod) %>% 
+  group_by(mes) %>% 
+  summarise(cod = n()) %>% 
+  arrange(mes)
+##Aquí vemos cuantos trabajos se hacen al mes, no hay tantos cambios por lo que se considera que sí se acepta.
+
+
+
+##Necesitamos más datos para poder confirmar si estamos en números rojos, ya que solo tenemos ventas y costos/gastos. Los datos que se requieren son de índole finnciero y no solo datos de ventas.
+
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#PRUEBAS DEL DATASET#
+```{r}
+costototal <- gather(data, vehiculo, costototal, Camion_5:Moto)
+costototal <- costototal[,26:27]
+costosfijos <- gather(data, vehiculo, costosfijos, fijoCamion_5:fijoMoto)
+costosfijos <- costosfijos[26:27]
+costosdirectos <- gather(data, vehiculo, costosdirectos, directoCamion_5:directoMoto)
+costosdirectos <- costosdirectos[,26:27]
+
+p1 <- cbind(costosfijos, costosdirectos)
+p2 <- cbind(costototal, p1)
+p2 <- p2[,-3]
+p2 <- p2[,-4]
+
+data <- cbind(data, p2)
+d1 <- data[,1:2]
+d2 <- data[,6:10]
+d3 <- data[,17:22]
+dn <- data[,29:32]
+
+data <- cbind(d1, dn, d2, d3)
+```
+
+
+
+
+```{r}
+```
+
+
+
+
+
+
+
+
+
