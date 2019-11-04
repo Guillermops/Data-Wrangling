@@ -1,0 +1,153 @@
+---
+title: "Lab 10"
+author: "Guillermo Puente"
+date: "1 de noviembre de 2019"
+output: rmarkdown::github_document
+---
+
+
+#Librerías
+```{r, cache=TRUE}
+
+library(readxl)
+library(readr)
+library(plotly)
+library(tidyr)
+library(dplyr)
+library(DataExplorer)
+library(lubridate)
+
+```
+
+
+#Bases de datos
+```{r, cache=TRUE}
+
+movies <- read_csv("movies.csv")
+ratings <- read_csv("ratings.csv")
+
+
+```
+
+
+#Información de la data
+```{r, cache=TRUE}
+
+glimpse(movies)
+glimpse(ratings)
+
+movies$release_date <- as.Date(movies$release_date, "%m/%d/%y")
+
+ratings <- ratings[,2:5]
+ratings <- ratings[,2:3]
+
+movies <- movies[,2:14]
+movies <- movies[,-7]
+movies <- movies[,-3]
+
+glimpse(movies)
+glimpse(ratings)
+
+```
+
+#Al comenzar a ver la data vemos que tenemos muchas variables que se usan para describir aspectos de la película, hay algunos que son más importantes que otros. Eliminamos un par de columnas que no son indispensables para poder trabajar la data. En el database de movies eliminamos las columnas de X1, release year (ya que ya tenemos la fecha en la que salió que es más exacta) y el id de imdb (ya que no nos da ningún tipo de información que pueda ser útil y el id de la película es el que nos servirá). Luego en la de rating eliminamos las columnas X1, el userid (no nos da ninguna información tener el id de la persona que calificó la película, solamente la calificación que nos dio) y el timestamp. Ahora solamente tenemos las variables que nos pueden dar información útil y no unas que solamente hacen ruido.
+
+
+
+#Tratamiento de la data
+```{r, cache=TRUE}
+
+
+ratings <- ratings %>% 
+  group_by(movieId) %>% 
+  mutate(mediarating = mean(rating))%>%  
+  select(movieId, mediarating) %>% 
+  arrange(movieId) %>% 
+  unique()
+ratings$mediarating <- round(ratings$mediarating, 2)
+
+colSums(is.na(ratings))
+plot_missing(ratings)
+sum(is.na(ratings$movieId))
+
+DataExplorer::introduce(movies)
+colSums(is.na(movies))
+plot_missing(movies)
+sum(is.na(movies$runtime))
+
+
+nuevo <- left_join(ratings, movies, by = c("movieId"="id"))
+colSums(is.na(nuevo))
+plot_missing(nuevo)
+sum(is.na(nuevo$runtime))
+
+nuevo[nuevo == 0] <- NA
+colSums(is.na(nuevo))
+plot_missing(nuevo)
+sum(is.na(nuevo$revenue))
+sum(is.na(nuevo$budget))
+
+
+```
+#Ahora que ya tenemos las bases de datos y limpiamoms las columnas que no nos ayudan ya podemos comenzar a modificar las columnas para poder observar de mejor manera la data. En primer unimos las tablas de ratings y movies para poder tener toda la data junta y que nos sea más fácil analizarla. Luego, pude observar que había una gran cantidad de "0" en las columnas de revenue y de budget, por lo que consideré apropiado convertí los "0" en NA -ya que da lo mismo tenerlo como un valor nulo que "0" ya que para analizar me da lo mismo-. Hacer esto me devolvió que las bases de datos tienen más de un 85% de valores nulos.
+
+
+#Datos
+```{r, cache=TRUE}
+
+nuevo$popularity <- round(nuevo$popularity, 2)
+glimpse(nuevo)
+summary(nuevo)
+str(nuevo)
+
+
+
+```
+#Podemos ver que tenemos algunas variables categóricas que puede que no tengan mucha influencia como lo son el título y el original, pero aparte tenemos otras que sí pueden ser más influyentes como el idioma (podríamos buscar una relación entre el promedio de revenue y el idioma que más revenue genera) y la fecha (teninedo en cuenta que puede haber estacionalidad y ciertas películas podrían generar más dependiendo del mes en el que salen). Ahora, las variables numéricas podrían considerarse más "importantes" para poder hacer análisis importantes de la data, por ejemplo tenemos revenue, popularity, media rating y vote average nos pueden decir qué tan "buena" fue la película.
+
+
+#Correlación
+```{r, cache=TRUE}
+
+NuevoNum <- nuevo %>% 
+  select(2, 3, 6, 8, 9, 11, 12)
+
+plot_correlation(na.omit(NuevoNum), type = "c")
+
+```
+#En primer lugar lo que se hizo fue separar del dataframe original las variables numéricas que consideramos que pueden ser buenas para hacer la relación y que sí podrían estar relacionadas. Al hacer la relación podemos observar que hay dos grupos de variables que sí están relacionadas entre sí (tomando un buen porcentaje desde 0.59 ~ 0.60), esas son Vote average con media rating (nos dice que el rating que se obtiene depende positivamente de la cantidad promedio de votos) y Vote Count con budget y revenue (Hay una relación que nos dice que una película que ganó bastante dinero tiende a haber tenido mucho dinero invertido para hacerla y que muchas personas votan sobre ella, esto es lógico ya que las que más ganan es porque más personas la ven y por ende más personas pueden votar).
+
+
+#Correlaciones de variables específicas
+```{r, cache=TRUE}
+
+corr1 <- nuevo %>% 
+  select(6, 8)
+
+plot_correlation(na.omit(corr1), type = "c")
+
+corr2 <- nuevo %>% 
+  select(3, 8)
+
+plot_correlation(na.omit(corr2), type = "c")
+
+corr3 <- nuevo %>% 
+  select(3, 6)
+
+plot_correlation(na.omit(corr3), type = "c")
+
+
+```
+#La primera fue revenue con la popularidad de la película, el porcentaje aunque no es tan alto puede considerarse relevante, esto nos dice que la película ganó bastante dinero y que, por ende, fue popular. Luego usé la de budget con revenue, esta tiene el porcentaje más alto de todas las que saqué, diciendo que hay una relación casi directa de las películas que más ganaron con el dinero que se invirtió haciéndolas. Finalmente usé las variables de budget y popularty, el porcentaje es bajo pero demuestra que puede tener cierta relación, ya que nos dice que hay una relación pequeña (casi un tercio) entre lo que costó hacer la película y la popularidad que tuvo.
+
+
+#Conclusiones
+#Al haber analizado toda la data pude fijarme que en primer lugar los datos que se sacaron de imdb no están completos en las áreas de budget y revenue ya que en ambas tenemos porcentajes de datos faltantes de más del 80%, en el resto el que más datos faltantes tiene es menos del 7%. Lo malo de esto es que esas dos son las variables más importantes, en mi opinión, ya que estan nos pueden decir si la película fue exitosa o no, porque el budget es lo que se tiene pensado que costará el proyecto y revenue fue lo que generó, entonces puede pensarse como una empresa en la que queremos ver si el proyecto tuvo más ganancias que pérdidas. Ahora, esta base de datos es interesante ya que igual podemos comparar diferentes variables que nos pueden dar un insight para saber los "resultados" de una película -ratings, popularidad, votos, etcétera- y estas pueden encontrar cosas que simplente usando revenue y budget no nos podría dar, por ejemplo si revisamos los datos, el revenue mayor lo tiene The Force Awakens, pero su rating es bajo a comparación de Avengers (no es el que tiene el revenue mayor) pero tiene un porcentaje de rating mayor. En conclusión podemos decir que las películas más exitosas tienden a ser en las que más se invierte.
+
+
+
+
+
+
+
+
