@@ -1,0 +1,903 @@
+"","Código","Departamento","caracteristica","grupo","observaciones"
+"1","1","Guatemala","Total de viviendas","No hay grupo",873937
+"2","2","El Progreso","Total de viviendas","No hay grupo",54138
+"3","3","Sacatepéquez","Total de viviendas","No hay grupo",88465
+"4","4","Chimaltenango","Total de viviendas","No hay grupo",144907
+"5","5","Escuintla","Total de viviendas","No hay grupo",209552
+"6","6","Santa Rosa","Total de viviendas","No hay grupo",116702
+"7","7","Sololá","Total de viviendas","No hay grupo",101958
+"8","8","Totonicapán","Total de viviendas","No hay grupo",107617
+"9","9","Quetzaltenango","Total de viviendas","No hay grupo",214031
+"10","10","Suchitepéquez","Total de viviendas","No hay grupo",140149
+"11","11","Retalhuleu","Total de viviendas","No hay grupo",87882
+"12","12","San Marcos","Total de viviendas","No hay grupo",270185
+"13","13","Huehuetenango","Total de viviendas","No hay grupo",304351
+"14","14","Quiché","Total de viviendas","No hay grupo",217768
+"15","15","Baja Verapaz","Total de viviendas","No hay grupo",83790
+"16","16","Alta Verapaz","Total de viviendas","No hay grupo",254262
+"17","17","Petén","Total de viviendas","No hay grupo",146670
+"18","18","Izabal","Total de viviendas","No hay grupo",113346
+"19","19","Zacapa","Total de viviendas","No hay grupo",75654
+"20","20","Chiquimula","Total de viviendas","No hay grupo",108070
+"21","21","Jalapa","Total de viviendas","No hay grupo",88135
+"22","22","Jutiapa","Total de viviendas","No hay grupo",141516
+"23","1","Guatemala","Total de viviendas particulares","No hay grupo",873704
+"24","2","El Progreso","Total de viviendas particulares","No hay grupo",54109
+"25","3","Sacatepéquez","Total de viviendas particulares","No hay grupo",88373
+"26","4","Chimaltenango","Total de viviendas particulares","No hay grupo",144844
+"27","5","Escuintla","Total de viviendas particulares","No hay grupo",209451
+"28","6","Santa Rosa","Total de viviendas particulares","No hay grupo",116653
+"29","7","Sololá","Total de viviendas particulares","No hay grupo",101919
+"30","8","Totonicapán","Total de viviendas particulares","No hay grupo",107602
+"31","9","Quetzaltenango","Total de viviendas particulares","No hay grupo",213979
+"32","10","Suchitepéquez","Total de viviendas particulares","No hay grupo",140126
+"33","11","Retalhuleu","Total de viviendas particulares","No hay grupo",87869
+"34","12","San Marcos","Total de viviendas particulares","No hay grupo",270142
+"35","13","Huehuetenango","Total de viviendas particulares","No hay grupo",304317
+"36","14","Quiché","Total de viviendas particulares","No hay grupo",217720
+"37","15","Baja Verapaz","Total de viviendas particulares","No hay grupo",83771
+"38","16","Alta Verapaz","Total de viviendas particulares","No hay grupo",254205
+"39","17","Petén","Total de viviendas particulares","No hay grupo",146624
+"40","18","Izabal","Total de viviendas particulares","No hay grupo",113333
+"41","19","Zacapa","Total de viviendas particulares","No hay grupo",75643
+"42","20","Chiquimula","Total de viviendas particulares","No hay grupo",108033
+"43","21","Jalapa","Total de viviendas particulares","No hay grupo",88118
+"44","22","Jutiapa","Total de viviendas particulares","No hay grupo",141507
+"45","1","Guatemala","Total de viviendas colectivas","No hay grupo",233
+"46","2","El Progreso","Total de viviendas colectivas","No hay grupo",29
+"47","3","Sacatepéquez","Total de viviendas colectivas","No hay grupo",92
+"48","4","Chimaltenango","Total de viviendas colectivas","No hay grupo",63
+"49","5","Escuintla","Total de viviendas colectivas","No hay grupo",101
+"50","6","Santa Rosa","Total de viviendas colectivas","No hay grupo",49
+"51","7","Sololá","Total de viviendas colectivas","No hay grupo",39
+"52","8","Totonicapán","Total de viviendas colectivas","No hay grupo",15
+"53","9","Quetzaltenango","Total de viviendas colectivas","No hay grupo",52
+"54","10","Suchitepéquez","Total de viviendas colectivas","No hay grupo",23
+"55","11","Retalhuleu","Total de viviendas colectivas","No hay grupo",13
+"56","12","San Marcos","Total de viviendas colectivas","No hay grupo",43
+"57","13","Huehuetenango","Total de viviendas colectivas","No hay grupo",34
+"58","14","Quiché","Total de viviendas colectivas","No hay grupo",48
+"59","15","Baja Verapaz","Total de viviendas colectivas","No hay grupo",19
+"60","16","Alta Verapaz","Total de viviendas colectivas","No hay grupo",57
+"61","17","Petén","Total de viviendas colectivas","No hay grupo",46
+"62","18","Izabal","Total de viviendas colectivas","No hay grupo",13
+"63","19","Zacapa","Total de viviendas colectivas","No hay grupo",11
+"64","20","Chiquimula","Total de viviendas colectivas","No hay grupo",37
+"65","21","Jalapa","Total de viviendas colectivas","No hay grupo",17
+"66","22","Jutiapa","Total de viviendas colectivas","No hay grupo",9
+"67","1","Guatemala","Tipo de vivienda particular","Casa Formal",773151
+"68","2","El Progreso","Tipo de vivienda particular","Casa Formal",51801
+"69","3","Sacatepéquez","Tipo de vivienda particular","Casa Formal",84932
+"70","4","Chimaltenango","Tipo de vivienda particular","Casa Formal",143176
+"71","5","Escuintla","Tipo de vivienda particular","Casa Formal",194205
+"72","6","Santa Rosa","Tipo de vivienda particular","Casa Formal",110205
+"73","7","Sololá","Tipo de vivienda particular","Casa Formal",100828
+"74","8","Totonicapán","Tipo de vivienda particular","Casa Formal",106866
+"75","9","Quetzaltenango","Tipo de vivienda particular","Casa Formal",208212
+"76","10","Suchitepéquez","Tipo de vivienda particular","Casa Formal",133134
+"77","11","Retalhuleu","Tipo de vivienda particular","Casa Formal",82418
+"78","12","San Marcos","Tipo de vivienda particular","Casa Formal",264612
+"79","13","Huehuetenango","Tipo de vivienda particular","Casa Formal",300906
+"80","14","Quiché","Tipo de vivienda particular","Casa Formal",214080
+"81","15","Baja Verapaz","Tipo de vivienda particular","Casa Formal",82765
+"82","16","Alta Verapaz","Tipo de vivienda particular","Casa Formal",235379
+"83","17","Petén","Tipo de vivienda particular","Casa Formal",125547
+"84","18","Izabal","Tipo de vivienda particular","Casa Formal",99538
+"85","19","Zacapa","Tipo de vivienda particular","Casa Formal",73600
+"86","20","Chiquimula","Tipo de vivienda particular","Casa Formal",99389
+"87","21","Jalapa","Tipo de vivienda particular","Casa Formal",86440
+"88","22","Jutiapa","Tipo de vivienda particular","Casa Formal",138548
+"89","1","Guatemala","Tipo de vivienda particular","Apartamento",53694
+"90","2","El Progreso","Tipo de vivienda particular","Apartamento",423
+"91","3","Sacatepéquez","Tipo de vivienda particular","Apartamento",713
+"92","4","Chimaltenango","Tipo de vivienda particular","Apartamento",308
+"93","5","Escuintla","Tipo de vivienda particular","Apartamento",1494
+"94","6","Santa Rosa","Tipo de vivienda particular","Apartamento",261
+"95","7","Sololá","Tipo de vivienda particular","Apartamento",182
+"96","8","Totonicapán","Tipo de vivienda particular","Apartamento",97
+"97","9","Quetzaltenango","Tipo de vivienda particular","Apartamento",2461
+"98","10","Suchitepéquez","Tipo de vivienda particular","Apartamento",819
+"99","11","Retalhuleu","Tipo de vivienda particular","Apartamento",399
+"100","12","San Marcos","Tipo de vivienda particular","Apartamento",361
+"101","13","Huehuetenango","Tipo de vivienda particular","Apartamento",730
+"102","14","Quiché","Tipo de vivienda particular","Apartamento",163
+"103","15","Baja Verapaz","Tipo de vivienda particular","Apartamento",64
+"104","16","Alta Verapaz","Tipo de vivienda particular","Apartamento",383
+"105","17","Petén","Tipo de vivienda particular","Apartamento",159
+"106","18","Izabal","Tipo de vivienda particular","Apartamento",481
+"107","19","Zacapa","Tipo de vivienda particular","Apartamento",238
+"108","20","Chiquimula","Tipo de vivienda particular","Apartamento",408
+"109","21","Jalapa","Tipo de vivienda particular","Apartamento",389
+"110","22","Jutiapa","Tipo de vivienda particular","Apartamento",514
+"111","1","Guatemala","Tipo de vivienda particular","Cuarto de casa de vecindad",26023
+"112","2","El Progreso","Tipo de vivienda particular","Cuarto de casa de vecindad",345
+"113","3","Sacatepéquez","Tipo de vivienda particular","Cuarto de casa de vecindad",714
+"114","4","Chimaltenango","Tipo de vivienda particular","Cuarto de casa de vecindad",510
+"115","5","Escuintla","Tipo de vivienda particular","Cuarto de casa de vecindad",4663
+"116","6","Santa Rosa","Tipo de vivienda particular","Cuarto de casa de vecindad",828
+"117","7","Sololá","Tipo de vivienda particular","Cuarto de casa de vecindad",513
+"118","8","Totonicapán","Tipo de vivienda particular","Cuarto de casa de vecindad",68
+"119","9","Quetzaltenango","Tipo de vivienda particular","Cuarto de casa de vecindad",1071
+"120","10","Suchitepéquez","Tipo de vivienda particular","Cuarto de casa de vecindad",1502
+"121","11","Retalhuleu","Tipo de vivienda particular","Cuarto de casa de vecindad",1007
+"122","12","San Marcos","Tipo de vivienda particular","Cuarto de casa de vecindad",835
+"123","13","Huehuetenango","Tipo de vivienda particular","Cuarto de casa de vecindad",511
+"124","14","Quiché","Tipo de vivienda particular","Cuarto de casa de vecindad",247
+"125","15","Baja Verapaz","Tipo de vivienda particular","Cuarto de casa de vecindad",196
+"126","16","Alta Verapaz","Tipo de vivienda particular","Cuarto de casa de vecindad",1013
+"127","17","Petén","Tipo de vivienda particular","Cuarto de casa de vecindad",2370
+"128","18","Izabal","Tipo de vivienda particular","Cuarto de casa de vecindad",3976
+"129","19","Zacapa","Tipo de vivienda particular","Cuarto de casa de vecindad",681
+"130","20","Chiquimula","Tipo de vivienda particular","Cuarto de casa de vecindad",651
+"131","21","Jalapa","Tipo de vivienda particular","Cuarto de casa de vecindad",495
+"132","22","Jutiapa","Tipo de vivienda particular","Cuarto de casa de vecindad",528
+"133","1","Guatemala","Tipo de vivienda particular","Rancho",200
+"134","2","El Progreso","Tipo de vivienda particular","Rancho",1162
+"135","3","Sacatepéquez","Tipo de vivienda particular","Rancho",35
+"136","4","Chimaltenango","Tipo de vivienda particular","Rancho",57
+"137","5","Escuintla","Tipo de vivienda particular","Rancho",4745
+"138","6","Santa Rosa","Tipo de vivienda particular","Rancho",3916
+"139","7","Sololá","Tipo de vivienda particular","Rancho",65
+"140","8","Totonicapán","Tipo de vivienda particular","Rancho",138
+"141","9","Quetzaltenango","Tipo de vivienda particular","Rancho",126
+"142","10","Suchitepéquez","Tipo de vivienda particular","Rancho",1825
+"143","11","Retalhuleu","Tipo de vivienda particular","Rancho",2402
+"144","12","San Marcos","Tipo de vivienda particular","Rancho",2116
+"145","13","Huehuetenango","Tipo de vivienda particular","Rancho",467
+"146","14","Quiché","Tipo de vivienda particular","Rancho",1882
+"147","15","Baja Verapaz","Tipo de vivienda particular","Rancho",458
+"148","16","Alta Verapaz","Tipo de vivienda particular","Rancho",12968
+"149","17","Petén","Tipo de vivienda particular","Rancho",17434
+"150","18","Izabal","Tipo de vivienda particular","Rancho",8119
+"151","19","Zacapa","Tipo de vivienda particular","Rancho",414
+"152","20","Chiquimula","Tipo de vivienda particular","Rancho",6881
+"153","21","Jalapa","Tipo de vivienda particular","Rancho",199
+"154","22","Jutiapa","Tipo de vivienda particular","Rancho",723
+"155","1","Guatemala","Tipo de vivienda particular","Improvisada",3073
+"156","2","El Progreso","Tipo de vivienda particular","Improvisada",205
+"157","3","Sacatepéquez","Tipo de vivienda particular","Improvisada",206
+"158","4","Chimaltenango","Tipo de vivienda particular","Improvisada",198
+"159","5","Escuintla","Tipo de vivienda particular","Improvisada",3305
+"160","6","Santa Rosa","Tipo de vivienda particular","Improvisada",1148
+"161","7","Sololá","Tipo de vivienda particular","Improvisada",135
+"162","8","Totonicapán","Tipo de vivienda particular","Improvisada",173
+"163","9","Quetzaltenango","Tipo de vivienda particular","Improvisada",1577
+"164","10","Suchitepéquez","Tipo de vivienda particular","Improvisada",2584
+"165","11","Retalhuleu","Tipo de vivienda particular","Improvisada",1377
+"166","12","San Marcos","Tipo de vivienda particular","Improvisada",1456
+"167","13","Huehuetenango","Tipo de vivienda particular","Improvisada",950
+"168","14","Quiché","Tipo de vivienda particular","Improvisada",695
+"169","15","Baja Verapaz","Tipo de vivienda particular","Improvisada",186
+"170","16","Alta Verapaz","Tipo de vivienda particular","Improvisada",3929
+"171","17","Petén","Tipo de vivienda particular","Improvisada",844
+"172","18","Izabal","Tipo de vivienda particular","Improvisada",711
+"173","19","Zacapa","Tipo de vivienda particular","Improvisada",468
+"174","20","Chiquimula","Tipo de vivienda particular","Improvisada",471
+"175","21","Jalapa","Tipo de vivienda particular","Improvisada",387
+"176","22","Jutiapa","Tipo de vivienda particular","Improvisada",659
+"177","1","Guatemala","Tipo de vivienda particular","Otro",577
+"178","2","El Progreso","Tipo de vivienda particular","Otro",24
+"179","3","Sacatepéquez","Tipo de vivienda particular","Otro",140
+"180","4","Chimaltenango","Tipo de vivienda particular","Otro",119
+"181","5","Escuintla","Tipo de vivienda particular","Otro",197
+"182","6","Santa Rosa","Tipo de vivienda particular","Otro",67
+"183","7","Sololá","Tipo de vivienda particular","Otro",31
+"184","8","Totonicapán","Tipo de vivienda particular","Otro",17
+"185","9","Quetzaltenango","Tipo de vivienda particular","Otro",65
+"186","10","Suchitepéquez","Tipo de vivienda particular","Otro",87
+"187","11","Retalhuleu","Tipo de vivienda particular","Otro",110
+"188","12","San Marcos","Tipo de vivienda particular","Otro",156
+"189","13","Huehuetenango","Tipo de vivienda particular","Otro",92
+"190","14","Quiché","Tipo de vivienda particular","Otro",87
+"191","15","Baja Verapaz","Tipo de vivienda particular","Otro",62
+"192","16","Alta Verapaz","Tipo de vivienda particular","Otro",168
+"193","17","Petén","Tipo de vivienda particular","Otro",58
+"194","18","Izabal","Tipo de vivienda particular","Otro",93
+"195","19","Zacapa","Tipo de vivienda particular","Otro",43
+"196","20","Chiquimula","Tipo de vivienda particular","Otro",64
+"197","21","Jalapa","Tipo de vivienda particular","Otro",36
+"198","22","Jutiapa","Tipo de vivienda particular","Otro",45
+"199","1","Guatemala","Tipo de vivienda particular","Particular no registrada",16986
+"200","2","El Progreso","Tipo de vivienda particular","Particular no registrada",149
+"201","3","Sacatepéquez","Tipo de vivienda particular","Particular no registrada",1633
+"202","4","Chimaltenango","Tipo de vivienda particular","Particular no registrada",476
+"203","5","Escuintla","Tipo de vivienda particular","Particular no registrada",842
+"204","6","Santa Rosa","Tipo de vivienda particular","Particular no registrada",228
+"205","7","Sololá","Tipo de vivienda particular","Particular no registrada",165
+"206","8","Totonicapán","Tipo de vivienda particular","Particular no registrada",243
+"207","9","Quetzaltenango","Tipo de vivienda particular","Particular no registrada",467
+"208","10","Suchitepéquez","Tipo de vivienda particular","Particular no registrada",175
+"209","11","Retalhuleu","Tipo de vivienda particular","Particular no registrada",156
+"210","12","San Marcos","Tipo de vivienda particular","Particular no registrada",606
+"211","13","Huehuetenango","Tipo de vivienda particular","Particular no registrada",661
+"212","14","Quiché","Tipo de vivienda particular","Particular no registrada",566
+"213","15","Baja Verapaz","Tipo de vivienda particular","Particular no registrada",40
+"214","16","Alta Verapaz","Tipo de vivienda particular","Particular no registrada",365
+"215","17","Petén","Tipo de vivienda particular","Particular no registrada",212
+"216","18","Izabal","Tipo de vivienda particular","Particular no registrada",415
+"217","19","Zacapa","Tipo de vivienda particular","Particular no registrada",199
+"218","20","Chiquimula","Tipo de vivienda particular","Particular no registrada",169
+"219","21","Jalapa","Tipo de vivienda particular","Particular no registrada",172
+"220","22","Jutiapa","Tipo de vivienda particular","Particular no registrada",490
+"221","1","Guatemala","Tipo ocupacion viviendas particulares","Ocupada",722897
+"222","2","El Progreso","Tipo ocupacion viviendas particulares","Ocupada",43532
+"223","3","Sacatepéquez","Tipo ocupacion viviendas particulares","Ocupada",70426
+"224","4","Chimaltenango","Tipo ocupacion viviendas particulares","Ocupada",120772
+"225","5","Escuintla","Tipo ocupacion viviendas particulares","Ocupada",179397
+"226","6","Santa Rosa","Tipo ocupacion viviendas particulares","Ocupada",94943
+"227","7","Sololá","Tipo ocupacion viviendas particulares","Ocupada",83340
+"228","8","Totonicapán","Tipo ocupacion viviendas particulares","Ocupada",75628
+"229","9","Quetzaltenango","Tipo ocupacion viviendas particulares","Ocupada",168304
+"230","10","Suchitepéquez","Tipo ocupacion viviendas particulares","Ocupada",119151
+"231","11","Retalhuleu","Tipo ocupacion viviendas particulares","Ocupada",72100
+"232","12","San Marcos","Tipo ocupacion viviendas particulares","Ocupada",200729
+"233","13","Huehuetenango","Tipo ocupacion viviendas particulares","Ocupada",223101
+"234","14","Quiché","Tipo ocupacion viviendas particulares","Ocupada",168015
+"235","15","Baja Verapaz","Tipo ocupacion viviendas particulares","Ocupada",65232
+"236","16","Alta Verapaz","Tipo ocupacion viviendas particulares","Ocupada",226227
+"237","17","Petén","Tipo ocupacion viviendas particulares","Ocupada",120048
+"238","18","Izabal","Tipo ocupacion viviendas particulares","Ocupada",93394
+"239","19","Zacapa","Tipo ocupacion viviendas particulares","Ocupada",58528
+"240","20","Chiquimula","Tipo ocupacion viviendas particulares","Ocupada",88377
+"241","21","Jalapa","Tipo ocupacion viviendas particulares","Ocupada",71246
+"242","22","Jutiapa","Tipo ocupacion viviendas particulares","Ocupada",114208
+"243","1","Guatemala","Tipo ocupacion viviendas particulares","De uso temporal",12122
+"244","2","El Progreso","Tipo ocupacion viviendas particulares","De uso temporal",1341
+"245","3","Sacatepéquez","Tipo ocupacion viviendas particulares","De uso temporal",3367
+"246","4","Chimaltenango","Tipo ocupacion viviendas particulares","De uso temporal",1845
+"247","5","Escuintla","Tipo ocupacion viviendas particulares","De uso temporal",5369
+"248","6","Santa Rosa","Tipo ocupacion viviendas particulares","De uso temporal",2788
+"249","7","Sololá","Tipo ocupacion viviendas particulares","De uso temporal",3201
+"250","8","Totonicapán","Tipo ocupacion viviendas particulares","De uso temporal",2375
+"251","9","Quetzaltenango","Tipo ocupacion viviendas particulares","De uso temporal",3436
+"252","10","Suchitepéquez","Tipo ocupacion viviendas particulares","De uso temporal",2169
+"253","11","Retalhuleu","Tipo ocupacion viviendas particulares","De uso temporal",1662
+"254","12","San Marcos","Tipo ocupacion viviendas particulares","De uso temporal",4524
+"255","13","Huehuetenango","Tipo ocupacion viviendas particulares","De uso temporal",10285
+"256","14","Quiché","Tipo ocupacion viviendas particulares","De uso temporal",3711
+"257","15","Baja Verapaz","Tipo ocupacion viviendas particulares","De uso temporal",734
+"258","16","Alta Verapaz","Tipo ocupacion viviendas particulares","De uso temporal",4785
+"259","17","Petén","Tipo ocupacion viviendas particulares","De uso temporal",3124
+"260","18","Izabal","Tipo ocupacion viviendas particulares","De uso temporal",2400
+"261","19","Zacapa","Tipo ocupacion viviendas particulares","De uso temporal",1703
+"262","20","Chiquimula","Tipo ocupacion viviendas particulares","De uso temporal",1591
+"263","21","Jalapa","Tipo ocupacion viviendas particulares","De uso temporal",724
+"264","22","Jutiapa","Tipo ocupacion viviendas particulares","De uso temporal",2684
+"265","1","Guatemala","Tipo ocupacion viviendas particulares","Desocupada",105977
+"266","2","El Progreso","Tipo ocupacion viviendas particulares","Desocupada",9030
+"267","3","Sacatepéquez","Tipo ocupacion viviendas particulares","Desocupada",13226
+"268","4","Chimaltenango","Tipo ocupacion viviendas particulares","Desocupada",20212
+"269","5","Escuintla","Tipo ocupacion viviendas particulares","Desocupada",22508
+"270","6","Santa Rosa","Tipo ocupacion viviendas particulares","Desocupada",18585
+"271","7","Sololá","Tipo ocupacion viviendas particulares","Desocupada",14914
+"272","8","Totonicapán","Tipo ocupacion viviendas particulares","Desocupada",26624
+"273","9","Quetzaltenango","Tipo ocupacion viviendas particulares","Desocupada",38243
+"274","10","Suchitepéquez","Tipo ocupacion viviendas particulares","Desocupada",17739
+"275","11","Retalhuleu","Tipo ocupacion viviendas particulares","Desocupada",13283
+"276","12","San Marcos","Tipo ocupacion viviendas particulares","Desocupada",62533
+"277","13","Huehuetenango","Tipo ocupacion viviendas particulares","Desocupada",68698
+"278","14","Quiché","Tipo ocupacion viviendas particulares","Desocupada",43587
+"279","15","Baja Verapaz","Tipo ocupacion viviendas particulares","Desocupada",17796
+"280","16","Alta Verapaz","Tipo ocupacion viviendas particulares","Desocupada",22863
+"281","17","Petén","Tipo ocupacion viviendas particulares","Desocupada",23184
+"282","18","Izabal","Tipo ocupacion viviendas particulares","Desocupada",16268
+"283","19","Zacapa","Tipo ocupacion viviendas particulares","Desocupada",14766
+"284","20","Chiquimula","Tipo ocupacion viviendas particulares","Desocupada",18009
+"285","21","Jalapa","Tipo ocupacion viviendas particulares","Desocupada",16095
+"286","22","Jutiapa","Tipo ocupacion viviendas particulares","Desocupada",24141
+"287","1","Guatemala","Tipo ocupacion viviendas particulares","Rechazo total o parcial",32708
+"288","2","El Progreso","Tipo ocupacion viviendas particulares","Rechazo total o parcial",206
+"289","3","Sacatepéquez","Tipo ocupacion viviendas particulares","Rechazo total o parcial",1354
+"290","4","Chimaltenango","Tipo ocupacion viviendas particulares","Rechazo total o parcial",2015
+"291","5","Escuintla","Tipo ocupacion viviendas particulares","Rechazo total o parcial",2177
+"292","6","Santa Rosa","Tipo ocupacion viviendas particulares","Rechazo total o parcial",337
+"293","7","Sololá","Tipo ocupacion viviendas particulares","Rechazo total o parcial",464
+"294","8","Totonicapán","Tipo ocupacion viviendas particulares","Rechazo total o parcial",2975
+"295","9","Quetzaltenango","Tipo ocupacion viviendas particulares","Rechazo total o parcial",3996
+"296","10","Suchitepéquez","Tipo ocupacion viviendas particulares","Rechazo total o parcial",1067
+"297","11","Retalhuleu","Tipo ocupacion viviendas particulares","Rechazo total o parcial",824
+"298","12","San Marcos","Tipo ocupacion viviendas particulares","Rechazo total o parcial",2356
+"299","13","Huehuetenango","Tipo ocupacion viviendas particulares","Rechazo total o parcial",2233
+"300","14","Quiché","Tipo ocupacion viviendas particulares","Rechazo total o parcial",2407
+"301","15","Baja Verapaz","Tipo ocupacion viviendas particulares","Rechazo total o parcial",9
+"302","16","Alta Verapaz","Tipo ocupacion viviendas particulares","Rechazo total o parcial",330
+"303","17","Petén","Tipo ocupacion viviendas particulares","Rechazo total o parcial",268
+"304","18","Izabal","Tipo ocupacion viviendas particulares","Rechazo total o parcial",1271
+"305","19","Zacapa","Tipo ocupacion viviendas particulares","Rechazo total o parcial",646
+"306","20","Chiquimula","Tipo ocupacion viviendas particulares","Rechazo total o parcial",56
+"307","21","Jalapa","Tipo ocupacion viviendas particulares","Rechazo total o parcial",53
+"308","22","Jutiapa","Tipo ocupacion viviendas particulares","Rechazo total o parcial",474
+"309","1","Guatemala","Material predominante pared","Ladrillo",57515
+"310","2","El Progreso","Material predominante pared","Ladrillo",456
+"311","3","Sacatepéquez","Material predominante pared","Ladrillo",1709
+"312","4","Chimaltenango","Material predominante pared","Ladrillo",1866
+"313","5","Escuintla","Material predominante pared","Ladrillo",2174
+"314","6","Santa Rosa","Material predominante pared","Ladrillo",1202
+"315","7","Sololá","Material predominante pared","Ladrillo",501
+"316","8","Totonicapán","Material predominante pared","Ladrillo",418
+"317","9","Quetzaltenango","Material predominante pared","Ladrillo",3060
+"318","10","Suchitepéquez","Material predominante pared","Ladrillo",1202
+"319","11","Retalhuleu","Material predominante pared","Ladrillo",618
+"320","12","San Marcos","Material predominante pared","Ladrillo",2179
+"321","13","Huehuetenango","Material predominante pared","Ladrillo",2007
+"322","14","Quiché","Material predominante pared","Ladrillo",2558
+"323","15","Baja Verapaz","Material predominante pared","Ladrillo",469
+"324","16","Alta Verapaz","Material predominante pared","Ladrillo",478
+"325","17","Petén","Material predominante pared","Ladrillo",352
+"326","18","Izabal","Material predominante pared","Ladrillo",677
+"327","19","Zacapa","Material predominante pared","Ladrillo",673
+"328","20","Chiquimula","Material predominante pared","Ladrillo",648
+"329","21","Jalapa","Material predominante pared","Ladrillo",2506
+"330","22","Jutiapa","Material predominante pared","Ladrillo",10575
+"331","1","Guatemala","Material predominante pared","Block",604803
+"332","2","El Progreso","Material predominante pared","Block",37194
+"333","3","Sacatepéquez","Material predominante pared","Block",68780
+"334","4","Chimaltenango","Material predominante pared","Block",110905
+"335","5","Escuintla","Material predominante pared","Block",158073
+"336","6","Santa Rosa","Material predominante pared","Block",78869
+"337","7","Sololá","Material predominante pared","Block",66742
+"338","8","Totonicapán","Material predominante pared","Block",45382
+"339","9","Quetzaltenango","Material predominante pared","Block",150164
+"340","10","Suchitepéquez","Material predominante pared","Block",93515
+"341","11","Retalhuleu","Material predominante pared","Block",57214
+"342","12","San Marcos","Material predominante pared","Block",124297
+"343","13","Huehuetenango","Material predominante pared","Block",128030
+"344","14","Quiché","Material predominante pared","Block",59657
+"345","15","Baja Verapaz","Material predominante pared","Block",31009
+"346","16","Alta Verapaz","Material predominante pared","Block",78168
+"347","17","Petén","Material predominante pared","Block",66010
+"348","18","Izabal","Material predominante pared","Block",61505
+"349","19","Zacapa","Material predominante pared","Block",47360
+"350","20","Chiquimula","Material predominante pared","Block",46623
+"351","21","Jalapa","Material predominante pared","Block",33187
+"352","22","Jutiapa","Material predominante pared","Block",79734
+"353","1","Guatemala","Material predominante pared","Concreto",90490
+"354","2","El Progreso","Material predominante pared","Concreto",1212
+"355","3","Sacatepéquez","Material predominante pared","Concreto",3580
+"356","4","Chimaltenango","Material predominante pared","Concreto",3273
+"357","5","Escuintla","Material predominante pared","Concreto",13274
+"358","6","Santa Rosa","Material predominante pared","Concreto",1316
+"359","7","Sololá","Material predominante pared","Concreto",1641
+"360","8","Totonicapán","Material predominante pared","Concreto",4869
+"361","9","Quetzaltenango","Material predominante pared","Concreto",21221
+"362","10","Suchitepéquez","Material predominante pared","Concreto",9280
+"363","11","Retalhuleu","Material predominante pared","Concreto",7160
+"364","12","San Marcos","Material predominante pared","Concreto",34528
+"365","13","Huehuetenango","Material predominante pared","Concreto",10542
+"366","14","Quiché","Material predominante pared","Concreto",5916
+"367","15","Baja Verapaz","Material predominante pared","Concreto",1192
+"368","16","Alta Verapaz","Material predominante pared","Concreto",5428
+"369","17","Petén","Material predominante pared","Concreto",3884
+"370","18","Izabal","Material predominante pared","Concreto",7495
+"371","19","Zacapa","Material predominante pared","Concreto",1388
+"372","20","Chiquimula","Material predominante pared","Concreto",1126
+"373","21","Jalapa","Material predominante pared","Concreto",1092
+"374","22","Jutiapa","Material predominante pared","Concreto",1042
+"375","1","Guatemala","Material predominante pared","Adobe",19386
+"376","2","El Progreso","Material predominante pared","Adobe",7700
+"377","3","Sacatepéquez","Material predominante pared","Adobe",1170
+"378","4","Chimaltenango","Material predominante pared","Adobe",12055
+"379","5","Escuintla","Material predominante pared","Adobe",513
+"380","6","Santa Rosa","Material predominante pared","Adobe",18174
+"381","7","Sololá","Material predominante pared","Adobe",19860
+"382","8","Totonicapán","Material predominante pared","Adobe",54683
+"383","9","Quetzaltenango","Material predominante pared","Adobe",21464
+"384","10","Suchitepéquez","Material predominante pared","Adobe",598
+"385","11","Retalhuleu","Material predominante pared","Adobe",312
+"386","12","San Marcos","Material predominante pared","Adobe",68768
+"387","13","Huehuetenango","Material predominante pared","Adobe",115441
+"388","14","Quiché","Material predominante pared","Adobe",96793
+"389","15","Baja Verapaz","Material predominante pared","Adobe",35467
+"390","16","Alta Verapaz","Material predominante pared","Adobe",1670
+"391","17","Petén","Material predominante pared","Adobe",1164
+"392","18","Izabal","Material predominante pared","Adobe",1200
+"393","19","Zacapa","Material predominante pared","Adobe",9809
+"394","20","Chiquimula","Material predominante pared","Adobe",33185
+"395","21","Jalapa","Material predominante pared","Adobe",44732
+"396","22","Jutiapa","Material predominante pared","Adobe",40456
+"397","1","Guatemala","Material predominante pared","Madera",16059
+"398","2","El Progreso","Material predominante pared","Madera",3356
+"399","3","Sacatepéquez","Material predominante pared","Madera",1731
+"400","4","Chimaltenango","Material predominante pared","Madera",4820
+"401","5","Escuintla","Material predominante pared","Madera",10035
+"402","6","Santa Rosa","Material predominante pared","Madera",7013
+"403","7","Sololá","Material predominante pared","Madera",8268
+"404","8","Totonicapán","Material predominante pared","Madera",1158
+"405","9","Quetzaltenango","Material predominante pared","Madera",11199
+"406","10","Suchitepéquez","Material predominante pared","Madera",22250
+"407","11","Retalhuleu","Material predominante pared","Madera",15983
+"408","12","San Marcos","Material predominante pared","Madera",31395
+"409","13","Huehuetenango","Material predominante pared","Madera",40657
+"410","14","Quiché","Material predominante pared","Madera",47959
+"411","15","Baja Verapaz","Material predominante pared","Madera",11127
+"412","16","Alta Verapaz","Material predominante pared","Madera",134580
+"413","17","Petén","Material predominante pared","Madera",68629
+"414","18","Izabal","Material predominante pared","Madera",32429
+"415","19","Zacapa","Material predominante pared","Madera",2943
+"416","20","Chiquimula","Material predominante pared","Madera",757
+"417","21","Jalapa","Material predominante pared","Madera",2843
+"418","22","Jutiapa","Material predominante pared","Madera",1116
+"419","1","Guatemala","Material predominante pared","Lamina metálica",64985
+"420","2","El Progreso","Material predominante pared","Lamina metálica",1029
+"421","3","Sacatepéquez","Material predominante pared","Lamina metálica",8171
+"422","4","Chimaltenango","Material predominante pared","Lamina metálica",7270
+"423","5","Escuintla","Material predominante pared","Lamina metálica",21086
+"424","6","Santa Rosa","Material predominante pared","Lamina metálica",5991
+"425","7","Sololá","Material predominante pared","Lamina metálica",3013
+"426","8","Totonicapán","Material predominante pared","Lamina metálica",591
+"427","9","Quetzaltenango","Material predominante pared","Lamina metálica",5045
+"428","10","Suchitepéquez","Material predominante pared","Lamina metálica",9537
+"429","11","Retalhuleu","Material predominante pared","Lamina metálica",4216
+"430","12","San Marcos","Material predominante pared","Lamina metálica",5291
+"431","13","Huehuetenango","Material predominante pared","Lamina metálica",4223
+"432","14","Quiché","Material predominante pared","Lamina metálica",1753
+"433","15","Baja Verapaz","Material predominante pared","Lamina metálica",687
+"434","16","Alta Verapaz","Material predominante pared","Lamina metálica",7653
+"435","17","Petén","Material predominante pared","Lamina metálica",1932
+"436","18","Izabal","Material predominante pared","Lamina metálica",1295
+"437","19","Zacapa","Material predominante pared","Lamina metálica",1373
+"438","20","Chiquimula","Material predominante pared","Lamina metálica",1168
+"439","21","Jalapa","Material predominante pared","Lamina metálica",977
+"440","22","Jutiapa","Material predominante pared","Lamina metálica",2332
+"441","1","Guatemala","Material predominante pared","Bajareque",293
+"442","2","El Progreso","Material predominante pared","Bajareque",2219
+"443","3","Sacatepéquez","Material predominante pared","Bajareque",85
+"444","4","Chimaltenango","Material predominante pared","Bajareque",2227
+"445","5","Escuintla","Material predominante pared","Bajareque",144
+"446","6","Santa Rosa","Material predominante pared","Bajareque",787
+"447","7","Sololá","Material predominante pared","Bajareque",322
+"448","8","Totonicapán","Material predominante pared","Bajareque",42
+"449","9","Quetzaltenango","Material predominante pared","Bajareque",136
+"450","10","Suchitepéquez","Material predominante pared","Bajareque",136
+"451","11","Retalhuleu","Material predominante pared","Bajareque",191
+"452","12","San Marcos","Material predominante pared","Bajareque",581
+"453","13","Huehuetenango","Material predominante pared","Bajareque",309
+"454","14","Quiché","Material predominante pared","Bajareque",743
+"455","15","Baja Verapaz","Material predominante pared","Bajareque",715
+"456","16","Alta Verapaz","Material predominante pared","Bajareque",1268
+"457","17","Petén","Material predominante pared","Bajareque",493
+"458","18","Izabal","Material predominante pared","Bajareque",1166
+"459","19","Zacapa","Material predominante pared","Bajareque",10731
+"460","20","Chiquimula","Material predominante pared","Bajareque",21133
+"461","21","Jalapa","Material predominante pared","Bajareque",1505
+"462","22","Jutiapa","Material predominante pared","Bajareque",3971
+"463","1","Guatemala","Material predominante pared","Lepa, palo o caña",2103
+"464","2","El Progreso","Material predominante pared","Lepa, palo o caña",659
+"465","3","Sacatepéquez","Material predominante pared","Lepa, palo o caña",1145
+"466","4","Chimaltenango","Material predominante pared","Lepa, palo o caña",1636
+"467","5","Escuintla","Material predominante pared","Lepa, palo o caña",2290
+"468","6","Santa Rosa","Material predominante pared","Lepa, palo o caña",2379
+"469","7","Sololá","Material predominante pared","Lepa, palo o caña",473
+"470","8","Totonicapán","Material predominante pared","Lepa, palo o caña",178
+"471","9","Quetzaltenango","Material predominante pared","Lepa, palo o caña",652
+"472","10","Suchitepéquez","Material predominante pared","Lepa, palo o caña",1858
+"473","11","Retalhuleu","Material predominante pared","Lepa, palo o caña",1556
+"474","12","San Marcos","Material predominante pared","Lepa, palo o caña",1492
+"475","13","Huehuetenango","Material predominante pared","Lepa, palo o caña",1737
+"476","14","Quiché","Material predominante pared","Lepa, palo o caña",1539
+"477","15","Baja Verapaz","Material predominante pared","Lepa, palo o caña",2874
+"478","16","Alta Verapaz","Material predominante pared","Lepa, palo o caña",23944
+"479","17","Petén","Material predominante pared","Lepa, palo o caña",3473
+"480","18","Izabal","Material predominante pared","Lepa, palo o caña",6187
+"481","19","Zacapa","Material predominante pared","Lepa, palo o caña",821
+"482","20","Chiquimula","Material predominante pared","Lepa, palo o caña",1595
+"483","21","Jalapa","Material predominante pared","Lepa, palo o caña",999
+"484","22","Jutiapa","Material predominante pared","Lepa, palo o caña",1476
+"485","1","Guatemala","Material predominante pared","Material de desecho",94
+"486","2","El Progreso","Material predominante pared","Material de desecho",52
+"487","3","Sacatepéquez","Material predominante pared","Material de desecho",8
+"488","4","Chimaltenango","Material predominante pared","Material de desecho",25
+"489","5","Escuintla","Material predominante pared","Material de desecho",293
+"490","6","Santa Rosa","Material predominante pared","Material de desecho",104
+"491","7","Sololá","Material predominante pared","Material de desecho",16
+"492","8","Totonicapán","Material predominante pared","Material de desecho",23
+"493","9","Quetzaltenango","Material predominante pared","Material de desecho",85
+"494","10","Suchitepéquez","Material predominante pared","Material de desecho",265
+"495","11","Retalhuleu","Material predominante pared","Material de desecho",95
+"496","12","San Marcos","Material predominante pared","Material de desecho",149
+"497","13","Huehuetenango","Material predominante pared","Material de desecho",94
+"498","14","Quiché","Material predominante pared","Material de desecho",79
+"499","15","Baja Verapaz","Material predominante pared","Material de desecho",35
+"500","16","Alta Verapaz","Material predominante pared","Material de desecho",207
+"501","17","Petén","Material predominante pared","Material de desecho",169
+"502","18","Izabal","Material predominante pared","Material de desecho",101
+"503","19","Zacapa","Material predominante pared","Material de desecho",98
+"504","20","Chiquimula","Material predominante pared","Material de desecho",172
+"505","21","Jalapa","Material predominante pared","Material de desecho",60
+"506","22","Jutiapa","Material predominante pared","Material de desecho",101
+"507","1","Guatemala","Material predominante pared","Otro",990
+"508","2","El Progreso","Material predominante pared","Otro",83
+"509","3","Sacatepéquez","Material predominante pared","Otro",361
+"510","4","Chimaltenango","Material predominante pared","Otro",291
+"511","5","Escuintla","Material predominante pared","Otro",727
+"512","6","Santa Rosa","Material predominante pared","Otro",590
+"513","7","Sololá","Material predominante pared","Otro",918
+"514","8","Totonicapán","Material predominante pared","Otro",15
+"515","9","Quetzaltenango","Material predominante pared","Otro",486
+"516","10","Suchitepéquez","Material predominante pared","Otro",1310
+"517","11","Retalhuleu","Material predominante pared","Otro",368
+"518","12","San Marcos","Material predominante pared","Otro",856
+"519","13","Huehuetenango","Material predominante pared","Otro",616
+"520","14","Quiché","Material predominante pared","Otro",157
+"521","15","Baja Verapaz","Material predominante pared","Otro",156
+"522","16","Alta Verapaz","Material predominante pared","Otro",444
+"523","17","Petén","Material predominante pared","Otro",306
+"524","18","Izabal","Material predominante pared","Otro",863
+"525","19","Zacapa","Material predominante pared","Otro",248
+"526","20","Chiquimula","Material predominante pared","Otro",1457
+"527","21","Jalapa","Material predominante pared","Otro",45
+"528","22","Jutiapa","Material predominante pared","Otro",214
+"529","1","Guatemala","Material predominante pared","No especificado",16986
+"530","2","El Progreso","Material predominante pared","No especificado",149
+"531","3","Sacatepéquez","Material predominante pared","No especificado",1633
+"532","4","Chimaltenango","Material predominante pared","No especificado",476
+"533","5","Escuintla","Material predominante pared","No especificado",842
+"534","6","Santa Rosa","Material predominante pared","No especificado",228
+"535","7","Sololá","Material predominante pared","No especificado",165
+"536","8","Totonicapán","Material predominante pared","No especificado",243
+"537","9","Quetzaltenango","Material predominante pared","No especificado",467
+"538","10","Suchitepéquez","Material predominante pared","No especificado",175
+"539","11","Retalhuleu","Material predominante pared","No especificado",156
+"540","12","San Marcos","Material predominante pared","No especificado",606
+"541","13","Huehuetenango","Material predominante pared","No especificado",661
+"542","14","Quiché","Material predominante pared","No especificado",566
+"543","15","Baja Verapaz","Material predominante pared","No especificado",40
+"544","16","Alta Verapaz","Material predominante pared","No especificado",365
+"545","17","Petén","Material predominante pared","No especificado",212
+"546","18","Izabal","Material predominante pared","No especificado",415
+"547","19","Zacapa","Material predominante pared","No especificado",199
+"548","20","Chiquimula","Material predominante pared","No especificado",169
+"549","21","Jalapa","Material predominante pared","No especificado",172
+"550","22","Jutiapa","Material predominante pared","No especificado",490
+"551","1","Guatemala","Material predominante techo","Concreto",450912
+"552","2","El Progreso","Material predominante techo","Concreto",8226
+"553","3","Sacatepéquez","Material predominante techo","Concreto",25456
+"554","4","Chimaltenango","Material predominante techo","Concreto",32182
+"555","5","Escuintla","Material predominante techo","Concreto",27090
+"556","6","Santa Rosa","Material predominante techo","Concreto",11063
+"557","7","Sololá","Material predominante techo","Concreto",22002
+"558","8","Totonicapán","Material predominante techo","Concreto",25892
+"559","9","Quetzaltenango","Material predominante techo","Concreto",80780
+"560","10","Suchitepéquez","Material predominante techo","Concreto",16963
+"561","11","Retalhuleu","Material predominante techo","Concreto",8041
+"562","12","San Marcos","Material predominante techo","Concreto",47886
+"563","13","Huehuetenango","Material predominante techo","Concreto",58397
+"564","14","Quiché","Material predominante techo","Concreto",25276
+"565","15","Baja Verapaz","Material predominante techo","Concreto",5118
+"566","16","Alta Verapaz","Material predominante techo","Concreto",5708
+"567","17","Petén","Material predominante techo","Concreto",5056
+"568","18","Izabal","Material predominante techo","Concreto",3759
+"569","19","Zacapa","Material predominante techo","Concreto",6764
+"570","20","Chiquimula","Material predominante techo","Concreto",14129
+"571","21","Jalapa","Material predominante techo","Concreto",8917
+"572","22","Jutiapa","Material predominante techo","Concreto",15525
+"573","1","Guatemala","Material predominante techo","Lámina metálica",386082
+"574","2","El Progreso","Material predominante techo","Lámina metálica",42589
+"575","3","Sacatepéquez","Material predominante techo","Lámina metálica",56542
+"576","4","Chimaltenango","Material predominante techo","Lámina metálica",110472
+"577","5","Escuintla","Material predominante techo","Lámina metálica",172967
+"578","6","Santa Rosa","Material predominante techo","Lámina metálica",98589
+"579","7","Sololá","Material predominante techo","Lámina metálica",78036
+"580","8","Totonicapán","Material predominante techo","Lámina metálica",42238
+"581","9","Quetzaltenango","Material predominante techo","Lámina metálica",120218
+"582","10","Suchitepéquez","Material predominante techo","Lámina metálica",118767
+"583","11","Retalhuleu","Material predominante techo","Lámina metálica",75185
+"584","12","San Marcos","Material predominante techo","Lámina metálica",206729
+"585","13","Huehuetenango","Material predominante techo","Lámina metálica",215932
+"586","14","Quiché","Material predominante techo","Lámina metálica",133927
+"587","15","Baja Verapaz","Material predominante techo","Lámina metálica",47872
+"588","16","Alta Verapaz","Material predominante techo","Lámina metálica",233458
+"589","17","Petén","Material predominante techo","Lámina metálica",122795
+"590","18","Izabal","Material predominante techo","Lámina metálica",98192
+"591","19","Zacapa","Material predominante techo","Lámina metálica",64322
+"592","20","Chiquimula","Material predominante techo","Lámina metálica",79773
+"593","21","Jalapa","Material predominante techo","Lámina metálica",68768
+"594","22","Jutiapa","Material predominante techo","Lámina metálica",110235
+"595","1","Guatemala","Material predominante techo","Asbesto cemento",12122
+"596","2","El Progreso","Material predominante techo","Asbesto cemento",460
+"597","3","Sacatepéquez","Material predominante techo","Asbesto cemento",830
+"598","4","Chimaltenango","Material predominante techo","Asbesto cemento",725
+"599","5","Escuintla","Material predominante techo","Asbesto cemento",1391
+"600","6","Santa Rosa","Material predominante techo","Asbesto cemento",670
+"601","7","Sololá","Material predominante techo","Asbesto cemento",818
+"602","8","Totonicapán","Material predominante techo","Asbesto cemento",1919
+"603","9","Quetzaltenango","Material predominante techo","Asbesto cemento",1324
+"604","10","Suchitepéquez","Material predominante techo","Asbesto cemento",1036
+"605","11","Retalhuleu","Material predominante techo","Asbesto cemento",527
+"606","12","San Marcos","Material predominante techo","Asbesto cemento",1496
+"607","13","Huehuetenango","Material predominante techo","Asbesto cemento",2271
+"608","14","Quiché","Material predominante techo","Asbesto cemento",1712
+"609","15","Baja Verapaz","Material predominante techo","Asbesto cemento",677
+"610","16","Alta Verapaz","Material predominante techo","Asbesto cemento",682
+"611","17","Petén","Material predominante techo","Asbesto cemento",461
+"612","18","Izabal","Material predominante techo","Asbesto cemento",1009
+"613","19","Zacapa","Material predominante techo","Asbesto cemento",1220
+"614","20","Chiquimula","Material predominante techo","Asbesto cemento",922
+"615","21","Jalapa","Material predominante techo","Asbesto cemento",475
+"616","22","Jutiapa","Material predominante techo","Asbesto cemento",1256
+"617","1","Guatemala","Material predominante techo","Teja",4707
+"618","2","El Progreso","Material predominante techo","Teja",1380
+"619","3","Sacatepéquez","Material predominante techo","Teja",3217
+"620","4","Chimaltenango","Material predominante techo","Teja",547
+"621","5","Escuintla","Material predominante techo","Teja",1608
+"622","6","Santa Rosa","Material predominante techo","Teja",1924
+"623","7","Sololá","Material predominante techo","Teja",695
+"624","8","Totonicapán","Material predominante techo","Teja",37084
+"625","9","Quetzaltenango","Material predominante techo","Teja",10843
+"626","10","Suchitepéquez","Material predominante techo","Teja",1051
+"627","11","Retalhuleu","Material predominante techo","Teja",1313
+"628","12","San Marcos","Material predominante techo","Teja",10937
+"629","13","Huehuetenango","Material predominante techo","Teja",26135
+"630","14","Quiché","Material predominante techo","Teja",54022
+"631","15","Baja Verapaz","Material predominante techo","Teja",29474
+"632","16","Alta Verapaz","Material predominante techo","Teja",394
+"633","17","Petén","Material predominante techo","Teja",322
+"634","18","Izabal","Material predominante techo","Teja",936
+"635","19","Zacapa","Material predominante techo","Teja",2419
+"636","20","Chiquimula","Material predominante techo","Teja",5787
+"637","21","Jalapa","Material predominante techo","Teja",9405
+"638","22","Jutiapa","Material predominante techo","Teja",13082
+"639","1","Guatemala","Material predominante techo","Paja, palma o similar",216
+"640","2","El Progreso","Material predominante techo","Paja, palma o similar",1168
+"641","3","Sacatepéquez","Material predominante techo","Paja, palma o similar",35
+"642","4","Chimaltenango","Material predominante techo","Paja, palma o similar",57
+"643","5","Escuintla","Material predominante techo","Paja, palma o similar",4860
+"644","6","Santa Rosa","Material predominante techo","Paja, palma o similar",3966
+"645","7","Sololá","Material predominante techo","Paja, palma o similar",66
+"646","8","Totonicapán","Material predominante techo","Paja, palma o similar",141
+"647","9","Quetzaltenango","Material predominante techo","Paja, palma o similar",137
+"648","10","Suchitepéquez","Material predominante techo","Paja, palma o similar",1865
+"649","11","Retalhuleu","Material predominante techo","Paja, palma o similar",2440
+"650","12","San Marcos","Material predominante techo","Paja, palma o similar",2176
+"651","13","Huehuetenango","Material predominante techo","Paja, palma o similar",474
+"652","14","Quiché","Material predominante techo","Paja, palma o similar",1901
+"653","15","Baja Verapaz","Material predominante techo","Paja, palma o similar",474
+"654","16","Alta Verapaz","Material predominante techo","Paja, palma o similar",13310
+"655","17","Petén","Material predominante techo","Paja, palma o similar",17608
+"656","18","Izabal","Material predominante techo","Paja, palma o similar",8193
+"657","19","Zacapa","Material predominante techo","Paja, palma o similar",421
+"658","20","Chiquimula","Material predominante techo","Paja, palma o similar",6975
+"659","21","Jalapa","Material predominante techo","Paja, palma o similar",200
+"660","22","Jutiapa","Material predominante techo","Paja, palma o similar",741
+"661","1","Guatemala","Material predominante techo","Material de desecho",161
+"662","2","El Progreso","Material predominante techo","Material de desecho",10
+"663","3","Sacatepéquez","Material predominante techo","Material de desecho",8
+"664","4","Chimaltenango","Material predominante techo","Material de desecho",16
+"665","5","Escuintla","Material predominante techo","Material de desecho",130
+"666","6","Santa Rosa","Material predominante techo","Material de desecho",37
+"667","7","Sololá","Material predominante techo","Material de desecho",7
+"668","8","Totonicapán","Material predominante techo","Material de desecho",14
+"669","9","Quetzaltenango","Material predominante techo","Material de desecho",22
+"670","10","Suchitepéquez","Material predominante techo","Material de desecho",65
+"671","11","Retalhuleu","Material predominante techo","Material de desecho",27
+"672","12","San Marcos","Material predominante techo","Material de desecho",49
+"673","13","Huehuetenango","Material predominante techo","Material de desecho",29
+"674","14","Quiché","Material predominante techo","Material de desecho",31
+"675","15","Baja Verapaz","Material predominante techo","Material de desecho",26
+"676","16","Alta Verapaz","Material predominante techo","Material de desecho",118
+"677","17","Petén","Material predominante techo","Material de desecho",92
+"678","18","Izabal","Material predominante techo","Material de desecho",59
+"679","19","Zacapa","Material predominante techo","Material de desecho",38
+"680","20","Chiquimula","Material predominante techo","Material de desecho",73
+"681","21","Jalapa","Material predominante techo","Material de desecho",57
+"682","22","Jutiapa","Material predominante techo","Material de desecho",24
+"683","1","Guatemala","Material predominante techo","Otro",2518
+"684","2","El Progreso","Material predominante techo","Otro",127
+"685","3","Sacatepéquez","Material predominante techo","Otro",652
+"686","4","Chimaltenango","Material predominante techo","Otro",369
+"687","5","Escuintla","Material predominante techo","Otro",563
+"688","6","Santa Rosa","Material predominante techo","Otro",176
+"689","7","Sololá","Material predominante techo","Otro",130
+"690","8","Totonicapán","Material predominante techo","Otro",71
+"691","9","Quetzaltenango","Material predominante techo","Otro",188
+"692","10","Suchitepéquez","Material predominante techo","Otro",204
+"693","11","Retalhuleu","Material predominante techo","Otro",180
+"694","12","San Marcos","Material predominante techo","Otro",263
+"695","13","Huehuetenango","Material predominante techo","Otro",418
+"696","14","Quiché","Material predominante techo","Otro",285
+"697","15","Baja Verapaz","Material predominante techo","Otro",90
+"698","16","Alta Verapaz","Material predominante techo","Otro",170
+"699","17","Petén","Material predominante techo","Otro",78
+"700","18","Izabal","Material predominante techo","Otro",770
+"701","19","Zacapa","Material predominante techo","Otro",260
+"702","20","Chiquimula","Material predominante techo","Otro",205
+"703","21","Jalapa","Material predominante techo","Otro",124
+"704","22","Jutiapa","Material predominante techo","Otro",154
+"705","1","Guatemala","Material predominante techo","No especificado",16986
+"706","2","El Progreso","Material predominante techo","No especificado",149
+"707","3","Sacatepéquez","Material predominante techo","No especificado",1633
+"708","4","Chimaltenango","Material predominante techo","No especificado",476
+"709","5","Escuintla","Material predominante techo","No especificado",842
+"710","6","Santa Rosa","Material predominante techo","No especificado",228
+"711","7","Sololá","Material predominante techo","No especificado",165
+"712","8","Totonicapán","Material predominante techo","No especificado",243
+"713","9","Quetzaltenango","Material predominante techo","No especificado",467
+"714","10","Suchitepéquez","Material predominante techo","No especificado",175
+"715","11","Retalhuleu","Material predominante techo","No especificado",156
+"716","12","San Marcos","Material predominante techo","No especificado",606
+"717","13","Huehuetenango","Material predominante techo","No especificado",661
+"718","14","Quiché","Material predominante techo","No especificado",566
+"719","15","Baja Verapaz","Material predominante techo","No especificado",40
+"720","16","Alta Verapaz","Material predominante techo","No especificado",365
+"721","17","Petén","Material predominante techo","No especificado",212
+"722","18","Izabal","Material predominante techo","No especificado",415
+"723","19","Zacapa","Material predominante techo","No especificado",199
+"724","20","Chiquimula","Material predominante techo","No especificado",169
+"725","21","Jalapa","Material predominante techo","No especificado",172
+"726","22","Jutiapa","Material predominante techo","No especificado",490
+"727","1","Guatemala","Material predominante piso","Ladrillo cerámico",295325
+"728","2","El Progreso","Material predominante piso","Ladrillo cerámico",9959
+"729","3","Sacatepéquez","Material predominante piso","Ladrillo cerámico",21306
+"730","4","Chimaltenango","Material predominante piso","Ladrillo cerámico",28299
+"731","5","Escuintla","Material predominante piso","Ladrillo cerámico",29485
+"732","6","Santa Rosa","Material predominante piso","Ladrillo cerámico",17574
+"733","7","Sololá","Material predominante piso","Ladrillo cerámico",18695
+"734","8","Totonicapán","Material predominante piso","Ladrillo cerámico",9421
+"735","9","Quetzaltenango","Material predominante piso","Ladrillo cerámico",52168
+"736","10","Suchitepéquez","Material predominante piso","Ladrillo cerámico",21565
+"737","11","Retalhuleu","Material predominante piso","Ladrillo cerámico",13887
+"738","12","San Marcos","Material predominante piso","Ladrillo cerámico",37039
+"739","13","Huehuetenango","Material predominante piso","Ladrillo cerámico",36321
+"740","14","Quiché","Material predominante piso","Ladrillo cerámico",14909
+"741","15","Baja Verapaz","Material predominante piso","Ladrillo cerámico",6509
+"742","16","Alta Verapaz","Material predominante piso","Ladrillo cerámico",11428
+"743","17","Petén","Material predominante piso","Ladrillo cerámico",15432
+"744","18","Izabal","Material predominante piso","Ladrillo cerámico",16311
+"745","19","Zacapa","Material predominante piso","Ladrillo cerámico",10445
+"746","20","Chiquimula","Material predominante piso","Ladrillo cerámico",16437
+"747","21","Jalapa","Material predominante piso","Ladrillo cerámico",11597
+"748","22","Jutiapa","Material predominante piso","Ladrillo cerámico",25713
+"749","1","Guatemala","Material predominante piso","Ladrillo de cemento",142429
+"750","2","El Progreso","Material predominante piso","Ladrillo de cemento",5110
+"751","3","Sacatepéquez","Material predominante piso","Ladrillo de cemento",8147
+"752","4","Chimaltenango","Material predominante piso","Ladrillo de cemento",12806
+"753","5","Escuintla","Material predominante piso","Ladrillo de cemento",19828
+"754","6","Santa Rosa","Material predominante piso","Ladrillo de cemento",11296
+"755","7","Sololá","Material predominante piso","Ladrillo de cemento",6508
+"756","8","Totonicapán","Material predominante piso","Ladrillo de cemento",5777
+"757","9","Quetzaltenango","Material predominante piso","Ladrillo de cemento",27970
+"758","10","Suchitepéquez","Material predominante piso","Ladrillo de cemento",8334
+"759","11","Retalhuleu","Material predominante piso","Ladrillo de cemento",3943
+"760","12","San Marcos","Material predominante piso","Ladrillo de cemento",11404
+"761","13","Huehuetenango","Material predominante piso","Ladrillo de cemento",14485
+"762","14","Quiché","Material predominante piso","Ladrillo de cemento",6400
+"763","15","Baja Verapaz","Material predominante piso","Ladrillo de cemento",3167
+"764","16","Alta Verapaz","Material predominante piso","Ladrillo de cemento",7311
+"765","17","Petén","Material predominante piso","Ladrillo de cemento",6800
+"766","18","Izabal","Material predominante piso","Ladrillo de cemento",6798
+"767","19","Zacapa","Material predominante piso","Ladrillo de cemento",5233
+"768","20","Chiquimula","Material predominante piso","Ladrillo de cemento",11612
+"769","21","Jalapa","Material predominante piso","Ladrillo de cemento",10298
+"770","22","Jutiapa","Material predominante piso","Ladrillo de cemento",23964
+"771","1","Guatemala","Material predominante piso","Ladrillo de barro",2881
+"772","2","El Progreso","Material predominante piso","Ladrillo de barro",241
+"773","3","Sacatepéquez","Material predominante piso","Ladrillo de barro",589
+"774","4","Chimaltenango","Material predominante piso","Ladrillo de barro",584
+"775","5","Escuintla","Material predominante piso","Ladrillo de barro",585
+"776","6","Santa Rosa","Material predominante piso","Ladrillo de barro",422
+"777","7","Sololá","Material predominante piso","Ladrillo de barro",689
+"778","8","Totonicapán","Material predominante piso","Ladrillo de barro",379
+"779","9","Quetzaltenango","Material predominante piso","Ladrillo de barro",901
+"780","10","Suchitepéquez","Material predominante piso","Ladrillo de barro",293
+"781","11","Retalhuleu","Material predominante piso","Ladrillo de barro",125
+"782","12","San Marcos","Material predominante piso","Ladrillo de barro",466
+"783","13","Huehuetenango","Material predominante piso","Ladrillo de barro",710
+"784","14","Quiché","Material predominante piso","Ladrillo de barro",547
+"785","15","Baja Verapaz","Material predominante piso","Ladrillo de barro",310
+"786","16","Alta Verapaz","Material predominante piso","Ladrillo de barro",249
+"787","17","Petén","Material predominante piso","Ladrillo de barro",159
+"788","18","Izabal","Material predominante piso","Ladrillo de barro",190
+"789","19","Zacapa","Material predominante piso","Ladrillo de barro",455
+"790","20","Chiquimula","Material predominante piso","Ladrillo de barro",355
+"791","21","Jalapa","Material predominante piso","Ladrillo de barro",396
+"792","22","Jutiapa","Material predominante piso","Ladrillo de barro",881
+"793","1","Guatemala","Material predominante piso","Torta de cemento",221554
+"794","2","El Progreso","Material predominante piso","Torta de cemento",20754
+"795","3","Sacatepéquez","Material predominante piso","Torta de cemento",29247
+"796","4","Chimaltenango","Material predominante piso","Torta de cemento",56165
+"797","5","Escuintla","Material predominante piso","Torta de cemento",102791
+"798","6","Santa Rosa","Material predominante piso","Torta de cemento",41579
+"799","7","Sololá","Material predominante piso","Torta de cemento",40432
+"800","8","Totonicapán","Material predominante piso","Torta de cemento",27857
+"801","9","Quetzaltenango","Material predominante piso","Torta de cemento",64759
+"802","10","Suchitepéquez","Material predominante piso","Torta de cemento",61416
+"803","11","Retalhuleu","Material predominante piso","Torta de cemento",34662
+"804","12","San Marcos","Material predominante piso","Torta de cemento",85566
+"805","13","Huehuetenango","Material predominante piso","Torta de cemento",76819
+"806","14","Quiché","Material predominante piso","Torta de cemento",57802
+"807","15","Baja Verapaz","Material predominante piso","Torta de cemento",29738
+"808","16","Alta Verapaz","Material predominante piso","Torta de cemento",57175
+"809","17","Petén","Material predominante piso","Torta de cemento",47886
+"810","18","Izabal","Material predominante piso","Torta de cemento",42223
+"811","19","Zacapa","Material predominante piso","Torta de cemento",29812
+"812","20","Chiquimula","Material predominante piso","Torta de cemento",22810
+"813","21","Jalapa","Material predominante piso","Torta de cemento",15149
+"814","22","Jutiapa","Material predominante piso","Torta de cemento",35004
+"815","1","Guatemala","Material predominante piso","Parqué o vinil",3401
+"816","2","El Progreso","Material predominante piso","Parqué o vinil",121
+"817","3","Sacatepéquez","Material predominante piso","Parqué o vinil",138
+"818","4","Chimaltenango","Material predominante piso","Parqué o vinil",179
+"819","5","Escuintla","Material predominante piso","Parqué o vinil",657
+"820","6","Santa Rosa","Material predominante piso","Parqué o vinil",183
+"821","7","Sololá","Material predominante piso","Parqué o vinil",171
+"822","8","Totonicapán","Material predominante piso","Parqué o vinil",115
+"823","9","Quetzaltenango","Material predominante piso","Parqué o vinil",254
+"824","10","Suchitepéquez","Material predominante piso","Parqué o vinil",188
+"825","11","Retalhuleu","Material predominante piso","Parqué o vinil",102
+"826","12","San Marcos","Material predominante piso","Parqué o vinil",584
+"827","13","Huehuetenango","Material predominante piso","Parqué o vinil",411
+"828","14","Quiché","Material predominante piso","Parqué o vinil",257
+"829","15","Baja Verapaz","Material predominante piso","Parqué o vinil",71
+"830","16","Alta Verapaz","Material predominante piso","Parqué o vinil",131
+"831","17","Petén","Material predominante piso","Parqué o vinil",165
+"832","18","Izabal","Material predominante piso","Parqué o vinil",165
+"833","19","Zacapa","Material predominante piso","Parqué o vinil",108
+"834","20","Chiquimula","Material predominante piso","Parqué o vinil",83
+"835","21","Jalapa","Material predominante piso","Parqué o vinil",74
+"836","22","Jutiapa","Material predominante piso","Parqué o vinil",406
+"837","1","Guatemala","Material predominante piso","Madera",3318
+"838","2","El Progreso","Material predominante piso","Madera",284
+"839","3","Sacatepéquez","Material predominante piso","Madera",285
+"840","4","Chimaltenango","Material predominante piso","Madera",378
+"841","5","Escuintla","Material predominante piso","Madera",594
+"842","6","Santa Rosa","Material predominante piso","Madera",1021
+"843","7","Sololá","Material predominante piso","Madera",427
+"844","8","Totonicapán","Material predominante piso","Madera",464
+"845","9","Quetzaltenango","Material predominante piso","Madera",638
+"846","10","Suchitepéquez","Material predominante piso","Madera",573
+"847","11","Retalhuleu","Material predominante piso","Madera",293
+"848","12","San Marcos","Material predominante piso","Madera",1679
+"849","13","Huehuetenango","Material predominante piso","Madera",2239
+"850","14","Quiché","Material predominante piso","Madera",2042
+"851","15","Baja Verapaz","Material predominante piso","Madera",498
+"852","16","Alta Verapaz","Material predominante piso","Madera",4489
+"853","17","Petén","Material predominante piso","Madera",2185
+"854","18","Izabal","Material predominante piso","Madera",2158
+"855","19","Zacapa","Material predominante piso","Madera",246
+"856","20","Chiquimula","Material predominante piso","Madera",338
+"857","21","Jalapa","Material predominante piso","Madera",408
+"858","22","Jutiapa","Material predominante piso","Madera",316
+"859","1","Guatemala","Material predominante piso","Tierra",49005
+"860","2","El Progreso","Material predominante piso","Tierra",6912
+"861","3","Sacatepéquez","Material predominante piso","Tierra",10375
+"862","4","Chimaltenango","Material predominante piso","Tierra",22166
+"863","5","Escuintla","Material predominante piso","Tierra",25195
+"864","6","Santa Rosa","Material predominante piso","Tierra",22607
+"865","7","Sololá","Material predominante piso","Tierra",16226
+"866","8","Totonicapán","Material predominante piso","Tierra",31541
+"867","9","Quetzaltenango","Material predominante piso","Tierra",21182
+"868","10","Suchitepéquez","Material predominante piso","Tierra",26579
+"869","11","Retalhuleu","Material predominante piso","Tierra",18739
+"870","12","San Marcos","Material predominante piso","Tierra",63565
+"871","13","Huehuetenango","Material predominante piso","Tierra",91744
+"872","14","Quiché","Material predominante piso","Tierra",85786
+"873","15","Baja Verapaz","Material predominante piso","Tierra",24802
+"874","16","Alta Verapaz","Material predominante piso","Tierra",145273
+"875","17","Petén","Material predominante piso","Tierra",47310
+"876","18","Izabal","Material predominante piso","Tierra",25408
+"877","19","Zacapa","Material predominante piso","Tierra",12119
+"878","20","Chiquimula","Material predominante piso","Tierra",36490
+"879","21","Jalapa","Material predominante piso","Tierra",33146
+"880","22","Jutiapa","Material predominante piso","Tierra",27788
+"881","1","Guatemala","Material predominante piso","Otro",4984
+"882","2","El Progreso","Material predominante piso","Otro",151
+"883","3","Sacatepéquez","Material predominante piso","Otro",339
+"884","4","Chimaltenango","Material predominante piso","Otro",195
+"885","5","Escuintla","Material predominante piso","Otro",262
+"886","6","Santa Rosa","Material predominante piso","Otro",261
+"887","7","Sololá","Material predominante piso","Otro",192
+"888","8","Totonicapán","Material predominante piso","Otro",74
+"889","9","Quetzaltenango","Material predominante piso","Otro",432
+"890","10","Suchitepéquez","Material predominante piso","Otro",203
+"891","11","Retalhuleu","Material predominante piso","Otro",349
+"892","12","San Marcos","Material predominante piso","Otro",426
+"893","13","Huehuetenango","Material predominante piso","Otro",372
+"894","14","Quiché","Material predominante piso","Otro",272
+"895","15","Baja Verapaz","Material predominante piso","Otro",137
+"896","16","Alta Verapaz","Material predominante piso","Otro",171
+"897","17","Petén","Material predominante piso","Otro",111
+"898","18","Izabal","Material predominante piso","Otro",141
+"899","19","Zacapa","Material predominante piso","Otro",110
+"900","20","Chiquimula","Material predominante piso","Otro",252
+"901","21","Jalapa","Material predominante piso","Otro",178
+"902","22","Jutiapa","Material predominante piso","Otro",136

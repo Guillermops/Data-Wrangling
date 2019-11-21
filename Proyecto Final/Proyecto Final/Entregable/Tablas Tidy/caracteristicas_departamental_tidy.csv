@@ -1,0 +1,947 @@
+"","Código","Departamento","caracteristica","grupo","observaciones"
+"1","1","Guatemala","Total de personas","No hay grupo",3015081
+"2","2","El Progreso","Total de personas","No hay grupo",176632
+"3","3","Sacatepéquez","Total de personas","No hay grupo",330469
+"4","4","Chimaltenango","Total de personas","No hay grupo",615776
+"5","5","Escuintla","Total de personas","No hay grupo",733181
+"6","6","Santa Rosa","Total de personas","No hay grupo",396607
+"7","7","Sololá","Total de personas","No hay grupo",421583
+"8","8","Totonicapán","Total de personas","No hay grupo",418569
+"9","9","Quetzaltenango","Total de personas","No hay grupo",799101
+"10","10","Suchitepéquez","Total de personas","No hay grupo",554695
+"11","11","Retalhuleu","Total de personas","No hay grupo",326828
+"12","12","San Marcos","Total de personas","No hay grupo",1032277
+"13","13","Huehuetenango","Total de personas","No hay grupo",1170669
+"14","14","Quiché","Total de personas","No hay grupo",949261
+"15","15","Baja Verapaz","Total de personas","No hay grupo",299476
+"16","16","Alta Verapaz","Total de personas","No hay grupo",1215038
+"17","17","Petén","Total de personas","No hay grupo",545600
+"18","18","Izabal","Total de personas","No hay grupo",408688
+"19","19","Zacapa","Total de personas","No hay grupo",245374
+"20","20","Chiquimula","Total de personas","No hay grupo",415063
+"21","21","Jalapa","Total de personas","No hay grupo",342923
+"22","22","Jutiapa","Total de personas","No hay grupo",488395
+"23","1","Guatemala","Lugar de Nacimiento","En el mismo municipio",1937354
+"24","2","El Progreso","Lugar de Nacimiento","En el mismo municipio",144038
+"25","3","Sacatepéquez","Lugar de Nacimiento","En el mismo municipio",219980
+"26","4","Chimaltenango","Lugar de Nacimiento","En el mismo municipio",525014
+"27","5","Escuintla","Lugar de Nacimiento","En el mismo municipio",549732
+"28","6","Santa Rosa","Lugar de Nacimiento","En el mismo municipio",322205
+"29","7","Sololá","Lugar de Nacimiento","En el mismo municipio",392942
+"30","8","Totonicapán","Lugar de Nacimiento","En el mismo municipio",392511
+"31","9","Quetzaltenango","Lugar de Nacimiento","En el mismo municipio",671611
+"32","10","Suchitepéquez","Lugar de Nacimiento","En el mismo municipio",441945
+"33","11","Retalhuleu","Lugar de Nacimiento","En el mismo municipio",268073
+"34","12","San Marcos","Lugar de Nacimiento","En el mismo municipio",927999
+"35","13","Huehuetenango","Lugar de Nacimiento","En el mismo municipio",1068843
+"36","14","Quiché","Lugar de Nacimiento","En el mismo municipio",873692
+"37","15","Baja Verapaz","Lugar de Nacimiento","En el mismo municipio",267780
+"38","16","Alta Verapaz","Lugar de Nacimiento","En el mismo municipio",1074486
+"39","17","Petén","Lugar de Nacimiento","En el mismo municipio",365340
+"40","18","Izabal","Lugar de Nacimiento","En el mismo municipio",317130
+"41","19","Zacapa","Lugar de Nacimiento","En el mismo municipio",206627
+"42","20","Chiquimula","Lugar de Nacimiento","En el mismo municipio",368239
+"43","21","Jalapa","Lugar de Nacimiento","En el mismo municipio",308441
+"44","22","Jutiapa","Lugar de Nacimiento","En el mismo municipio",428231
+"45","1","Guatemala","Lugar de Nacimiento","En otro municipio",988903
+"46","2","El Progreso","Lugar de Nacimiento","En otro municipio",26376
+"47","3","Sacatepéquez","Lugar de Nacimiento","En otro municipio",101830
+"48","4","Chimaltenango","Lugar de Nacimiento","En otro municipio",82673
+"49","5","Escuintla","Lugar de Nacimiento","En otro municipio",165361
+"50","6","Santa Rosa","Lugar de Nacimiento","En otro municipio",68190
+"51","7","Sololá","Lugar de Nacimiento","En otro municipio",23266
+"52","8","Totonicapán","Lugar de Nacimiento","En otro municipio",14549
+"53","9","Quetzaltenango","Lugar de Nacimiento","En otro municipio",111304
+"54","10","Suchitepéquez","Lugar de Nacimiento","En otro municipio",104773
+"55","11","Retalhuleu","Lugar de Nacimiento","En otro municipio",53780
+"56","12","San Marcos","Lugar de Nacimiento","En otro municipio",85160
+"57","13","Huehuetenango","Lugar de Nacimiento","En otro municipio",81093
+"58","14","Quiché","Lugar de Nacimiento","En otro municipio",58529
+"59","15","Baja Verapaz","Lugar de Nacimiento","En otro municipio",28262
+"60","16","Alta Verapaz","Lugar de Nacimiento","En otro municipio",126403
+"61","17","Petén","Lugar de Nacimiento","En otro municipio",169678
+"62","18","Izabal","Lugar de Nacimiento","En otro municipio",82189
+"63","19","Zacapa","Lugar de Nacimiento","En otro municipio",30193
+"64","20","Chiquimula","Lugar de Nacimiento","En otro municipio",34967
+"65","21","Jalapa","Lugar de Nacimiento","En otro municipio",29795
+"66","22","Jutiapa","Lugar de Nacimiento","En otro municipio",49148
+"67","1","Guatemala","Lugar de Nacimiento","En otro paÍs",34216
+"68","2","El Progreso","Lugar de Nacimiento","En otro paÍs",628
+"69","3","Sacatepéquez","Lugar de Nacimiento","En otro paÍs",2049
+"70","4","Chimaltenango","Lugar de Nacimiento","En otro paÍs",1228
+"71","5","Escuintla","Lugar de Nacimiento","En otro paÍs",4451
+"72","6","Santa Rosa","Lugar de Nacimiento","En otro paÍs",1980
+"73","7","Sololá","Lugar de Nacimiento","En otro paÍs",652
+"74","8","Totonicapán","Lugar de Nacimiento","En otro paÍs",379
+"75","9","Quetzaltenango","Lugar de Nacimiento","En otro paÍs",3568
+"76","10","Suchitepéquez","Lugar de Nacimiento","En otro paÍs",1641
+"77","11","Retalhuleu","Lugar de Nacimiento","En otro paÍs",930
+"78","12","San Marcos","Lugar de Nacimiento","En otro paÍs",3561
+"79","13","Huehuetenango","Lugar de Nacimiento","En otro paÍs",4627
+"80","14","Quiché","Lugar de Nacimiento","En otro paÍs",2264
+"81","15","Baja Verapaz","Lugar de Nacimiento","En otro paÍs",579
+"82","16","Alta Verapaz","Lugar de Nacimiento","En otro paÍs",1789
+"83","17","Petén","Lugar de Nacimiento","En otro paÍs",3849
+"84","18","Izabal","Lugar de Nacimiento","En otro paÍs",3536
+"85","19","Zacapa","Lugar de Nacimiento","En otro paÍs",1058
+"86","20","Chiquimula","Lugar de Nacimiento","En otro paÍs",3798
+"87","21","Jalapa","Lugar de Nacimiento","En otro paÍs",991
+"88","22","Jutiapa","Lugar de Nacimiento","En otro paÍs",4386
+"89","1","Guatemala","Lugar de Nacimiento","No especificado",54608
+"90","2","El Progreso","Lugar de Nacimiento","No especificado",5590
+"91","3","Sacatepéquez","Lugar de Nacimiento","No especificado",6610
+"92","4","Chimaltenango","Lugar de Nacimiento","No especificado",6861
+"93","5","Escuintla","Lugar de Nacimiento","No especificado",13637
+"94","6","Santa Rosa","Lugar de Nacimiento","No especificado",4232
+"95","7","Sololá","Lugar de Nacimiento","No especificado",4723
+"96","8","Totonicapán","Lugar de Nacimiento","No especificado",11130
+"97","9","Quetzaltenango","Lugar de Nacimiento","No especificado",12618
+"98","10","Suchitepéquez","Lugar de Nacimiento","No especificado",6336
+"99","11","Retalhuleu","Lugar de Nacimiento","No especificado",4045
+"100","12","San Marcos","Lugar de Nacimiento","No especificado",15557
+"101","13","Huehuetenango","Lugar de Nacimiento","No especificado",16106
+"102","14","Quiché","Lugar de Nacimiento","No especificado",14776
+"103","15","Baja Verapaz","Lugar de Nacimiento","No especificado",2855
+"104","16","Alta Verapaz","Lugar de Nacimiento","No especificado",12360
+"105","17","Petén","Lugar de Nacimiento","No especificado",6733
+"106","18","Izabal","Lugar de Nacimiento","No especificado",5833
+"107","19","Zacapa","Lugar de Nacimiento","No especificado",7496
+"108","20","Chiquimula","Lugar de Nacimiento","No especificado",8059
+"109","21","Jalapa","Lugar de Nacimiento","No especificado",3696
+"110","22","Jutiapa","Lugar de Nacimiento","No especificado",6630
+"111","1","Guatemala","Lugar de residencia en 2013","No habÍa nacido",264759
+"112","2","El Progreso","Lugar de residencia en 2013","No habÍa nacido",17878
+"113","3","Sacatepéquez","Lugar de residencia en 2013","No habÍa nacido",30494
+"114","4","Chimaltenango","Lugar de residencia en 2013","No habÍa nacido",69673
+"115","5","Escuintla","Lugar de residencia en 2013","No habÍa nacido",78201
+"116","6","Santa Rosa","Lugar de residencia en 2013","No habÍa nacido",42164
+"117","7","Sololá","Lugar de residencia en 2013","No habÍa nacido",44590
+"118","8","Totonicapán","Lugar de residencia en 2013","No habÍa nacido",48076
+"119","9","Quetzaltenango","Lugar de residencia en 2013","No habÍa nacido",83506
+"120","10","Suchitepéquez","Lugar de residencia en 2013","No habÍa nacido",64572
+"121","11","Retalhuleu","Lugar de residencia en 2013","No habÍa nacido",37249
+"122","12","San Marcos","Lugar de residencia en 2013","No habÍa nacido",130902
+"123","13","Huehuetenango","Lugar de residencia en 2013","No habÍa nacido",159796
+"124","14","Quiché","Lugar de residencia en 2013","No habÍa nacido",124298
+"125","15","Baja Verapaz","Lugar de residencia en 2013","No habÍa nacido",36814
+"126","16","Alta Verapaz","Lugar de residencia en 2013","No habÍa nacido",164785
+"127","17","Petén","Lugar de residencia en 2013","No habÍa nacido",67852
+"128","18","Izabal","Lugar de residencia en 2013","No habÍa nacido",46714
+"129","19","Zacapa","Lugar de residencia en 2013","No habÍa nacido",25431
+"130","20","Chiquimula","Lugar de residencia en 2013","No habÍa nacido",50771
+"131","21","Jalapa","Lugar de residencia en 2013","No habÍa nacido",42275
+"132","22","Jutiapa","Lugar de residencia en 2013","No habÍa nacido",51090
+"133","1","Guatemala","Lugar de residencia en 2013","En el mismo municipio",2587767
+"134","2","El Progreso","Lugar de residencia en 2013","En el mismo municipio",153208
+"135","3","Sacatepéquez","Lugar de residencia en 2013","En el mismo municipio",281443
+"136","4","Chimaltenango","Lugar de residencia en 2013","En el mismo municipio",530319
+"137","5","Escuintla","Lugar de residencia en 2013","En el mismo municipio",624815
+"138","6","Santa Rosa","Lugar de residencia en 2013","En el mismo municipio",339031
+"139","7","Sololá","Lugar de residencia en 2013","En el mismo municipio",370584
+"140","8","Totonicapán","Lugar de residencia en 2013","En el mismo municipio",359293
+"141","9","Quetzaltenango","Lugar de residencia en 2013","En el mismo municipio",686595
+"142","10","Suchitepéquez","Lugar de residencia en 2013","En el mismo municipio",472319
+"143","11","Retalhuleu","Lugar de residencia en 2013","En el mismo municipio",280065
+"144","12","San Marcos","Lugar de residencia en 2013","En el mismo municipio",879708
+"145","13","Huehuetenango","Lugar de residencia en 2013","En el mismo municipio",987844
+"146","14","Quiché","Lugar de residencia en 2013","En el mismo municipio",807582
+"147","15","Baja Verapaz","Lugar de residencia en 2013","En el mismo municipio",255175
+"148","16","Alta Verapaz","Lugar de residencia en 2013","En el mismo municipio",1028176
+"149","17","Petén","Lugar de residencia en 2013","En el mismo municipio",455469
+"150","18","Izabal","Lugar de residencia en 2013","En el mismo municipio",348999
+"151","19","Zacapa","Lugar de residencia en 2013","En el mismo municipio",211225
+"152","20","Chiquimula","Lugar de residencia en 2013","En el mismo municipio",354284
+"153","21","Jalapa","Lugar de residencia en 2013","En el mismo municipio",293351
+"154","22","Jutiapa","Lugar de residencia en 2013","En el mismo municipio",424020
+"155","1","Guatemala","Lugar de residencia en 2013","En otro municipio",118457
+"156","2","El Progreso","Lugar de residencia en 2013","En otro municipio",4037
+"157","3","Sacatepéquez","Lugar de residencia en 2013","En otro municipio",12651
+"158","4","Chimaltenango","Lugar de residencia en 2013","En otro municipio",10594
+"159","5","Escuintla","Lugar de residencia en 2013","En otro municipio",19350
+"160","6","Santa Rosa","Lugar de residencia en 2013","En otro municipio",12624
+"161","7","Sololá","Lugar de residencia en 2013","En otro municipio",3752
+"162","8","Totonicapán","Lugar de residencia en 2013","En otro municipio",3130
+"163","9","Quetzaltenango","Lugar de residencia en 2013","En otro municipio",19491
+"164","10","Suchitepéquez","Lugar de residencia en 2013","En otro municipio",14133
+"165","11","Retalhuleu","Lugar de residencia en 2013","En otro municipio",6849
+"166","12","San Marcos","Lugar de residencia en 2013","En otro municipio",11632
+"167","13","Huehuetenango","Lugar de residencia en 2013","En otro municipio",13439
+"168","14","Quiché","Lugar de residencia en 2013","En otro municipio",7909
+"169","15","Baja Verapaz","Lugar de residencia en 2013","En otro municipio",6000
+"170","16","Alta Verapaz","Lugar de residencia en 2013","En otro municipio",17655
+"171","17","Petén","Lugar de residencia en 2013","En otro municipio",15593
+"172","18","Izabal","Lugar de residencia en 2013","En otro municipio",8231
+"173","19","Zacapa","Lugar de residencia en 2013","En otro municipio",5791
+"174","20","Chiquimula","Lugar de residencia en 2013","En otro municipio",6866
+"175","21","Jalapa","Lugar de residencia en 2013","En otro municipio",5949
+"176","22","Jutiapa","Lugar de residencia en 2013","En otro municipio",9499
+"177","1","Guatemala","Lugar de residencia en 2013","En otro paÍs",9240
+"178","2","El Progreso","Lugar de residencia en 2013","En otro paÍs",289
+"179","3","Sacatepéquez","Lugar de residencia en 2013","En otro paÍs",685
+"180","4","Chimaltenango","Lugar de residencia en 2013","En otro paÍs",517
+"181","5","Escuintla","Lugar de residencia en 2013","En otro paÍs",1118
+"182","6","Santa Rosa","Lugar de residencia en 2013","En otro paÍs",1072
+"183","7","Sololá","Lugar de residencia en 2013","En otro paÍs",313
+"184","8","Totonicapán","Lugar de residencia en 2013","En otro paÍs",317
+"185","9","Quetzaltenango","Lugar de residencia en 2013","En otro paÍs",1675
+"186","10","Suchitepéquez","Lugar de residencia en 2013","En otro paÍs",682
+"187","11","Retalhuleu","Lugar de residencia en 2013","En otro paÍs",432
+"188","12","San Marcos","Lugar de residencia en 2013","En otro paÍs",1423
+"189","13","Huehuetenango","Lugar de residencia en 2013","En otro paÍs",2225
+"190","14","Quiché","Lugar de residencia en 2013","En otro paÍs",685
+"191","15","Baja Verapaz","Lugar de residencia en 2013","En otro paÍs",440
+"192","16","Alta Verapaz","Lugar de residencia en 2013","En otro paÍs",462
+"193","17","Petén","Lugar de residencia en 2013","En otro paÍs",1016
+"194","18","Izabal","Lugar de residencia en 2013","En otro paÍs",773
+"195","19","Zacapa","Lugar de residencia en 2013","En otro paÍs",365
+"196","20","Chiquimula","Lugar de residencia en 2013","En otro paÍs",968
+"197","21","Jalapa","Lugar de residencia en 2013","En otro paÍs",548
+"198","22","Jutiapa","Lugar de residencia en 2013","En otro paÍs",1636
+"199","1","Guatemala","Lugar de residencia en 2013","No especificado",34858
+"200","2","El Progreso","Lugar de residencia en 2013","No especificado",1220
+"201","3","Sacatepéquez","Lugar de residencia en 2013","No especificado",5196
+"202","4","Chimaltenango","Lugar de residencia en 2013","No especificado",4673
+"203","5","Escuintla","Lugar de residencia en 2013","No especificado",9697
+"204","6","Santa Rosa","Lugar de residencia en 2013","No especificado",1716
+"205","7","Sololá","Lugar de residencia en 2013","No especificado",2344
+"206","8","Totonicapán","Lugar de residencia en 2013","No especificado",7753
+"207","9","Quetzaltenango","Lugar de residencia en 2013","No especificado",7834
+"208","10","Suchitepéquez","Lugar de residencia en 2013","No especificado",2989
+"209","11","Retalhuleu","Lugar de residencia en 2013","No especificado",2233
+"210","12","San Marcos","Lugar de residencia en 2013","No especificado",8612
+"211","13","Huehuetenango","Lugar de residencia en 2013","No especificado",7365
+"212","14","Quiché","Lugar de residencia en 2013","No especificado",8787
+"213","15","Baja Verapaz","Lugar de residencia en 2013","No especificado",1047
+"214","16","Alta Verapaz","Lugar de residencia en 2013","No especificado",3960
+"215","17","Petén","Lugar de residencia en 2013","No especificado",5670
+"216","18","Izabal","Lugar de residencia en 2013","No especificado",3971
+"217","19","Zacapa","Lugar de residencia en 2013","No especificado",2562
+"218","20","Chiquimula","Lugar de residencia en 2013","No especificado",2174
+"219","21","Jalapa","Lugar de residencia en 2013","No especificado",800
+"220","22","Jutiapa","Lugar de residencia en 2013","No especificado",2150
+"221","1","Guatemala","Población de 4 años o más","No hay grupo",2806497
+"222","2","El Progreso","Población de 4 años o más","No hay grupo",162594
+"223","3","Sacatepéquez","Población de 4 años o más","No hay grupo",306541
+"224","4","Chimaltenango","Población de 4 años o más","No hay grupo",560280
+"225","5","Escuintla","Población de 4 años o más","No hay grupo",671337
+"226","6","Santa Rosa","Población de 4 años o más","No hay grupo",363438
+"227","7","Sololá","Población de 4 años o más","No hay grupo",386477
+"228","8","Totonicapán","Población de 4 años o más","No hay grupo",380433
+"229","9","Quetzaltenango","Población de 4 años o más","No hay grupo",732644
+"230","10","Suchitepéquez","Población de 4 años o más","No hay grupo",503605
+"231","11","Retalhuleu","Población de 4 años o más","No hay grupo",297336
+"232","12","San Marcos","Población de 4 años o más","No hay grupo",927949
+"233","13","Huehuetenango","Población de 4 años o más","No hay grupo",1042956
+"234","14","Quiché","Población de 4 años o más","No hay grupo",850655
+"235","15","Baja Verapaz","Población de 4 años o más","No hay grupo",270113
+"236","16","Alta Verapaz","Población de 4 años o más","No hay grupo",1082785
+"237","17","Petén","Población de 4 años o más","No hay grupo",492043
+"238","18","Izabal","Población de 4 años o más","No hay grupo",371688
+"239","19","Zacapa","Población de 4 años o más","No hay grupo",225364
+"240","20","Chiquimula","Población de 4 años o más","No hay grupo",374636
+"241","21","Jalapa","Población de 4 años o más","No hay grupo",309460
+"242","22","Jutiapa","Población de 4 años o más","No hay grupo",448066
+"243","1","Guatemala","Dificultad para ver","Sin dificultad",2487340
+"244","2","El Progreso","Dificultad para ver","Sin dificultad",149006
+"245","3","Sacatepéquez","Dificultad para ver","Sin dificultad",274444
+"246","4","Chimaltenango","Dificultad para ver","Sin dificultad",513299
+"247","5","Escuintla","Dificultad para ver","Sin dificultad",614300
+"248","6","Santa Rosa","Dificultad para ver","Sin dificultad",332686
+"249","7","Sololá","Dificultad para ver","Sin dificultad",359724
+"250","8","Totonicapán","Dificultad para ver","Sin dificultad",351804
+"251","9","Quetzaltenango","Dificultad para ver","Sin dificultad",676445
+"252","10","Suchitepéquez","Dificultad para ver","Sin dificultad",466262
+"253","11","Retalhuleu","Dificultad para ver","Sin dificultad",272856
+"254","12","San Marcos","Dificultad para ver","Sin dificultad",872923
+"255","13","Huehuetenango","Dificultad para ver","Sin dificultad",976478
+"256","14","Quiché","Dificultad para ver","Sin dificultad",795140
+"257","15","Baja Verapaz","Dificultad para ver","Sin dificultad",248993
+"258","16","Alta Verapaz","Dificultad para ver","Sin dificultad",1003218
+"259","17","Petén","Dificultad para ver","Sin dificultad",463059
+"260","18","Izabal","Dificultad para ver","Sin dificultad",340483
+"261","19","Zacapa","Dificultad para ver","Sin dificultad",204264
+"262","20","Chiquimula","Dificultad para ver","Sin dificultad",347417
+"263","21","Jalapa","Dificultad para ver","Sin dificultad",289586
+"264","22","Jutiapa","Dificultad para ver","Sin dificultad",412123
+"265","1","Guatemala","Dificultad para ver","Con Dificultad",280202
+"266","2","El Progreso","Dificultad para ver","Con Dificultad",12028
+"267","3","Sacatepéquez","Dificultad para ver","Con Dificultad",26762
+"268","4","Chimaltenango","Dificultad para ver","Con Dificultad",42424
+"269","5","Escuintla","Dificultad para ver","Con Dificultad",45713
+"270","6","Santa Rosa","Dificultad para ver","Con Dificultad",28597
+"271","7","Sololá","Dificultad para ver","Con Dificultad",23027
+"272","8","Totonicapán","Dificultad para ver","Con Dificultad",18852
+"273","9","Quetzaltenango","Dificultad para ver","Con Dificultad",45781
+"274","10","Suchitepéquez","Dificultad para ver","Con Dificultad",32995
+"275","11","Retalhuleu","Dificultad para ver","Con Dificultad",21796
+"276","12","San Marcos","Dificultad para ver","Con Dificultad",40625
+"277","13","Huehuetenango","Dificultad para ver","Con Dificultad",53978
+"278","14","Quiché","Dificultad para ver","Con Dificultad",42999
+"279","15","Baja Verapaz","Dificultad para ver","Con Dificultad",19303
+"280","16","Alta Verapaz","Dificultad para ver","Con Dificultad",70889
+"281","17","Petén","Dificultad para ver","Con Dificultad",22377
+"282","18","Izabal","Dificultad para ver","Con Dificultad",26752
+"283","19","Zacapa","Dificultad para ver","Con Dificultad",18028
+"284","20","Chiquimula","Dificultad para ver","Con Dificultad",23810
+"285","21","Jalapa","Dificultad para ver","Con Dificultad",18496
+"286","22","Jutiapa","Dificultad para ver","Con Dificultad",32357
+"287","1","Guatemala","Dificultad para ver","No declarado",38955
+"288","2","El Progreso","Dificultad para ver","No declarado",1560
+"289","3","Sacatepéquez","Dificultad para ver","No declarado",5335
+"290","4","Chimaltenango","Dificultad para ver","No declarado",4557
+"291","5","Escuintla","Dificultad para ver","No declarado",11324
+"292","6","Santa Rosa","Dificultad para ver","No declarado",2155
+"293","7","Sololá","Dificultad para ver","No declarado",3726
+"294","8","Totonicapán","Dificultad para ver","No declarado",9777
+"295","9","Quetzaltenango","Dificultad para ver","No declarado",10418
+"296","10","Suchitepéquez","Dificultad para ver","No declarado",4348
+"297","11","Retalhuleu","Dificultad para ver","No declarado",2684
+"298","12","San Marcos","Dificultad para ver","No declarado",14401
+"299","13","Huehuetenango","Dificultad para ver","No declarado",12500
+"300","14","Quiché","Dificultad para ver","No declarado",12516
+"301","15","Baja Verapaz","Dificultad para ver","No declarado",1817
+"302","16","Alta Verapaz","Dificultad para ver","No declarado",8678
+"303","17","Petén","Dificultad para ver","No declarado",6607
+"304","18","Izabal","Dificultad para ver","No declarado",4453
+"305","19","Zacapa","Dificultad para ver","No declarado",3072
+"306","20","Chiquimula","Dificultad para ver","No declarado",3409
+"307","21","Jalapa","Dificultad para ver","No declarado",1378
+"308","22","Jutiapa","Dificultad para ver","No declarado",3586
+"309","1","Guatemala","Dificultad para oir","Sin dificultad",2695244
+"310","2","El Progreso","Dificultad para oir","Sin dificultad",156787
+"311","3","Sacatepéquez","Dificultad para oir","Sin dificultad",291436
+"312","4","Chimaltenango","Dificultad para oir","Sin dificultad",538971
+"313","5","Escuintla","Dificultad para oir","Sin dificultad",643668
+"314","6","Santa Rosa","Dificultad para oir","Sin dificultad",351091
+"315","7","Sololá","Dificultad para oir","Sin dificultad",371630
+"316","8","Totonicapán","Dificultad para oir","Sin dificultad",359328
+"317","9","Quetzaltenango","Dificultad para oir","Sin dificultad",702741
+"318","10","Suchitepéquez","Dificultad para oir","Sin dificultad",484779
+"319","11","Retalhuleu","Dificultad para oir","Sin dificultad",285894
+"320","12","San Marcos","Dificultad para oir","Sin dificultad",893061
+"321","13","Huehuetenango","Dificultad para oir","Sin dificultad",1003043
+"322","14","Quiché","Dificultad para oir","Sin dificultad",814435
+"323","15","Baja Verapaz","Dificultad para oir","Sin dificultad",259726
+"324","16","Alta Verapaz","Dificultad para oir","Sin dificultad",1042098
+"325","17","Petén","Dificultad para oir","Sin dificultad",476033
+"326","18","Izabal","Dificultad para oir","Sin dificultad",356055
+"327","19","Zacapa","Dificultad para oir","Sin dificultad",215625
+"328","20","Chiquimula","Dificultad para oir","Sin dificultad",360852
+"329","21","Jalapa","Dificultad para oir","Sin dificultad",299680
+"330","22","Jutiapa","Dificultad para oir","Sin dificultad",430321
+"331","1","Guatemala","Dificultad para oir","Con Dificultad",69667
+"332","2","El Progreso","Dificultad para oir","Con Dificultad",4397
+"333","3","Sacatepéquez","Dificultad para oir","Con Dificultad",8490
+"334","4","Chimaltenango","Dificultad para oir","Con Dificultad",16656
+"335","5","Escuintla","Dificultad para oir","Con Dificultad",16010
+"336","6","Santa Rosa","Dificultad para oir","Con Dificultad",10145
+"337","7","Sololá","Dificultad para oir","Con Dificultad",11110
+"338","8","Totonicapán","Dificultad para oir","Con Dificultad",11164
+"339","9","Quetzaltenango","Dificultad para oir","Con Dificultad",19421
+"340","10","Suchitepéquez","Dificultad para oir","Con Dificultad",14426
+"341","11","Retalhuleu","Dificultad para oir","Con Dificultad",8648
+"342","12","San Marcos","Dificultad para oir","Con Dificultad",20464
+"343","13","Huehuetenango","Dificultad para oir","Con Dificultad",27245
+"344","14","Quiché","Dificultad para oir","Con Dificultad",23550
+"345","15","Baja Verapaz","Dificultad para oir","Con Dificultad",8680
+"346","16","Alta Verapaz","Dificultad para oir","Con Dificultad",31670
+"347","17","Petén","Dificultad para oir","Con Dificultad",9337
+"348","18","Izabal","Dificultad para oir","Con Dificultad",11138
+"349","19","Zacapa","Dificultad para oir","Con Dificultad",6578
+"350","20","Chiquimula","Dificultad para oir","Con Dificultad",10453
+"351","21","Jalapa","Dificultad para oir","Con Dificultad",8453
+"352","22","Jutiapa","Dificultad para oir","Con Dificultad",14006
+"353","1","Guatemala","Dificultad para oir","No declarado",41586
+"354","2","El Progreso","Dificultad para oir","No declarado",1410
+"355","3","Sacatepéquez","Dificultad para oir","No declarado",6615
+"356","4","Chimaltenango","Dificultad para oir","No declarado",4653
+"357","5","Escuintla","Dificultad para oir","No declarado",11659
+"358","6","Santa Rosa","Dificultad para oir","No declarado",2202
+"359","7","Sololá","Dificultad para oir","No declarado",3737
+"360","8","Totonicapán","Dificultad para oir","No declarado",9941
+"361","9","Quetzaltenango","Dificultad para oir","No declarado",10482
+"362","10","Suchitepéquez","Dificultad para oir","No declarado",4400
+"363","11","Retalhuleu","Dificultad para oir","No declarado",2794
+"364","12","San Marcos","Dificultad para oir","No declarado",14424
+"365","13","Huehuetenango","Dificultad para oir","No declarado",12668
+"366","14","Quiché","Dificultad para oir","No declarado",12670
+"367","15","Baja Verapaz","Dificultad para oir","No declarado",1707
+"368","16","Alta Verapaz","Dificultad para oir","No declarado",9017
+"369","17","Petén","Dificultad para oir","No declarado",6673
+"370","18","Izabal","Dificultad para oir","No declarado",4495
+"371","19","Zacapa","Dificultad para oir","No declarado",3161
+"372","20","Chiquimula","Dificultad para oir","No declarado",3331
+"373","21","Jalapa","Dificultad para oir","No declarado",1327
+"374","22","Jutiapa","Dificultad para oir","No declarado",3739
+"375","1","Guatemala","Dificultad para caminar","Sin dificultad",2658658
+"376","2","El Progreso","Dificultad para caminar","Sin dificultad",154395
+"377","3","Sacatepéquez","Dificultad para caminar","Sin dificultad",288857
+"378","4","Chimaltenango","Dificultad para caminar","Sin dificultad",536231
+"379","5","Escuintla","Dificultad para caminar","Sin dificultad",636659
+"380","6","Santa Rosa","Dificultad para caminar","Sin dificultad",345330
+"381","7","Sololá","Dificultad para caminar","Sin dificultad",372284
+"382","8","Totonicapán","Dificultad para caminar","Sin dificultad",360128
+"383","9","Quetzaltenango","Dificultad para caminar","Sin dificultad",698998
+"384","10","Suchitepéquez","Dificultad para caminar","Sin dificultad",481473
+"385","11","Retalhuleu","Dificultad para caminar","Sin dificultad",283196
+"386","12","San Marcos","Dificultad para caminar","Sin dificultad",890553
+"387","13","Huehuetenango","Dificultad para caminar","Sin dificultad",998223
+"388","14","Quiché","Dificultad para caminar","Sin dificultad",815402
+"389","15","Baja Verapaz","Dificultad para caminar","Sin dificultad",255984
+"390","16","Alta Verapaz","Dificultad para caminar","Sin dificultad",1037442
+"391","17","Petén","Dificultad para caminar","Sin dificultad",474170
+"392","18","Izabal","Dificultad para caminar","Sin dificultad",352339
+"393","19","Zacapa","Dificultad para caminar","Sin dificultad",212651
+"394","20","Chiquimula","Dificultad para caminar","Sin dificultad",357219
+"395","21","Jalapa","Dificultad para caminar","Sin dificultad",296627
+"396","22","Jutiapa","Dificultad para caminar","Sin dificultad",423089
+"397","1","Guatemala","Dificultad para caminar","Con Dificultad",105195
+"398","2","El Progreso","Dificultad para caminar","Con Dificultad",6763
+"399","3","Sacatepéquez","Dificultad para caminar","Con Dificultad",10961
+"400","4","Chimaltenango","Dificultad para caminar","Con Dificultad",19349
+"401","5","Escuintla","Dificultad para caminar","Con Dificultad",22926
+"402","6","Santa Rosa","Dificultad para caminar","Con Dificultad",15700
+"403","7","Sololá","Dificultad para caminar","Con Dificultad",10330
+"404","8","Totonicapán","Dificultad para caminar","Con Dificultad",10009
+"405","9","Quetzaltenango","Dificultad para caminar","Con Dificultad",22928
+"406","10","Suchitepéquez","Dificultad para caminar","Con Dificultad",17534
+"407","11","Retalhuleu","Dificultad para caminar","Con Dificultad",11269
+"408","12","San Marcos","Dificultad para caminar","Con Dificultad",22442
+"409","13","Huehuetenango","Dificultad para caminar","Con Dificultad",31883
+"410","14","Quiché","Dificultad para caminar","Con Dificultad",22305
+"411","15","Baja Verapaz","Dificultad para caminar","Con Dificultad",12315
+"412","16","Alta Verapaz","Dificultad para caminar","Con Dificultad",36043
+"413","17","Petén","Dificultad para caminar","Con Dificultad",10889
+"414","18","Izabal","Dificultad para caminar","Con Dificultad",14739
+"415","19","Zacapa","Dificultad para caminar","Con Dificultad",9606
+"416","20","Chiquimula","Dificultad para caminar","Con Dificultad",14143
+"417","21","Jalapa","Dificultad para caminar","Con Dificultad",11495
+"418","22","Jutiapa","Dificultad para caminar","Con Dificultad",21132
+"419","1","Guatemala","Dificultad para caminar","No declarado",42644
+"420","2","El Progreso","Dificultad para caminar","No declarado",1436
+"421","3","Sacatepéquez","Dificultad para caminar","No declarado",6723
+"422","4","Chimaltenango","Dificultad para caminar","No declarado",4700
+"423","5","Escuintla","Dificultad para caminar","No declarado",11752
+"424","6","Santa Rosa","Dificultad para caminar","No declarado",2408
+"425","7","Sololá","Dificultad para caminar","No declarado",3863
+"426","8","Totonicapán","Dificultad para caminar","No declarado",10296
+"427","9","Quetzaltenango","Dificultad para caminar","No declarado",10718
+"428","10","Suchitepéquez","Dificultad para caminar","No declarado",4598
+"429","11","Retalhuleu","Dificultad para caminar","No declarado",2871
+"430","12","San Marcos","Dificultad para caminar","No declarado",14954
+"431","13","Huehuetenango","Dificultad para caminar","No declarado",12850
+"432","14","Quiché","Dificultad para caminar","No declarado",12948
+"433","15","Baja Verapaz","Dificultad para caminar","No declarado",1814
+"434","16","Alta Verapaz","Dificultad para caminar","No declarado",9300
+"435","17","Petén","Dificultad para caminar","No declarado",6984
+"436","18","Izabal","Dificultad para caminar","No declarado",4610
+"437","19","Zacapa","Dificultad para caminar","No declarado",3107
+"438","20","Chiquimula","Dificultad para caminar","No declarado",3274
+"439","21","Jalapa","Dificultad para caminar","No declarado",1338
+"440","22","Jutiapa","Dificultad para caminar","No declarado",3845
+"441","1","Guatemala","dificultad para recordar","Sin dificultad",2699214
+"442","2","El Progreso","dificultad para recordar","Sin dificultad",157550
+"443","3","Sacatepéquez","dificultad para recordar","Sin dificultad",293378
+"444","4","Chimaltenango","dificultad para recordar","Sin dificultad",542873
+"445","5","Escuintla","dificultad para recordar","Sin dificultad",646681
+"446","6","Santa Rosa","dificultad para recordar","Sin dificultad",350828
+"447","7","Sololá","dificultad para recordar","Sin dificultad",375058
+"448","8","Totonicapán","dificultad para recordar","Sin dificultad",362617
+"449","9","Quetzaltenango","dificultad para recordar","Sin dificultad",706613
+"450","10","Suchitepéquez","dificultad para recordar","Sin dificultad",488262
+"451","11","Retalhuleu","dificultad para recordar","Sin dificultad",287573
+"452","12","San Marcos","dificultad para recordar","Sin dificultad",898325
+"453","13","Huehuetenango","dificultad para recordar","Sin dificultad",1004433
+"454","14","Quiché","dificultad para recordar","Sin dificultad",821720
+"455","15","Baja Verapaz","dificultad para recordar","Sin dificultad",260447
+"456","16","Alta Verapaz","dificultad para recordar","Sin dificultad",1048837
+"457","17","Petén","dificultad para recordar","Sin dificultad",478615
+"458","18","Izabal","dificultad para recordar","Sin dificultad",357819
+"459","19","Zacapa","dificultad para recordar","Sin dificultad",217013
+"460","20","Chiquimula","dificultad para recordar","Sin dificultad",360874
+"461","21","Jalapa","dificultad para recordar","Sin dificultad",299591
+"462","22","Jutiapa","dificultad para recordar","Sin dificultad",430610
+"463","1","Guatemala","dificultad para recordar","Con Dificultad",63183
+"464","2","El Progreso","dificultad para recordar","Con Dificultad",3518
+"465","3","Sacatepéquez","dificultad para recordar","Con Dificultad",6312
+"466","4","Chimaltenango","dificultad para recordar","Con Dificultad",12384
+"467","5","Escuintla","dificultad para recordar","Con Dificultad",12430
+"468","6","Santa Rosa","dificultad para recordar","Con Dificultad",9998
+"469","7","Sololá","dificultad para recordar","Con Dificultad",7415
+"470","8","Totonicapán","dificultad para recordar","Con Dificultad",7319
+"471","9","Quetzaltenango","dificultad para recordar","Con Dificultad",14899
+"472","10","Suchitepéquez","dificultad para recordar","Con Dificultad",10581
+"473","11","Retalhuleu","dificultad para recordar","Con Dificultad",6704
+"474","12","San Marcos","dificultad para recordar","Con Dificultad",14160
+"475","13","Huehuetenango","dificultad para recordar","Con Dificultad",25085
+"476","14","Quiché","dificultad para recordar","Con Dificultad",15558
+"477","15","Baja Verapaz","dificultad para recordar","Con Dificultad",7704
+"478","16","Alta Verapaz","dificultad para recordar","Con Dificultad",24046
+"479","17","Petén","dificultad para recordar","Con Dificultad",6034
+"480","18","Izabal","dificultad para recordar","Con Dificultad",9010
+"481","19","Zacapa","dificultad para recordar","Con Dificultad",5126
+"482","20","Chiquimula","dificultad para recordar","Con Dificultad",10307
+"483","21","Jalapa","dificultad para recordar","Con Dificultad",8377
+"484","22","Jutiapa","dificultad para recordar","Con Dificultad",13432
+"485","1","Guatemala","dificultad para recordar","No declarado",44100
+"486","2","El Progreso","dificultad para recordar","No declarado",1526
+"487","3","Sacatepéquez","dificultad para recordar","No declarado",6851
+"488","4","Chimaltenango","dificultad para recordar","No declarado",5023
+"489","5","Escuintla","dificultad para recordar","No declarado",12226
+"490","6","Santa Rosa","dificultad para recordar","No declarado",2612
+"491","7","Sololá","dificultad para recordar","No declarado",4004
+"492","8","Totonicapán","dificultad para recordar","No declarado",10497
+"493","9","Quetzaltenango","dificultad para recordar","No declarado",11132
+"494","10","Suchitepéquez","dificultad para recordar","No declarado",4762
+"495","11","Retalhuleu","dificultad para recordar","No declarado",3059
+"496","12","San Marcos","dificultad para recordar","No declarado",15464
+"497","13","Huehuetenango","dificultad para recordar","No declarado",13438
+"498","14","Quiché","dificultad para recordar","No declarado",13377
+"499","15","Baja Verapaz","dificultad para recordar","No declarado",1962
+"500","16","Alta Verapaz","dificultad para recordar","No declarado",9902
+"501","17","Petén","dificultad para recordar","No declarado",7394
+"502","18","Izabal","dificultad para recordar","No declarado",4859
+"503","19","Zacapa","dificultad para recordar","No declarado",3225
+"504","20","Chiquimula","dificultad para recordar","No declarado",3455
+"505","21","Jalapa","dificultad para recordar","No declarado",1492
+"506","22","Jutiapa","dificultad para recordar","No declarado",4024
+"507","1","Guatemala","dificultad cuidado personal","Sin dificultad",2734426
+"508","2","El Progreso","dificultad cuidado personal","Sin dificultad",159203
+"509","3","Sacatepéquez","dificultad cuidado personal","Sin dificultad",295986
+"510","4","Chimaltenango","dificultad cuidado personal","Sin dificultad",549626
+"511","5","Escuintla","dificultad cuidado personal","Sin dificultad",652599
+"512","6","Santa Rosa","dificultad cuidado personal","Sin dificultad",357078
+"513","7","Sololá","dificultad cuidado personal","Sin dificultad",379022
+"514","8","Totonicapán","dificultad cuidado personal","Sin dificultad",366066
+"515","9","Quetzaltenango","dificultad cuidado personal","Sin dificultad",714027
+"516","10","Suchitepéquez","dificultad cuidado personal","Sin dificultad",493600
+"517","11","Retalhuleu","dificultad cuidado personal","Sin dificultad",290805
+"518","12","San Marcos","dificultad cuidado personal","Sin dificultad",903369
+"519","13","Huehuetenango","dificultad cuidado personal","Sin dificultad",1017371
+"520","14","Quiché","dificultad cuidado personal","Sin dificultad",828623
+"521","15","Baja Verapaz","dificultad cuidado personal","Sin dificultad",265323
+"522","16","Alta Verapaz","dificultad cuidado personal","Sin dificultad",1062464
+"523","17","Petén","dificultad cuidado personal","Sin dificultad",481197
+"524","18","Izabal","dificultad cuidado personal","Sin dificultad",362755
+"525","19","Zacapa","dificultad cuidado personal","Sin dificultad",219566
+"526","20","Chiquimula","dificultad cuidado personal","Sin dificultad",366905
+"527","21","Jalapa","dificultad cuidado personal","Sin dificultad",304451
+"528","22","Jutiapa","dificultad cuidado personal","Sin dificultad",438786
+"529","1","Guatemala","dificultad cuidado personal","Con Dificultad",26778
+"530","2","El Progreso","dificultad cuidado personal","Con Dificultad",1826
+"531","3","Sacatepéquez","dificultad cuidado personal","Con Dificultad",3552
+"532","4","Chimaltenango","dificultad cuidado personal","Con Dificultad",5350
+"533","5","Escuintla","dificultad cuidado personal","Con Dificultad",6227
+"534","6","Santa Rosa","dificultad cuidado personal","Con Dificultad",3649
+"535","7","Sololá","dificultad cuidado personal","Con Dificultad",3356
+"536","8","Totonicapán","dificultad cuidado personal","Con Dificultad",3662
+"537","9","Quetzaltenango","dificultad cuidado personal","Con Dificultad",7254
+"538","10","Suchitepéquez","dificultad cuidado personal","Con Dificultad",5004
+"539","11","Retalhuleu","dificultad cuidado personal","Con Dificultad",3160
+"540","12","San Marcos","dificultad cuidado personal","Con Dificultad",8748
+"541","13","Huehuetenango","dificultad cuidado personal","Con Dificultad",11690
+"542","14","Quiché","dificultad cuidado personal","Con Dificultad",8081
+"543","15","Baja Verapaz","dificultad cuidado personal","Con Dificultad",2770
+"544","16","Alta Verapaz","dificultad cuidado personal","Con Dificultad",10144
+"545","17","Petén","dificultad cuidado personal","Con Dificultad",3321
+"546","18","Izabal","dificultad cuidado personal","Con Dificultad",3861
+"547","19","Zacapa","dificultad cuidado personal","Con Dificultad",2493
+"548","20","Chiquimula","dificultad cuidado personal","Con Dificultad",4074
+"549","21","Jalapa","dificultad cuidado personal","Con Dificultad",3387
+"550","22","Jutiapa","dificultad cuidado personal","Con Dificultad",5136
+"551","1","Guatemala","dificultad cuidado personal","No declarado",45293
+"552","2","El Progreso","dificultad cuidado personal","No declarado",1565
+"553","3","Sacatepéquez","dificultad cuidado personal","No declarado",7003
+"554","4","Chimaltenango","dificultad cuidado personal","No declarado",5304
+"555","5","Escuintla","dificultad cuidado personal","No declarado",12511
+"556","6","Santa Rosa","dificultad cuidado personal","No declarado",2711
+"557","7","Sololá","dificultad cuidado personal","No declarado",4099
+"558","8","Totonicapán","dificultad cuidado personal","No declarado",10705
+"559","9","Quetzaltenango","dificultad cuidado personal","No declarado",11363
+"560","10","Suchitepéquez","dificultad cuidado personal","No declarado",5001
+"561","11","Retalhuleu","dificultad cuidado personal","No declarado",3371
+"562","12","San Marcos","dificultad cuidado personal","No declarado",15832
+"563","13","Huehuetenango","dificultad cuidado personal","No declarado",13895
+"564","14","Quiché","dificultad cuidado personal","No declarado",13951
+"565","15","Baja Verapaz","dificultad cuidado personal","No declarado",2020
+"566","16","Alta Verapaz","dificultad cuidado personal","No declarado",10177
+"567","17","Petén","dificultad cuidado personal","No declarado",7525
+"568","18","Izabal","dificultad cuidado personal","No declarado",5072
+"569","19","Zacapa","dificultad cuidado personal","No declarado",3305
+"570","20","Chiquimula","dificultad cuidado personal","No declarado",3657
+"571","21","Jalapa","dificultad cuidado personal","No declarado",1622
+"572","22","Jutiapa","dificultad cuidado personal","No declarado",4144
+"573","1","Guatemala","dificultad comunicarse","Sin dificultad",2714711
+"574","2","El Progreso","dificultad comunicarse","Sin dificultad",157877
+"575","3","Sacatepéquez","dificultad comunicarse","Sin dificultad",293820
+"576","4","Chimaltenango","dificultad comunicarse","Sin dificultad",544984
+"577","5","Escuintla","dificultad comunicarse","Sin dificultad",647130
+"578","6","Santa Rosa","dificultad comunicarse","Sin dificultad",354937
+"579","7","Sololá","dificultad comunicarse","Sin dificultad",375218
+"580","8","Totonicapán","dificultad comunicarse","Sin dificultad",363623
+"581","9","Quetzaltenango","dificultad comunicarse","Sin dificultad",708411
+"582","10","Suchitepéquez","dificultad comunicarse","Sin dificultad",489353
+"583","11","Retalhuleu","dificultad comunicarse","Sin dificultad",288498
+"584","12","San Marcos","dificultad comunicarse","Sin dificultad",896765
+"585","13","Huehuetenango","dificultad comunicarse","Sin dificultad",1008566
+"586","14","Quiché","dificultad comunicarse","Sin dificultad",821320
+"587","15","Baja Verapaz","dificultad comunicarse","Sin dificultad",262923
+"588","16","Alta Verapaz","dificultad comunicarse","Sin dificultad",1052185
+"589","17","Petén","dificultad comunicarse","Sin dificultad",478055
+"590","18","Izabal","dificultad comunicarse","Sin dificultad",358845
+"591","19","Zacapa","dificultad comunicarse","Sin dificultad",217713
+"592","20","Chiquimula","dificultad comunicarse","Sin dificultad",361595
+"593","21","Jalapa","dificultad comunicarse","Sin dificultad",301845
+"594","22","Jutiapa","dificultad comunicarse","Sin dificultad",435261
+"595","1","Guatemala","dificultad comunicarse","Con Dificultad",35927
+"596","2","El Progreso","dificultad comunicarse","Con Dificultad",2498
+"597","3","Sacatepéquez","dificultad comunicarse","Con Dificultad",4559
+"598","4","Chimaltenango","dificultad comunicarse","Con Dificultad",8065
+"599","5","Escuintla","dificultad comunicarse","Con Dificultad",8730
+"600","6","Santa Rosa","dificultad comunicarse","Con Dificultad",5048
+"601","7","Sololá","dificultad comunicarse","Con Dificultad",5842
+"602","8","Totonicapán","dificultad comunicarse","Con Dificultad",5041
+"603","9","Quetzaltenango","dificultad comunicarse","Con Dificultad",9858
+"604","10","Suchitepéquez","dificultad comunicarse","Con Dificultad",7557
+"605","11","Retalhuleu","dificultad comunicarse","Con Dificultad",4395
+"606","12","San Marcos","dificultad comunicarse","Con Dificultad",11830
+"607","13","Huehuetenango","dificultad comunicarse","Con Dificultad",17555
+"608","14","Quiché","dificultad comunicarse","Con Dificultad",12150
+"609","15","Baja Verapaz","dificultad comunicarse","Con Dificultad",4447
+"610","16","Alta Verapaz","dificultad comunicarse","Con Dificultad",17882
+"611","17","Petén","dificultad comunicarse","Con Dificultad",4627
+"612","18","Izabal","dificultad comunicarse","Con Dificultad",6250
+"613","19","Zacapa","dificultad comunicarse","Con Dificultad",3481
+"614","20","Chiquimula","dificultad comunicarse","Con Dificultad",7689
+"615","21","Jalapa","dificultad comunicarse","Con Dificultad",5122
+"616","22","Jutiapa","dificultad comunicarse","Con Dificultad",7221
+"617","1","Guatemala","dificultad comunicarse","No declarado",55859
+"618","2","El Progreso","dificultad comunicarse","No declarado",2219
+"619","3","Sacatepéquez","dificultad comunicarse","No declarado",8162
+"620","4","Chimaltenango","dificultad comunicarse","No declarado",7231
+"621","5","Escuintla","dificultad comunicarse","No declarado",15477
+"622","6","Santa Rosa","dificultad comunicarse","No declarado",3453
+"623","7","Sololá","dificultad comunicarse","No declarado",5417
+"624","8","Totonicapán","dificultad comunicarse","No declarado",11769
+"625","9","Quetzaltenango","dificultad comunicarse","No declarado",14375
+"626","10","Suchitepéquez","dificultad comunicarse","No declarado",6695
+"627","11","Retalhuleu","dificultad comunicarse","No declarado",4443
+"628","12","San Marcos","dificultad comunicarse","No declarado",19354
+"629","13","Huehuetenango","dificultad comunicarse","No declarado",16835
+"630","14","Quiché","dificultad comunicarse","No declarado",17185
+"631","15","Baja Verapaz","dificultad comunicarse","No declarado",2743
+"632","16","Alta Verapaz","dificultad comunicarse","No declarado",12718
+"633","17","Petén","dificultad comunicarse","No declarado",9361
+"634","18","Izabal","dificultad comunicarse","No declarado",6593
+"635","19","Zacapa","dificultad comunicarse","No declarado",4170
+"636","20","Chiquimula","dificultad comunicarse","No declarado",5352
+"637","21","Jalapa","dificultad comunicarse","No declarado",2493
+"638","22","Jutiapa","dificultad comunicarse","No declarado",5584
+"639","1","Guatemala","Total de mujeres en edad fértil","No hay grupo",867729
+"640","2","El Progreso","Total de mujeres en edad fértil","No hay grupo",47188
+"641","3","Sacatepéquez","Total de mujeres en edad fértil","No hay grupo",93790
+"642","4","Chimaltenango","Total de mujeres en edad fértil","No hay grupo",170240
+"643","5","Escuintla","Total de mujeres en edad fértil","No hay grupo",199250
+"644","6","Santa Rosa","Total de mujeres en edad fértil","No hay grupo",105699
+"645","7","Sololá","Total de mujeres en edad fértil","No hay grupo",121919
+"646","8","Totonicapán","Total de mujeres en edad fértil","No hay grupo",117239
+"647","9","Quetzaltenango","Total de mujeres en edad fértil","No hay grupo",227270
+"648","10","Suchitepéquez","Total de mujeres en edad fértil","No hay grupo",146850
+"649","11","Retalhuleu","Total de mujeres en edad fértil","No hay grupo",87547
+"650","12","San Marcos","Total de mujeres en edad fértil","No hay grupo",263600
+"651","13","Huehuetenango","Total de mujeres en edad fértil","No hay grupo",310013
+"652","14","Quiché","Total de mujeres en edad fértil","No hay grupo",250434
+"653","15","Baja Verapaz","Total de mujeres en edad fértil","No hay grupo",80432
+"654","16","Alta Verapaz","Total de mujeres en edad fértil","No hay grupo",312101
+"655","17","Petén","Total de mujeres en edad fértil","No hay grupo",144885
+"656","18","Izabal","Total de mujeres en edad fértil","No hay grupo",108996
+"657","19","Zacapa","Total de mujeres en edad fértil","No hay grupo",65799
+"658","20","Chiquimula","Total de mujeres en edad fértil","No hay grupo",110482
+"659","21","Jalapa","Total de mujeres en edad fértil","No hay grupo",91914
+"660","22","Jutiapa","Total de mujeres en edad fértil","No hay grupo",131779
+"661","1","Guatemala","Mujeres de 15 años o mas por numero de hijos nacidos","0",292817
+"662","2","El Progreso","Mujeres de 15 años o mas por numero de hijos nacidos","0",13564
+"663","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","0",27439
+"664","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","0",63208
+"665","5","Escuintla","Mujeres de 15 años o mas por numero de hijos nacidos","0",53117
+"666","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos nacidos","0",33308
+"667","7","Sololá","Mujeres de 15 años o mas por numero de hijos nacidos","0",44159
+"668","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos nacidos","0",43753
+"669","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","0",77811
+"670","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","0",45046
+"671","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos nacidos","0",26131
+"672","12","San Marcos","Mujeres de 15 años o mas por numero de hijos nacidos","0",74146
+"673","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos nacidos","0",92395
+"674","14","Quiché","Mujeres de 15 años o mas por numero de hijos nacidos","0",85817
+"675","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","0",26642
+"676","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","0",92582
+"677","17","Petén","Mujeres de 15 años o mas por numero de hijos nacidos","0",41922
+"678","18","Izabal","Mujeres de 15 años o mas por numero de hijos nacidos","0",33190
+"679","19","Zacapa","Mujeres de 15 años o mas por numero de hijos nacidos","0",18300
+"680","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos nacidos","0",36022
+"681","21","Jalapa","Mujeres de 15 años o mas por numero de hijos nacidos","0",30565
+"682","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos nacidos","0",41845
+"683","1","Guatemala","Mujeres de 15 años o mas por numero de hijos nacidos","1",164940
+"684","2","El Progreso","Mujeres de 15 años o mas por numero de hijos nacidos","1",8778
+"685","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","1",16150
+"686","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","1",24804
+"687","5","Escuintla","Mujeres de 15 años o mas por numero de hijos nacidos","1",36037
+"688","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos nacidos","1",18983
+"689","7","Sololá","Mujeres de 15 años o mas por numero de hijos nacidos","1",19512
+"690","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos nacidos","1",16874
+"691","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","1",39778
+"692","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","1",24840
+"693","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos nacidos","1",15152
+"694","12","San Marcos","Mujeres de 15 años o mas por numero de hijos nacidos","1",42838
+"695","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos nacidos","1",51283
+"696","14","Quiché","Mujeres de 15 años o mas por numero de hijos nacidos","1",35719
+"697","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","1",14117
+"698","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","1",51426
+"699","17","Petén","Mujeres de 15 años o mas por numero de hijos nacidos","1",24368
+"700","18","Izabal","Mujeres de 15 años o mas por numero de hijos nacidos","1",18909
+"701","19","Zacapa","Mujeres de 15 años o mas por numero de hijos nacidos","1",12005
+"702","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos nacidos","1",18573
+"703","21","Jalapa","Mujeres de 15 años o mas por numero de hijos nacidos","1",15101
+"704","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos nacidos","1",22859
+"705","1","Guatemala","Mujeres de 15 años o mas por numero de hijos nacidos","2",211672
+"706","2","El Progreso","Mujeres de 15 años o mas por numero de hijos nacidos","2",9871
+"707","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","2",19398
+"708","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","2",25769
+"709","5","Escuintla","Mujeres de 15 años o mas por numero de hijos nacidos","2",42416
+"710","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos nacidos","2",21070
+"711","7","Sololá","Mujeres de 15 años o mas por numero de hijos nacidos","2",17465
+"712","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos nacidos","2",15688
+"713","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","2",41587
+"714","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","2",26443
+"715","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos nacidos","2",16246
+"716","12","San Marcos","Mujeres de 15 años o mas por numero de hijos nacidos","2",43344
+"717","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos nacidos","2",48118
+"718","14","Quiché","Mujeres de 15 años o mas por numero de hijos nacidos","2",33803
+"719","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","2",13517
+"720","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","2",48316
+"721","17","Petén","Mujeres de 15 años o mas por numero de hijos nacidos","2",23717
+"722","18","Izabal","Mujeres de 15 años o mas por numero de hijos nacidos","2",20380
+"723","19","Zacapa","Mujeres de 15 años o mas por numero de hijos nacidos","2",13770
+"724","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos nacidos","2",18431
+"725","21","Jalapa","Mujeres de 15 años o mas por numero de hijos nacidos","2",14894
+"726","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos nacidos","2",23432
+"727","1","Guatemala","Mujeres de 15 años o mas por numero de hijos nacidos","3",181794
+"728","2","El Progreso","Mujeres de 15 años o mas por numero de hijos nacidos","3",8871
+"729","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","3",16724
+"730","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","3",23386
+"731","5","Escuintla","Mujeres de 15 años o mas por numero de hijos nacidos","3",39244
+"732","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos nacidos","3",18704
+"733","7","Sololá","Mujeres de 15 años o mas por numero de hijos nacidos","3",14075
+"734","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos nacidos","3",13224
+"735","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","3",37545
+"736","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","3",25770
+"737","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos nacidos","3",15896
+"738","12","San Marcos","Mujeres de 15 años o mas por numero de hijos nacidos","3",40899
+"739","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos nacidos","3",42676
+"740","14","Quiché","Mujeres de 15 años o mas por numero de hijos nacidos","3",28368
+"741","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","3",11965
+"742","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","3",39339
+"743","17","Petén","Mujeres de 15 años o mas por numero de hijos nacidos","3",19538
+"744","18","Izabal","Mujeres de 15 años o mas por numero de hijos nacidos","3",18414
+"745","19","Zacapa","Mujeres de 15 años o mas por numero de hijos nacidos","3",12305
+"746","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos nacidos","3",15802
+"747","21","Jalapa","Mujeres de 15 años o mas por numero de hijos nacidos","3",12655
+"748","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos nacidos","3",21088
+"749","1","Guatemala","Mujeres de 15 años o mas por numero de hijos nacidos","4",97486
+"750","2","El Progreso","Mujeres de 15 años o mas por numero de hijos nacidos","4",5395
+"751","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","4",9434
+"752","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","4",16260
+"753","5","Escuintla","Mujeres de 15 años o mas por numero de hijos nacidos","4",23045
+"754","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos nacidos","4",12316
+"755","7","Sololá","Mujeres de 15 años o mas por numero de hijos nacidos","4",10481
+"756","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos nacidos","4",10367
+"757","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","4",24357
+"758","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","4",16367
+"759","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos nacidos","4",9801
+"760","12","San Marcos","Mujeres de 15 años o mas por numero de hijos nacidos","4",29824
+"761","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos nacidos","4",32238
+"762","14","Quiché","Mujeres de 15 años o mas por numero de hijos nacidos","4",22646
+"763","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","4",8685
+"764","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","4",28798
+"765","17","Petén","Mujeres de 15 años o mas por numero de hijos nacidos","4",13569
+"766","18","Izabal","Mujeres de 15 años o mas por numero de hijos nacidos","4",10994
+"767","19","Zacapa","Mujeres de 15 años o mas por numero de hijos nacidos","4",7212
+"768","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos nacidos","4",10952
+"769","21","Jalapa","Mujeres de 15 años o mas por numero de hijos nacidos","4",8857
+"770","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos nacidos","4",14411
+"771","1","Guatemala","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",133612
+"772","2","El Progreso","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",12228
+"773","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",19199
+"774","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",49705
+"775","5","Escuintla","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",45416
+"776","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",29506
+"777","7","Sololá","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",34337
+"778","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",37314
+"779","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",59526
+"780","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",42094
+"781","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",24514
+"782","12","San Marcos","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",90893
+"783","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",102155
+"784","14","Quiché","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",84373
+"785","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",24892
+"786","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",96471
+"787","17","Petén","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",41700
+"788","18","Izabal","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",29262
+"789","19","Zacapa","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",16746
+"790","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",33653
+"791","21","Jalapa","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",28884
+"792","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos nacidos","5 o más",40282
+"793","1","Guatemala","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",85546
+"794","2","El Progreso","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",4245
+"795","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",13462
+"796","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",11486
+"797","5","Escuintla","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",15524
+"798","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",4813
+"799","7","Sololá","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",11735
+"800","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",13398
+"801","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",16829
+"802","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",8290
+"803","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",5798
+"804","12","San Marcos","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",19920
+"805","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",19061
+"806","14","Quiché","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",20532
+"807","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",2912
+"808","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",20975
+"809","17","Petén","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",10042
+"810","18","Izabal","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",6962
+"811","19","Zacapa","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",7519
+"812","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",9501
+"813","21","Jalapa","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",5513
+"814","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos nacidos","No especificado",10812
+"815","1","Guatemala","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",3902
+"816","2","El Progreso","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",175
+"817","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",385
+"818","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",573
+"819","5","Escuintla","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",956
+"820","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",459
+"821","7","Sololá","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",376
+"822","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",456
+"823","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",873
+"824","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",643
+"825","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",442
+"826","12","San Marcos","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",959
+"827","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",1073
+"828","14","Quiché","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",717
+"829","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",287
+"830","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",1029
+"831","17","Petén","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",405
+"832","18","Izabal","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",452
+"833","19","Zacapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",250
+"834","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",424
+"835","21","Jalapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",303
+"836","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","0",604
+"837","1","Guatemala","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",171852
+"838","2","El Progreso","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",9113
+"839","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",16770
+"840","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",25930
+"841","5","Escuintla","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",37970
+"842","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",19858
+"843","7","Sololá","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",20187
+"844","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",17733
+"845","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",41323
+"846","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",26037
+"847","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",15748
+"848","12","San Marcos","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",44511
+"849","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",53147
+"850","14","Quiché","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",37134
+"851","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",14654
+"852","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",53598
+"853","17","Petén","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",25023
+"854","18","Izabal","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",19690
+"855","19","Zacapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",12557
+"856","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",19355
+"857","21","Jalapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",15730
+"858","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","1",23978
+"859","1","Guatemala","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",221717
+"860","2","El Progreso","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",10479
+"861","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",20460
+"862","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",27550
+"863","5","Escuintla","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",45563
+"864","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",22374
+"865","7","Sololá","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",18436
+"866","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",16933
+"867","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",43969
+"868","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",28298
+"869","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",17297
+"870","12","San Marcos","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",46043
+"871","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",50683
+"872","14","Quiché","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",35582
+"873","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",14243
+"874","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",50838
+"875","17","Petén","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",24620
+"876","18","Izabal","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",21668
+"877","19","Zacapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",14615
+"878","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",19661
+"879","21","Jalapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",15757
+"880","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","2",25046
+"881","1","Guatemala","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",184250
+"882","2","El Progreso","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",9083
+"883","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",17079
+"884","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",24708
+"885","5","Escuintla","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",40779
+"886","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",19722
+"887","7","Sololá","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",14928
+"888","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",14250
+"889","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",39335
+"890","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",26923
+"891","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",16368
+"892","12","San Marcos","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",43012
+"893","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",44793
+"894","14","Quiché","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",29848
+"895","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",12564
+"896","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",41003
+"897","17","Petén","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",20130
+"898","18","Izabal","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",18967
+"899","19","Zacapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",12651
+"900","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",16724
+"901","21","Jalapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",13331
+"902","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","3",22201
+"903","1","Guatemala","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",95246
+"904","2","El Progreso","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",5547
+"905","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",9450
+"906","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",17271
+"907","5","Escuintla","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",23443
+"908","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",12757
+"909","7","Sololá","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",11243
+"910","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",11223
+"911","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",25353
+"912","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",17173
+"913","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",10220
+"914","12","San Marcos","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",31575
+"915","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",34307
+"916","14","Quiché","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",24392
+"917","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",9060
+"918","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",30279
+"919","17","Petén","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",14216
+"920","18","Izabal","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",11332
+"921","19","Zacapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",7303
+"922","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",11748
+"923","21","Jalapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",9441
+"924","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","4",15072
+"925","1","Guatemala","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",112537
+"926","2","El Progreso","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",10746
+"927","3","Sacatepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",16761
+"928","4","Chimaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",43892
+"929","5","Escuintla","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",37447
+"930","6","Santa Rosa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",25409
+"931","7","Sololá","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",30700
+"932","8","Totonicapán","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",32872
+"933","9","Quetzaltenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",51940
+"934","10","Suchitepéquez","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",36440
+"935","11","Retalhuleu","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",21534
+"936","12","San Marcos","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",81698
+"937","13","Huehuetenango","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",92467
+"938","14","Quiché","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",77236
+"939","15","Baja Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",22368
+"940","16","Alta Verapaz","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",87603
+"941","17","Petén","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",38498
+"942","18","Izabal","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",25850
+"943","19","Zacapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",14662
+"944","20","Chiquimula","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",29499
+"945","21","Jalapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",25829
+"946","22","Jutiapa","Mujeres de 15 años o mas por numero de hijos sobrevivientes","5 o más",35171

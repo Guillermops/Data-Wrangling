@@ -1,0 +1,1299 @@
+"","Código","Departamento","caracteristica","grupo","observaciones"
+"1","1","Guatemala","Total de personas","No hay grupo",3015081
+"2","2","El Progreso","Total de personas","No hay grupo",176632
+"3","3","Sacatepéquez","Total de personas","No hay grupo",330469
+"4","4","Chimaltenango","Total de personas","No hay grupo",615776
+"5","5","Escuintla","Total de personas","No hay grupo",733181
+"6","6","Santa Rosa","Total de personas","No hay grupo",396607
+"7","7","Sololá","Total de personas","No hay grupo",421583
+"8","8","Totonicapán","Total de personas","No hay grupo",418569
+"9","9","Quetzaltenango","Total de personas","No hay grupo",799101
+"10","10","Suchitepéquez","Total de personas","No hay grupo",554695
+"11","11","Retalhuleu","Total de personas","No hay grupo",326828
+"12","12","San Marcos","Total de personas","No hay grupo",1032277
+"13","13","Huehuetenango","Total de personas","No hay grupo",1170669
+"14","14","Quiché","Total de personas","No hay grupo",949261
+"15","15","Baja Verapaz","Total de personas","No hay grupo",299476
+"16","16","Alta Verapaz","Total de personas","No hay grupo",1215038
+"17","17","Petén","Total de personas","No hay grupo",545600
+"18","18","Izabal","Total de personas","No hay grupo",408688
+"19","19","Zacapa","Total de personas","No hay grupo",245374
+"20","20","Chiquimula","Total de personas","No hay grupo",415063
+"21","21","Jalapa","Total de personas","No hay grupo",342923
+"22","22","Jutiapa","Total de personas","No hay grupo",488395
+"23","1","Guatemala","Pueblo de pertenencia","Maya",402376
+"24","2","El Progreso","Pueblo de pertenencia","Maya",2627
+"25","3","Sacatepéquez","Pueblo de pertenencia","Maya",132762
+"26","4","Chimaltenango","Pueblo de pertenencia","Maya",481335
+"27","5","Escuintla","Pueblo de pertenencia","Maya",37100
+"28","6","Santa Rosa","Pueblo de pertenencia","Maya",7863
+"29","7","Sololá","Pueblo de pertenencia","Maya",406295
+"30","8","Totonicapán","Pueblo de pertenencia","Maya",410195
+"31","9","Quetzaltenango","Pueblo de pertenencia","Maya",406491
+"32","10","Suchitepéquez","Pueblo de pertenencia","Maya",211103
+"33","11","Retalhuleu","Pueblo de pertenencia","Maya",48871
+"34","12","San Marcos","Pueblo de pertenencia","Maya",318093
+"35","13","Huehuetenango","Pueblo de pertenencia","Maya",760871
+"36","14","Quiché","Pueblo de pertenencia","Maya",846500
+"37","15","Baja Verapaz","Pueblo de pertenencia","Maya",179746
+"38","16","Alta Verapaz","Pueblo de pertenencia","Maya",1129369
+"39","17","Petén","Pueblo de pertenencia","Maya",164814
+"40","18","Izabal","Pueblo de pertenencia","Maya",115296
+"41","19","Zacapa","Pueblo de pertenencia","Maya",4769
+"42","20","Chiquimula","Pueblo de pertenencia","Maya",111368
+"43","21","Jalapa","Pueblo de pertenencia","Maya",24891
+"44","22","Jutiapa","Pueblo de pertenencia","Maya",4768
+"45","1","Guatemala","Pueblo de pertenencia","Garífuna",4583
+"46","2","El Progreso","Pueblo de pertenencia","Garífuna",184
+"47","3","Sacatepéquez","Pueblo de pertenencia","Garífuna",428
+"48","4","Chimaltenango","Pueblo de pertenencia","Garífuna",563
+"49","5","Escuintla","Pueblo de pertenencia","Garífuna",933
+"50","6","Santa Rosa","Pueblo de pertenencia","Garífuna",646
+"51","7","Sololá","Pueblo de pertenencia","Garífuna",387
+"52","8","Totonicapán","Pueblo de pertenencia","Garífuna",274
+"53","9","Quetzaltenango","Pueblo de pertenencia","Garífuna",675
+"54","10","Suchitepéquez","Pueblo de pertenencia","Garífuna",639
+"55","11","Retalhuleu","Pueblo de pertenencia","Garífuna",258
+"56","12","San Marcos","Pueblo de pertenencia","Garífuna",757
+"57","13","Huehuetenango","Pueblo de pertenencia","Garífuna",884
+"58","14","Quiché","Pueblo de pertenencia","Garífuna",556
+"59","15","Baja Verapaz","Pueblo de pertenencia","Garífuna",244
+"60","16","Alta Verapaz","Pueblo de pertenencia","Garífuna",1136
+"61","17","Petén","Pueblo de pertenencia","Garífuna",462
+"62","18","Izabal","Pueblo de pertenencia","Garífuna",3002
+"63","19","Zacapa","Pueblo de pertenencia","Garífuna",349
+"64","20","Chiquimula","Pueblo de pertenencia","Garífuna",797
+"65","21","Jalapa","Pueblo de pertenencia","Garífuna",832
+"66","22","Jutiapa","Pueblo de pertenencia","Garífuna",940
+"67","1","Guatemala","Pueblo de pertenencia","Xinka",3382
+"68","2","El Progreso","Pueblo de pertenencia","Xinka",46
+"69","3","Sacatepéquez","Pueblo de pertenencia","Xinka",206
+"70","4","Chimaltenango","Pueblo de pertenencia","Xinka",237
+"71","5","Escuintla","Pueblo de pertenencia","Xinka",259
+"72","6","Santa Rosa","Pueblo de pertenencia","Xinka",55855
+"73","7","Sololá","Pueblo de pertenencia","Xinka",35
+"74","8","Totonicapán","Pueblo de pertenencia","Xinka",49
+"75","9","Quetzaltenango","Pueblo de pertenencia","Xinka",206
+"76","10","Suchitepéquez","Pueblo de pertenencia","Xinka",210
+"77","11","Retalhuleu","Pueblo de pertenencia","Xinka",58
+"78","12","San Marcos","Pueblo de pertenencia","Xinka",76
+"79","13","Huehuetenango","Pueblo de pertenencia","Xinka",44
+"80","14","Quiché","Pueblo de pertenencia","Xinka",59
+"81","15","Baja Verapaz","Pueblo de pertenencia","Xinka",63
+"82","16","Alta Verapaz","Pueblo de pertenencia","Xinka",147
+"83","17","Petén","Pueblo de pertenencia","Xinka",200
+"84","18","Izabal","Pueblo de pertenencia","Xinka",105
+"85","19","Zacapa","Pueblo de pertenencia","Xinka",46
+"86","20","Chiquimula","Pueblo de pertenencia","Xinka",49
+"87","21","Jalapa","Pueblo de pertenencia","Xinka",108529
+"88","22","Jutiapa","Pueblo de pertenencia","Xinka",94306
+"89","1","Guatemala","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",6222
+"90","2","El Progreso","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",86
+"91","3","Sacatepéquez","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",486
+"92","4","Chimaltenango","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",1255
+"93","5","Escuintla","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",1466
+"94","6","Santa Rosa","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",885
+"95","7","Sololá","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",366
+"96","8","Totonicapán","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",381
+"97","9","Quetzaltenango","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",1197
+"98","10","Suchitepéquez","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",3531
+"99","11","Retalhuleu","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",684
+"100","12","San Marcos","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",495
+"101","13","Huehuetenango","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",1305
+"102","14","Quiché","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",1690
+"103","15","Baja Verapaz","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",542
+"104","16","Alta Verapaz","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",1288
+"105","17","Petén","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",1097
+"106","18","Izabal","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",1529
+"107","19","Zacapa","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",791
+"108","20","Chiquimula","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",771
+"109","21","Jalapa","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",690
+"110","22","Jutiapa","Pueblo de pertenencia","Afrodescendiente/Creole/Afromestizo",890
+"111","1","Guatemala","Pueblo de pertenencia","Ladina(o)",2578135
+"112","2","El Progreso","Pueblo de pertenencia","Ladina(o)",173441
+"113","3","Sacatepéquez","Pueblo de pertenencia","Ladina(o)",195101
+"114","4","Chimaltenango","Pueblo de pertenencia","Ladina(o)",131674
+"115","5","Escuintla","Pueblo de pertenencia","Ladina(o)",691936
+"116","6","Santa Rosa","Pueblo de pertenencia","Ladina(o)",330149
+"117","7","Sololá","Pueblo de pertenencia","Ladina(o)",14025
+"118","8","Totonicapán","Pueblo de pertenencia","Ladina(o)",7528
+"119","9","Quetzaltenango","Pueblo de pertenencia","Ladina(o)",388850
+"120","10","Suchitepéquez","Pueblo de pertenencia","Ladina(o)",338471
+"121","11","Retalhuleu","Pueblo de pertenencia","Ladina(o)",276576
+"122","12","San Marcos","Pueblo de pertenencia","Ladina(o)",711812
+"123","13","Huehuetenango","Pueblo de pertenencia","Ladina(o)",406836
+"124","14","Quiché","Pueblo de pertenencia","Ladina(o)",100150
+"125","15","Baja Verapaz","Pueblo de pertenencia","Ladina(o)",118660
+"126","16","Alta Verapaz","Pueblo de pertenencia","Ladina(o)",82505
+"127","17","Petén","Pueblo de pertenencia","Ladina(o)",378129
+"128","18","Izabal","Pueblo de pertenencia","Ladina(o)",287869
+"129","19","Zacapa","Pueblo de pertenencia","Ladina(o)",238987
+"130","20","Chiquimula","Pueblo de pertenencia","Ladina(o)",301454
+"131","21","Jalapa","Pueblo de pertenencia","Ladina(o)",207497
+"132","22","Jutiapa","Pueblo de pertenencia","Ladina(o)",386335
+"133","1","Guatemala","Pueblo de pertenencia","Extranjera(o)",20383
+"134","2","El Progreso","Pueblo de pertenencia","Extranjera(o)",248
+"135","3","Sacatepéquez","Pueblo de pertenencia","Extranjera(o)",1486
+"136","4","Chimaltenango","Pueblo de pertenencia","Extranjera(o)",712
+"137","5","Escuintla","Pueblo de pertenencia","Extranjera(o)",1487
+"138","6","Santa Rosa","Pueblo de pertenencia","Extranjera(o)",1209
+"139","7","Sololá","Pueblo de pertenencia","Extranjera(o)",475
+"140","8","Totonicapán","Pueblo de pertenencia","Extranjera(o)",142
+"141","9","Quetzaltenango","Pueblo de pertenencia","Extranjera(o)",1682
+"142","10","Suchitepéquez","Pueblo de pertenencia","Extranjera(o)",741
+"143","11","Retalhuleu","Pueblo de pertenencia","Extranjera(o)",381
+"144","12","San Marcos","Pueblo de pertenencia","Extranjera(o)",1044
+"145","13","Huehuetenango","Pueblo de pertenencia","Extranjera(o)",729
+"146","14","Quiché","Pueblo de pertenencia","Extranjera(o)",306
+"147","15","Baja Verapaz","Pueblo de pertenencia","Extranjera(o)",221
+"148","16","Alta Verapaz","Pueblo de pertenencia","Extranjera(o)",593
+"149","17","Petén","Pueblo de pertenencia","Extranjera(o)",898
+"150","18","Izabal","Pueblo de pertenencia","Extranjera(o)",887
+"151","19","Zacapa","Pueblo de pertenencia","Extranjera(o)",432
+"152","20","Chiquimula","Pueblo de pertenencia","Extranjera(o)",624
+"153","21","Jalapa","Pueblo de pertenencia","Extranjera(o)",484
+"154","22","Jutiapa","Pueblo de pertenencia","Extranjera(o)",1156
+"155","1","Guatemala","Comunidad lingüística","Achi",11896
+"156","2","El Progreso","Comunidad lingüística","Achi",145
+"157","3","Sacatepéquez","Comunidad lingüística","Achi",1123
+"158","4","Chimaltenango","Comunidad lingüística","Achi",1744
+"159","5","Escuintla","Comunidad lingüística","Achi",1075
+"160","6","Santa Rosa","Comunidad lingüística","Achi",520
+"161","7","Sololá","Comunidad lingüística","Achi",1287
+"162","8","Totonicapán","Comunidad lingüística","Achi",1234
+"163","9","Quetzaltenango","Comunidad lingüística","Achi",1079
+"164","10","Suchitepéquez","Comunidad lingüística","Achi",796
+"165","11","Retalhuleu","Comunidad lingüística","Achi",193
+"166","12","San Marcos","Comunidad lingüística","Achi",899
+"167","13","Huehuetenango","Comunidad lingüística","Achi",1656
+"168","14","Quiché","Comunidad lingüística","Achi",4824
+"169","15","Baja Verapaz","Comunidad lingüística","Achi",121340
+"170","16","Alta Verapaz","Comunidad lingüística","Achi",7467
+"171","17","Petén","Comunidad lingüística","Achi",2314
+"172","18","Izabal","Comunidad lingüística","Achi",360
+"173","19","Zacapa","Comunidad lingüística","Achi",149
+"174","20","Chiquimula","Comunidad lingüística","Achi",334
+"175","21","Jalapa","Comunidad lingüística","Achi",204
+"176","22","Jutiapa","Comunidad lingüística","Achi",219
+"177","1","Guatemala","Comunidad lingüística","Akateka",1246
+"178","2","El Progreso","Comunidad lingüística","Akateka",4
+"179","3","Sacatepéquez","Comunidad lingüística","Akateka",244
+"180","4","Chimaltenango","Comunidad lingüística","Akateka",418
+"181","5","Escuintla","Comunidad lingüística","Akateka",243
+"182","6","Santa Rosa","Comunidad lingüística","Akateka",140
+"183","7","Sololá","Comunidad lingüística","Akateka",365
+"184","8","Totonicapán","Comunidad lingüística","Akateka",531
+"185","9","Quetzaltenango","Comunidad lingüística","Akateka",1268
+"186","10","Suchitepéquez","Comunidad lingüística","Akateka",456
+"187","11","Retalhuleu","Comunidad lingüística","Akateka",115
+"188","12","San Marcos","Comunidad lingüística","Akateka",767
+"189","13","Huehuetenango","Comunidad lingüística","Akateka",56945
+"190","14","Quiché","Comunidad lingüística","Akateka",1131
+"191","15","Baja Verapaz","Comunidad lingüística","Akateka",132
+"192","16","Alta Verapaz","Comunidad lingüística","Akateka",1332
+"193","17","Petén","Comunidad lingüística","Akateka",140
+"194","18","Izabal","Comunidad lingüística","Akateka",116
+"195","19","Zacapa","Comunidad lingüística","Akateka",31
+"196","20","Chiquimula","Comunidad lingüística","Akateka",92
+"197","21","Jalapa","Comunidad lingüística","Akateka",150
+"198","22","Jutiapa","Comunidad lingüística","Akateka",99
+"199","1","Guatemala","Comunidad lingüística","Awakateka",812
+"200","2","El Progreso","Comunidad lingüística","Awakateka",2
+"201","3","Sacatepéquez","Comunidad lingüística","Awakateka",44
+"202","4","Chimaltenango","Comunidad lingüística","Awakateka",40
+"203","5","Escuintla","Comunidad lingüística","Awakateka",259
+"204","6","Santa Rosa","Comunidad lingüística","Awakateka",153
+"205","7","Sololá","Comunidad lingüística","Awakateka",13
+"206","8","Totonicapán","Comunidad lingüística","Awakateka",19
+"207","9","Quetzaltenango","Comunidad lingüística","Awakateka",112
+"208","10","Suchitepéquez","Comunidad lingüística","Awakateka",23
+"209","11","Retalhuleu","Comunidad lingüística","Awakateka",4
+"210","12","San Marcos","Comunidad lingüística","Awakateka",20
+"211","13","Huehuetenango","Comunidad lingüística","Awakateka",10039
+"212","14","Quiché","Comunidad lingüística","Awakateka",359
+"213","15","Baja Verapaz","Comunidad lingüística","Awakateka",5
+"214","16","Alta Verapaz","Comunidad lingüística","Awakateka",68
+"215","17","Petén","Comunidad lingüística","Awakateka",4
+"216","18","Izabal","Comunidad lingüística","Awakateka",4
+"217","19","Zacapa","Comunidad lingüística","Awakateka",8
+"218","20","Chiquimula","Comunidad lingüística","Awakateka",26
+"219","21","Jalapa","Comunidad lingüística","Awakateka",289
+"220","22","Jutiapa","Comunidad lingüística","Awakateka",238
+"221","1","Guatemala","Comunidad lingüística","Ch'orti'",319
+"222","2","El Progreso","Comunidad lingüística","Ch'orti'",10
+"223","3","Sacatepéquez","Comunidad lingüística","Ch'orti'",50
+"224","4","Chimaltenango","Comunidad lingüística","Ch'orti'",12
+"225","5","Escuintla","Comunidad lingüística","Ch'orti'",41
+"226","6","Santa Rosa","Comunidad lingüística","Ch'orti'",52
+"227","7","Sololá","Comunidad lingüística","Ch'orti'",5
+"228","8","Totonicapán","Comunidad lingüística","Ch'orti'",10
+"229","9","Quetzaltenango","Comunidad lingüística","Ch'orti'",12
+"230","10","Suchitepéquez","Comunidad lingüística","Ch'orti'",11
+"231","11","Retalhuleu","Comunidad lingüística","Ch'orti'",10
+"232","12","San Marcos","Comunidad lingüística","Ch'orti'",7
+"233","13","Huehuetenango","Comunidad lingüística","Ch'orti'",110
+"234","14","Quiché","Comunidad lingüística","Ch'orti'",61
+"235","15","Baja Verapaz","Comunidad lingüística","Ch'orti'",60
+"236","16","Alta Verapaz","Comunidad lingüística","Ch'orti'",26
+"237","17","Petén","Comunidad lingüística","Ch'orti'",417
+"238","18","Izabal","Comunidad lingüística","Ch'orti'",235
+"239","19","Zacapa","Comunidad lingüística","Ch'orti'",2092
+"240","20","Chiquimula","Comunidad lingüística","Ch'orti'",108758
+"241","21","Jalapa","Comunidad lingüística","Ch'orti'",51
+"242","22","Jutiapa","Comunidad lingüística","Ch'orti'",83
+"243","1","Guatemala","Comunidad lingüística","Chalchiteka",5013
+"244","2","El Progreso","Comunidad lingüística","Chalchiteka",580
+"245","3","Sacatepéquez","Comunidad lingüística","Chalchiteka",667
+"246","4","Chimaltenango","Comunidad lingüística","Chalchiteka",266
+"247","5","Escuintla","Comunidad lingüística","Chalchiteka",1326
+"248","6","Santa Rosa","Comunidad lingüística","Chalchiteka",562
+"249","7","Sololá","Comunidad lingüística","Chalchiteka",69
+"250","8","Totonicapán","Comunidad lingüística","Chalchiteka",35
+"251","9","Quetzaltenango","Comunidad lingüística","Chalchiteka",626
+"252","10","Suchitepéquez","Comunidad lingüística","Chalchiteka",548
+"253","11","Retalhuleu","Comunidad lingüística","Chalchiteka",470
+"254","12","San Marcos","Comunidad lingüística","Chalchiteka",1504
+"255","13","Huehuetenango","Comunidad lingüística","Chalchiteka",17027
+"256","14","Quiché","Comunidad lingüística","Chalchiteka",448
+"257","15","Baja Verapaz","Comunidad lingüística","Chalchiteka",454
+"258","16","Alta Verapaz","Comunidad lingüística","Chalchiteka",343
+"259","17","Petén","Comunidad lingüística","Chalchiteka",464
+"260","18","Izabal","Comunidad lingüística","Chalchiteka",322
+"261","19","Zacapa","Comunidad lingüística","Chalchiteka",894
+"262","20","Chiquimula","Comunidad lingüística","Chalchiteka",821
+"263","21","Jalapa","Comunidad lingüística","Chalchiteka",419
+"264","22","Jutiapa","Comunidad lingüística","Chalchiteka",783
+"265","1","Guatemala","Comunidad lingüística","Chuj",337
+"266","2","El Progreso","Comunidad lingüística","Chuj",1
+"267","3","Sacatepéquez","Comunidad lingüística","Chuj",49
+"268","4","Chimaltenango","Comunidad lingüística","Chuj",16
+"269","5","Escuintla","Comunidad lingüística","Chuj",21
+"270","6","Santa Rosa","Comunidad lingüística","Chuj",12
+"271","7","Sololá","Comunidad lingüística","Chuj",13
+"272","8","Totonicapán","Comunidad lingüística","Chuj",9
+"273","9","Quetzaltenango","Comunidad lingüística","Chuj",56
+"274","10","Suchitepéquez","Comunidad lingüística","Chuj",4
+"275","11","Retalhuleu","Comunidad lingüística","Chuj",35
+"276","12","San Marcos","Comunidad lingüística","Chuj",32
+"277","13","Huehuetenango","Comunidad lingüística","Chuj",89663
+"278","14","Quiché","Comunidad lingüística","Chuj",642
+"279","15","Baja Verapaz","Comunidad lingüística","Chuj",6
+"280","16","Alta Verapaz","Comunidad lingüística","Chuj",422
+"281","17","Petén","Comunidad lingüística","Chuj",18
+"282","18","Izabal","Comunidad lingüística","Chuj",6
+"283","19","Zacapa","Comunidad lingüística","Chuj",1
+"284","20","Chiquimula","Comunidad lingüística","Chuj",26
+"285","21","Jalapa","Comunidad lingüística","Chuj",7
+"286","22","Jutiapa","Comunidad lingüística","Chuj",15
+"287","1","Guatemala","Comunidad lingüística","Itza'",128
+"288","2","El Progreso","Comunidad lingüística","Itza'",0
+"289","3","Sacatepéquez","Comunidad lingüística","Itza'",8
+"290","4","Chimaltenango","Comunidad lingüística","Itza'",4
+"291","5","Escuintla","Comunidad lingüística","Itza'",38
+"292","6","Santa Rosa","Comunidad lingüística","Itza'",1
+"293","7","Sololá","Comunidad lingüística","Itza'",3
+"294","8","Totonicapán","Comunidad lingüística","Itza'",3
+"295","9","Quetzaltenango","Comunidad lingüística","Itza'",1
+"296","10","Suchitepéquez","Comunidad lingüística","Itza'",4
+"297","11","Retalhuleu","Comunidad lingüística","Itza'",1
+"298","12","San Marcos","Comunidad lingüística","Itza'",3
+"299","13","Huehuetenango","Comunidad lingüística","Itza'",18
+"300","14","Quiché","Comunidad lingüística","Itza'",39
+"301","15","Baja Verapaz","Comunidad lingüística","Itza'",15
+"302","16","Alta Verapaz","Comunidad lingüística","Itza'",405
+"303","17","Petén","Comunidad lingüística","Itza'",2181
+"304","18","Izabal","Comunidad lingüística","Itza'",62
+"305","19","Zacapa","Comunidad lingüística","Itza'",1
+"306","20","Chiquimula","Comunidad lingüística","Itza'",6
+"307","21","Jalapa","Comunidad lingüística","Itza'",0
+"308","22","Jutiapa","Comunidad lingüística","Itza'",5
+"309","1","Guatemala","Comunidad lingüística","Ixil",3656
+"310","2","El Progreso","Comunidad lingüística","Ixil",22
+"311","3","Sacatepéquez","Comunidad lingüística","Ixil",456
+"312","4","Chimaltenango","Comunidad lingüística","Ixil",712
+"313","5","Escuintla","Comunidad lingüística","Ixil",428
+"314","6","Santa Rosa","Comunidad lingüística","Ixil",134
+"315","7","Sololá","Comunidad lingüística","Ixil",50
+"316","8","Totonicapán","Comunidad lingüística","Ixil",16
+"317","9","Quetzaltenango","Comunidad lingüística","Ixil",164
+"318","10","Suchitepéquez","Comunidad lingüística","Ixil",1046
+"319","11","Retalhuleu","Comunidad lingüística","Ixil",929
+"320","12","San Marcos","Comunidad lingüística","Ixil",15
+"321","13","Huehuetenango","Comunidad lingüística","Ixil",116
+"322","14","Quiché","Comunidad lingüística","Ixil",125271
+"323","15","Baja Verapaz","Comunidad lingüística","Ixil",9
+"324","16","Alta Verapaz","Comunidad lingüística","Ixil",188
+"325","17","Petén","Comunidad lingüística","Ixil",74
+"326","18","Izabal","Comunidad lingüística","Ixil",2
+"327","19","Zacapa","Comunidad lingüística","Ixil",5
+"328","20","Chiquimula","Comunidad lingüística","Ixil",11
+"329","21","Jalapa","Comunidad lingüística","Ixil",8
+"330","22","Jutiapa","Comunidad lingüística","Ixil",17
+"331","1","Guatemala","Comunidad lingüística","Jakalteko/Popti'",275
+"332","2","El Progreso","Comunidad lingüística","Jakalteko/Popti'",1
+"333","3","Sacatepéquez","Comunidad lingüística","Jakalteko/Popti'",32
+"334","4","Chimaltenango","Comunidad lingüística","Jakalteko/Popti'",20
+"335","5","Escuintla","Comunidad lingüística","Jakalteko/Popti'",98
+"336","6","Santa Rosa","Comunidad lingüística","Jakalteko/Popti'",4
+"337","7","Sololá","Comunidad lingüística","Jakalteko/Popti'",9
+"338","8","Totonicapán","Comunidad lingüística","Jakalteko/Popti'",8
+"339","9","Quetzaltenango","Comunidad lingüística","Jakalteko/Popti'",96
+"340","10","Suchitepéquez","Comunidad lingüística","Jakalteko/Popti'",31
+"341","11","Retalhuleu","Comunidad lingüística","Jakalteko/Popti'",23
+"342","12","San Marcos","Comunidad lingüística","Jakalteko/Popti'",24
+"343","13","Huehuetenango","Comunidad lingüística","Jakalteko/Popti'",52239
+"344","14","Quiché","Comunidad lingüística","Jakalteko/Popti'",1188
+"345","15","Baja Verapaz","Comunidad lingüística","Jakalteko/Popti'",13
+"346","16","Alta Verapaz","Comunidad lingüística","Jakalteko/Popti'",49
+"347","17","Petén","Comunidad lingüística","Jakalteko/Popti'",57
+"348","18","Izabal","Comunidad lingüística","Jakalteko/Popti'",2
+"349","19","Zacapa","Comunidad lingüística","Jakalteko/Popti'",34
+"350","20","Chiquimula","Comunidad lingüística","Jakalteko/Popti'",10
+"351","21","Jalapa","Comunidad lingüística","Jakalteko/Popti'",0
+"352","22","Jutiapa","Comunidad lingüística","Jakalteko/Popti'",24
+"353","1","Guatemala","Comunidad lingüística","K'iche'",54443
+"354","2","El Progreso","Comunidad lingüística","K'iche'",837
+"355","3","Sacatepéquez","Comunidad lingüística","K'iche'",3264
+"356","4","Chimaltenango","Comunidad lingüística","K'iche'",11259
+"357","5","Escuintla","Comunidad lingüística","K'iche'",9880
+"358","6","Santa Rosa","Comunidad lingüística","K'iche'",3332
+"359","7","Sololá","Comunidad lingüística","K'iche'",180488
+"360","8","Totonicapán","Comunidad lingüística","K'iche'",405765
+"361","9","Quetzaltenango","Comunidad lingüística","K'iche'",227663
+"362","10","Suchitepéquez","Comunidad lingüística","K'iche'",143396
+"363","11","Retalhuleu","Comunidad lingüística","K'iche'",27278
+"364","12","San Marcos","Comunidad lingüística","K'iche'",2188
+"365","13","Huehuetenango","Comunidad lingüística","K'iche'",27007
+"366","14","Quiché","Comunidad lingüística","K'iche'",570985
+"367","15","Baja Verapaz","Comunidad lingüística","K'iche'",1126
+"368","16","Alta Verapaz","Comunidad lingüística","K'iche'",2664
+"369","17","Petén","Comunidad lingüística","K'iche'",2746
+"370","18","Izabal","Comunidad lingüística","K'iche'",2003
+"371","19","Zacapa","Comunidad lingüística","K'iche'",749
+"372","20","Chiquimula","Comunidad lingüística","K'iche'",635
+"373","21","Jalapa","Comunidad lingüística","K'iche'",984
+"374","22","Jutiapa","Comunidad lingüística","K'iche'",1859
+"375","1","Guatemala","Comunidad lingüística","Kaqchiquel",272989
+"376","2","El Progreso","Comunidad lingüística","Kaqchiquel",369
+"377","3","Sacatepéquez","Comunidad lingüística","Kaqchiquel",124829
+"378","4","Chimaltenango","Comunidad lingüística","Kaqchiquel",463784
+"379","5","Escuintla","Comunidad lingüística","Kaqchiquel",7674
+"380","6","Santa Rosa","Comunidad lingüística","Kaqchiquel",1785
+"381","7","Sololá","Comunidad lingüística","Kaqchiquel",158341
+"382","8","Totonicapán","Comunidad lingüística","Kaqchiquel",591
+"383","9","Quetzaltenango","Comunidad lingüística","Kaqchiquel",1639
+"384","10","Suchitepéquez","Comunidad lingüística","Kaqchiquel",21368
+"385","11","Retalhuleu","Comunidad lingüística","Kaqchiquel",1445
+"386","12","San Marcos","Comunidad lingüística","Kaqchiquel",740
+"387","13","Huehuetenango","Comunidad lingüística","Kaqchiquel",828
+"388","14","Quiché","Comunidad lingüística","Kaqchiquel",3823
+"389","15","Baja Verapaz","Comunidad lingüística","Kaqchiquel",707
+"390","16","Alta Verapaz","Comunidad lingüística","Kaqchiquel",2222
+"391","17","Petén","Comunidad lingüística","Kaqchiquel",3158
+"392","18","Izabal","Comunidad lingüística","Kaqchiquel",500
+"393","19","Zacapa","Comunidad lingüística","Kaqchiquel",250
+"394","20","Chiquimula","Comunidad lingüística","Kaqchiquel",210
+"395","21","Jalapa","Comunidad lingüística","Kaqchiquel",317
+"396","22","Jutiapa","Comunidad lingüística","Kaqchiquel",787
+"397","1","Guatemala","Comunidad lingüística","Mam",15779
+"398","2","El Progreso","Comunidad lingüística","Mam",80
+"399","3","Sacatepéquez","Comunidad lingüística","Mam",573
+"400","4","Chimaltenango","Comunidad lingüística","Mam",1678
+"401","5","Escuintla","Comunidad lingüística","Mam",3370
+"402","6","Santa Rosa","Comunidad lingüística","Mam",536
+"403","7","Sololá","Comunidad lingüística","Mam",262
+"404","8","Totonicapán","Comunidad lingüística","Mam",485
+"405","9","Quetzaltenango","Comunidad lingüística","Mam",170855
+"406","10","Suchitepéquez","Comunidad lingüística","Mam",5241
+"407","11","Retalhuleu","Comunidad lingüística","Mam",17896
+"408","12","San Marcos","Comunidad lingüística","Mam",294097
+"409","13","Huehuetenango","Comunidad lingüística","Mam",316592
+"410","14","Quiché","Comunidad lingüística","Mam",9769
+"411","15","Baja Verapaz","Comunidad lingüística","Mam",96
+"412","16","Alta Verapaz","Comunidad lingüística","Mam",2745
+"413","17","Petén","Comunidad lingüística","Mam",1433
+"414","18","Izabal","Comunidad lingüística","Mam",287
+"415","19","Zacapa","Comunidad lingüística","Mam",178
+"416","20","Chiquimula","Comunidad lingüística","Mam",61
+"417","21","Jalapa","Comunidad lingüística","Mam",99
+"418","22","Jutiapa","Comunidad lingüística","Mam",140
+"419","1","Guatemala","Comunidad lingüística","Mopan",160
+"420","2","El Progreso","Comunidad lingüística","Mopan",0
+"421","3","Sacatepéquez","Comunidad lingüística","Mopan",9
+"422","4","Chimaltenango","Comunidad lingüística","Mopan",19
+"423","5","Escuintla","Comunidad lingüística","Mopan",30
+"424","6","Santa Rosa","Comunidad lingüística","Mopan",27
+"425","7","Sololá","Comunidad lingüística","Mopan",10
+"426","8","Totonicapán","Comunidad lingüística","Mopan",17
+"427","9","Quetzaltenango","Comunidad lingüística","Mopan",64
+"428","10","Suchitepéquez","Comunidad lingüística","Mopan",22
+"429","11","Retalhuleu","Comunidad lingüística","Mopan",12
+"430","12","San Marcos","Comunidad lingüística","Mopan",99
+"431","13","Huehuetenango","Comunidad lingüística","Mopan",234
+"432","14","Quiché","Comunidad lingüística","Mopan",79
+"433","15","Baja Verapaz","Comunidad lingüística","Mopan",12
+"434","16","Alta Verapaz","Comunidad lingüística","Mopan",283
+"435","17","Petén","Comunidad lingüística","Mopan",2218
+"436","18","Izabal","Comunidad lingüística","Mopan",37
+"437","19","Zacapa","Comunidad lingüística","Mopan",2
+"438","20","Chiquimula","Comunidad lingüística","Mopan",9
+"439","21","Jalapa","Comunidad lingüística","Mopan",8
+"440","22","Jutiapa","Comunidad lingüística","Mopan",9
+"441","1","Guatemala","Comunidad lingüística","Poqomam",10113
+"442","2","El Progreso","Comunidad lingüística","Poqomam",18
+"443","3","Sacatepéquez","Comunidad lingüística","Poqomam",100
+"444","4","Chimaltenango","Comunidad lingüística","Poqomam",199
+"445","5","Escuintla","Comunidad lingüística","Poqomam",10315
+"446","6","Santa Rosa","Comunidad lingüística","Poqomam",39
+"447","7","Sololá","Comunidad lingüística","Poqomam",137
+"448","8","Totonicapán","Comunidad lingüística","Poqomam",64
+"449","9","Quetzaltenango","Comunidad lingüística","Poqomam",84
+"450","10","Suchitepéquez","Comunidad lingüística","Poqomam",46
+"451","11","Retalhuleu","Comunidad lingüística","Poqomam",27
+"452","12","San Marcos","Comunidad lingüística","Poqomam",424
+"453","13","Huehuetenango","Comunidad lingüística","Poqomam",259
+"454","14","Quiché","Comunidad lingüística","Poqomam",425
+"455","15","Baja Verapaz","Comunidad lingüística","Poqomam",126
+"456","16","Alta Verapaz","Comunidad lingüística","Poqomam",1339
+"457","17","Petén","Comunidad lingüística","Poqomam",363
+"458","18","Izabal","Comunidad lingüística","Poqomam",178
+"459","19","Zacapa","Comunidad lingüística","Poqomam",32
+"460","20","Chiquimula","Comunidad lingüística","Poqomam",39
+"461","21","Jalapa","Comunidad lingüística","Poqomam",22066
+"462","22","Jutiapa","Comunidad lingüística","Poqomam",85
+"463","1","Guatemala","Comunidad lingüística","Poqomchi'",2566
+"464","2","El Progreso","Comunidad lingüística","Poqomchi'",102
+"465","3","Sacatepéquez","Comunidad lingüística","Poqomchi'",77
+"466","4","Chimaltenango","Comunidad lingüística","Poqomchi'",126
+"467","5","Escuintla","Comunidad lingüística","Poqomchi'",256
+"468","6","Santa Rosa","Comunidad lingüística","Poqomchi'",82
+"469","7","Sololá","Comunidad lingüística","Poqomchi'",29
+"470","8","Totonicapán","Comunidad lingüística","Poqomchi'",71
+"471","9","Quetzaltenango","Comunidad lingüística","Poqomchi'",203
+"472","10","Suchitepéquez","Comunidad lingüística","Poqomchi'",75
+"473","11","Retalhuleu","Comunidad lingüística","Poqomchi'",66
+"474","12","San Marcos","Comunidad lingüística","Poqomchi'",123
+"475","13","Huehuetenango","Comunidad lingüística","Poqomchi'",189
+"476","14","Quiché","Comunidad lingüística","Poqomchi'",19805
+"477","15","Baja Verapaz","Comunidad lingüística","Poqomchi'",22567
+"478","16","Alta Verapaz","Comunidad lingüística","Poqomchi'",128557
+"479","17","Petén","Comunidad lingüística","Poqomchi'",1312
+"480","18","Izabal","Comunidad lingüística","Poqomchi'",286
+"481","19","Zacapa","Comunidad lingüística","Poqomchi'",31
+"482","20","Chiquimula","Comunidad lingüística","Poqomchi'",29
+"483","21","Jalapa","Comunidad lingüística","Poqomchi'",16
+"484","22","Jutiapa","Comunidad lingüística","Poqomchi'",54
+"485","1","Guatemala","Comunidad lingüística","Q'anjob'al",1984
+"486","2","El Progreso","Comunidad lingüística","Q'anjob'al",53
+"487","3","Sacatepéquez","Comunidad lingüística","Q'anjob'al",371
+"488","4","Chimaltenango","Comunidad lingüística","Q'anjob'al",165
+"489","5","Escuintla","Comunidad lingüística","Q'anjob'al",417
+"490","6","Santa Rosa","Comunidad lingüística","Q'anjob'al",146
+"491","7","Sololá","Comunidad lingüística","Q'anjob'al",239
+"492","8","Totonicapán","Comunidad lingüística","Q'anjob'al",681
+"493","9","Quetzaltenango","Comunidad lingüística","Q'anjob'al",1403
+"494","10","Suchitepéquez","Comunidad lingüística","Q'anjob'al",414
+"495","11","Retalhuleu","Comunidad lingüística","Q'anjob'al",218
+"496","12","San Marcos","Comunidad lingüística","Q'anjob'al",211
+"497","13","Huehuetenango","Comunidad lingüística","Q'anjob'al",185393
+"498","14","Quiché","Comunidad lingüística","Q'anjob'al",14264
+"499","15","Baja Verapaz","Comunidad lingüística","Q'anjob'al",10
+"500","16","Alta Verapaz","Comunidad lingüística","Q'anjob'al",1665
+"501","17","Petén","Comunidad lingüística","Q'anjob'al",295
+"502","18","Izabal","Comunidad lingüística","Q'anjob'al",29
+"503","19","Zacapa","Comunidad lingüística","Q'anjob'al",7
+"504","20","Chiquimula","Comunidad lingüística","Q'anjob'al",7
+"505","21","Jalapa","Comunidad lingüística","Q'anjob'al",30
+"506","22","Jutiapa","Comunidad lingüística","Q'anjob'al",6
+"507","1","Guatemala","Comunidad lingüística","Q'eqchi'",16040
+"508","2","El Progreso","Comunidad lingüística","Q'eqchi'",370
+"509","3","Sacatepéquez","Comunidad lingüística","Q'eqchi'",540
+"510","4","Chimaltenango","Comunidad lingüística","Q'eqchi'",458
+"511","5","Escuintla","Comunidad lingüística","Q'eqchi'",1091
+"512","6","Santa Rosa","Comunidad lingüística","Q'eqchi'",274
+"513","7","Sololá","Comunidad lingüística","Q'eqchi'",104
+"514","8","Totonicapán","Comunidad lingüística","Q'eqchi'",108
+"515","9","Quetzaltenango","Comunidad lingüística","Q'eqchi'",418
+"516","10","Suchitepéquez","Comunidad lingüística","Q'eqchi'",410
+"517","11","Retalhuleu","Comunidad lingüística","Q'eqchi'",102
+"518","12","San Marcos","Comunidad lingüística","Q'eqchi'",281
+"519","13","Huehuetenango","Comunidad lingüística","Q'eqchi'",213
+"520","14","Quiché","Comunidad lingüística","Q'eqchi'",77974
+"521","15","Baja Verapaz","Comunidad lingüística","Q'eqchi'",33018
+"522","16","Alta Verapaz","Comunidad lingüística","Q'eqchi'",979220
+"523","17","Petén","Comunidad lingüística","Q'eqchi'",147530
+"524","18","Izabal","Comunidad lingüística","Q'eqchi'",110761
+"525","19","Zacapa","Comunidad lingüística","Q'eqchi'",286
+"526","20","Chiquimula","Comunidad lingüística","Q'eqchi'",286
+"527","21","Jalapa","Comunidad lingüística","Q'eqchi'",215
+"528","22","Jutiapa","Comunidad lingüística","Q'eqchi'",308
+"529","1","Guatemala","Comunidad lingüística","Sakapulteka",1172
+"530","2","El Progreso","Comunidad lingüística","Sakapulteka",1
+"531","3","Sacatepéquez","Comunidad lingüística","Sakapulteka",21
+"532","4","Chimaltenango","Comunidad lingüística","Sakapulteka",25
+"533","5","Escuintla","Comunidad lingüística","Sakapulteka",37
+"534","6","Santa Rosa","Comunidad lingüística","Sakapulteka",24
+"535","7","Sololá","Comunidad lingüística","Sakapulteka",15
+"536","8","Totonicapán","Comunidad lingüística","Sakapulteka",57
+"537","9","Quetzaltenango","Comunidad lingüística","Sakapulteka",56
+"538","10","Suchitepéquez","Comunidad lingüística","Sakapulteka",17
+"539","11","Retalhuleu","Comunidad lingüística","Sakapulteka",8
+"540","12","San Marcos","Comunidad lingüística","Sakapulteka",39
+"541","13","Huehuetenango","Comunidad lingüística","Sakapulteka",103
+"542","14","Quiché","Comunidad lingüística","Sakapulteka",11080
+"543","15","Baja Verapaz","Comunidad lingüística","Sakapulteka",20
+"544","16","Alta Verapaz","Comunidad lingüística","Sakapulteka",166
+"545","17","Petén","Comunidad lingüística","Sakapulteka",31
+"546","18","Izabal","Comunidad lingüística","Sakapulteka",42
+"547","19","Zacapa","Comunidad lingüística","Sakapulteka",6
+"548","20","Chiquimula","Comunidad lingüística","Sakapulteka",2
+"549","21","Jalapa","Comunidad lingüística","Sakapulteka",14
+"550","22","Jutiapa","Comunidad lingüística","Sakapulteka",2
+"551","1","Guatemala","Comunidad lingüística","Sipakapense",481
+"552","2","El Progreso","Comunidad lingüística","Sipakapense",10
+"553","3","Sacatepéquez","Comunidad lingüística","Sipakapense",40
+"554","4","Chimaltenango","Comunidad lingüística","Sipakapense",25
+"555","5","Escuintla","Comunidad lingüística","Sipakapense",19
+"556","6","Santa Rosa","Comunidad lingüística","Sipakapense",16
+"557","7","Sololá","Comunidad lingüística","Sipakapense",19
+"558","8","Totonicapán","Comunidad lingüística","Sipakapense",18
+"559","9","Quetzaltenango","Comunidad lingüística","Sipakapense",113
+"560","10","Suchitepéquez","Comunidad lingüística","Sipakapense",6
+"561","11","Retalhuleu","Comunidad lingüística","Sipakapense",8
+"562","12","San Marcos","Comunidad lingüística","Sipakapense",16383
+"563","13","Huehuetenango","Comunidad lingüística","Sipakapense",85
+"564","14","Quiché","Comunidad lingüística","Sipakapense",41
+"565","15","Baja Verapaz","Comunidad lingüística","Sipakapense",5
+"566","16","Alta Verapaz","Comunidad lingüística","Sipakapense",76
+"567","17","Petén","Comunidad lingüística","Sipakapense",13
+"568","18","Izabal","Comunidad lingüística","Sipakapense",8
+"569","19","Zacapa","Comunidad lingüística","Sipakapense",0
+"570","20","Chiquimula","Comunidad lingüística","Sipakapense",0
+"571","21","Jalapa","Comunidad lingüística","Sipakapense",3
+"572","22","Jutiapa","Comunidad lingüística","Sipakapense",4
+"573","1","Guatemala","Comunidad lingüística","Tektiteka",104
+"574","2","El Progreso","Comunidad lingüística","Tektiteka",0
+"575","3","Sacatepéquez","Comunidad lingüística","Tektiteka",1
+"576","4","Chimaltenango","Comunidad lingüística","Tektiteka",4
+"577","5","Escuintla","Comunidad lingüística","Tektiteka",7
+"578","6","Santa Rosa","Comunidad lingüística","Tektiteka",2
+"579","7","Sololá","Comunidad lingüística","Tektiteka",50
+"580","8","Totonicapán","Comunidad lingüística","Tektiteka",406
+"581","9","Quetzaltenango","Comunidad lingüística","Tektiteka",188
+"582","10","Suchitepéquez","Comunidad lingüística","Tektiteka",133
+"583","11","Retalhuleu","Comunidad lingüística","Tektiteka",8
+"584","12","San Marcos","Comunidad lingüística","Tektiteka",21
+"585","13","Huehuetenango","Comunidad lingüística","Tektiteka",1858
+"586","14","Quiché","Comunidad lingüística","Tektiteka",518
+"587","15","Baja Verapaz","Comunidad lingüística","Tektiteka",8
+"588","16","Alta Verapaz","Comunidad lingüística","Tektiteka",1
+"589","17","Petén","Comunidad lingüística","Tektiteka",4
+"590","18","Izabal","Comunidad lingüística","Tektiteka",2
+"591","19","Zacapa","Comunidad lingüística","Tektiteka",0
+"592","20","Chiquimula","Comunidad lingüística","Tektiteka",2
+"593","21","Jalapa","Comunidad lingüística","Tektiteka",0
+"594","22","Jutiapa","Comunidad lingüística","Tektiteka",0
+"595","1","Guatemala","Comunidad lingüística","Tz'utujil",2433
+"596","2","El Progreso","Comunidad lingüística","Tz'utujil",13
+"597","3","Sacatepéquez","Comunidad lingüística","Tz'utujil",218
+"598","4","Chimaltenango","Comunidad lingüística","Tz'utujil",252
+"599","5","Escuintla","Comunidad lingüística","Tz'utujil",422
+"600","6","Santa Rosa","Comunidad lingüística","Tz'utujil",20
+"601","7","Sololá","Comunidad lingüística","Tz'utujil",64748
+"602","8","Totonicapán","Comunidad lingüística","Tz'utujil",51
+"603","9","Quetzaltenango","Comunidad lingüística","Tz'utujil",349
+"604","10","Suchitepéquez","Comunidad lingüística","Tz'utujil",37015
+"605","11","Retalhuleu","Comunidad lingüística","Tz'utujil",22
+"606","12","San Marcos","Comunidad lingüística","Tz'utujil",93
+"607","13","Huehuetenango","Comunidad lingüística","Tz'utujil",88
+"608","14","Quiché","Comunidad lingüística","Tz'utujil",83
+"609","15","Baja Verapaz","Comunidad lingüística","Tz'utujil",13
+"610","16","Alta Verapaz","Comunidad lingüística","Tz'utujil",81
+"611","17","Petén","Comunidad lingüística","Tz'utujil",24
+"612","18","Izabal","Comunidad lingüística","Tz'utujil",40
+"613","19","Zacapa","Comunidad lingüística","Tz'utujil",10
+"614","20","Chiquimula","Comunidad lingüística","Tz'utujil",3
+"615","21","Jalapa","Comunidad lingüística","Tz'utujil",5
+"616","22","Jutiapa","Comunidad lingüística","Tz'utujil",29
+"617","1","Guatemala","Comunidad lingüística","Uspanteka",430
+"618","2","El Progreso","Comunidad lingüística","Uspanteka",9
+"619","3","Sacatepéquez","Comunidad lingüística","Uspanteka",46
+"620","4","Chimaltenango","Comunidad lingüística","Uspanteka",109
+"621","5","Escuintla","Comunidad lingüística","Uspanteka",53
+"622","6","Santa Rosa","Comunidad lingüística","Uspanteka",2
+"623","7","Sololá","Comunidad lingüística","Uspanteka",39
+"624","8","Totonicapán","Comunidad lingüística","Uspanteka",16
+"625","9","Quetzaltenango","Comunidad lingüística","Uspanteka",42
+"626","10","Suchitepéquez","Comunidad lingüística","Uspanteka",41
+"627","11","Retalhuleu","Comunidad lingüística","Uspanteka",1
+"628","12","San Marcos","Comunidad lingüística","Uspanteka",123
+"629","13","Huehuetenango","Comunidad lingüística","Uspanteka",209
+"630","14","Quiché","Comunidad lingüística","Uspanteka",3691
+"631","15","Baja Verapaz","Comunidad lingüística","Uspanteka",4
+"632","16","Alta Verapaz","Comunidad lingüística","Uspanteka",50
+"633","17","Petén","Comunidad lingüística","Uspanteka",18
+"634","18","Izabal","Comunidad lingüística","Uspanteka",14
+"635","19","Zacapa","Comunidad lingüística","Uspanteka",3
+"636","20","Chiquimula","Comunidad lingüística","Uspanteka",1
+"637","21","Jalapa","Comunidad lingüística","Uspanteka",6
+"638","22","Jutiapa","Comunidad lingüística","Uspanteka",2
+"639","1","Guatemala","Idioma en el que aprendió a hablar","Achí",9983
+"640","2","El Progreso","Idioma en el que aprendió a hablar","Achí",377
+"641","3","Sacatepéquez","Idioma en el que aprendió a hablar","Achí",830
+"642","4","Chimaltenango","Idioma en el que aprendió a hablar","Achí",1265
+"643","5","Escuintla","Idioma en el que aprendió a hablar","Achí",1219
+"644","6","Santa Rosa","Idioma en el que aprendió a hablar","Achí",780
+"645","7","Sololá","Idioma en el que aprendió a hablar","Achí",1180
+"646","8","Totonicapán","Idioma en el que aprendió a hablar","Achí",1286
+"647","9","Quetzaltenango","Idioma en el que aprendió a hablar","Achí",1506
+"648","10","Suchitepéquez","Idioma en el que aprendió a hablar","Achí",874
+"649","11","Retalhuleu","Idioma en el que aprendió a hablar","Achí",506
+"650","12","San Marcos","Idioma en el que aprendió a hablar","Achí",1529
+"651","13","Huehuetenango","Idioma en el que aprendió a hablar","Achí",2018
+"652","14","Quiché","Idioma en el que aprendió a hablar","Achí",4070
+"653","15","Baja Verapaz","Idioma en el que aprendió a hablar","Achí",84593
+"654","16","Alta Verapaz","Idioma en el que aprendió a hablar","Achí",6936
+"655","17","Petén","Idioma en el que aprendió a hablar","Achí",2010
+"656","18","Izabal","Idioma en el que aprendió a hablar","Achí",596
+"657","19","Zacapa","Idioma en el que aprendió a hablar","Achí",434
+"658","20","Chiquimula","Idioma en el que aprendió a hablar","Achí",804
+"659","21","Jalapa","Idioma en el que aprendió a hablar","Achí",652
+"660","22","Jutiapa","Idioma en el que aprendió a hablar","Achí",890
+"661","1","Guatemala","Idioma en el que aprendió a hablar","Akateko",1464
+"662","2","El Progreso","Idioma en el que aprendió a hablar","Akateko",29
+"663","3","Sacatepéquez","Idioma en el que aprendió a hablar","Akateko",200
+"664","4","Chimaltenango","Idioma en el que aprendió a hablar","Akateko",293
+"665","5","Escuintla","Idioma en el que aprendió a hablar","Akateko",276
+"666","6","Santa Rosa","Idioma en el que aprendió a hablar","Akateko",307
+"667","7","Sololá","Idioma en el que aprendió a hablar","Akateko",213
+"668","8","Totonicapán","Idioma en el que aprendió a hablar","Akateko",237
+"669","9","Quetzaltenango","Idioma en el que aprendió a hablar","Akateko",608
+"670","10","Suchitepéquez","Idioma en el que aprendió a hablar","Akateko",291
+"671","11","Retalhuleu","Idioma en el que aprendió a hablar","Akateko",112
+"672","12","San Marcos","Idioma en el que aprendió a hablar","Akateko",404
+"673","13","Huehuetenango","Idioma en el que aprendió a hablar","Akateko",48220
+"674","14","Quiché","Idioma en el que aprendió a hablar","Akateko",598
+"675","15","Baja Verapaz","Idioma en el que aprendió a hablar","Akateko",98
+"676","16","Alta Verapaz","Idioma en el que aprendió a hablar","Akateko",933
+"677","17","Petén","Idioma en el que aprendió a hablar","Akateko",152
+"678","18","Izabal","Idioma en el que aprendió a hablar","Akateko",159
+"679","19","Zacapa","Idioma en el que aprendió a hablar","Akateko",70
+"680","20","Chiquimula","Idioma en el que aprendió a hablar","Akateko",127
+"681","21","Jalapa","Idioma en el que aprendió a hablar","Akateko",254
+"682","22","Jutiapa","Idioma en el que aprendió a hablar","Akateko",245
+"683","1","Guatemala","Idioma en el que aprendió a hablar","Awakateko",557
+"684","2","El Progreso","Idioma en el que aprendió a hablar","Awakateko",5
+"685","3","Sacatepéquez","Idioma en el que aprendió a hablar","Awakateko",38
+"686","4","Chimaltenango","Idioma en el que aprendió a hablar","Awakateko",31
+"687","5","Escuintla","Idioma en el que aprendió a hablar","Awakateko",216
+"688","6","Santa Rosa","Idioma en el que aprendió a hablar","Awakateko",26
+"689","7","Sololá","Idioma en el que aprendió a hablar","Awakateko",19
+"690","8","Totonicapán","Idioma en el que aprendió a hablar","Awakateko",22
+"691","9","Quetzaltenango","Idioma en el que aprendió a hablar","Awakateko",67
+"692","10","Suchitepéquez","Idioma en el que aprendió a hablar","Awakateko",24
+"693","11","Retalhuleu","Idioma en el que aprendió a hablar","Awakateko",12
+"694","12","San Marcos","Idioma en el que aprendió a hablar","Awakateko",32
+"695","13","Huehuetenango","Idioma en el que aprendió a hablar","Awakateko",8640
+"696","14","Quiché","Idioma en el que aprendió a hablar","Awakateko",316
+"697","15","Baja Verapaz","Idioma en el que aprendió a hablar","Awakateko",8
+"698","16","Alta Verapaz","Idioma en el que aprendió a hablar","Awakateko",58
+"699","17","Petén","Idioma en el que aprendió a hablar","Awakateko",8
+"700","18","Izabal","Idioma en el que aprendió a hablar","Awakateko",8
+"701","19","Zacapa","Idioma en el que aprendió a hablar","Awakateko",10
+"702","20","Chiquimula","Idioma en el que aprendió a hablar","Awakateko",27
+"703","21","Jalapa","Idioma en el que aprendió a hablar","Awakateko",6
+"704","22","Jutiapa","Idioma en el que aprendió a hablar","Awakateko",15
+"705","1","Guatemala","Idioma en el que aprendió a hablar","Ch'orti'",77
+"706","2","El Progreso","Idioma en el que aprendió a hablar","Ch'orti'",1
+"707","3","Sacatepéquez","Idioma en el que aprendió a hablar","Ch'orti'",3
+"708","4","Chimaltenango","Idioma en el que aprendió a hablar","Ch'orti'",10
+"709","5","Escuintla","Idioma en el que aprendió a hablar","Ch'orti'",8
+"710","6","Santa Rosa","Idioma en el que aprendió a hablar","Ch'orti'",5
+"711","7","Sololá","Idioma en el que aprendió a hablar","Ch'orti'",3
+"712","8","Totonicapán","Idioma en el que aprendió a hablar","Ch'orti'",6
+"713","9","Quetzaltenango","Idioma en el que aprendió a hablar","Ch'orti'",20
+"714","10","Suchitepéquez","Idioma en el que aprendió a hablar","Ch'orti'",4
+"715","11","Retalhuleu","Idioma en el que aprendió a hablar","Ch'orti'",1
+"716","12","San Marcos","Idioma en el que aprendió a hablar","Ch'orti'",8
+"717","13","Huehuetenango","Idioma en el que aprendió a hablar","Ch'orti'",37
+"718","14","Quiché","Idioma en el que aprendió a hablar","Ch'orti'",42
+"719","15","Baja Verapaz","Idioma en el que aprendió a hablar","Ch'orti'",23
+"720","16","Alta Verapaz","Idioma en el que aprendió a hablar","Ch'orti'",11
+"721","17","Petén","Idioma en el que aprendió a hablar","Ch'orti'",132
+"722","18","Izabal","Idioma en el que aprendió a hablar","Ch'orti'",126
+"723","19","Zacapa","Idioma en el que aprendió a hablar","Ch'orti'",65
+"724","20","Chiquimula","Idioma en el que aprendió a hablar","Ch'orti'",16053
+"725","21","Jalapa","Idioma en el que aprendió a hablar","Ch'orti'",5
+"726","22","Jutiapa","Idioma en el que aprendió a hablar","Ch'orti'",23
+"727","1","Guatemala","Idioma en el que aprendió a hablar","Chalchiteko",2022
+"728","2","El Progreso","Idioma en el que aprendió a hablar","Chalchiteko",162
+"729","3","Sacatepéquez","Idioma en el que aprendió a hablar","Chalchiteko",150
+"730","4","Chimaltenango","Idioma en el que aprendió a hablar","Chalchiteko",147
+"731","5","Escuintla","Idioma en el que aprendió a hablar","Chalchiteko",570
+"732","6","Santa Rosa","Idioma en el que aprendió a hablar","Chalchiteko",163
+"733","7","Sololá","Idioma en el que aprendió a hablar","Chalchiteko",21
+"734","8","Totonicapán","Idioma en el que aprendió a hablar","Chalchiteko",21
+"735","9","Quetzaltenango","Idioma en el que aprendió a hablar","Chalchiteko",317
+"736","10","Suchitepéquez","Idioma en el que aprendió a hablar","Chalchiteko",303
+"737","11","Retalhuleu","Idioma en el que aprendió a hablar","Chalchiteko",186
+"738","12","San Marcos","Idioma en el que aprendió a hablar","Chalchiteko",557
+"739","13","Huehuetenango","Idioma en el que aprendió a hablar","Chalchiteko",14534
+"740","14","Quiché","Idioma en el que aprendió a hablar","Chalchiteko",311
+"741","15","Baja Verapaz","Idioma en el que aprendió a hablar","Chalchiteko",78
+"742","16","Alta Verapaz","Idioma en el que aprendió a hablar","Chalchiteko",126
+"743","17","Petén","Idioma en el que aprendió a hablar","Chalchiteko",231
+"744","18","Izabal","Idioma en el que aprendió a hablar","Chalchiteko",156
+"745","19","Zacapa","Idioma en el que aprendió a hablar","Chalchiteko",358
+"746","20","Chiquimula","Idioma en el que aprendió a hablar","Chalchiteko",734
+"747","21","Jalapa","Idioma en el que aprendió a hablar","Chalchiteko",211
+"748","22","Jutiapa","Idioma en el que aprendió a hablar","Chalchiteko",192
+"749","1","Guatemala","Idioma en el que aprendió a hablar","Chuj",151
+"750","2","El Progreso","Idioma en el que aprendió a hablar","Chuj",1
+"751","3","Sacatepéquez","Idioma en el que aprendió a hablar","Chuj",2
+"752","4","Chimaltenango","Idioma en el que aprendió a hablar","Chuj",8
+"753","5","Escuintla","Idioma en el que aprendió a hablar","Chuj",11
+"754","6","Santa Rosa","Idioma en el que aprendió a hablar","Chuj",12
+"755","7","Sololá","Idioma en el que aprendió a hablar","Chuj",7
+"756","8","Totonicapán","Idioma en el que aprendió a hablar","Chuj",3
+"757","9","Quetzaltenango","Idioma en el que aprendió a hablar","Chuj",25
+"758","10","Suchitepéquez","Idioma en el que aprendió a hablar","Chuj",2
+"759","11","Retalhuleu","Idioma en el que aprendió a hablar","Chuj",29
+"760","12","San Marcos","Idioma en el que aprendió a hablar","Chuj",10
+"761","13","Huehuetenango","Idioma en el que aprendió a hablar","Chuj",57619
+"762","14","Quiché","Idioma en el que aprendió a hablar","Chuj",378
+"763","15","Baja Verapaz","Idioma en el que aprendió a hablar","Chuj",1
+"764","16","Alta Verapaz","Idioma en el que aprendió a hablar","Chuj",312
+"765","17","Petén","Idioma en el que aprendió a hablar","Chuj",12
+"766","18","Izabal","Idioma en el que aprendió a hablar","Chuj",1
+"767","19","Zacapa","Idioma en el que aprendió a hablar","Chuj",1
+"768","20","Chiquimula","Idioma en el que aprendió a hablar","Chuj",1
+"769","21","Jalapa","Idioma en el que aprendió a hablar","Chuj",4
+"770","22","Jutiapa","Idioma en el que aprendió a hablar","Chuj",2
+"771","1","Guatemala","Idioma en el que aprendió a hablar","Itza'",48
+"772","2","El Progreso","Idioma en el que aprendió a hablar","Itza'",0
+"773","3","Sacatepéquez","Idioma en el que aprendió a hablar","Itza'",2
+"774","4","Chimaltenango","Idioma en el que aprendió a hablar","Itza'",1
+"775","5","Escuintla","Idioma en el que aprendió a hablar","Itza'",2
+"776","6","Santa Rosa","Idioma en el que aprendió a hablar","Itza'",0
+"777","7","Sololá","Idioma en el que aprendió a hablar","Itza'",0
+"778","8","Totonicapán","Idioma en el que aprendió a hablar","Itza'",2
+"779","9","Quetzaltenango","Idioma en el que aprendió a hablar","Itza'",1
+"780","10","Suchitepéquez","Idioma en el que aprendió a hablar","Itza'",0
+"781","11","Retalhuleu","Idioma en el que aprendió a hablar","Itza'",1
+"782","12","San Marcos","Idioma en el que aprendió a hablar","Itza'",1
+"783","13","Huehuetenango","Idioma en el que aprendió a hablar","Itza'",19
+"784","14","Quiché","Idioma en el que aprendió a hablar","Itza'",33
+"785","15","Baja Verapaz","Idioma en el que aprendió a hablar","Itza'",6
+"786","16","Alta Verapaz","Idioma en el que aprendió a hablar","Itza'",189
+"787","17","Petén","Idioma en el que aprendió a hablar","Itza'",63
+"788","18","Izabal","Idioma en el que aprendió a hablar","Itza'",31
+"789","19","Zacapa","Idioma en el que aprendió a hablar","Itza'",0
+"790","20","Chiquimula","Idioma en el que aprendió a hablar","Itza'",4
+"791","21","Jalapa","Idioma en el que aprendió a hablar","Itza'",1
+"792","22","Jutiapa","Idioma en el que aprendió a hablar","Itza'",2
+"793","1","Guatemala","Idioma en el que aprendió a hablar","Ixil",1939
+"794","2","El Progreso","Idioma en el que aprendió a hablar","Ixil",10
+"795","3","Sacatepéquez","Idioma en el que aprendió a hablar","Ixil",272
+"796","4","Chimaltenango","Idioma en el que aprendió a hablar","Ixil",538
+"797","5","Escuintla","Idioma en el que aprendió a hablar","Ixil",221
+"798","6","Santa Rosa","Idioma en el que aprendió a hablar","Ixil",81
+"799","7","Sololá","Idioma en el que aprendió a hablar","Ixil",38
+"800","8","Totonicapán","Idioma en el que aprendió a hablar","Ixil",26
+"801","9","Quetzaltenango","Idioma en el que aprendió a hablar","Ixil",105
+"802","10","Suchitepéquez","Idioma en el que aprendió a hablar","Ixil",915
+"803","11","Retalhuleu","Idioma en el que aprendió a hablar","Ixil",738
+"804","12","San Marcos","Idioma en el que aprendió a hablar","Ixil",15
+"805","13","Huehuetenango","Idioma en el que aprendió a hablar","Ixil",92
+"806","14","Quiché","Idioma en el que aprendió a hablar","Ixil",109809
+"807","15","Baja Verapaz","Idioma en el que aprendió a hablar","Ixil",8
+"808","16","Alta Verapaz","Idioma en el que aprendió a hablar","Ixil",133
+"809","17","Petén","Idioma en el que aprendió a hablar","Ixil",33
+"810","18","Izabal","Idioma en el que aprendió a hablar","Ixil",1
+"811","19","Zacapa","Idioma en el que aprendió a hablar","Ixil",2
+"812","20","Chiquimula","Idioma en el que aprendió a hablar","Ixil",7
+"813","21","Jalapa","Idioma en el que aprendió a hablar","Ixil",7
+"814","22","Jutiapa","Idioma en el que aprendió a hablar","Ixil",7
+"815","1","Guatemala","Idioma en el que aprendió a hablar","Jakalteko/Popti'",98
+"816","2","El Progreso","Idioma en el que aprendió a hablar","Jakalteko/Popti'",0
+"817","3","Sacatepéquez","Idioma en el que aprendió a hablar","Jakalteko/Popti'",6
+"818","4","Chimaltenango","Idioma en el que aprendió a hablar","Jakalteko/Popti'",9
+"819","5","Escuintla","Idioma en el que aprendió a hablar","Jakalteko/Popti'",21
+"820","6","Santa Rosa","Idioma en el que aprendió a hablar","Jakalteko/Popti'",2
+"821","7","Sololá","Idioma en el que aprendió a hablar","Jakalteko/Popti'",8
+"822","8","Totonicapán","Idioma en el que aprendió a hablar","Jakalteko/Popti'",4
+"823","9","Quetzaltenango","Idioma en el que aprendió a hablar","Jakalteko/Popti'",37
+"824","10","Suchitepéquez","Idioma en el que aprendió a hablar","Jakalteko/Popti'",11
+"825","11","Retalhuleu","Idioma en el que aprendió a hablar","Jakalteko/Popti'",1
+"826","12","San Marcos","Idioma en el que aprendió a hablar","Jakalteko/Popti'",16
+"827","13","Huehuetenango","Idioma en el que aprendió a hablar","Jakalteko/Popti'",31798
+"828","14","Quiché","Idioma en el que aprendió a hablar","Jakalteko/Popti'",483
+"829","15","Baja Verapaz","Idioma en el que aprendió a hablar","Jakalteko/Popti'",5
+"830","16","Alta Verapaz","Idioma en el que aprendió a hablar","Jakalteko/Popti'",25
+"831","17","Petén","Idioma en el que aprendió a hablar","Jakalteko/Popti'",24
+"832","18","Izabal","Idioma en el que aprendió a hablar","Jakalteko/Popti'",1
+"833","19","Zacapa","Idioma en el que aprendió a hablar","Jakalteko/Popti'",1
+"834","20","Chiquimula","Idioma en el que aprendió a hablar","Jakalteko/Popti'",1
+"835","21","Jalapa","Idioma en el que aprendió a hablar","Jakalteko/Popti'",0
+"836","22","Jutiapa","Idioma en el que aprendió a hablar","Jakalteko/Popti'",17
+"837","1","Guatemala","Idioma en el que aprendió a hablar","K'iche'",24606
+"838","2","El Progreso","Idioma en el que aprendió a hablar","K'iche'",431
+"839","3","Sacatepéquez","Idioma en el que aprendió a hablar","K'iche'",1624
+"840","4","Chimaltenango","Idioma en el que aprendió a hablar","K'iche'",9917
+"841","5","Escuintla","Idioma en el que aprendió a hablar","K'iche'",5606
+"842","6","Santa Rosa","Idioma en el que aprendió a hablar","K'iche'",2030
+"843","7","Sololá","Idioma en el que aprendió a hablar","K'iche'",148341
+"844","8","Totonicapán","Idioma en el que aprendió a hablar","K'iche'",269545
+"845","9","Quetzaltenango","Idioma en el que aprendió a hablar","K'iche'",62266
+"846","10","Suchitepéquez","Idioma en el que aprendió a hablar","K'iche'",19826
+"847","11","Retalhuleu","Idioma en el que aprendió a hablar","K'iche'",5179
+"848","12","San Marcos","Idioma en el que aprendió a hablar","K'iche'",1254
+"849","13","Huehuetenango","Idioma en el que aprendió a hablar","K'iche'",21571
+"850","14","Quiché","Idioma en el que aprendió a hablar","K'iche'",474772
+"851","15","Baja Verapaz","Idioma en el que aprendió a hablar","K'iche'",665
+"852","16","Alta Verapaz","Idioma en el que aprendió a hablar","K'iche'",1858
+"853","17","Petén","Idioma en el que aprendió a hablar","K'iche'",2002
+"854","18","Izabal","Idioma en el que aprendió a hablar","K'iche'",1156
+"855","19","Zacapa","Idioma en el que aprendió a hablar","K'iche'",350
+"856","20","Chiquimula","Idioma en el que aprendió a hablar","K'iche'",337
+"857","21","Jalapa","Idioma en el que aprendió a hablar","K'iche'",531
+"858","22","Jutiapa","Idioma en el que aprendió a hablar","K'iche'",951
+"859","1","Guatemala","Idioma en el que aprendió a hablar","Kaqchiquel",80157
+"860","2","El Progreso","Idioma en el que aprendió a hablar","Kaqchiquel",175
+"861","3","Sacatepéquez","Idioma en el que aprendió a hablar","Kaqchiquel",29961
+"862","4","Chimaltenango","Idioma en el que aprendió a hablar","Kaqchiquel",171874
+"863","5","Escuintla","Idioma en el que aprendió a hablar","Kaqchiquel",3941
+"864","6","Santa Rosa","Idioma en el que aprendió a hablar","Kaqchiquel",1033
+"865","7","Sololá","Idioma en el que aprendió a hablar","Kaqchiquel",110380
+"866","8","Totonicapán","Idioma en el que aprendió a hablar","Kaqchiquel",420
+"867","9","Quetzaltenango","Idioma en el que aprendió a hablar","Kaqchiquel",511
+"868","10","Suchitepéquez","Idioma en el que aprendió a hablar","Kaqchiquel",4685
+"869","11","Retalhuleu","Idioma en el que aprendió a hablar","Kaqchiquel",303
+"870","12","San Marcos","Idioma en el que aprendió a hablar","Kaqchiquel",252
+"871","13","Huehuetenango","Idioma en el que aprendió a hablar","Kaqchiquel",354
+"872","14","Quiché","Idioma en el que aprendió a hablar","Kaqchiquel",2578
+"873","15","Baja Verapaz","Idioma en el que aprendió a hablar","Kaqchiquel",401
+"874","16","Alta Verapaz","Idioma en el que aprendió a hablar","Kaqchiquel",1534
+"875","17","Petén","Idioma en el que aprendió a hablar","Kaqchiquel",1449
+"876","18","Izabal","Idioma en el que aprendió a hablar","Kaqchiquel",301
+"877","19","Zacapa","Idioma en el que aprendió a hablar","Kaqchiquel",148
+"878","20","Chiquimula","Idioma en el que aprendió a hablar","Kaqchiquel",97
+"879","21","Jalapa","Idioma en el que aprendió a hablar","Kaqchiquel",159
+"880","22","Jutiapa","Idioma en el que aprendió a hablar","Kaqchiquel",376
+"881","1","Guatemala","Idioma en el que aprendió a hablar","Mam",6629
+"882","2","El Progreso","Idioma en el que aprendió a hablar","Mam",46
+"883","3","Sacatepéquez","Idioma en el que aprendió a hablar","Mam",225
+"884","4","Chimaltenango","Idioma en el que aprendió a hablar","Mam",690
+"885","5","Escuintla","Idioma en el que aprendió a hablar","Mam",1516
+"886","6","Santa Rosa","Idioma en el que aprendió a hablar","Mam",361
+"887","7","Sololá","Idioma en el que aprendió a hablar","Mam",174
+"888","8","Totonicapán","Idioma en el que aprendió a hablar","Mam",348
+"889","9","Quetzaltenango","Idioma en el que aprendió a hablar","Mam",123429
+"890","10","Suchitepéquez","Idioma en el que aprendió a hablar","Mam",2444
+"891","11","Retalhuleu","Idioma en el que aprendió a hablar","Mam",7123
+"892","12","San Marcos","Idioma en el que aprendió a hablar","Mam",173926
+"893","13","Huehuetenango","Idioma en el que aprendió a hablar","Mam",266024
+"894","14","Quiché","Idioma en el que aprendió a hablar","Mam",4599
+"895","15","Baja Verapaz","Idioma en el que aprendió a hablar","Mam",50
+"896","16","Alta Verapaz","Idioma en el que aprendió a hablar","Mam",1798
+"897","17","Petén","Idioma en el que aprendió a hablar","Mam",921
+"898","18","Izabal","Idioma en el que aprendió a hablar","Mam",104
+"899","19","Zacapa","Idioma en el que aprendió a hablar","Mam",94
+"900","20","Chiquimula","Idioma en el que aprendió a hablar","Mam",39
+"901","21","Jalapa","Idioma en el que aprendió a hablar","Mam",33
+"902","22","Jutiapa","Idioma en el que aprendió a hablar","Mam",68
+"903","1","Guatemala","Idioma en el que aprendió a hablar","Mopan",34
+"904","2","El Progreso","Idioma en el que aprendió a hablar","Mopan",0
+"905","3","Sacatepéquez","Idioma en el que aprendió a hablar","Mopan",4
+"906","4","Chimaltenango","Idioma en el que aprendió a hablar","Mopan",6
+"907","5","Escuintla","Idioma en el que aprendió a hablar","Mopan",6
+"908","6","Santa Rosa","Idioma en el que aprendió a hablar","Mopan",2
+"909","7","Sololá","Idioma en el que aprendió a hablar","Mopan",1
+"910","8","Totonicapán","Idioma en el que aprendió a hablar","Mopan",7
+"911","9","Quetzaltenango","Idioma en el que aprendió a hablar","Mopan",16
+"912","10","Suchitepéquez","Idioma en el que aprendió a hablar","Mopan",3
+"913","11","Retalhuleu","Idioma en el que aprendió a hablar","Mopan",2
+"914","12","San Marcos","Idioma en el que aprendió a hablar","Mopan",21
+"915","13","Huehuetenango","Idioma en el que aprendió a hablar","Mopan",125
+"916","14","Quiché","Idioma en el que aprendió a hablar","Mopan",21
+"917","15","Baja Verapaz","Idioma en el que aprendió a hablar","Mopan",3
+"918","16","Alta Verapaz","Idioma en el que aprendió a hablar","Mopan",67
+"919","17","Petén","Idioma en el que aprendió a hablar","Mopan",1680
+"920","18","Izabal","Idioma en el que aprendió a hablar","Mopan",7
+"921","19","Zacapa","Idioma en el que aprendió a hablar","Mopan",0
+"922","20","Chiquimula","Idioma en el que aprendió a hablar","Mopan",1
+"923","21","Jalapa","Idioma en el que aprendió a hablar","Mopan",3
+"924","22","Jutiapa","Idioma en el que aprendió a hablar","Mopan",2
+"925","1","Guatemala","Idioma en el que aprendió a hablar","Poqomam",1663
+"926","2","El Progreso","Idioma en el que aprendió a hablar","Poqomam",8
+"927","3","Sacatepéquez","Idioma en el que aprendió a hablar","Poqomam",32
+"928","4","Chimaltenango","Idioma en el que aprendió a hablar","Poqomam",57
+"929","5","Escuintla","Idioma en el que aprendió a hablar","Poqomam",5842
+"930","6","Santa Rosa","Idioma en el que aprendió a hablar","Poqomam",22
+"931","7","Sololá","Idioma en el que aprendió a hablar","Poqomam",66
+"932","8","Totonicapán","Idioma en el que aprendió a hablar","Poqomam",30
+"933","9","Quetzaltenango","Idioma en el que aprendió a hablar","Poqomam",26
+"934","10","Suchitepéquez","Idioma en el que aprendió a hablar","Poqomam",20
+"935","11","Retalhuleu","Idioma en el que aprendió a hablar","Poqomam",19
+"936","12","San Marcos","Idioma en el que aprendió a hablar","Poqomam",132
+"937","13","Huehuetenango","Idioma en el que aprendió a hablar","Poqomam",161
+"938","14","Quiché","Idioma en el que aprendió a hablar","Poqomam",550
+"939","15","Baja Verapaz","Idioma en el que aprendió a hablar","Poqomam",68
+"940","16","Alta Verapaz","Idioma en el que aprendió a hablar","Poqomam",516
+"941","17","Petén","Idioma en el que aprendió a hablar","Poqomam",193
+"942","18","Izabal","Idioma en el que aprendió a hablar","Poqomam",67
+"943","19","Zacapa","Idioma en el que aprendió a hablar","Poqomam",8
+"944","20","Chiquimula","Idioma en el que aprendió a hablar","Poqomam",13
+"945","21","Jalapa","Idioma en el que aprendió a hablar","Poqomam",1264
+"946","22","Jutiapa","Idioma en el que aprendió a hablar","Poqomam",30
+"947","1","Guatemala","Idioma en el que aprendió a hablar","Poqomchi'",1830
+"948","2","El Progreso","Idioma en el que aprendió a hablar","Poqomchi'",78
+"949","3","Sacatepéquez","Idioma en el que aprendió a hablar","Poqomchi'",139
+"950","4","Chimaltenango","Idioma en el que aprendió a hablar","Poqomchi'",161
+"951","5","Escuintla","Idioma en el que aprendió a hablar","Poqomchi'",220
+"952","6","Santa Rosa","Idioma en el que aprendió a hablar","Poqomchi'",67
+"953","7","Sololá","Idioma en el que aprendió a hablar","Poqomchi'",43
+"954","8","Totonicapán","Idioma en el que aprendió a hablar","Poqomchi'",73
+"955","9","Quetzaltenango","Idioma en el que aprendió a hablar","Poqomchi'",163
+"956","10","Suchitepéquez","Idioma en el que aprendió a hablar","Poqomchi'",84
+"957","11","Retalhuleu","Idioma en el que aprendió a hablar","Poqomchi'",29
+"958","12","San Marcos","Idioma en el que aprendió a hablar","Poqomchi'",118
+"959","13","Huehuetenango","Idioma en el que aprendió a hablar","Poqomchi'",171
+"960","14","Quiché","Idioma en el que aprendió a hablar","Poqomchi'",17086
+"961","15","Baja Verapaz","Idioma en el que aprendió a hablar","Poqomchi'",16796
+"962","16","Alta Verapaz","Idioma en el que aprendió a hablar","Poqomchi'",94478
+"963","17","Petén","Idioma en el que aprendió a hablar","Poqomchi'",1124
+"964","18","Izabal","Idioma en el que aprendió a hablar","Poqomchi'",234
+"965","19","Zacapa","Idioma en el que aprendió a hablar","Poqomchi'",51
+"966","20","Chiquimula","Idioma en el que aprendió a hablar","Poqomchi'",43
+"967","21","Jalapa","Idioma en el que aprendió a hablar","Poqomchi'",32
+"968","22","Jutiapa","Idioma en el que aprendió a hablar","Poqomchi'",54
+"969","1","Guatemala","Idioma en el que aprendió a hablar","Q'anjob'al",1103
+"970","2","El Progreso","Idioma en el que aprendió a hablar","Q'anjob'al",34
+"971","3","Sacatepéquez","Idioma en el que aprendió a hablar","Q'anjob'al",206
+"972","4","Chimaltenango","Idioma en el que aprendió a hablar","Q'anjob'al",126
+"973","5","Escuintla","Idioma en el que aprendió a hablar","Q'anjob'al",162
+"974","6","Santa Rosa","Idioma en el que aprendió a hablar","Q'anjob'al",100
+"975","7","Sololá","Idioma en el que aprendió a hablar","Q'anjob'al",131
+"976","8","Totonicapán","Idioma en el que aprendió a hablar","Q'anjob'al",219
+"977","9","Quetzaltenango","Idioma en el que aprendió a hablar","Q'anjob'al",461
+"978","10","Suchitepéquez","Idioma en el que aprendió a hablar","Q'anjob'al",150
+"979","11","Retalhuleu","Idioma en el que aprendió a hablar","Q'anjob'al",64
+"980","12","San Marcos","Idioma en el que aprendió a hablar","Q'anjob'al",128
+"981","13","Huehuetenango","Idioma en el que aprendió a hablar","Q'anjob'al",152500
+"982","14","Quiché","Idioma en el que aprendió a hablar","Q'anjob'al",9527
+"983","15","Baja Verapaz","Idioma en el que aprendió a hablar","Q'anjob'al",2
+"984","16","Alta Verapaz","Idioma en el que aprendió a hablar","Q'anjob'al",1098
+"985","17","Petén","Idioma en el que aprendió a hablar","Q'anjob'al",212
+"986","18","Izabal","Idioma en el que aprendió a hablar","Q'anjob'al",9
+"987","19","Zacapa","Idioma en el que aprendió a hablar","Q'anjob'al",3
+"988","20","Chiquimula","Idioma en el que aprendió a hablar","Q'anjob'al",5
+"989","21","Jalapa","Idioma en el que aprendió a hablar","Q'anjob'al",17
+"990","22","Jutiapa","Idioma en el que aprendió a hablar","Q'anjob'al",4
+"991","1","Guatemala","Idioma en el que aprendió a hablar","Q'eqchi'",8839
+"992","2","El Progreso","Idioma en el que aprendió a hablar","Q'eqchi'",248
+"993","3","Sacatepéquez","Idioma en el que aprendió a hablar","Q'eqchi'",281
+"994","4","Chimaltenango","Idioma en el que aprendió a hablar","Q'eqchi'",322
+"995","5","Escuintla","Idioma en el que aprendió a hablar","Q'eqchi'",568
+"996","6","Santa Rosa","Idioma en el que aprendió a hablar","Q'eqchi'",148
+"997","7","Sololá","Idioma en el que aprendió a hablar","Q'eqchi'",122
+"998","8","Totonicapán","Idioma en el que aprendió a hablar","Q'eqchi'",128
+"999","9","Quetzaltenango","Idioma en el que aprendió a hablar","Q'eqchi'",259
+"1000","10","Suchitepéquez","Idioma en el que aprendió a hablar","Q'eqchi'",143
+"1001","11","Retalhuleu","Idioma en el que aprendió a hablar","Q'eqchi'",46
+"1002","12","San Marcos","Idioma en el que aprendió a hablar","Q'eqchi'",179
+"1003","13","Huehuetenango","Idioma en el que aprendió a hablar","Q'eqchi'",177
+"1004","14","Quiché","Idioma en el que aprendió a hablar","Q'eqchi'",65747
+"1005","15","Baja Verapaz","Idioma en el que aprendió a hablar","Q'eqchi'",23777
+"1006","16","Alta Verapaz","Idioma en el que aprendió a hablar","Q'eqchi'",809613
+"1007","17","Petén","Idioma en el que aprendió a hablar","Q'eqchi'",125067
+"1008","18","Izabal","Idioma en el que aprendió a hablar","Q'eqchi'",91051
+"1009","19","Zacapa","Idioma en el que aprendió a hablar","Q'eqchi'",195
+"1010","20","Chiquimula","Idioma en el que aprendió a hablar","Q'eqchi'",228
+"1011","21","Jalapa","Idioma en el que aprendió a hablar","Q'eqchi'",107
+"1012","22","Jutiapa","Idioma en el que aprendió a hablar","Q'eqchi'",142
+"1013","1","Guatemala","Idioma en el que aprendió a hablar","Sakapulteko",547
+"1014","2","El Progreso","Idioma en el que aprendió a hablar","Sakapulteko",0
+"1015","3","Sacatepéquez","Idioma en el que aprendió a hablar","Sakapulteko",10
+"1016","4","Chimaltenango","Idioma en el que aprendió a hablar","Sakapulteko",19
+"1017","5","Escuintla","Idioma en el que aprendió a hablar","Sakapulteko",14
+"1018","6","Santa Rosa","Idioma en el que aprendió a hablar","Sakapulteko",10
+"1019","7","Sololá","Idioma en el que aprendió a hablar","Sakapulteko",8
+"1020","8","Totonicapán","Idioma en el que aprendió a hablar","Sakapulteko",23
+"1021","9","Quetzaltenango","Idioma en el que aprendió a hablar","Sakapulteko",27
+"1022","10","Suchitepéquez","Idioma en el que aprendió a hablar","Sakapulteko",9
+"1023","11","Retalhuleu","Idioma en el que aprendió a hablar","Sakapulteko",2
+"1024","12","San Marcos","Idioma en el que aprendió a hablar","Sakapulteko",9
+"1025","13","Huehuetenango","Idioma en el que aprendió a hablar","Sakapulteko",75
+"1026","14","Quiché","Idioma en el que aprendió a hablar","Sakapulteko",5634
+"1027","15","Baja Verapaz","Idioma en el que aprendió a hablar","Sakapulteko",4
+"1028","16","Alta Verapaz","Idioma en el que aprendió a hablar","Sakapulteko",77
+"1029","17","Petén","Idioma en el que aprendió a hablar","Sakapulteko",13
+"1030","18","Izabal","Idioma en el que aprendió a hablar","Sakapulteko",30
+"1031","19","Zacapa","Idioma en el que aprendió a hablar","Sakapulteko",5
+"1032","20","Chiquimula","Idioma en el que aprendió a hablar","Sakapulteko",0
+"1033","21","Jalapa","Idioma en el que aprendió a hablar","Sakapulteko",10
+"1034","22","Jutiapa","Idioma en el que aprendió a hablar","Sakapulteko",2
+"1035","1","Guatemala","Idioma en el que aprendió a hablar","Sipakapense",147
+"1036","2","El Progreso","Idioma en el que aprendió a hablar","Sipakapense",4
+"1037","3","Sacatepéquez","Idioma en el que aprendió a hablar","Sipakapense",5
+"1038","4","Chimaltenango","Idioma en el que aprendió a hablar","Sipakapense",9
+"1039","5","Escuintla","Idioma en el que aprendió a hablar","Sipakapense",7
+"1040","6","Santa Rosa","Idioma en el que aprendió a hablar","Sipakapense",5
+"1041","7","Sololá","Idioma en el que aprendió a hablar","Sipakapense",9
+"1042","8","Totonicapán","Idioma en el que aprendió a hablar","Sipakapense",6
+"1043","9","Quetzaltenango","Idioma en el que aprendió a hablar","Sipakapense",27
+"1044","10","Suchitepéquez","Idioma en el que aprendió a hablar","Sipakapense",4
+"1045","11","Retalhuleu","Idioma en el que aprendió a hablar","Sipakapense",6
+"1046","12","San Marcos","Idioma en el que aprendió a hablar","Sipakapense",3823
+"1047","13","Huehuetenango","Idioma en el que aprendió a hablar","Sipakapense",43
+"1048","14","Quiché","Idioma en el que aprendió a hablar","Sipakapense",25
+"1049","15","Baja Verapaz","Idioma en el que aprendió a hablar","Sipakapense",3
+"1050","16","Alta Verapaz","Idioma en el que aprendió a hablar","Sipakapense",20
+"1051","17","Petén","Idioma en el que aprendió a hablar","Sipakapense",3
+"1052","18","Izabal","Idioma en el que aprendió a hablar","Sipakapense",1
+"1053","19","Zacapa","Idioma en el que aprendió a hablar","Sipakapense",7
+"1054","20","Chiquimula","Idioma en el que aprendió a hablar","Sipakapense",1
+"1055","21","Jalapa","Idioma en el que aprendió a hablar","Sipakapense",0
+"1056","22","Jutiapa","Idioma en el que aprendió a hablar","Sipakapense",0
+"1057","1","Guatemala","Idioma en el que aprendió a hablar","Tektiteko",363
+"1058","2","El Progreso","Idioma en el que aprendió a hablar","Tektiteko",11
+"1059","3","Sacatepéquez","Idioma en el que aprendió a hablar","Tektiteko",40
+"1060","4","Chimaltenango","Idioma en el que aprendió a hablar","Tektiteko",28
+"1061","5","Escuintla","Idioma en el que aprendió a hablar","Tektiteko",155
+"1062","6","Santa Rosa","Idioma en el que aprendió a hablar","Tektiteko",34
+"1063","7","Sololá","Idioma en el que aprendió a hablar","Tektiteko",46
+"1064","8","Totonicapán","Idioma en el que aprendió a hablar","Tektiteko",398
+"1065","9","Quetzaltenango","Idioma en el que aprendió a hablar","Tektiteko",154
+"1066","10","Suchitepéquez","Idioma en el que aprendió a hablar","Tektiteko",88
+"1067","11","Retalhuleu","Idioma en el que aprendió a hablar","Tektiteko",37
+"1068","12","San Marcos","Idioma en el que aprendió a hablar","Tektiteko",74
+"1069","13","Huehuetenango","Idioma en el que aprendió a hablar","Tektiteko",803
+"1070","14","Quiché","Idioma en el que aprendió a hablar","Tektiteko",465
+"1071","15","Baja Verapaz","Idioma en el que aprendió a hablar","Tektiteko",10
+"1072","16","Alta Verapaz","Idioma en el que aprendió a hablar","Tektiteko",25
+"1073","17","Petén","Idioma en el que aprendió a hablar","Tektiteko",53
+"1074","18","Izabal","Idioma en el que aprendió a hablar","Tektiteko",24
+"1075","19","Zacapa","Idioma en el que aprendió a hablar","Tektiteko",29
+"1076","20","Chiquimula","Idioma en el que aprendió a hablar","Tektiteko",121
+"1077","21","Jalapa","Idioma en el que aprendió a hablar","Tektiteko",23
+"1078","22","Jutiapa","Idioma en el que aprendió a hablar","Tektiteko",28
+"1079","1","Guatemala","Idioma en el que aprendió a hablar","Tz'utujil",2532
+"1080","2","El Progreso","Idioma en el que aprendió a hablar","Tz'utujil",37
+"1081","3","Sacatepéquez","Idioma en el que aprendió a hablar","Tz'utujil",195
+"1082","4","Chimaltenango","Idioma en el que aprendió a hablar","Tz'utujil",317
+"1083","5","Escuintla","Idioma en el que aprendió a hablar","Tz'utujil",430
+"1084","6","Santa Rosa","Idioma en el que aprendió a hablar","Tz'utujil",91
+"1085","7","Sololá","Idioma en el que aprendió a hablar","Tz'utujil",54942
+"1086","8","Totonicapán","Idioma en el que aprendió a hablar","Tz'utujil",58
+"1087","9","Quetzaltenango","Idioma en el que aprendió a hablar","Tz'utujil",353
+"1088","10","Suchitepéquez","Idioma en el que aprendió a hablar","Tz'utujil",11792
+"1089","11","Retalhuleu","Idioma en el que aprendió a hablar","Tz'utujil",130
+"1090","12","San Marcos","Idioma en el que aprendió a hablar","Tz'utujil",292
+"1091","13","Huehuetenango","Idioma en el que aprendió a hablar","Tz'utujil",141
+"1092","14","Quiché","Idioma en el que aprendió a hablar","Tz'utujil",268
+"1093","15","Baja Verapaz","Idioma en el que aprendió a hablar","Tz'utujil",35
+"1094","16","Alta Verapaz","Idioma en el que aprendió a hablar","Tz'utujil",92
+"1095","17","Petén","Idioma en el que aprendió a hablar","Tz'utujil",93
+"1096","18","Izabal","Idioma en el que aprendió a hablar","Tz'utujil",90
+"1097","19","Zacapa","Idioma en el que aprendió a hablar","Tz'utujil",115
+"1098","20","Chiquimula","Idioma en el que aprendió a hablar","Tz'utujil",77
+"1099","21","Jalapa","Idioma en el que aprendió a hablar","Tz'utujil",249
+"1100","22","Jutiapa","Idioma en el que aprendió a hablar","Tz'utujil",107
+"1101","1","Guatemala","Idioma en el que aprendió a hablar","Uspanteko",537
+"1102","2","El Progreso","Idioma en el que aprendió a hablar","Uspanteko",13
+"1103","3","Sacatepéquez","Idioma en el que aprendió a hablar","Uspanteko",57
+"1104","4","Chimaltenango","Idioma en el que aprendió a hablar","Uspanteko",154
+"1105","5","Escuintla","Idioma en el que aprendió a hablar","Uspanteko",150
+"1106","6","Santa Rosa","Idioma en el que aprendió a hablar","Uspanteko",38
+"1107","7","Sololá","Idioma en el que aprendió a hablar","Uspanteko",44
+"1108","8","Totonicapán","Idioma en el que aprendió a hablar","Uspanteko",31
+"1109","9","Quetzaltenango","Idioma en el que aprendió a hablar","Uspanteko",71
+"1110","10","Suchitepéquez","Idioma en el que aprendió a hablar","Uspanteko",81
+"1111","11","Retalhuleu","Idioma en el que aprendió a hablar","Uspanteko",39
+"1112","12","San Marcos","Idioma en el que aprendió a hablar","Uspanteko",167
+"1113","13","Huehuetenango","Idioma en el que aprendió a hablar","Uspanteko",287
+"1114","14","Quiché","Idioma en el que aprendió a hablar","Uspanteko",3026
+"1115","15","Baja Verapaz","Idioma en el que aprendió a hablar","Uspanteko",15
+"1116","16","Alta Verapaz","Idioma en el que aprendió a hablar","Uspanteko",85
+"1117","17","Petén","Idioma en el que aprendió a hablar","Uspanteko",26
+"1118","18","Izabal","Idioma en el que aprendió a hablar","Uspanteko",30
+"1119","19","Zacapa","Idioma en el que aprendió a hablar","Uspanteko",24
+"1120","20","Chiquimula","Idioma en el que aprendió a hablar","Uspanteko",21
+"1121","21","Jalapa","Idioma en el que aprendió a hablar","Uspanteko",46
+"1122","22","Jutiapa","Idioma en el que aprendió a hablar","Uspanteko",183
+"1123","1","Guatemala","Idioma en el que aprendió a hablar","Xinka",795
+"1124","2","El Progreso","Idioma en el que aprendió a hablar","Xinka",13
+"1125","3","Sacatepéquez","Idioma en el que aprendió a hablar","Xinka",98
+"1126","4","Chimaltenango","Idioma en el que aprendió a hablar","Xinka",155
+"1127","5","Escuintla","Idioma en el que aprendió a hablar","Xinka",174
+"1128","6","Santa Rosa","Idioma en el que aprendió a hablar","Xinka",164
+"1129","7","Sololá","Idioma en el que aprendió a hablar","Xinka",21
+"1130","8","Totonicapán","Idioma en el que aprendió a hablar","Xinka",39
+"1131","9","Quetzaltenango","Idioma en el que aprendió a hablar","Xinka",98
+"1132","10","Suchitepéquez","Idioma en el que aprendió a hablar","Xinka",102
+"1133","11","Retalhuleu","Idioma en el que aprendió a hablar","Xinka",87
+"1134","12","San Marcos","Idioma en el que aprendió a hablar","Xinka",192
+"1135","13","Huehuetenango","Idioma en el que aprendió a hablar","Xinka",116
+"1136","14","Quiché","Idioma en el que aprendió a hablar","Xinka",57
+"1137","15","Baja Verapaz","Idioma en el que aprendió a hablar","Xinka",23
+"1138","16","Alta Verapaz","Idioma en el que aprendió a hablar","Xinka",28
+"1139","17","Petén","Idioma en el que aprendió a hablar","Xinka",52
+"1140","18","Izabal","Idioma en el que aprendió a hablar","Xinka",45
+"1141","19","Zacapa","Idioma en el que aprendió a hablar","Xinka",72
+"1142","20","Chiquimula","Idioma en el que aprendió a hablar","Xinka",43
+"1143","21","Jalapa","Idioma en el que aprendió a hablar","Xinka",52
+"1144","22","Jutiapa","Idioma en el que aprendió a hablar","Xinka",329
+"1145","1","Guatemala","Idioma en el que aprendió a hablar","Garífuna",576
+"1146","2","El Progreso","Idioma en el que aprendió a hablar","Garífuna",24
+"1147","3","Sacatepéquez","Idioma en el que aprendió a hablar","Garífuna",49
+"1148","4","Chimaltenango","Idioma en el que aprendió a hablar","Garífuna",41
+"1149","5","Escuintla","Idioma en el que aprendió a hablar","Garífuna",112
+"1150","6","Santa Rosa","Idioma en el que aprendió a hablar","Garífuna",51
+"1151","7","Sololá","Idioma en el que aprendió a hablar","Garífuna",20
+"1152","8","Totonicapán","Idioma en el que aprendió a hablar","Garífuna",11
+"1153","9","Quetzaltenango","Idioma en el que aprendió a hablar","Garífuna",81
+"1154","10","Suchitepéquez","Idioma en el que aprendió a hablar","Garífuna",58
+"1155","11","Retalhuleu","Idioma en el que aprendió a hablar","Garífuna",41
+"1156","12","San Marcos","Idioma en el que aprendió a hablar","Garífuna",97
+"1157","13","Huehuetenango","Idioma en el que aprendió a hablar","Garífuna",79
+"1158","14","Quiché","Idioma en el que aprendió a hablar","Garífuna",18
+"1159","15","Baja Verapaz","Idioma en el que aprendió a hablar","Garífuna",18
+"1160","16","Alta Verapaz","Idioma en el que aprendió a hablar","Garífuna",19
+"1161","17","Petén","Idioma en el que aprendió a hablar","Garífuna",29
+"1162","18","Izabal","Idioma en el que aprendió a hablar","Garífuna",1251
+"1163","19","Zacapa","Idioma en el que aprendió a hablar","Garífuna",48
+"1164","20","Chiquimula","Idioma en el que aprendió a hablar","Garífuna",109
+"1165","21","Jalapa","Idioma en el que aprendió a hablar","Garífuna",54
+"1166","22","Jutiapa","Idioma en el que aprendió a hablar","Garífuna",70
+"1167","1","Guatemala","Idioma en el que aprendió a hablar","Español",2649698
+"1168","2","El Progreso","Idioma en el que aprendió a hablar","Español",160662
+"1169","3","Sacatepéquez","Idioma en el que aprendió a hablar","Español",270804
+"1170","4","Chimaltenango","Idioma en el que aprendió a hablar","Español",372625
+"1171","5","Escuintla","Idioma en el que aprendió a hablar","Español",648582
+"1172","6","Santa Rosa","Idioma en el que aprendió a hablar","Español",357102
+"1173","7","Sololá","Idioma en el que aprendió a hablar","Español",69788
+"1174","8","Totonicapán","Idioma en el que aprendió a hablar","Español",106829
+"1175","9","Quetzaltenango","Idioma en el que aprendió a hablar","Español",540086
+"1176","10","Suchitepéquez","Idioma en el que aprendió a hablar","Español",460687
+"1177","11","Retalhuleu","Idioma en el que aprendió a hablar","Español",282052
+"1178","12","San Marcos","Idioma en el que aprendió a hablar","Español",742996
+"1179","13","Huehuetenango","Idioma en el que aprendió a hablar","Español",416672
+"1180","14","Quiché","Idioma en el que aprendió a hablar","Español",148636
+"1181","15","Baja Verapaz","Idioma en el que aprendió a hablar","Español",142873
+"1182","16","Alta Verapaz","Idioma en el que aprendió a hablar","Español",161220
+"1183","17","Petén","Idioma en el que aprendió a hablar","Español",355436
+"1184","18","Izabal","Idioma en el que aprendió a hablar","Español",275270
+"1185","19","Zacapa","Idioma en el que aprendió a hablar","Español",222822
+"1186","20","Chiquimula","Idioma en el que aprendió a hablar","Español",355106
+"1187","21","Jalapa","Idioma en el que aprendió a hablar","Español",305255
+"1188","22","Jutiapa","Idioma en el que aprendió a hablar","Español",443637
+"1189","1","Guatemala","Idioma en el que aprendió a hablar","Inglés",3664
+"1190","2","El Progreso","Idioma en el que aprendió a hablar","Inglés",44
+"1191","3","Sacatepéquez","Idioma en el que aprendió a hablar","Inglés",679
+"1192","4","Chimaltenango","Idioma en el que aprendió a hablar","Inglés",227
+"1193","5","Escuintla","Idioma en el que aprendió a hablar","Inglés",177
+"1194","6","Santa Rosa","Idioma en el que aprendió a hablar","Inglés",191
+"1195","7","Sololá","Idioma en el que aprendió a hablar","Inglés",245
+"1196","8","Totonicapán","Idioma en el que aprendió a hablar","Inglés",62
+"1197","9","Quetzaltenango","Idioma en el que aprendió a hablar","Inglés",468
+"1198","10","Suchitepéquez","Idioma en el que aprendió a hablar","Inglés",123
+"1199","11","Retalhuleu","Idioma en el que aprendió a hablar","Inglés",95
+"1200","12","San Marcos","Idioma en el que aprendió a hablar","Inglés",246
+"1201","13","Huehuetenango","Idioma en el que aprendió a hablar","Inglés",369
+"1202","14","Quiché","Idioma en el que aprendió a hablar","Inglés",129
+"1203","15","Baja Verapaz","Idioma en el que aprendió a hablar","Inglés",39
+"1204","16","Alta Verapaz","Idioma en el que aprendió a hablar","Inglés",122
+"1205","17","Petén","Idioma en el que aprendió a hablar","Inglés",333
+"1206","18","Izabal","Idioma en el que aprendió a hablar","Inglés",174
+"1207","19","Zacapa","Idioma en el que aprendió a hablar","Inglés",100
+"1208","20","Chiquimula","Idioma en el que aprendió a hablar","Inglés",103
+"1209","21","Jalapa","Idioma en el que aprendió a hablar","Inglés",103
+"1210","22","Jutiapa","Idioma en el que aprendió a hablar","Inglés",131
+"1211","1","Guatemala","Idioma en el que aprendió a hablar","Señas",445
+"1212","2","El Progreso","Idioma en el que aprendió a hablar","Señas",10
+"1213","3","Sacatepéquez","Idioma en el que aprendió a hablar","Señas",48
+"1214","4","Chimaltenango","Idioma en el que aprendió a hablar","Señas",74
+"1215","5","Escuintla","Idioma en el que aprendió a hablar","Señas",96
+"1216","6","Santa Rosa","Idioma en el que aprendió a hablar","Señas",39
+"1217","7","Sololá","Idioma en el que aprendió a hablar","Señas",41
+"1218","8","Totonicapán","Idioma en el que aprendió a hablar","Señas",53
+"1219","9","Quetzaltenango","Idioma en el que aprendió a hablar","Señas",113
+"1220","10","Suchitepéquez","Idioma en el que aprendió a hablar","Señas",74
+"1221","11","Retalhuleu","Idioma en el que aprendió a hablar","Señas",34
+"1222","12","San Marcos","Idioma en el que aprendió a hablar","Señas",134
+"1223","13","Huehuetenango","Idioma en el que aprendió a hablar","Señas",88
+"1224","14","Quiché","Idioma en el que aprendió a hablar","Señas",191
+"1225","15","Baja Verapaz","Idioma en el que aprendió a hablar","Señas",71
+"1226","16","Alta Verapaz","Idioma en el que aprendió a hablar","Señas",283
+"1227","17","Petén","Idioma en el que aprendió a hablar","Señas",91
+"1228","18","Izabal","Idioma en el que aprendió a hablar","Señas",85
+"1229","19","Zacapa","Idioma en el que aprendió a hablar","Señas",43
+"1230","20","Chiquimula","Idioma en el que aprendió a hablar","Señas",79
+"1231","21","Jalapa","Idioma en el que aprendió a hablar","Señas",47
+"1232","22","Jutiapa","Idioma en el que aprendió a hablar","Señas",77
+"1233","1","Guatemala","Idioma en el que aprendió a hablar","Otro idioma",3889
+"1234","2","El Progreso","Idioma en el que aprendió a hablar","Otro idioma",21
+"1235","3","Sacatepéquez","Idioma en el que aprendió a hablar","Otro idioma",338
+"1236","4","Chimaltenango","Idioma en el que aprendió a hablar","Otro idioma",445
+"1237","5","Escuintla","Idioma en el que aprendió a hablar","Otro idioma",288
+"1238","6","Santa Rosa","Idioma en el que aprendió a hablar","Otro idioma",191
+"1239","7","Sololá","Idioma en el que aprendió a hablar","Otro idioma",119
+"1240","8","Totonicapán","Idioma en el que aprendió a hablar","Otro idioma",69
+"1241","9","Quetzaltenango","Idioma en el que aprendió a hablar","Otro idioma",491
+"1242","10","Suchitepéquez","Idioma en el que aprendió a hablar","Otro idioma",147
+"1243","11","Retalhuleu","Idioma en el que aprendió a hablar","Otro idioma",112
+"1244","12","San Marcos","Idioma en el que aprendió a hablar","Otro idioma",364
+"1245","13","Huehuetenango","Idioma en el que aprendió a hablar","Otro idioma",19062
+"1246","14","Quiché","Idioma en el que aprendió a hablar","Otro idioma",208
+"1247","15","Baja Verapaz","Idioma en el que aprendió a hablar","Otro idioma",43
+"1248","16","Alta Verapaz","Idioma en el que aprendió a hablar","Otro idioma",173
+"1249","17","Petén","Idioma en el que aprendió a hablar","Otro idioma",122
+"1250","18","Izabal","Idioma en el que aprendió a hablar","Otro idioma",214
+"1251","19","Zacapa","Idioma en el que aprendió a hablar","Otro idioma",57
+"1252","20","Chiquimula","Idioma en el que aprendió a hablar","Otro idioma",62
+"1253","21","Jalapa","Idioma en el que aprendió a hablar","Otro idioma",48
+"1254","22","Jutiapa","Idioma en el que aprendió a hablar","Otro idioma",79
+"1255","1","Guatemala","Idioma en el que aprendió a hablar","No habla",2104
+"1256","2","El Progreso","Idioma en el que aprendió a hablar","No habla",150
+"1257","3","Sacatepéquez","Idioma en el que aprendió a hablar","No habla",243
+"1258","4","Chimaltenango","Idioma en el que aprendió a hablar","No habla",731
+"1259","5","Escuintla","Idioma en el que aprendió a hablar","No habla",747
+"1260","6","Santa Rosa","Idioma en el que aprendió a hablar","No habla",383
+"1261","7","Sololá","Idioma en el que aprendió a hablar","No habla",447
+"1262","8","Totonicapán","Idioma en el que aprendió a hablar","No habla",477
+"1263","9","Quetzaltenango","Idioma en el que aprendió a hablar","No habla",858
+"1264","10","Suchitepéquez","Idioma en el que aprendió a hablar","No habla",661
+"1265","11","Retalhuleu","Idioma en el que aprendió a hablar","No habla",350
+"1266","12","San Marcos","Idioma en el que aprendió a hablar","No habla",973
+"1267","13","Huehuetenango","Idioma en el que aprendió a hablar","No habla",1161
+"1268","14","Quiché","Idioma en el que aprendió a hablar","No habla",1078
+"1269","15","Baja Verapaz","Idioma en el que aprendió a hablar","No habla",397
+"1270","16","Alta Verapaz","Idioma en el que aprendió a hablar","No habla",956
+"1271","17","Petén","Idioma en el que aprendió a hablar","No habla",479
+"1272","18","Izabal","Idioma en el que aprendió a hablar","No habla",466
+"1273","19","Zacapa","Idioma en el que aprendió a hablar","No habla",252
+"1274","20","Chiquimula","Idioma en el que aprendió a hablar","No habla",393
+"1275","21","Jalapa","Idioma en el que aprendió a hablar","No habla",287
+"1276","22","Jutiapa","Idioma en el que aprendió a hablar","No habla",403
+"1277","1","Guatemala","Población de 4 años o más","No hay grupo",2806497
+"1278","2","El Progreso","Población de 4 años o más","No hay grupo",162594
+"1279","3","Sacatepéquez","Población de 4 años o más","No hay grupo",306541
+"1280","4","Chimaltenango","Población de 4 años o más","No hay grupo",560280
+"1281","5","Escuintla","Población de 4 años o más","No hay grupo",671337
+"1282","6","Santa Rosa","Población de 4 años o más","No hay grupo",363438
+"1283","7","Sololá","Población de 4 años o más","No hay grupo",386477
+"1284","8","Totonicapán","Población de 4 años o más","No hay grupo",380433
+"1285","9","Quetzaltenango","Población de 4 años o más","No hay grupo",732644
+"1286","10","Suchitepéquez","Población de 4 años o más","No hay grupo",503605
+"1287","11","Retalhuleu","Población de 4 años o más","No hay grupo",297336
+"1288","12","San Marcos","Población de 4 años o más","No hay grupo",927949
+"1289","13","Huehuetenango","Población de 4 años o más","No hay grupo",1042956
+"1290","14","Quiché","Población de 4 años o más","No hay grupo",850655
+"1291","15","Baja Verapaz","Población de 4 años o más","No hay grupo",270113
+"1292","16","Alta Verapaz","Población de 4 años o más","No hay grupo",1082785
+"1293","17","Petén","Población de 4 años o más","No hay grupo",492043
+"1294","18","Izabal","Población de 4 años o más","No hay grupo",371688
+"1295","19","Zacapa","Población de 4 años o más","No hay grupo",225364
+"1296","20","Chiquimula","Población de 4 años o más","No hay grupo",374636
+"1297","21","Jalapa","Población de 4 años o más","No hay grupo",309460
+"1298","22","Jutiapa","Población de 4 años o más","No hay grupo",448066

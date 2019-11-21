@@ -1,0 +1,89 @@
+"","Código","Departamento","caracteristica","grupo","observaciones"
+"1","1","Guatemala","Distribución de hogares por área urbana","No hay grupo",92.22
+"2","2","El Progreso","Distribución de hogares por área urbana","No hay grupo",53.39
+"3","3","Sacatepéquez","Distribución de hogares por área urbana","No hay grupo",88.88
+"4","4","Chimaltenango","Distribución de hogares por área urbana","No hay grupo",56.75
+"5","5","Escuintla","Distribución de hogares por área urbana","No hay grupo",61.62
+"6","6","Santa Rosa","Distribución de hogares por área urbana","No hay grupo",46.91
+"7","7","Sololá","Distribución de hogares por área urbana","No hay grupo",61.78
+"8","8","Totonicapán","Distribución de hogares por área urbana","No hay grupo",54.07
+"9","9","Quetzaltenango","Distribución de hogares por área urbana","No hay grupo",63.57
+"10","10","Suchitepéquez","Distribución de hogares por área urbana","No hay grupo",49.84
+"11","11","Retalhuleu","Distribución de hogares por área urbana","No hay grupo",58.54
+"12","12","San Marcos","Distribución de hogares por área urbana","No hay grupo",28
+"13","13","Huehuetenango","Distribución de hogares por área urbana","No hay grupo",31.16
+"14","14","Quiché","Distribución de hogares por área urbana","No hay grupo",34.09
+"15","15","Baja Verapaz","Distribución de hogares por área urbana","No hay grupo",42.87
+"16","16","Alta Verapaz","Distribución de hogares por área urbana","No hay grupo",33.64
+"17","17","Petén","Distribución de hogares por área urbana","No hay grupo",43.78
+"18","18","Izabal","Distribución de hogares por área urbana","No hay grupo",45.09
+"19","19","Zacapa","Distribución de hogares por área urbana","No hay grupo",47.04
+"20","20","Chiquimula","Distribución de hogares por área urbana","No hay grupo",39.32
+"21","21","Jalapa","Distribución de hogares por área urbana","No hay grupo",63.11
+"22","22","Jutiapa","Distribución de hogares por área urbana","No hay grupo",51.29
+"23","1","Guatemala","Distribución de hogares por área rural","No hay grupo",7.78
+"24","2","El Progreso","Distribución de hogares por área rural","No hay grupo",46.61
+"25","3","Sacatepéquez","Distribución de hogares por área rural","No hay grupo",11.12
+"26","4","Chimaltenango","Distribución de hogares por área rural","No hay grupo",43.25
+"27","5","Escuintla","Distribución de hogares por área rural","No hay grupo",38.38
+"28","6","Santa Rosa","Distribución de hogares por área rural","No hay grupo",53.09
+"29","7","Sololá","Distribución de hogares por área rural","No hay grupo",38.22
+"30","8","Totonicapán","Distribución de hogares por área rural","No hay grupo",45.93
+"31","9","Quetzaltenango","Distribución de hogares por área rural","No hay grupo",36.43
+"32","10","Suchitepéquez","Distribución de hogares por área rural","No hay grupo",50.16
+"33","11","Retalhuleu","Distribución de hogares por área rural","No hay grupo",41.46
+"34","12","San Marcos","Distribución de hogares por área rural","No hay grupo",72
+"35","13","Huehuetenango","Distribución de hogares por área rural","No hay grupo",68.84
+"36","14","Quiché","Distribución de hogares por área rural","No hay grupo",65.91
+"37","15","Baja Verapaz","Distribución de hogares por área rural","No hay grupo",57.13
+"38","16","Alta Verapaz","Distribución de hogares por área rural","No hay grupo",66.36
+"39","17","Petén","Distribución de hogares por área rural","No hay grupo",56.22
+"40","18","Izabal","Distribución de hogares por área rural","No hay grupo",54.91
+"41","19","Zacapa","Distribución de hogares por área rural","No hay grupo",52.96
+"42","20","Chiquimula","Distribución de hogares por área rural","No hay grupo",60.68
+"43","21","Jalapa","Distribución de hogares por área rural","No hay grupo",36.89
+"44","22","Jutiapa","Distribución de hogares por área rural","No hay grupo",48.71
+"45","1","Guatemala","Promedio de personas por hogar","No hay grupo",3.98
+"46","2","El Progreso","Promedio de personas por hogar","No hay grupo",3.99
+"47","3","Sacatepéquez","Promedio de personas por hogar","No hay grupo",4.26
+"48","4","Chimaltenango","Promedio de personas por hogar","No hay grupo",4.84
+"49","5","Escuintla","Promedio de personas por hogar","No hay grupo",3.95
+"50","6","Santa Rosa","Promedio de personas por hogar","No hay grupo",4.03
+"51","7","Sololá","Promedio de personas por hogar","No hay grupo",4.92
+"52","8","Totonicapán","Promedio de personas por hogar","No hay grupo",5.4
+"53","9","Quetzaltenango","Promedio de personas por hogar","No hay grupo",4.55
+"54","10","Suchitepéquez","Promedio de personas por hogar","No hay grupo",4.46
+"55","11","Retalhuleu","Promedio de personas por hogar","No hay grupo",4.43
+"56","12","San Marcos","Promedio de personas por hogar","No hay grupo",5.07
+"57","13","Huehuetenango","Promedio de personas por hogar","No hay grupo",5.18
+"58","14","Quiché","Promedio de personas por hogar","No hay grupo",5.57
+"59","15","Baja Verapaz","Promedio de personas por hogar","No hay grupo",4.4
+"60","16","Alta Verapaz","Promedio de personas por hogar","No hay grupo",5.32
+"61","17","Petén","Promedio de personas por hogar","No hay grupo",4.37
+"62","18","Izabal","Promedio de personas por hogar","No hay grupo",4.3
+"63","19","Zacapa","Promedio de personas por hogar","No hay grupo",4.11
+"64","20","Chiquimula","Promedio de personas por hogar","No hay grupo",4.56
+"65","21","Jalapa","Promedio de personas por hogar","No hay grupo",4.66
+"66","22","Jutiapa","Promedio de personas por hogar","No hay grupo",4.18
+"67","1","Guatemala","Promedio de personas por dormitorio","No hay grupo",1.8
+"68","2","El Progreso","Promedio de personas por dormitorio","No hay grupo",2.08
+"69","3","Sacatepéquez","Promedio de personas por dormitorio","No hay grupo",1.91
+"70","4","Chimaltenango","Promedio de personas por dormitorio","No hay grupo",2.33
+"71","5","Escuintla","Promedio de personas por dormitorio","No hay grupo",2.33
+"72","6","Santa Rosa","Promedio de personas por dormitorio","No hay grupo",2.24
+"73","7","Sololá","Promedio de personas por dormitorio","No hay grupo",2.4
+"74","8","Totonicapán","Promedio de personas por dormitorio","No hay grupo",2.67
+"75","9","Quetzaltenango","Promedio de personas por dormitorio","No hay grupo",2.15
+"76","10","Suchitepéquez","Promedio de personas por dormitorio","No hay grupo",2.63
+"77","11","Retalhuleu","Promedio de personas por dormitorio","No hay grupo",2.48
+"78","12","San Marcos","Promedio de personas por dormitorio","No hay grupo",2.78
+"79","13","Huehuetenango","Promedio de personas por dormitorio","No hay grupo",2.81
+"80","14","Quiché","Promedio de personas por dormitorio","No hay grupo",2.91
+"81","15","Baja Verapaz","Promedio de personas por dormitorio","No hay grupo",2.5
+"82","16","Alta Verapaz","Promedio de personas por dormitorio","No hay grupo",3.27
+"83","17","Petén","Promedio de personas por dormitorio","No hay grupo",2.44
+"84","18","Izabal","Promedio de personas por dormitorio","No hay grupo",2.44
+"85","19","Zacapa","Promedio de personas por dormitorio","No hay grupo",2.2
+"86","20","Chiquimula","Promedio de personas por dormitorio","No hay grupo",2.51
+"87","21","Jalapa","Promedio de personas por dormitorio","No hay grupo",2.45
+"88","22","Jutiapa","Promedio de personas por dormitorio","No hay grupo",2.27

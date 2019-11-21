@@ -1,0 +1,595 @@
+"","Código","Departamento","caracteristica","grupo","observaciones"
+"1","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Ninguno",270955
+"2","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Ninguno",25105
+"3","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Ninguno",37690
+"4","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Ninguno",100277
+"5","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Ninguno",107234
+"6","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Ninguno",62906
+"7","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Ninguno",97212
+"8","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Ninguno",99190
+"9","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Ninguno",130546
+"10","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Ninguno",104761
+"11","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Ninguno",53759
+"12","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Ninguno",205806
+"13","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Ninguno",300863
+"14","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Ninguno",279280
+"15","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Ninguno",69541
+"16","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Ninguno",336970
+"17","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Ninguno",113880
+"18","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Ninguno",75313
+"19","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Ninguno",45236
+"20","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Ninguno",103283
+"21","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Ninguno",71487
+"22","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Ninguno",86445
+"23","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",122936
+"24","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",8495
+"25","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",13966
+"26","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",22415
+"27","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",31607
+"28","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",17133
+"29","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",26593
+"30","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",16345
+"31","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",30759
+"32","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",25015
+"33","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",14874
+"34","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",41117
+"35","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",43124
+"36","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",37708
+"37","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",12535
+"38","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",52527
+"39","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",25465
+"40","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",17701
+"41","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",10249
+"42","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",17493
+"43","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",14983
+"44","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Preprimaria",22789
+"45","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",365946
+"46","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",30316
+"47","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",53927
+"48","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",122925
+"49","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",124281
+"50","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",74583
+"51","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",68302
+"52","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",81989
+"53","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",141295
+"54","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",106052
+"55","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",61622
+"56","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",223561
+"57","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",244335
+"58","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",184056
+"59","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",53583
+"60","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",215937
+"61","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",108333
+"62","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",76159
+"63","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",46916
+"64","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",75089
+"65","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",72367
+"66","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 1-3",90847
+"67","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",184828
+"68","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",13742
+"69","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",24927
+"70","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",59822
+"71","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",58158
+"72","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",33634
+"73","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",34778
+"74","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",40414
+"75","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",64552
+"76","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",45707
+"77","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",26194
+"78","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",91391
+"79","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",115979
+"80","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",88827
+"81","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",25514
+"82","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",112580
+"83","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",49978
+"84","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",35564
+"85","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",20790
+"86","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",35036
+"87","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",30279
+"88","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 4-5",40889
+"89","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",384037
+"90","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",27073
+"91","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",50870
+"92","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",91652
+"93","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",107891
+"94","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",60244
+"95","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",58520
+"96","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",62573
+"97","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",105387
+"98","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",71782
+"99","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",41639
+"100","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",135266
+"101","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",170304
+"102","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",120596
+"103","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",40975
+"104","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",146745
+"105","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",62204
+"106","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",55769
+"107","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",33932
+"108","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",58904
+"109","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",45247
+"110","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Primaria, 6",75883
+"111","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Basico",514259
+"112","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Basico",24065
+"113","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Basico",50373
+"114","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Basico",76392
+"115","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Basico",113920
+"116","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Basico",52046
+"117","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Basico",46046
+"118","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Basico",39885
+"119","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Basico",106192
+"120","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Basico",68369
+"121","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Basico",42985
+"122","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Basico",110682
+"123","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Basico",75486
+"124","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Basico",70886
+"125","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Basico",30626
+"126","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Basico",119230
+"127","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Basico",63930
+"128","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Basico",52667
+"129","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Basico",28499
+"130","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Basico",36943
+"131","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Basico",35488
+"132","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Basico",57834
+"133","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Diversificado",620707
+"134","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Diversificado",27620
+"135","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Diversificado",52816
+"136","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Diversificado",68995
+"137","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Diversificado",105566
+"138","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Diversificado",50554
+"139","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Diversificado",44776
+"140","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Diversificado",31371
+"141","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Diversificado",100466
+"142","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Diversificado",66091
+"143","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Diversificado",46127
+"144","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Diversificado",92901
+"145","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Diversificado",68184
+"146","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Diversificado",55857
+"147","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Diversificado",29418
+"148","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Diversificado",76373
+"149","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Diversificado",55306
+"150","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Diversificado",48652
+"151","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Diversificado",30981
+"152","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Diversificado",36590
+"153","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Diversificado",30374
+"154","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Diversificado",58933
+"155","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",301578
+"156","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",5736
+"157","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",19815
+"158","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",16601
+"159","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",20738
+"160","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",11513
+"161","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",9609
+"162","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",8230
+"163","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",49712
+"164","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",14863
+"165","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",9503
+"166","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",25788
+"167","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",23038
+"168","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",12584
+"169","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",7472
+"170","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",20915
+"171","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",11965
+"172","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",8916
+"173","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",8024
+"174","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",10336
+"175","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",8572
+"176","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Licenciatura",13372
+"177","1","Guatemala","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",41251
+"178","2","El Progreso","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",442
+"179","3","Sacatepéquez","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",2157
+"180","4","Chimaltenango","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",1201
+"181","5","Escuintla","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",1942
+"182","6","Santa Rosa","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",825
+"183","7","Sololá","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",641
+"184","8","Totonicapán","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",436
+"185","9","Quetzaltenango","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",3735
+"186","10","Suchitepéquez","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",965
+"187","11","Retalhuleu","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",633
+"188","12","San Marcos","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",1437
+"189","13","Huehuetenango","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",1643
+"190","14","Quiché","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",861
+"191","15","Baja Verapaz","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",449
+"192","16","Alta Verapaz","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",1508
+"193","17","Petén","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",982
+"194","18","Izabal","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",947
+"195","19","Zacapa","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",737
+"196","20","Chiquimula","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",962
+"197","21","Jalapa","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",663
+"198","22","Jutiapa","Nivel educativo de la poblacion de 4 años o mas","Maestria y doctorado",1074
+"199","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",93995
+"200","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",7458
+"201","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",15569
+"202","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",52555
+"203","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",43871
+"204","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",22569
+"205","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",38241
+"206","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",43442
+"207","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",49151
+"208","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",43545
+"209","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",25453
+"210","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",85904
+"211","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",114913
+"212","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",93670
+"213","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",22062
+"214","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",97029
+"215","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",37474
+"216","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",24755
+"217","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",14780
+"218","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",31099
+"219","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",25366
+"220","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Falta de dinero",30279
+"221","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",188908
+"222","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",8418
+"223","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",20061
+"224","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",23847
+"225","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",40100
+"226","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",20342
+"227","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",9962
+"228","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",16381
+"229","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",31156
+"230","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",24566
+"231","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",13310
+"232","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",29219
+"233","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",38443
+"234","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",31317
+"235","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",12801
+"236","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",39147
+"237","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",24874
+"238","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",19519
+"239","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",10649
+"240","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",18153
+"241","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",16521
+"242","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Tiene que trabajar",20906
+"243","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",1060
+"244","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",475
+"245","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",75
+"246","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",483
+"247","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",395
+"248","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",538
+"249","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",185
+"250","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",231
+"251","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",345
+"252","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",395
+"253","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",195
+"254","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",637
+"255","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",3162
+"256","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",1788
+"257","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",819
+"258","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",3351
+"259","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",2307
+"260","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",1305
+"261","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",551
+"262","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",940
+"263","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",739
+"264","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No hay escuela, instituto o universidad",918
+"265","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",3598
+"266","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",415
+"267","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",661
+"268","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1706
+"269","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1984
+"270","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",963
+"271","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1277
+"272","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1328
+"273","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1665
+"274","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1756
+"275","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",896
+"276","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",2676
+"277","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",6088
+"278","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",4989
+"279","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1473
+"280","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",7931
+"281","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",2037
+"282","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1691
+"283","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",829
+"284","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1895
+"285","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1718
+"286","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Los padres / pareja no quieren",1985
+"287","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",22112
+"288","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",1871
+"289","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",2497
+"290","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",3044
+"291","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",7414
+"292","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",3668
+"293","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",1576
+"294","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",1506
+"295","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",3966
+"296","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",4229
+"297","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",2170
+"298","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",5613
+"299","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",10925
+"300","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",6637
+"301","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",2779
+"302","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",8579
+"303","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",4663
+"304","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",2979
+"305","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",1776
+"306","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",4772
+"307","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",3229
+"308","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Quehaceres del hogar",3630
+"309","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",49340
+"310","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",5203
+"311","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",9697
+"312","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",36384
+"313","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",21721
+"314","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",14346
+"315","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",24154
+"316","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",17202
+"317","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",32225
+"318","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",24372
+"319","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",10661
+"320","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",46175
+"321","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",66733
+"322","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",54931
+"323","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",14257
+"324","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",62836
+"325","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",24839
+"326","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",15657
+"327","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",9156
+"328","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",19017
+"329","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",19582
+"330","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No le gusta / no quiere ir",17768
+"331","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",15158
+"332","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",1258
+"333","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",2242
+"334","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",4379
+"335","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",5312
+"336","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",2236
+"337","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",4137
+"338","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",2531
+"339","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",6009
+"340","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",3661
+"341","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",2903
+"342","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",7486
+"343","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",7643
+"344","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",5074
+"345","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",1818
+"346","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",5201
+"347","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",3831
+"348","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",3754
+"349","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",1706
+"350","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",2005
+"351","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",1829
+"352","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Ya termino sus estudios",3422
+"353","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",116101
+"354","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",8089
+"355","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",14285
+"356","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",39939
+"357","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",42430
+"358","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",22309
+"359","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",25504
+"360","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",28842
+"361","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",49212
+"362","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",33655
+"363","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",18002
+"364","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",75203
+"365","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",106994
+"366","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",80643
+"367","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",19751
+"368","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",108602
+"369","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",38015
+"370","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",28999
+"371","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",12636
+"372","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",29103
+"373","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",23279
+"374","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","Otra causa",24501
+"375","1","Guatemala","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",132377
+"376","2","El Progreso","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",9214
+"377","3","Sacatepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",16078
+"378","4","Chimaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",23170
+"379","5","Escuintla","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",36665
+"380","6","Santa Rosa","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",14065
+"381","7","Sololá","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",19869
+"382","8","Totonicapán","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",23117
+"383","9","Quetzaltenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",35700
+"384","10","Suchitepéquez","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",22108
+"385","11","Retalhuleu","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",13448
+"386","12","San Marcos","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",46625
+"387","13","Huehuetenango","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",46118
+"388","14","Quiché","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",44945
+"389","15","Baja Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",9266
+"390","16","Alta Verapaz","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",48150
+"391","17","Petén","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",26683
+"392","18","Izabal","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",17896
+"393","19","Zacapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",13789
+"394","20","Chiquimula","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",18006
+"395","21","Jalapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",10104
+"396","22","Jutiapa","Causa principal de inasistencia escolar de la población 4 a 29 años","No especificado",19838
+"397","1","Guatemala","Población de 7 años o más","No hay grupo",2641109
+"398","2","El Progreso","Población de 7 años o más","No hay grupo",151201
+"399","3","Sacatepéquez","Población de 7 años o más","No hay grupo",287301
+"400","4","Chimaltenango","Población de 7 años o más","No hay grupo",517360
+"401","5","Escuintla","Población de 7 años o más","No hay grupo",623009
+"402","6","Santa Rosa","Población de 7 años o más","No hay grupo",336320
+"403","7","Sololá","Población de 7 años o más","No hay grupo",358457
+"404","8","Totonicapán","Población de 7 años o más","No hay grupo",350819
+"405","9","Quetzaltenango","Población de 7 años o más","No hay grupo",680558
+"406","10","Suchitepéquez","Población de 7 años o más","No hay grupo",463564
+"407","11","Retalhuleu","Población de 7 años o más","No hay grupo",274349
+"408","12","San Marcos","Población de 7 años o más","No hay grupo",848315
+"409","13","Huehuetenango","Población de 7 años o más","No hay grupo",946716
+"410","14","Quiché","Población de 7 años o más","No hay grupo",773272
+"411","15","Baja Verapaz","Población de 7 años o más","No hay grupo",248176
+"412","16","Alta Verapaz","Población de 7 años o más","No hay grupo",984235
+"413","17","Petén","Población de 7 años o más","No hay grupo",449331
+"414","18","Izabal","Población de 7 años o más","No hay grupo",342614
+"415","19","Zacapa","Población de 7 años o más","No hay grupo",209192
+"416","20","Chiquimula","Población de 7 años o más","No hay grupo",343834
+"417","21","Jalapa","Población de 7 años o más","No hay grupo",283478
+"418","22","Jutiapa","Población de 7 años o más","No hay grupo",415727
+"419","1","Guatemala","Población de 7 años o mas","Alfabeta",2475362
+"420","2","El Progreso","Población de 7 años o mas","Alfabeta",132039
+"421","3","Sacatepéquez","Población de 7 años o mas","Alfabeta",259175
+"422","4","Chimaltenango","Población de 7 años o mas","Alfabeta",441259
+"423","5","Escuintla","Población de 7 años o mas","Alfabeta",541580
+"424","6","Santa Rosa","Población de 7 años o mas","Alfabeta",289945
+"425","7","Sololá","Población de 7 años o mas","Alfabeta",267572
+"426","8","Totonicapán","Población de 7 años o mas","Alfabeta",261125
+"427","9","Quetzaltenango","Población de 7 años o mas","Alfabeta",576826
+"428","10","Suchitepéquez","Población de 7 años o mas","Alfabeta",377468
+"429","11","Retalhuleu","Población de 7 años o mas","Alfabeta",230961
+"430","12","San Marcos","Población de 7 años o mas","Alfabeta",678568
+"431","13","Huehuetenango","Población de 7 años o mas","Alfabeta",678520
+"432","14","Quiché","Población de 7 años o mas","Alfabeta",520867
+"433","15","Baja Verapaz","Población de 7 años o mas","Alfabeta",186709
+"434","16","Alta Verapaz","Población de 7 años o mas","Alfabeta",669746
+"435","17","Petén","Población de 7 años o mas","Alfabeta",355388
+"436","18","Izabal","Población de 7 años o mas","Alfabeta",278687
+"437","19","Zacapa","Población de 7 años o mas","Alfabeta",171773
+"438","20","Chiquimula","Población de 7 años o mas","Alfabeta",254228
+"439","21","Jalapa","Población de 7 años o mas","Alfabeta",224147
+"440","22","Jutiapa","Población de 7 años o mas","Alfabeta",343072
+"441","1","Guatemala","Población de 7 años o mas","Analfabeta",165747
+"442","2","El Progreso","Población de 7 años o mas","Analfabeta",19162
+"443","3","Sacatepéquez","Población de 7 años o mas","Analfabeta",28126
+"444","4","Chimaltenango","Población de 7 años o mas","Analfabeta",76101
+"445","5","Escuintla","Población de 7 años o mas","Analfabeta",81429
+"446","6","Santa Rosa","Población de 7 años o mas","Analfabeta",46375
+"447","7","Sololá","Población de 7 años o mas","Analfabeta",90885
+"448","8","Totonicapán","Población de 7 años o mas","Analfabeta",89694
+"449","9","Quetzaltenango","Población de 7 años o mas","Analfabeta",103732
+"450","10","Suchitepéquez","Población de 7 años o mas","Analfabeta",86096
+"451","11","Retalhuleu","Población de 7 años o mas","Analfabeta",43388
+"452","12","San Marcos","Población de 7 años o mas","Analfabeta",169747
+"453","13","Huehuetenango","Población de 7 años o mas","Analfabeta",268196
+"454","14","Quiché","Población de 7 años o mas","Analfabeta",252405
+"455","15","Baja Verapaz","Población de 7 años o mas","Analfabeta",61467
+"456","16","Alta Verapaz","Población de 7 años o mas","Analfabeta",314489
+"457","17","Petén","Población de 7 años o mas","Analfabeta",93943
+"458","18","Izabal","Población de 7 años o mas","Analfabeta",63927
+"459","19","Zacapa","Población de 7 años o mas","Analfabeta",37419
+"460","20","Chiquimula","Población de 7 años o mas","Analfabeta",89606
+"461","21","Jalapa","Población de 7 años o mas","Analfabeta",59331
+"462","22","Jutiapa","Población de 7 años o mas","Analfabeta",72655
+"463","1","Guatemala","Asistencia escolar población 7 años o más","Asiste",829617
+"464","2","El Progreso","Asistencia escolar población 7 años o más","Asiste",42718
+"465","3","Sacatepéquez","Asistencia escolar población 7 años o más","Asiste",84352
+"466","4","Chimaltenango","Asistencia escolar población 7 años o más","Asiste",146055
+"467","5","Escuintla","Asistencia escolar población 7 años o más","Asiste",171345
+"468","6","Santa Rosa","Asistencia escolar población 7 años o más","Asiste",96828
+"469","7","Sololá","Asistencia escolar población 7 años o más","Asiste",98094
+"470","8","Totonicapán","Asistencia escolar población 7 años o más","Asiste",89640
+"471","9","Quetzaltenango","Asistencia escolar población 7 años o más","Asiste",197158
+"472","10","Suchitepéquez","Asistencia escolar población 7 años o más","Asiste",129898
+"473","11","Retalhuleu","Asistencia escolar población 7 años o más","Asiste",79675
+"474","12","San Marcos","Asistencia escolar población 7 años o más","Asiste",246276
+"475","13","Huehuetenango","Asistencia escolar población 7 años o más","Asiste",241682
+"476","14","Quiché","Asistencia escolar población 7 años o más","Asiste",211552
+"477","15","Baja Verapaz","Asistencia escolar población 7 años o más","Asiste",71234
+"478","16","Alta Verapaz","Asistencia escolar población 7 años o más","Asiste",290130
+"479","17","Petén","Asistencia escolar población 7 años o más","Asiste",132216
+"480","18","Izabal","Asistencia escolar población 7 años o más","Asiste",97432
+"481","19","Zacapa","Asistencia escolar población 7 años o más","Asiste",55620
+"482","20","Chiquimula","Asistencia escolar población 7 años o más","Asiste",90874
+"483","21","Jalapa","Asistencia escolar población 7 años o más","Asiste",80880
+"484","22","Jutiapa","Asistencia escolar población 7 años o más","Asiste",117611
+"485","1","Guatemala","Asistencia escolar población 7 años o más","No asiste",1811492
+"486","2","El Progreso","Asistencia escolar población 7 años o más","No asiste",108483
+"487","3","Sacatepéquez","Asistencia escolar población 7 años o más","No asiste",202949
+"488","4","Chimaltenango","Asistencia escolar población 7 años o más","No asiste",371305
+"489","5","Escuintla","Asistencia escolar población 7 años o más","No asiste",451664
+"490","6","Santa Rosa","Asistencia escolar población 7 años o más","No asiste",239492
+"491","7","Sololá","Asistencia escolar población 7 años o más","No asiste",260363
+"492","8","Totonicapán","Asistencia escolar población 7 años o más","No asiste",261179
+"493","9","Quetzaltenango","Asistencia escolar población 7 años o más","No asiste",483400
+"494","10","Suchitepéquez","Asistencia escolar población 7 años o más","No asiste",333666
+"495","11","Retalhuleu","Asistencia escolar población 7 años o más","No asiste",194674
+"496","12","San Marcos","Asistencia escolar población 7 años o más","No asiste",602039
+"497","13","Huehuetenango","Asistencia escolar población 7 años o más","No asiste",705034
+"498","14","Quiché","Asistencia escolar población 7 años o más","No asiste",561720
+"499","15","Baja Verapaz","Asistencia escolar población 7 años o más","No asiste",176942
+"500","16","Alta Verapaz","Asistencia escolar población 7 años o más","No asiste",694105
+"501","17","Petén","Asistencia escolar población 7 años o más","No asiste",317115
+"502","18","Izabal","Asistencia escolar población 7 años o más","No asiste",245182
+"503","19","Zacapa","Asistencia escolar población 7 años o más","No asiste",153572
+"504","20","Chiquimula","Asistencia escolar población 7 años o más","No asiste",252960
+"505","21","Jalapa","Asistencia escolar población 7 años o más","No asiste",202598
+"506","22","Jutiapa","Asistencia escolar población 7 años o más","No asiste",298116
+"507","1","Guatemala","Lugar de estudio","En el mismo municipio",683699
+"508","2","El Progreso","Lugar de estudio","En el mismo municipio",37251
+"509","3","Sacatepéquez","Lugar de estudio","En el mismo municipio",59357
+"510","4","Chimaltenango","Lugar de estudio","En el mismo municipio",122454
+"511","5","Escuintla","Lugar de estudio","En el mismo municipio",152163
+"512","6","Santa Rosa","Lugar de estudio","En el mismo municipio",83498
+"513","7","Sololá","Lugar de estudio","En el mismo municipio",83135
+"514","8","Totonicapán","Lugar de estudio","En el mismo municipio",74267
+"515","9","Quetzaltenango","Lugar de estudio","En el mismo municipio",164479
+"516","10","Suchitepéquez","Lugar de estudio","En el mismo municipio",107583
+"517","11","Retalhuleu","Lugar de estudio","En el mismo municipio",68827
+"518","12","San Marcos","Lugar de estudio","En el mismo municipio",217197
+"519","13","Huehuetenango","Lugar de estudio","En el mismo municipio",222948
+"520","14","Quiché","Lugar de estudio","En el mismo municipio",194350
+"521","15","Baja Verapaz","Lugar de estudio","En el mismo municipio",63019
+"522","16","Alta Verapaz","Lugar de estudio","En el mismo municipio",267430
+"523","17","Petén","Lugar de estudio","En el mismo municipio",120801
+"524","18","Izabal","Lugar de estudio","En el mismo municipio",91084
+"525","19","Zacapa","Lugar de estudio","En el mismo municipio",48627
+"526","20","Chiquimula","Lugar de estudio","En el mismo municipio",82403
+"527","21","Jalapa","Lugar de estudio","En el mismo municipio",75038
+"528","22","Jutiapa","Lugar de estudio","En el mismo municipio",103883
+"529","1","Guatemala","Lugar de estudio","En otro municipio",112673
+"530","2","El Progreso","Lugar de estudio","En otro municipio",3638
+"531","3","Sacatepéquez","Lugar de estudio","En otro municipio",20812
+"532","4","Chimaltenango","Lugar de estudio","En otro municipio",18854
+"533","5","Escuintla","Lugar de estudio","En otro municipio",11659
+"534","6","Santa Rosa","Lugar de estudio","En otro municipio",10812
+"535","7","Sololá","Lugar de estudio","En otro municipio",11585
+"536","8","Totonicapán","Lugar de estudio","En otro municipio",11289
+"537","9","Quetzaltenango","Lugar de estudio","En otro municipio",25153
+"538","10","Suchitepéquez","Lugar de estudio","En otro municipio",18454
+"539","11","Retalhuleu","Lugar de estudio","En otro municipio",8303
+"540","12","San Marcos","Lugar de estudio","En otro municipio",20253
+"541","13","Huehuetenango","Lugar de estudio","En otro municipio",10720
+"542","14","Quiché","Lugar de estudio","En otro municipio",9181
+"543","15","Baja Verapaz","Lugar de estudio","En otro municipio",6679
+"544","16","Alta Verapaz","Lugar de estudio","En otro municipio",15147
+"545","17","Petén","Lugar de estudio","En otro municipio",6616
+"546","18","Izabal","Lugar de estudio","En otro municipio",2482
+"547","19","Zacapa","Lugar de estudio","En otro municipio",4020
+"548","20","Chiquimula","Lugar de estudio","En otro municipio",4815
+"549","21","Jalapa","Lugar de estudio","En otro municipio",3782
+"550","22","Jutiapa","Lugar de estudio","En otro municipio",9495
+"551","1","Guatemala","Lugar de estudio","En otro país",895
+"552","2","El Progreso","Lugar de estudio","En otro país",12
+"553","3","Sacatepéquez","Lugar de estudio","En otro país",74
+"554","4","Chimaltenango","Lugar de estudio","En otro país",29
+"555","5","Escuintla","Lugar de estudio","En otro país",31
+"556","6","Santa Rosa","Lugar de estudio","En otro país",19
+"557","7","Sololá","Lugar de estudio","En otro país",24
+"558","8","Totonicapán","Lugar de estudio","En otro país",28
+"559","9","Quetzaltenango","Lugar de estudio","En otro país",87
+"560","10","Suchitepéquez","Lugar de estudio","En otro país",14
+"561","11","Retalhuleu","Lugar de estudio","En otro país",12
+"562","12","San Marcos","Lugar de estudio","En otro país",201
+"563","13","Huehuetenango","Lugar de estudio","En otro país",161
+"564","14","Quiché","Lugar de estudio","En otro país",67
+"565","15","Baja Verapaz","Lugar de estudio","En otro país",10
+"566","16","Alta Verapaz","Lugar de estudio","En otro país",50
+"567","17","Petén","Lugar de estudio","En otro país",591
+"568","18","Izabal","Lugar de estudio","En otro país",42
+"569","19","Zacapa","Lugar de estudio","En otro país",11
+"570","20","Chiquimula","Lugar de estudio","En otro país",50
+"571","21","Jalapa","Lugar de estudio","En otro país",17
+"572","22","Jutiapa","Lugar de estudio","En otro país",164
+"573","1","Guatemala","Lugar de estudio","No especificado",32350
+"574","2","El Progreso","Lugar de estudio","No especificado",1817
+"575","3","Sacatepéquez","Lugar de estudio","No especificado",4109
+"576","4","Chimaltenango","Lugar de estudio","No especificado",4718
+"577","5","Escuintla","Lugar de estudio","No especificado",7492
+"578","6","Santa Rosa","Lugar de estudio","No especificado",2499
+"579","7","Sololá","Lugar de estudio","No especificado",3350
+"580","8","Totonicapán","Lugar de estudio","No especificado",4056
+"581","9","Quetzaltenango","Lugar de estudio","No especificado",7439
+"582","10","Suchitepéquez","Lugar de estudio","No especificado",3847
+"583","11","Retalhuleu","Lugar de estudio","No especificado",2533
+"584","12","San Marcos","Lugar de estudio","No especificado",8625
+"585","13","Huehuetenango","Lugar de estudio","No especificado",7853
+"586","14","Quiché","Lugar de estudio","No especificado",7954
+"587","15","Baja Verapaz","Lugar de estudio","No especificado",1526
+"588","16","Alta Verapaz","Lugar de estudio","No especificado",7503
+"589","17","Petén","Lugar de estudio","No especificado",4208
+"590","18","Izabal","Lugar de estudio","No especificado",3824
+"591","19","Zacapa","Lugar de estudio","No especificado",2962
+"592","20","Chiquimula","Lugar de estudio","No especificado",3606
+"593","21","Jalapa","Lugar de estudio","No especificado",2043
+"594","22","Jutiapa","Lugar de estudio","No especificado",4069

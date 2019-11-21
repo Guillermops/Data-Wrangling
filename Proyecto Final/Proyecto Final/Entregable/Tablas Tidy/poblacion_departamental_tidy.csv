@@ -1,0 +1,1101 @@
+"","Código","Departamento","caracteristica","grupo","observaciones"
+"1","1","Guatemala","Total de personas","No hay grupo",3015081
+"2","2","El Progreso","Total de personas","No hay grupo",176632
+"3","3","Sacatepéquez","Total de personas","No hay grupo",330469
+"4","4","Chimaltenango","Total de personas","No hay grupo",615776
+"5","5","Escuintla","Total de personas","No hay grupo",733181
+"6","6","Santa Rosa","Total de personas","No hay grupo",396607
+"7","7","Sololá","Total de personas","No hay grupo",421583
+"8","8","Totonicapán","Total de personas","No hay grupo",418569
+"9","9","Quetzaltenango","Total de personas","No hay grupo",799101
+"10","10","Suchitepéquez","Total de personas","No hay grupo",554695
+"11","11","Retalhuleu","Total de personas","No hay grupo",326828
+"12","12","San Marcos","Total de personas","No hay grupo",1032277
+"13","13","Huehuetenango","Total de personas","No hay grupo",1170669
+"14","14","Quiché","Total de personas","No hay grupo",949261
+"15","15","Baja Verapaz","Total de personas","No hay grupo",299476
+"16","16","Alta Verapaz","Total de personas","No hay grupo",1215038
+"17","17","Petén","Total de personas","No hay grupo",545600
+"18","18","Izabal","Total de personas","No hay grupo",408688
+"19","19","Zacapa","Total de personas","No hay grupo",245374
+"20","20","Chiquimula","Total de personas","No hay grupo",415063
+"21","21","Jalapa","Total de personas","No hay grupo",342923
+"22","22","Jutiapa","Total de personas","No hay grupo",488395
+"23","1","Guatemala","Hombre","No hay grupo",1449203
+"24","2","El Progreso","Hombre","No hay grupo",87172
+"25","3","Sacatepéquez","Hombre","No hay grupo",161691
+"26","4","Chimaltenango","Hombre","No hay grupo",297154
+"27","5","Escuintla","Hombre","No hay grupo",365507
+"28","6","Santa Rosa","Hombre","No hay grupo",195584
+"29","7","Sololá","Hombre","No hay grupo",201265
+"30","8","Totonicapán","Hombre","No hay grupo",196293
+"31","9","Quetzaltenango","Hombre","No hay grupo",377782
+"32","10","Suchitepéquez","Hombre","No hay grupo",272317
+"33","11","Retalhuleu","Hombre","No hay grupo",159745
+"34","12","San Marcos","Hombre","No hay grupo",501142
+"35","13","Huehuetenango","Hombre","No hay grupo",557086
+"36","14","Quiché","Hombre","No hay grupo",455347
+"37","15","Baja Verapaz","Hombre","No hay grupo",144925
+"38","16","Alta Verapaz","Hombre","No hay grupo",602878
+"39","17","Petén","Hombre","No hay grupo",272863
+"40","18","Izabal","Hombre","No hay grupo",201859
+"41","19","Zacapa","Hombre","No hay grupo",120239
+"42","20","Chiquimula","Hombre","No hay grupo",199910
+"43","21","Jalapa","Hombre","No hay grupo",165871
+"44","22","Jutiapa","Hombre","No hay grupo",237263
+"45","1","Guatemala","Mujer","No hay grupo",1565878
+"46","2","El Progreso","Mujer","No hay grupo",89460
+"47","3","Sacatepéquez","Mujer","No hay grupo",168778
+"48","4","Chimaltenango","Mujer","No hay grupo",318622
+"49","5","Escuintla","Mujer","No hay grupo",367674
+"50","6","Santa Rosa","Mujer","No hay grupo",201023
+"51","7","Sololá","Mujer","No hay grupo",220318
+"52","8","Totonicapán","Mujer","No hay grupo",222276
+"53","9","Quetzaltenango","Mujer","No hay grupo",421319
+"54","10","Suchitepéquez","Mujer","No hay grupo",282378
+"55","11","Retalhuleu","Mujer","No hay grupo",167083
+"56","12","San Marcos","Mujer","No hay grupo",531135
+"57","13","Huehuetenango","Mujer","No hay grupo",613583
+"58","14","Quiché","Mujer","No hay grupo",493914
+"59","15","Baja Verapaz","Mujer","No hay grupo",154551
+"60","16","Alta Verapaz","Mujer","No hay grupo",612160
+"61","17","Petén","Mujer","No hay grupo",272737
+"62","18","Izabal","Mujer","No hay grupo",206829
+"63","19","Zacapa","Mujer","No hay grupo",125135
+"64","20","Chiquimula","Mujer","No hay grupo",215153
+"65","21","Jalapa","Mujer","No hay grupo",177052
+"66","22","Jutiapa","Mujer","No hay grupo",251132
+"67","1","Guatemala","0 - 14","No hay grupo",806879
+"68","2","El Progreso","0 - 14","No hay grupo",53929
+"69","3","Sacatepéquez","0 - 14","No hay grupo",95094
+"70","4","Chimaltenango","0 - 14","No hay grupo",209443
+"71","5","Escuintla","0 - 14","No hay grupo",229278
+"72","6","Santa Rosa","0 - 14","No hay grupo",126441
+"73","7","Sololá","0 - 14","No hay grupo",139248
+"74","8","Totonicapán","0 - 14","No hay grupo",144322
+"75","9","Quetzaltenango","0 - 14","No hay grupo",250233
+"76","10","Suchitepéquez","0 - 14","No hay grupo",189934
+"77","11","Retalhuleu","0 - 14","No hay grupo",108898
+"78","12","San Marcos","0 - 14","No hay grupo",383302
+"79","13","Huehuetenango","0 - 14","No hay grupo",453183
+"80","14","Quiché","0 - 14","No hay grupo",368890
+"81","15","Baja Verapaz","0 - 14","No hay grupo",105389
+"82","16","Alta Verapaz","0 - 14","No hay grupo",472149
+"83","17","Petén","0 - 14","No hay grupo",198184
+"84","18","Izabal","0 - 14","No hay grupo",138550
+"85","19","Zacapa","0 - 14","No hay grupo",76364
+"86","20","Chiquimula","0 - 14","No hay grupo",146074
+"87","21","Jalapa","0 - 14","No hay grupo",122774
+"88","22","Jutiapa","0 - 14","No hay grupo",154167
+"89","1","Guatemala","15 - 29","No hay grupo",878774
+"90","2","El Progreso","15 - 29","No hay grupo",50643
+"91","3","Sacatepéquez","15 - 29","No hay grupo",100178
+"92","4","Chimaltenango","15 - 29","No hay grupo",189006
+"93","5","Escuintla","15 - 29","No hay grupo",221090
+"94","6","Santa Rosa","15 - 29","No hay grupo",116174
+"95","7","Sololá","15 - 29","No hay grupo",130066
+"96","8","Totonicapán","15 - 29","No hay grupo",128265
+"97","9","Quetzaltenango","15 - 29","No hay grupo",239778
+"98","10","Suchitepéquez","15 - 29","No hay grupo",165602
+"99","11","Retalhuleu","15 - 29","No hay grupo",97839
+"100","12","San Marcos","15 - 29","No hay grupo",290916
+"101","13","Huehuetenango","15 - 29","No hay grupo",336334
+"102","14","Quiché","15 - 29","No hay grupo",284661
+"103","15","Baja Verapaz","15 - 29","No hay grupo",88881
+"104","16","Alta Verapaz","15 - 29","No hay grupo",361194
+"105","17","Petén","15 - 29","No hay grupo",170838
+"106","18","Izabal","15 - 29","No hay grupo",122925
+"107","19","Zacapa","15 - 29","No hay grupo",71811
+"108","20","Chiquimula","15 - 29","No hay grupo",122030
+"109","21","Jalapa","15 - 29","No hay grupo",103552
+"110","22","Jutiapa","15 - 29","No hay grupo",143009
+"111","1","Guatemala","30 - 64","No hay grupo",1131200
+"112","2","El Progreso","30 - 64","No hay grupo",59761
+"113","3","Sacatepéquez","30 - 64","No hay grupo",115299
+"114","4","Chimaltenango","30 - 64","No hay grupo",186870
+"115","5","Escuintla","30 - 64","No hay grupo",242842
+"116","6","Santa Rosa","30 - 64","No hay grupo",128229
+"117","7","Sololá","30 - 64","No hay grupo",130730
+"118","8","Totonicapán","30 - 64","No hay grupo",122441
+"119","9","Quetzaltenango","30 - 64","No hay grupo",258979
+"120","10","Suchitepéquez","30 - 64","No hay grupo",168711
+"121","11","Retalhuleu","30 - 64","No hay grupo",100620
+"122","12","San Marcos","30 - 64","No hay grupo",297356
+"123","13","Huehuetenango","30 - 64","No hay grupo",321656
+"124","14","Quiché","30 - 64","No hay grupo",253115
+"125","15","Baja Verapaz","30 - 64","No hay grupo",88499
+"126","16","Alta Verapaz","30 - 64","No hay grupo",333276
+"127","17","Petén","30 - 64","No hay grupo",153593
+"128","18","Izabal","30 - 64","No hay grupo",125411
+"129","19","Zacapa","30 - 64","No hay grupo",80398
+"130","20","Chiquimula","30 - 64","No hay grupo",122831
+"131","21","Jalapa","30 - 64","No hay grupo",98815
+"132","22","Jutiapa","30 - 64","No hay grupo",157083
+"133","1","Guatemala","65 - 84","No hay grupo",177995
+"134","2","El Progreso","65 - 84","No hay grupo",10847
+"135","3","Sacatepéquez","65 - 84","No hay grupo",17770
+"136","4","Chimaltenango","65 - 84","No hay grupo",27386
+"137","5","Escuintla","65 - 84","No hay grupo",36138
+"138","6","Santa Rosa","65 - 84","No hay grupo",22892
+"139","7","Sololá","65 - 84","No hay grupo",19510
+"140","8","Totonicapán","65 - 84","No hay grupo",21134
+"141","9","Quetzaltenango","65 - 84","No hay grupo",44501
+"142","10","Suchitepéquez","65 - 84","No hay grupo",27518
+"143","11","Retalhuleu","65 - 84","No hay grupo",17445
+"144","12","San Marcos","65 - 84","No hay grupo",53721
+"145","13","Huehuetenango","65 - 84","No hay grupo",53194
+"146","14","Quiché","65 - 84","No hay grupo",38651
+"147","15","Baja Verapaz","65 - 84","No hay grupo",15075
+"148","16","Alta Verapaz","65 - 84","No hay grupo",44601
+"149","17","Petén","65 - 84","No hay grupo",20860
+"150","18","Izabal","65 - 84","No hay grupo",19788
+"151","19","Zacapa","65 - 84","No hay grupo",15080
+"152","20","Chiquimula","65 - 84","No hay grupo",21677
+"153","21","Jalapa","65 - 84","No hay grupo",16052
+"154","22","Jutiapa","65 - 84","No hay grupo",30569
+"155","1","Guatemala","85 o más","No hay grupo",20233
+"156","2","El Progreso","85 o más","No hay grupo",1452
+"157","3","Sacatepéquez","85 o más","No hay grupo",2128
+"158","4","Chimaltenango","85 o más","No hay grupo",3071
+"159","5","Escuintla","85 o más","No hay grupo",3833
+"160","6","Santa Rosa","85 o más","No hay grupo",2871
+"161","7","Sololá","85 o más","No hay grupo",2029
+"162","8","Totonicapán","85 o más","No hay grupo",2407
+"163","9","Quetzaltenango","85 o más","No hay grupo",5610
+"164","10","Suchitepéquez","85 o más","No hay grupo",2930
+"165","11","Retalhuleu","85 o más","No hay grupo",2026
+"166","12","San Marcos","85 o más","No hay grupo",6982
+"167","13","Huehuetenango","85 o más","No hay grupo",6302
+"168","14","Quiché","85 o más","No hay grupo",3944
+"169","15","Baja Verapaz","85 o más","No hay grupo",1632
+"170","16","Alta Verapaz","85 o más","No hay grupo",3818
+"171","17","Petén","85 o más","No hay grupo",2125
+"172","18","Izabal","85 o más","No hay grupo",2014
+"173","19","Zacapa","85 o más","No hay grupo",1721
+"174","20","Chiquimula","85 o más","No hay grupo",2451
+"175","21","Jalapa","85 o más","No hay grupo",1730
+"176","22","Jutiapa","85 o más","No hay grupo",3567
+"177","1","Guatemala","Grupo Quinquenal","0 - 4",264759
+"178","2","El Progreso","Grupo Quinquenal","0 - 4",17878
+"179","3","Sacatepéquez","Grupo Quinquenal","0 - 4",30494
+"180","4","Chimaltenango","Grupo Quinquenal","0 - 4",69673
+"181","5","Escuintla","Grupo Quinquenal","0 - 4",78201
+"182","6","Santa Rosa","Grupo Quinquenal","0 - 4",42164
+"183","7","Sololá","Grupo Quinquenal","0 - 4",44590
+"184","8","Totonicapán","Grupo Quinquenal","0 - 4",48076
+"185","9","Quetzaltenango","Grupo Quinquenal","0 - 4",83506
+"186","10","Suchitepéquez","Grupo Quinquenal","0 - 4",64572
+"187","11","Retalhuleu","Grupo Quinquenal","0 - 4",37249
+"188","12","San Marcos","Grupo Quinquenal","0 - 4",130902
+"189","13","Huehuetenango","Grupo Quinquenal","0 - 4",159796
+"190","14","Quiché","Grupo Quinquenal","0 - 4",124298
+"191","15","Baja Verapaz","Grupo Quinquenal","0 - 4",36814
+"192","16","Alta Verapaz","Grupo Quinquenal","0 - 4",164785
+"193","17","Petén","Grupo Quinquenal","0 - 4",67852
+"194","18","Izabal","Grupo Quinquenal","0 - 4",46714
+"195","19","Zacapa","Grupo Quinquenal","0 - 4",25431
+"196","20","Chiquimula","Grupo Quinquenal","0 - 4",50771
+"197","21","Jalapa","Grupo Quinquenal","0 - 4",42275
+"198","22","Jutiapa","Grupo Quinquenal","0 - 4",51090
+"199","1","Guatemala","Grupo Quinquenal","5 - 9",269556
+"200","2","El Progreso","Grupo Quinquenal","5 - 9",18510
+"201","3","Sacatepéquez","Grupo Quinquenal","5 - 9",31852
+"202","4","Chimaltenango","Grupo Quinquenal","5 - 9",70091
+"203","5","Escuintla","Grupo Quinquenal","5 - 9",76969
+"204","6","Santa Rosa","Grupo Quinquenal","5 - 9",42645
+"205","7","Sololá","Grupo Quinquenal","5 - 9",45768
+"206","8","Totonicapán","Grupo Quinquenal","5 - 9",47526
+"207","9","Quetzaltenango","Grupo Quinquenal","5 - 9",84815
+"208","10","Suchitepéquez","Grupo Quinquenal","5 - 9",63528
+"209","11","Retalhuleu","Grupo Quinquenal","5 - 9",36781
+"210","12","San Marcos","Grupo Quinquenal","5 - 9",128937
+"211","13","Huehuetenango","Grupo Quinquenal","5 - 9",154123
+"212","14","Quiché","Grupo Quinquenal","5 - 9",125496
+"213","15","Baja Verapaz","Grupo Quinquenal","5 - 9",35157
+"214","16","Alta Verapaz","Grupo Quinquenal","5 - 9",161275
+"215","17","Petén","Grupo Quinquenal","5 - 9",68250
+"216","18","Izabal","Grupo Quinquenal","5 - 9",47095
+"217","19","Zacapa","Grupo Quinquenal","5 - 9",25968
+"218","20","Chiquimula","Grupo Quinquenal","5 - 9",48755
+"219","21","Jalapa","Grupo Quinquenal","5 - 9",41087
+"220","22","Jutiapa","Grupo Quinquenal","5 - 9",52577
+"221","1","Guatemala","Grupo Quinquenal","10 - 14",272564
+"222","2","El Progreso","Grupo Quinquenal","10 - 14",17541
+"223","3","Sacatepéquez","Grupo Quinquenal","10 - 14",32748
+"224","4","Chimaltenango","Grupo Quinquenal","10 - 14",69679
+"225","5","Escuintla","Grupo Quinquenal","10 - 14",74108
+"226","6","Santa Rosa","Grupo Quinquenal","10 - 14",41632
+"227","7","Sololá","Grupo Quinquenal","10 - 14",48890
+"228","8","Totonicapán","Grupo Quinquenal","10 - 14",48720
+"229","9","Quetzaltenango","Grupo Quinquenal","10 - 14",81912
+"230","10","Suchitepéquez","Grupo Quinquenal","10 - 14",61834
+"231","11","Retalhuleu","Grupo Quinquenal","10 - 14",34868
+"232","12","San Marcos","Grupo Quinquenal","10 - 14",123463
+"233","13","Huehuetenango","Grupo Quinquenal","10 - 14",139264
+"234","14","Quiché","Grupo Quinquenal","10 - 14",119096
+"235","15","Baja Verapaz","Grupo Quinquenal","10 - 14",33418
+"236","16","Alta Verapaz","Grupo Quinquenal","10 - 14",146089
+"237","17","Petén","Grupo Quinquenal","10 - 14",62082
+"238","18","Izabal","Grupo Quinquenal","10 - 14",44741
+"239","19","Zacapa","Grupo Quinquenal","10 - 14",24965
+"240","20","Chiquimula","Grupo Quinquenal","10 - 14",46548
+"241","21","Jalapa","Grupo Quinquenal","10 - 14",39412
+"242","22","Jutiapa","Grupo Quinquenal","10 - 14",50500
+"243","1","Guatemala","Grupo Quinquenal","15 - 19",301010
+"244","2","El Progreso","Grupo Quinquenal","15 - 19",19121
+"245","3","Sacatepéquez","Grupo Quinquenal","15 - 19",36230
+"246","4","Chimaltenango","Grupo Quinquenal","15 - 19",72910
+"247","5","Escuintla","Grupo Quinquenal","15 - 19",79515
+"248","6","Santa Rosa","Grupo Quinquenal","15 - 19",44334
+"249","7","Sololá","Grupo Quinquenal","15 - 19",50564
+"250","8","Totonicapán","Grupo Quinquenal","15 - 19",49872
+"251","9","Quetzaltenango","Grupo Quinquenal","15 - 19",89963
+"252","10","Suchitepéquez","Grupo Quinquenal","15 - 19",63201
+"253","11","Retalhuleu","Grupo Quinquenal","15 - 19",36841
+"254","12","San Marcos","Grupo Quinquenal","15 - 19",118659
+"255","13","Huehuetenango","Grupo Quinquenal","15 - 19",134413
+"256","14","Quiché","Grupo Quinquenal","15 - 19",117248
+"257","15","Baja Verapaz","Grupo Quinquenal","15 - 19",35123
+"258","16","Alta Verapaz","Grupo Quinquenal","15 - 19",144873
+"259","17","Petén","Grupo Quinquenal","15 - 19",67372
+"260","18","Izabal","Grupo Quinquenal","15 - 19",48601
+"261","19","Zacapa","Grupo Quinquenal","15 - 19",27598
+"262","20","Chiquimula","Grupo Quinquenal","15 - 19",48477
+"263","21","Jalapa","Grupo Quinquenal","15 - 19",41417
+"264","22","Jutiapa","Grupo Quinquenal","15 - 19",55510
+"265","1","Guatemala","Grupo Quinquenal","20 - 24",303900
+"266","2","El Progreso","Grupo Quinquenal","20 - 24",16934
+"267","3","Sacatepéquez","Grupo Quinquenal","20 - 24",34036
+"268","4","Chimaltenango","Grupo Quinquenal","20 - 24",64079
+"269","5","Escuintla","Grupo Quinquenal","20 - 24",75713
+"270","6","Santa Rosa","Grupo Quinquenal","20 - 24",39363
+"271","7","Sololá","Grupo Quinquenal","20 - 24",43999
+"272","8","Totonicapán","Grupo Quinquenal","20 - 24",43740
+"273","9","Quetzaltenango","Grupo Quinquenal","20 - 24",81672
+"274","10","Suchitepéquez","Grupo Quinquenal","20 - 24",56842
+"275","11","Retalhuleu","Grupo Quinquenal","20 - 24",33516
+"276","12","San Marcos","Grupo Quinquenal","20 - 24",95544
+"277","13","Huehuetenango","Grupo Quinquenal","20 - 24",112827
+"278","14","Quiché","Grupo Quinquenal","20 - 24",94214
+"279","15","Baja Verapaz","Grupo Quinquenal","20 - 24",30163
+"280","16","Alta Verapaz","Grupo Quinquenal","20 - 24",120180
+"281","17","Petén","Grupo Quinquenal","20 - 24",58261
+"282","18","Izabal","Grupo Quinquenal","20 - 24",41247
+"283","19","Zacapa","Grupo Quinquenal","20 - 24",23933
+"284","20","Chiquimula","Grupo Quinquenal","20 - 24",40834
+"285","21","Jalapa","Grupo Quinquenal","20 - 24",34780
+"286","22","Jutiapa","Grupo Quinquenal","20 - 24",47832
+"287","1","Guatemala","Grupo Quinquenal","25 - 29",273864
+"288","2","El Progreso","Grupo Quinquenal","25 - 29",14588
+"289","3","Sacatepéquez","Grupo Quinquenal","25 - 29",29912
+"290","4","Chimaltenango","Grupo Quinquenal","25 - 29",52017
+"291","5","Escuintla","Grupo Quinquenal","25 - 29",65862
+"292","6","Santa Rosa","Grupo Quinquenal","25 - 29",32477
+"293","7","Sololá","Grupo Quinquenal","25 - 29",35503
+"294","8","Totonicapán","Grupo Quinquenal","25 - 29",34653
+"295","9","Quetzaltenango","Grupo Quinquenal","25 - 29",68143
+"296","10","Suchitepéquez","Grupo Quinquenal","25 - 29",45559
+"297","11","Retalhuleu","Grupo Quinquenal","25 - 29",27482
+"298","12","San Marcos","Grupo Quinquenal","25 - 29",76713
+"299","13","Huehuetenango","Grupo Quinquenal","25 - 29",89094
+"300","14","Quiché","Grupo Quinquenal","25 - 29",73199
+"301","15","Baja Verapaz","Grupo Quinquenal","25 - 29",23595
+"302","16","Alta Verapaz","Grupo Quinquenal","25 - 29",96141
+"303","17","Petén","Grupo Quinquenal","25 - 29",45205
+"304","18","Izabal","Grupo Quinquenal","25 - 29",33077
+"305","19","Zacapa","Grupo Quinquenal","25 - 29",20280
+"306","20","Chiquimula","Grupo Quinquenal","25 - 29",32719
+"307","21","Jalapa","Grupo Quinquenal","25 - 29",27355
+"308","22","Jutiapa","Grupo Quinquenal","25 - 29",39667
+"309","1","Guatemala","Grupo Quinquenal","30 - 34",231447
+"310","2","El Progreso","Grupo Quinquenal","30 - 34",12316
+"311","3","Sacatepéquez","Grupo Quinquenal","30 - 34",24959
+"312","4","Chimaltenango","Grupo Quinquenal","30 - 34",41425
+"313","5","Escuintla","Grupo Quinquenal","30 - 34",53747
+"314","6","Santa Rosa","Grupo Quinquenal","30 - 34",26301
+"315","7","Sololá","Grupo Quinquenal","30 - 34",29035
+"316","8","Totonicapán","Grupo Quinquenal","30 - 34",25812
+"317","9","Quetzaltenango","Grupo Quinquenal","30 - 34",54551
+"318","10","Suchitepéquez","Grupo Quinquenal","30 - 34",37325
+"319","11","Retalhuleu","Grupo Quinquenal","30 - 34",22261
+"320","12","San Marcos","Grupo Quinquenal","30 - 34",62087
+"321","13","Huehuetenango","Grupo Quinquenal","30 - 34",70828
+"322","14","Quiché","Grupo Quinquenal","30 - 34",55182
+"323","15","Baja Verapaz","Grupo Quinquenal","30 - 34",19702
+"324","16","Alta Verapaz","Grupo Quinquenal","30 - 34",82486
+"325","17","Petén","Grupo Quinquenal","30 - 34",35616
+"326","18","Izabal","Grupo Quinquenal","30 - 34",27413
+"327","19","Zacapa","Grupo Quinquenal","30 - 34",16568
+"328","20","Chiquimula","Grupo Quinquenal","30 - 34",26833
+"329","21","Jalapa","Grupo Quinquenal","30 - 34",21722
+"330","22","Jutiapa","Grupo Quinquenal","30 - 34",31992
+"331","1","Guatemala","Grupo Quinquenal","35 - 39",222396
+"332","2","El Progreso","Grupo Quinquenal","35 - 39",11457
+"333","3","Sacatepéquez","Grupo Quinquenal","35 - 39",23821
+"334","4","Chimaltenango","Grupo Quinquenal","35 - 39",38112
+"335","5","Escuintla","Grupo Quinquenal","35 - 39",48287
+"336","6","Santa Rosa","Grupo Quinquenal","35 - 39",24480
+"337","7","Sololá","Grupo Quinquenal","35 - 39",27091
+"338","8","Totonicapán","Grupo Quinquenal","35 - 39",23280
+"339","9","Quetzaltenango","Grupo Quinquenal","35 - 39",50160
+"340","10","Suchitepéquez","Grupo Quinquenal","35 - 39",33731
+"341","11","Retalhuleu","Grupo Quinquenal","35 - 39",19602
+"342","12","San Marcos","Grupo Quinquenal","35 - 39",58318
+"343","13","Huehuetenango","Grupo Quinquenal","35 - 39",66012
+"344","14","Quiché","Grupo Quinquenal","35 - 39",49525
+"345","15","Baja Verapaz","Grupo Quinquenal","35 - 39",17485
+"346","16","Alta Verapaz","Grupo Quinquenal","35 - 39",72254
+"347","17","Petén","Grupo Quinquenal","35 - 39",31516
+"348","18","Izabal","Grupo Quinquenal","35 - 39",24520
+"349","19","Zacapa","Grupo Quinquenal","35 - 39",15051
+"350","20","Chiquimula","Grupo Quinquenal","35 - 39",23613
+"351","21","Jalapa","Grupo Quinquenal","35 - 39",19634
+"352","22","Jutiapa","Grupo Quinquenal","35 - 39",29720
+"353","1","Guatemala","Grupo Quinquenal","40 - 44",187695
+"354","2","El Progreso","Grupo Quinquenal","40 - 44",9669
+"355","3","Sacatepéquez","Grupo Quinquenal","40 - 44",18697
+"356","4","Chimaltenango","Grupo Quinquenal","40 - 44",30641
+"357","5","Escuintla","Grupo Quinquenal","40 - 44",39979
+"358","6","Santa Rosa","Grupo Quinquenal","40 - 44",20633
+"359","7","Sololá","Grupo Quinquenal","40 - 44",21457
+"360","8","Totonicapán","Grupo Quinquenal","40 - 44",19008
+"361","9","Quetzaltenango","Grupo Quinquenal","40 - 44",39952
+"362","10","Suchitepéquez","Grupo Quinquenal","40 - 44",26768
+"363","11","Retalhuleu","Grupo Quinquenal","40 - 44",16132
+"364","12","San Marcos","Grupo Quinquenal","40 - 44",47098
+"365","13","Huehuetenango","Grupo Quinquenal","40 - 44",51989
+"366","14","Quiché","Grupo Quinquenal","40 - 44",41790
+"367","15","Baja Verapaz","Grupo Quinquenal","40 - 44",13920
+"368","16","Alta Verapaz","Grupo Quinquenal","40 - 44",54704
+"369","17","Petén","Grupo Quinquenal","40 - 44",25498
+"370","18","Izabal","Grupo Quinquenal","40 - 44",20803
+"371","19","Zacapa","Grupo Quinquenal","40 - 44",12985
+"372","20","Chiquimula","Grupo Quinquenal","40 - 44",19260
+"373","21","Jalapa","Grupo Quinquenal","40 - 44",15665
+"374","22","Jutiapa","Grupo Quinquenal","40 - 44",25219
+"375","1","Guatemala","Grupo Quinquenal","45 - 49",152992
+"376","2","El Progreso","Grupo Quinquenal","45 - 49",7763
+"377","3","Sacatepéquez","Grupo Quinquenal","45 - 49",14853
+"378","4","Chimaltenango","Grupo Quinquenal","45 - 49",24761
+"379","5","Escuintla","Grupo Quinquenal","45 - 49",32055
+"380","6","Santa Rosa","Grupo Quinquenal","45 - 49",17309
+"381","7","Sololá","Grupo Quinquenal","45 - 49",17740
+"382","8","Totonicapán","Grupo Quinquenal","45 - 49",17163
+"383","9","Quetzaltenango","Grupo Quinquenal","45 - 49",34927
+"384","10","Suchitepéquez","Grupo Quinquenal","45 - 49",21541
+"385","11","Retalhuleu","Grupo Quinquenal","45 - 49",12845
+"386","12","San Marcos","Grupo Quinquenal","45 - 49",39404
+"387","13","Huehuetenango","Grupo Quinquenal","45 - 49",42776
+"388","14","Quiché","Grupo Quinquenal","45 - 49",35646
+"389","15","Baja Verapaz","Grupo Quinquenal","45 - 49",11419
+"390","16","Alta Verapaz","Grupo Quinquenal","45 - 49",40719
+"391","17","Petén","Grupo Quinquenal","45 - 49",19942
+"392","18","Izabal","Grupo Quinquenal","45 - 49",16830
+"393","19","Zacapa","Grupo Quinquenal","45 - 49",10510
+"394","20","Chiquimula","Grupo Quinquenal","45 - 49",16030
+"395","21","Jalapa","Grupo Quinquenal","45 - 49",13038
+"396","22","Jutiapa","Grupo Quinquenal","45 - 49",21158
+"397","1","Guatemala","Grupo Quinquenal","50 - 54",133306
+"398","2","El Progreso","Grupo Quinquenal","50 - 54",7127
+"399","3","Sacatepéquez","Grupo Quinquenal","50 - 54",13015
+"400","4","Chimaltenango","Grupo Quinquenal","50 - 54",21213
+"401","5","Escuintla","Grupo Quinquenal","50 - 54",27306
+"402","6","Santa Rosa","Grupo Quinquenal","50 - 54",15311
+"403","7","Sololá","Grupo Quinquenal","50 - 54",14350
+"404","8","Totonicapán","Grupo Quinquenal","50 - 54",15055
+"405","9","Quetzaltenango","Grupo Quinquenal","50 - 54",31358
+"406","10","Suchitepéquez","Grupo Quinquenal","50 - 54",19354
+"407","11","Retalhuleu","Grupo Quinquenal","50 - 54",11329
+"408","12","San Marcos","Grupo Quinquenal","50 - 54",35153
+"409","13","Huehuetenango","Grupo Quinquenal","50 - 54",35062
+"410","14","Quiché","Grupo Quinquenal","50 - 54",28329
+"411","15","Baja Verapaz","Grupo Quinquenal","50 - 54",9740
+"412","16","Alta Verapaz","Grupo Quinquenal","50 - 54",31909
+"413","17","Petén","Grupo Quinquenal","50 - 54",16410
+"414","18","Izabal","Grupo Quinquenal","50 - 54",13867
+"415","19","Zacapa","Grupo Quinquenal","50 - 54",9777
+"416","20","Chiquimula","Grupo Quinquenal","50 - 54",13927
+"417","21","Jalapa","Grupo Quinquenal","50 - 54",11348
+"418","22","Jutiapa","Grupo Quinquenal","50 - 54",18753
+"419","1","Guatemala","Grupo Quinquenal","55 - 59",112210
+"420","2","El Progreso","Grupo Quinquenal","55 - 59",6307
+"421","3","Sacatepéquez","Grupo Quinquenal","55 - 59",10883
+"422","4","Chimaltenango","Grupo Quinquenal","55 - 59",17238
+"423","5","Escuintla","Grupo Quinquenal","55 - 59",23005
+"424","6","Santa Rosa","Grupo Quinquenal","55 - 59",13307
+"425","7","Sololá","Grupo Quinquenal","55 - 59",11571
+"426","8","Totonicapán","Grupo Quinquenal","55 - 59",12063
+"427","9","Quetzaltenango","Grupo Quinquenal","55 - 59",26289
+"428","10","Suchitepéquez","Grupo Quinquenal","55 - 59",16541
+"429","11","Retalhuleu","Grupo Quinquenal","55 - 59",10142
+"430","12","San Marcos","Grupo Quinquenal","55 - 59",30047
+"431","13","Huehuetenango","Grupo Quinquenal","55 - 59",30271
+"432","14","Quiché","Grupo Quinquenal","55 - 59",23659
+"433","15","Baja Verapaz","Grupo Quinquenal","55 - 59",8756
+"434","16","Alta Verapaz","Grupo Quinquenal","55 - 59",27837
+"435","17","Petén","Grupo Quinquenal","55 - 59",13567
+"436","18","Izabal","Grupo Quinquenal","55 - 59",12218
+"437","19","Zacapa","Grupo Quinquenal","55 - 59",8385
+"438","20","Chiquimula","Grupo Quinquenal","55 - 59",12703
+"439","21","Jalapa","Grupo Quinquenal","55 - 59",9726
+"440","22","Jutiapa","Grupo Quinquenal","55 - 59",16371
+"441","1","Guatemala","Grupo Quinquenal","60 - 64",91154
+"442","2","El Progreso","Grupo Quinquenal","60 - 64",5122
+"443","3","Sacatepéquez","Grupo Quinquenal","60 - 64",9071
+"444","4","Chimaltenango","Grupo Quinquenal","60 - 64",13480
+"445","5","Escuintla","Grupo Quinquenal","60 - 64",18463
+"446","6","Santa Rosa","Grupo Quinquenal","60 - 64",10888
+"447","7","Sololá","Grupo Quinquenal","60 - 64",9486
+"448","8","Totonicapán","Grupo Quinquenal","60 - 64",10060
+"449","9","Quetzaltenango","Grupo Quinquenal","60 - 64",21742
+"450","10","Suchitepéquez","Grupo Quinquenal","60 - 64",13451
+"451","11","Retalhuleu","Grupo Quinquenal","60 - 64",8309
+"452","12","San Marcos","Grupo Quinquenal","60 - 64",25249
+"453","13","Huehuetenango","Grupo Quinquenal","60 - 64",24718
+"454","14","Quiché","Grupo Quinquenal","60 - 64",18984
+"455","15","Baja Verapaz","Grupo Quinquenal","60 - 64",7477
+"456","16","Alta Verapaz","Grupo Quinquenal","60 - 64",23367
+"457","17","Petén","Grupo Quinquenal","60 - 64",11044
+"458","18","Izabal","Grupo Quinquenal","60 - 64",9760
+"459","19","Zacapa","Grupo Quinquenal","60 - 64",7122
+"460","20","Chiquimula","Grupo Quinquenal","60 - 64",10465
+"461","21","Jalapa","Grupo Quinquenal","60 - 64",7682
+"462","22","Jutiapa","Grupo Quinquenal","60 - 64",13870
+"463","1","Guatemala","Grupo Quinquenal","65 - 69",72749
+"464","2","El Progreso","Grupo Quinquenal","65 - 69",4158
+"465","3","Sacatepéquez","Grupo Quinquenal","65 - 69",7215
+"466","4","Chimaltenango","Grupo Quinquenal","65 - 69",10854
+"467","5","Escuintla","Grupo Quinquenal","65 - 69",14611
+"468","6","Santa Rosa","Grupo Quinquenal","65 - 69",8931
+"469","7","Sololá","Grupo Quinquenal","65 - 69",7601
+"470","8","Totonicapán","Grupo Quinquenal","65 - 69",8191
+"471","9","Quetzaltenango","Grupo Quinquenal","65 - 69",17589
+"472","10","Suchitepéquez","Grupo Quinquenal","65 - 69",10964
+"473","11","Retalhuleu","Grupo Quinquenal","65 - 69",6949
+"474","12","San Marcos","Grupo Quinquenal","65 - 69",20602
+"475","13","Huehuetenango","Grupo Quinquenal","65 - 69",20787
+"476","14","Quiché","Grupo Quinquenal","65 - 69",15325
+"477","15","Baja Verapaz","Grupo Quinquenal","65 - 69",6163
+"478","16","Alta Verapaz","Grupo Quinquenal","65 - 69",18971
+"479","17","Petén","Grupo Quinquenal","65 - 69",8750
+"480","18","Izabal","Grupo Quinquenal","65 - 69",7991
+"481","19","Zacapa","Grupo Quinquenal","65 - 69",5807
+"482","20","Chiquimula","Grupo Quinquenal","65 - 69",8383
+"483","21","Jalapa","Grupo Quinquenal","65 - 69",6211
+"484","22","Jutiapa","Grupo Quinquenal","65 - 69",11756
+"485","1","Guatemala","Grupo Quinquenal","70 - 74",50013
+"486","2","El Progreso","Grupo Quinquenal","70 - 74",2952
+"487","3","Sacatepéquez","Grupo Quinquenal","70 - 74",4925
+"488","4","Chimaltenango","Grupo Quinquenal","70 - 74",7651
+"489","5","Escuintla","Grupo Quinquenal","70 - 74",10219
+"490","6","Santa Rosa","Grupo Quinquenal","70 - 74",6403
+"491","7","Sololá","Grupo Quinquenal","70 - 74",5602
+"492","8","Totonicapán","Grupo Quinquenal","70 - 74",6115
+"493","9","Quetzaltenango","Grupo Quinquenal","70 - 74",12296
+"494","10","Suchitepéquez","Grupo Quinquenal","70 - 74",7465
+"495","11","Retalhuleu","Grupo Quinquenal","70 - 74",4813
+"496","12","San Marcos","Grupo Quinquenal","70 - 74",14954
+"497","13","Huehuetenango","Grupo Quinquenal","70 - 74",14974
+"498","14","Quiché","Grupo Quinquenal","70 - 74",11209
+"499","15","Baja Verapaz","Grupo Quinquenal","70 - 74",4149
+"500","16","Alta Verapaz","Grupo Quinquenal","70 - 74",12227
+"501","17","Petén","Grupo Quinquenal","70 - 74",5758
+"502","18","Izabal","Grupo Quinquenal","70 - 74",5457
+"503","19","Zacapa","Grupo Quinquenal","70 - 74",4223
+"504","20","Chiquimula","Grupo Quinquenal","70 - 74",6076
+"505","21","Jalapa","Grupo Quinquenal","70 - 74",4631
+"506","22","Jutiapa","Grupo Quinquenal","70 - 74",8544
+"507","1","Guatemala","Grupo Quinquenal","75 - 79",33771
+"508","2","El Progreso","Grupo Quinquenal","75 - 79",2253
+"509","3","Sacatepéquez","Grupo Quinquenal","75 - 79",3344
+"510","4","Chimaltenango","Grupo Quinquenal","75 - 79",5391
+"511","5","Escuintla","Grupo Quinquenal","75 - 79",6875
+"512","6","Santa Rosa","Grupo Quinquenal","75 - 79",4590
+"513","7","Sololá","Grupo Quinquenal","75 - 79",3972
+"514","8","Totonicapán","Grupo Quinquenal","75 - 79",4259
+"515","9","Quetzaltenango","Grupo Quinquenal","75 - 79",8772
+"516","10","Suchitepéquez","Grupo Quinquenal","75 - 79",5475
+"517","11","Retalhuleu","Grupo Quinquenal","75 - 79",3404
+"518","12","San Marcos","Grupo Quinquenal","75 - 79",10823
+"519","13","Huehuetenango","Grupo Quinquenal","75 - 79",10669
+"520","14","Quiché","Grupo Quinquenal","75 - 79",7538
+"521","15","Baja Verapaz","Grupo Quinquenal","75 - 79",2806
+"522","16","Alta Verapaz","Grupo Quinquenal","75 - 79",7964
+"523","17","Petén","Grupo Quinquenal","75 - 79",3880
+"524","18","Izabal","Grupo Quinquenal","75 - 79",3868
+"525","19","Zacapa","Grupo Quinquenal","75 - 79",3042
+"526","20","Chiquimula","Grupo Quinquenal","75 - 79",4554
+"527","21","Jalapa","Grupo Quinquenal","75 - 79",3335
+"528","22","Jutiapa","Grupo Quinquenal","75 - 79",6348
+"529","1","Guatemala","Grupo Quinquenal","80 - 84",21462
+"530","2","El Progreso","Grupo Quinquenal","80 - 84",1484
+"531","3","Sacatepéquez","Grupo Quinquenal","80 - 84",2286
+"532","4","Chimaltenango","Grupo Quinquenal","80 - 84",3490
+"533","5","Escuintla","Grupo Quinquenal","80 - 84",4433
+"534","6","Santa Rosa","Grupo Quinquenal","80 - 84",2968
+"535","7","Sololá","Grupo Quinquenal","80 - 84",2335
+"536","8","Totonicapán","Grupo Quinquenal","80 - 84",2569
+"537","9","Quetzaltenango","Grupo Quinquenal","80 - 84",5844
+"538","10","Suchitepéquez","Grupo Quinquenal","80 - 84",3614
+"539","11","Retalhuleu","Grupo Quinquenal","80 - 84",2279
+"540","12","San Marcos","Grupo Quinquenal","80 - 84",7342
+"541","13","Huehuetenango","Grupo Quinquenal","80 - 84",6764
+"542","14","Quiché","Grupo Quinquenal","80 - 84",4579
+"543","15","Baja Verapaz","Grupo Quinquenal","80 - 84",1957
+"544","16","Alta Verapaz","Grupo Quinquenal","80 - 84",5439
+"545","17","Petén","Grupo Quinquenal","80 - 84",2472
+"546","18","Izabal","Grupo Quinquenal","80 - 84",2472
+"547","19","Zacapa","Grupo Quinquenal","80 - 84",2008
+"548","20","Chiquimula","Grupo Quinquenal","80 - 84",2664
+"549","21","Jalapa","Grupo Quinquenal","80 - 84",1875
+"550","22","Jutiapa","Grupo Quinquenal","80 - 84",3921
+"551","1","Guatemala","Grupo Quinquenal","85 - 89",13370
+"552","2","El Progreso","Grupo Quinquenal","85 - 89",942
+"553","3","Sacatepéquez","Grupo Quinquenal","85 - 89",1435
+"554","4","Chimaltenango","Grupo Quinquenal","85 - 89",2121
+"555","5","Escuintla","Grupo Quinquenal","85 - 89",2598
+"556","6","Santa Rosa","Grupo Quinquenal","85 - 89",1859
+"557","7","Sololá","Grupo Quinquenal","85 - 89",1356
+"558","8","Totonicapán","Grupo Quinquenal","85 - 89",1628
+"559","9","Quetzaltenango","Grupo Quinquenal","85 - 89",3792
+"560","10","Suchitepéquez","Grupo Quinquenal","85 - 89",2090
+"561","11","Retalhuleu","Grupo Quinquenal","85 - 89",1423
+"562","12","San Marcos","Grupo Quinquenal","85 - 89",4569
+"563","13","Huehuetenango","Grupo Quinquenal","85 - 89",4105
+"564","14","Quiché","Grupo Quinquenal","85 - 89",2596
+"565","15","Baja Verapaz","Grupo Quinquenal","85 - 89",1146
+"566","16","Alta Verapaz","Grupo Quinquenal","85 - 89",2768
+"567","17","Petén","Grupo Quinquenal","85 - 89",1425
+"568","18","Izabal","Grupo Quinquenal","85 - 89",1372
+"569","19","Zacapa","Grupo Quinquenal","85 - 89",1146
+"570","20","Chiquimula","Grupo Quinquenal","85 - 89",1699
+"571","21","Jalapa","Grupo Quinquenal","85 - 89",1138
+"572","22","Jutiapa","Grupo Quinquenal","85 - 89",2348
+"573","1","Guatemala","Grupo Quinquenal","90 - 94",5114
+"574","2","El Progreso","Grupo Quinquenal","90 - 94",386
+"575","3","Sacatepéquez","Grupo Quinquenal","90 - 94",523
+"576","4","Chimaltenango","Grupo Quinquenal","90 - 94",709
+"577","5","Escuintla","Grupo Quinquenal","90 - 94",906
+"578","6","Santa Rosa","Grupo Quinquenal","90 - 94",761
+"579","7","Sololá","Grupo Quinquenal","90 - 94",491
+"580","8","Totonicapán","Grupo Quinquenal","90 - 94",599
+"581","9","Quetzaltenango","Grupo Quinquenal","90 - 94",1357
+"582","10","Suchitepéquez","Grupo Quinquenal","90 - 94",634
+"583","11","Retalhuleu","Grupo Quinquenal","90 - 94",436
+"584","12","San Marcos","Grupo Quinquenal","90 - 94",1731
+"585","13","Huehuetenango","Grupo Quinquenal","90 - 94",1464
+"586","14","Quiché","Grupo Quinquenal","90 - 94",901
+"587","15","Baja Verapaz","Grupo Quinquenal","90 - 94",383
+"588","16","Alta Verapaz","Grupo Quinquenal","90 - 94",816
+"589","17","Petén","Grupo Quinquenal","90 - 94",482
+"590","18","Izabal","Grupo Quinquenal","90 - 94",466
+"591","19","Zacapa","Grupo Quinquenal","90 - 94",409
+"592","20","Chiquimula","Grupo Quinquenal","90 - 94",543
+"593","21","Jalapa","Grupo Quinquenal","90 - 94",432
+"594","22","Jutiapa","Grupo Quinquenal","90 - 94",871
+"595","1","Guatemala","Grupo Quinquenal","95 - 99",1522
+"596","2","El Progreso","Grupo Quinquenal","95 - 99",108
+"597","3","Sacatepéquez","Grupo Quinquenal","95 - 99",156
+"598","4","Chimaltenango","Grupo Quinquenal","95 - 99",213
+"599","5","Escuintla","Grupo Quinquenal","95 - 99",282
+"600","6","Santa Rosa","Grupo Quinquenal","95 - 99",212
+"601","7","Sololá","Grupo Quinquenal","95 - 99",154
+"602","8","Totonicapán","Grupo Quinquenal","95 - 99",158
+"603","9","Quetzaltenango","Grupo Quinquenal","95 - 99",404
+"604","10","Suchitepéquez","Grupo Quinquenal","95 - 99",181
+"605","11","Retalhuleu","Grupo Quinquenal","95 - 99",148
+"606","12","San Marcos","Grupo Quinquenal","95 - 99",558
+"607","13","Huehuetenango","Grupo Quinquenal","95 - 99",564
+"608","14","Quiché","Grupo Quinquenal","95 - 99",320
+"609","15","Baja Verapaz","Grupo Quinquenal","95 - 99",95
+"610","16","Alta Verapaz","Grupo Quinquenal","95 - 99",202
+"611","17","Petén","Grupo Quinquenal","95 - 99",178
+"612","18","Izabal","Grupo Quinquenal","95 - 99",151
+"613","19","Zacapa","Grupo Quinquenal","95 - 99",137
+"614","20","Chiquimula","Grupo Quinquenal","95 - 99",183
+"615","21","Jalapa","Grupo Quinquenal","95 - 99",145
+"616","22","Jutiapa","Grupo Quinquenal","95 - 99",292
+"617","1","Guatemala","Grupo Quinquenal","100 - más",227
+"618","2","El Progreso","Grupo Quinquenal","100 - más",16
+"619","3","Sacatepéquez","Grupo Quinquenal","100 - más",14
+"620","4","Chimaltenango","Grupo Quinquenal","100 - más",28
+"621","5","Escuintla","Grupo Quinquenal","100 - más",47
+"622","6","Santa Rosa","Grupo Quinquenal","100 - más",39
+"623","7","Sololá","Grupo Quinquenal","100 - más",28
+"624","8","Totonicapán","Grupo Quinquenal","100 - más",22
+"625","9","Quetzaltenango","Grupo Quinquenal","100 - más",57
+"626","10","Suchitepéquez","Grupo Quinquenal","100 - más",25
+"627","11","Retalhuleu","Grupo Quinquenal","100 - más",19
+"628","12","San Marcos","Grupo Quinquenal","100 - más",124
+"629","13","Huehuetenango","Grupo Quinquenal","100 - más",169
+"630","14","Quiché","Grupo Quinquenal","100 - más",127
+"631","15","Baja Verapaz","Grupo Quinquenal","100 - más",8
+"632","16","Alta Verapaz","Grupo Quinquenal","100 - más",32
+"633","17","Petén","Grupo Quinquenal","100 - más",40
+"634","18","Izabal","Grupo Quinquenal","100 - más",25
+"635","19","Zacapa","Grupo Quinquenal","100 - más",29
+"636","20","Chiquimula","Grupo Quinquenal","100 - más",26
+"637","21","Jalapa","Grupo Quinquenal","100 - más",15
+"638","22","Jutiapa","Grupo Quinquenal","100 - más",56
+"639","1","Guatemala","Urbano","No hay grupo",2750965
+"640","2","El Progreso","Urbano","No hay grupo",91416
+"641","3","Sacatepéquez","Urbano","No hay grupo",292366
+"642","4","Chimaltenango","Urbano","No hay grupo",333300
+"643","5","Escuintla","Urbano","No hay grupo",448531
+"644","6","Santa Rosa","Urbano","No hay grupo",184212
+"645","7","Sololá","Urbano","No hay grupo",259533
+"646","8","Totonicapán","Urbano","No hay grupo",204938
+"647","9","Quetzaltenango","Urbano","No hay grupo",491834
+"648","10","Suchitepéquez","Urbano","No hay grupo",266189
+"649","11","Retalhuleu","Urbano","No hay grupo",187401
+"650","12","San Marcos","Urbano","No hay grupo",262033
+"651","13","Huehuetenango","Urbano","No hay grupo",327297
+"652","14","Quiché","Urbano","No hay grupo",306569
+"653","15","Baja Verapaz","Urbano","No hay grupo",120281
+"654","16","Alta Verapaz","Urbano","No hay grupo",379708
+"655","17","Petén","Urbano","No hay grupo",220797
+"656","18","Izabal","Urbano","No hay grupo",167653
+"657","19","Zacapa","Urbano","No hay grupo",108485
+"658","20","Chiquimula","Urbano","No hay grupo",155171
+"659","21","Jalapa","Urbano","No hay grupo",216075
+"660","22","Jutiapa","Urbano","No hay grupo",249754
+"661","1","Guatemala","Rural","No hay grupo",264116
+"662","2","El Progreso","Rural","No hay grupo",85216
+"663","3","Sacatepéquez","Rural","No hay grupo",38103
+"664","4","Chimaltenango","Rural","No hay grupo",282476
+"665","5","Escuintla","Rural","No hay grupo",284650
+"666","6","Santa Rosa","Rural","No hay grupo",212395
+"667","7","Sololá","Rural","No hay grupo",162050
+"668","8","Totonicapán","Rural","No hay grupo",213631
+"669","9","Quetzaltenango","Rural","No hay grupo",307267
+"670","10","Suchitepéquez","Rural","No hay grupo",288506
+"671","11","Retalhuleu","Rural","No hay grupo",139427
+"672","12","San Marcos","Rural","No hay grupo",770244
+"673","13","Huehuetenango","Rural","No hay grupo",843372
+"674","14","Quiché","Rural","No hay grupo",642692
+"675","15","Baja Verapaz","Rural","No hay grupo",179195
+"676","16","Alta Verapaz","Rural","No hay grupo",835330
+"677","17","Petén","Rural","No hay grupo",324803
+"678","18","Izabal","Rural","No hay grupo",241035
+"679","19","Zacapa","Rural","No hay grupo",136889
+"680","20","Chiquimula","Rural","No hay grupo",259892
+"681","21","Jalapa","Rural","No hay grupo",126848
+"682","22","Jutiapa","Rural","No hay grupo",238641
+"683","1","Guatemala","Parentesco con Jefe del Hogar","Jefe(a) de hogar",752843
+"684","2","El Progreso","Parentesco con Jefe del Hogar","Jefe(a) de hogar",44213
+"685","3","Sacatepéquez","Parentesco con Jefe del Hogar","Jefe(a) de hogar",76967
+"686","4","Chimaltenango","Parentesco con Jefe del Hogar","Jefe(a) de hogar",126803
+"687","5","Escuintla","Parentesco con Jefe del Hogar","Jefe(a) de hogar",184274
+"688","6","Santa Rosa","Parentesco con Jefe del Hogar","Jefe(a) de hogar",98292
+"689","7","Sololá","Parentesco con Jefe del Hogar","Jefe(a) de hogar",85607
+"690","8","Totonicapán","Parentesco con Jefe del Hogar","Jefe(a) de hogar",77530
+"691","9","Quetzaltenango","Parentesco con Jefe del Hogar","Jefe(a) de hogar",174830
+"692","10","Suchitepéquez","Parentesco con Jefe del Hogar","Jefe(a) de hogar",124226
+"693","11","Retalhuleu","Parentesco con Jefe del Hogar","Jefe(a) de hogar",73712
+"694","12","San Marcos","Parentesco con Jefe del Hogar","Jefe(a) de hogar",203694
+"695","13","Huehuetenango","Parentesco con Jefe del Hogar","Jefe(a) de hogar",226029
+"696","14","Quiché","Parentesco con Jefe del Hogar","Jefe(a) de hogar",170442
+"697","15","Baja Verapaz","Parentesco con Jefe del Hogar","Jefe(a) de hogar",68003
+"698","16","Alta Verapaz","Parentesco con Jefe del Hogar","Jefe(a) de hogar",228446
+"699","17","Petén","Parentesco con Jefe del Hogar","Jefe(a) de hogar",124650
+"700","18","Izabal","Parentesco con Jefe del Hogar","Jefe(a) de hogar",94786
+"701","19","Zacapa","Parentesco con Jefe del Hogar","Jefe(a) de hogar",59432
+"702","20","Chiquimula","Parentesco con Jefe del Hogar","Jefe(a) de hogar",90917
+"703","21","Jalapa","Parentesco con Jefe del Hogar","Jefe(a) de hogar",73468
+"704","22","Jutiapa","Parentesco con Jefe del Hogar","Jefe(a) de hogar",116767
+"705","1","Guatemala","Parentesco con Jefe del Hogar","Esposa(o) o pareja",499621
+"706","2","El Progreso","Parentesco con Jefe del Hogar","Esposa(o) o pareja",29853
+"707","3","Sacatepéquez","Parentesco con Jefe del Hogar","Esposa(o) o pareja",56397
+"708","4","Chimaltenango","Parentesco con Jefe del Hogar","Esposa(o) o pareja",96148
+"709","5","Escuintla","Parentesco con Jefe del Hogar","Esposa(o) o pareja",127310
+"710","6","Santa Rosa","Parentesco con Jefe del Hogar","Esposa(o) o pareja",66378
+"711","7","Sololá","Parentesco con Jefe del Hogar","Esposa(o) o pareja",64240
+"712","8","Totonicapán","Parentesco con Jefe del Hogar","Esposa(o) o pareja",56497
+"713","9","Quetzaltenango","Parentesco con Jefe del Hogar","Esposa(o) o pareja",120836
+"714","10","Suchitepéquez","Parentesco con Jefe del Hogar","Esposa(o) o pareja",88449
+"715","11","Retalhuleu","Parentesco con Jefe del Hogar","Esposa(o) o pareja",50597
+"716","12","San Marcos","Parentesco con Jefe del Hogar","Esposa(o) o pareja",148129
+"717","13","Huehuetenango","Parentesco con Jefe del Hogar","Esposa(o) o pareja",165138
+"718","14","Quiché","Parentesco con Jefe del Hogar","Esposa(o) o pareja",129252
+"719","15","Baja Verapaz","Parentesco con Jefe del Hogar","Esposa(o) o pareja",49626
+"720","16","Alta Verapaz","Parentesco con Jefe del Hogar","Esposa(o) o pareja",188817
+"721","17","Petén","Parentesco con Jefe del Hogar","Esposa(o) o pareja",93608
+"722","18","Izabal","Parentesco con Jefe del Hogar","Esposa(o) o pareja",65275
+"723","19","Zacapa","Parentesco con Jefe del Hogar","Esposa(o) o pareja",38797
+"724","20","Chiquimula","Parentesco con Jefe del Hogar","Esposa(o) o pareja",61625
+"725","21","Jalapa","Parentesco con Jefe del Hogar","Esposa(o) o pareja",51285
+"726","22","Jutiapa","Parentesco con Jefe del Hogar","Esposa(o) o pareja",79315
+"727","1","Guatemala","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",1306507
+"728","2","El Progreso","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",79437
+"729","3","Sacatepéquez","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",155071
+"730","4","Chimaltenango","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",321393
+"731","5","Escuintla","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",319898
+"732","6","Santa Rosa","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",180673
+"733","7","Sololá","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",218030
+"734","8","Totonicapán","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",211899
+"735","9","Quetzaltenango","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",363728
+"736","10","Suchitepéquez","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",265211
+"737","11","Retalhuleu","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",150189
+"738","12","San Marcos","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",487055
+"739","13","Huehuetenango","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",569143
+"740","14","Quiché","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",499191
+"741","15","Baja Verapaz","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",146929
+"742","16","Alta Verapaz","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",640101
+"743","17","Petén","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",271124
+"744","18","Izabal","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",190126
+"745","19","Zacapa","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",109935
+"746","20","Chiquimula","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",203663
+"747","21","Jalapa","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",170602
+"748","22","Jutiapa","Parentesco con Jefe del Hogar","Hija(o) o hijastra(o)",226616
+"749","1","Guatemala","Parentesco con Jefe del Hogar","Nuera o yerno",42528
+"750","2","El Progreso","Parentesco con Jefe del Hogar","Nuera o yerno",2953
+"751","3","Sacatepéquez","Parentesco con Jefe del Hogar","Nuera o yerno",5246
+"752","4","Chimaltenango","Parentesco con Jefe del Hogar","Nuera o yerno",12448
+"753","5","Escuintla","Parentesco con Jefe del Hogar","Nuera o yerno",9748
+"754","6","Santa Rosa","Parentesco con Jefe del Hogar","Nuera o yerno",5500
+"755","7","Sololá","Parentesco con Jefe del Hogar","Nuera o yerno",11636
+"756","8","Totonicapán","Parentesco con Jefe del Hogar","Nuera o yerno",14154
+"757","9","Quetzaltenango","Parentesco con Jefe del Hogar","Nuera o yerno",20325
+"758","10","Suchitepéquez","Parentesco con Jefe del Hogar","Nuera o yerno",10522
+"759","11","Retalhuleu","Parentesco con Jefe del Hogar","Nuera o yerno",7184
+"760","12","San Marcos","Parentesco con Jefe del Hogar","Nuera o yerno",31347
+"761","13","Huehuetenango","Parentesco con Jefe del Hogar","Nuera o yerno",42813
+"762","14","Quiché","Parentesco con Jefe del Hogar","Nuera o yerno",30947
+"763","15","Baja Verapaz","Parentesco con Jefe del Hogar","Nuera o yerno",6066
+"764","16","Alta Verapaz","Parentesco con Jefe del Hogar","Nuera o yerno",36352
+"765","17","Petén","Parentesco con Jefe del Hogar","Nuera o yerno",7120
+"766","18","Izabal","Parentesco con Jefe del Hogar","Nuera o yerno",7787
+"767","19","Zacapa","Parentesco con Jefe del Hogar","Nuera o yerno",4497
+"768","20","Chiquimula","Parentesco con Jefe del Hogar","Nuera o yerno",7940
+"769","21","Jalapa","Parentesco con Jefe del Hogar","Nuera o yerno",6937
+"770","22","Jutiapa","Parentesco con Jefe del Hogar","Nuera o yerno",9118
+"771","1","Guatemala","Parentesco con Jefe del Hogar","Nieta o nieto",168427
+"772","2","El Progreso","Parentesco con Jefe del Hogar","Nieta o nieto",11593
+"773","3","Sacatepéquez","Parentesco con Jefe del Hogar","Nieta o nieto",16401
+"774","4","Chimaltenango","Parentesco con Jefe del Hogar","Nieta o nieto",32203
+"775","5","Escuintla","Parentesco con Jefe del Hogar","Nieta o nieto",43115
+"776","6","Santa Rosa","Parentesco con Jefe del Hogar","Nieta o nieto",26973
+"777","7","Sololá","Parentesco con Jefe del Hogar","Nieta o nieto",23674
+"778","8","Totonicapán","Parentesco con Jefe del Hogar","Nieta o nieto",35123
+"779","9","Quetzaltenango","Parentesco con Jefe del Hogar","Nieta o nieto",67792
+"780","10","Suchitepéquez","Parentesco con Jefe del Hogar","Nieta o nieto",37791
+"781","11","Retalhuleu","Parentesco con Jefe del Hogar","Nieta o nieto",26975
+"782","12","San Marcos","Parentesco con Jefe del Hogar","Nieta o nieto",109670
+"783","13","Huehuetenango","Parentesco con Jefe del Hogar","Nieta o nieto",112453
+"784","14","Quiché","Parentesco con Jefe del Hogar","Nieta o nieto",71034
+"785","15","Baja Verapaz","Parentesco con Jefe del Hogar","Nieta o nieto",17085
+"786","16","Alta Verapaz","Parentesco con Jefe del Hogar","Nieta o nieto",74853
+"787","17","Petén","Parentesco con Jefe del Hogar","Nieta o nieto",26511
+"788","18","Izabal","Parentesco con Jefe del Hogar","Nieta o nieto",28246
+"789","19","Zacapa","Parentesco con Jefe del Hogar","Nieta o nieto",17263
+"790","20","Chiquimula","Parentesco con Jefe del Hogar","Nieta o nieto",28391
+"791","21","Jalapa","Parentesco con Jefe del Hogar","Nieta o nieto",25219
+"792","22","Jutiapa","Parentesco con Jefe del Hogar","Nieta o nieto",34124
+"793","1","Guatemala","Parentesco con Jefe del Hogar","Hermana o hermano",46172
+"794","2","El Progreso","Parentesco con Jefe del Hogar","Hermana o hermano",1709
+"795","3","Sacatepéquez","Parentesco con Jefe del Hogar","Hermana o hermano",3171
+"796","4","Chimaltenango","Parentesco con Jefe del Hogar","Hermana o hermano",5122
+"797","5","Escuintla","Parentesco con Jefe del Hogar","Hermana o hermano",7666
+"798","6","Santa Rosa","Parentesco con Jefe del Hogar","Hermana o hermano",3570
+"799","7","Sololá","Parentesco con Jefe del Hogar","Hermana o hermano",3661
+"800","8","Totonicapán","Parentesco con Jefe del Hogar","Hermana o hermano",4503
+"801","9","Quetzaltenango","Parentesco con Jefe del Hogar","Hermana o hermano",8944
+"802","10","Suchitepéquez","Parentesco con Jefe del Hogar","Hermana o hermano",4910
+"803","11","Retalhuleu","Parentesco con Jefe del Hogar","Hermana o hermano",3233
+"804","12","San Marcos","Parentesco con Jefe del Hogar","Hermana o hermano",8290
+"805","13","Huehuetenango","Parentesco con Jefe del Hogar","Hermana o hermano",9000
+"806","14","Quiché","Parentesco con Jefe del Hogar","Hermana o hermano",9310
+"807","15","Baja Verapaz","Parentesco con Jefe del Hogar","Hermana o hermano",2129
+"808","16","Alta Verapaz","Parentesco con Jefe del Hogar","Hermana o hermano",7840
+"809","17","Petén","Parentesco con Jefe del Hogar","Hermana o hermano",4409
+"810","18","Izabal","Parentesco con Jefe del Hogar","Hermana o hermano",4189
+"811","19","Zacapa","Parentesco con Jefe del Hogar","Hermana o hermano",2645
+"812","20","Chiquimula","Parentesco con Jefe del Hogar","Hermana o hermano",4349
+"813","21","Jalapa","Parentesco con Jefe del Hogar","Hermana o hermano",3213
+"814","22","Jutiapa","Parentesco con Jefe del Hogar","Hermana o hermano",4506
+"815","1","Guatemala","Parentesco con Jefe del Hogar","Madre o padre",33036
+"816","2","El Progreso","Parentesco con Jefe del Hogar","Madre o padre",1025
+"817","3","Sacatepéquez","Parentesco con Jefe del Hogar","Madre o padre",3180
+"818","4","Chimaltenango","Parentesco con Jefe del Hogar","Madre o padre",5518
+"819","5","Escuintla","Parentesco con Jefe del Hogar","Madre o padre",6000
+"820","6","Santa Rosa","Parentesco con Jefe del Hogar","Madre o padre",2378
+"821","7","Sololá","Parentesco con Jefe del Hogar","Madre o padre",4937
+"822","8","Totonicapán","Parentesco con Jefe del Hogar","Madre o padre",5113
+"823","9","Quetzaltenango","Parentesco con Jefe del Hogar","Madre o padre",8525
+"824","10","Suchitepéquez","Parentesco con Jefe del Hogar","Madre o padre",5064
+"825","11","Retalhuleu","Parentesco con Jefe del Hogar","Madre o padre",2697
+"826","12","San Marcos","Parentesco con Jefe del Hogar","Madre o padre",9967
+"827","13","Huehuetenango","Parentesco con Jefe del Hogar","Madre o padre",11896
+"828","14","Quiché","Parentesco con Jefe del Hogar","Madre o padre",11839
+"829","15","Baja Verapaz","Parentesco con Jefe del Hogar","Madre o padre",2381
+"830","16","Alta Verapaz","Parentesco con Jefe del Hogar","Madre o padre",8671
+"831","17","Petén","Parentesco con Jefe del Hogar","Madre o padre",2713
+"832","18","Izabal","Parentesco con Jefe del Hogar","Madre o padre",2841
+"833","19","Zacapa","Parentesco con Jefe del Hogar","Madre o padre",1822
+"834","20","Chiquimula","Parentesco con Jefe del Hogar","Madre o padre",3152
+"835","21","Jalapa","Parentesco con Jefe del Hogar","Madre o padre",1943
+"836","22","Jutiapa","Parentesco con Jefe del Hogar","Madre o padre",2925
+"837","1","Guatemala","Parentesco con Jefe del Hogar","Suegra o suegro",14029
+"838","2","El Progreso","Parentesco con Jefe del Hogar","Suegra o suegro",483
+"839","3","Sacatepéquez","Parentesco con Jefe del Hogar","Suegra o suegro",1254
+"840","4","Chimaltenango","Parentesco con Jefe del Hogar","Suegra o suegro",1899
+"841","5","Escuintla","Parentesco con Jefe del Hogar","Suegra o suegro",2799
+"842","6","Santa Rosa","Parentesco con Jefe del Hogar","Suegra o suegro",949
+"843","7","Sololá","Parentesco con Jefe del Hogar","Suegra o suegro",1409
+"844","8","Totonicapán","Parentesco con Jefe del Hogar","Suegra o suegro",1101
+"845","9","Quetzaltenango","Parentesco con Jefe del Hogar","Suegra o suegro",3154
+"846","10","Suchitepéquez","Parentesco con Jefe del Hogar","Suegra o suegro",2354
+"847","11","Retalhuleu","Parentesco con Jefe del Hogar","Suegra o suegro",1219
+"848","12","San Marcos","Parentesco con Jefe del Hogar","Suegra o suegro",3064
+"849","13","Huehuetenango","Parentesco con Jefe del Hogar","Suegra o suegro",3228
+"850","14","Quiché","Parentesco con Jefe del Hogar","Suegra o suegro",2998
+"851","15","Baja Verapaz","Parentesco con Jefe del Hogar","Suegra o suegro",840
+"852","16","Alta Verapaz","Parentesco con Jefe del Hogar","Suegra o suegro",3158
+"853","17","Petén","Parentesco con Jefe del Hogar","Suegra o suegro",1162
+"854","18","Izabal","Parentesco con Jefe del Hogar","Suegra o suegro",1056
+"855","19","Zacapa","Parentesco con Jefe del Hogar","Suegra o suegro",666
+"856","20","Chiquimula","Parentesco con Jefe del Hogar","Suegra o suegro",1026
+"857","21","Jalapa","Parentesco con Jefe del Hogar","Suegra o suegro",645
+"858","22","Jutiapa","Parentesco con Jefe del Hogar","Suegra o suegro",999
+"859","1","Guatemala","Parentesco con Jefe del Hogar","Cuñada o cuñado",14029
+"860","2","El Progreso","Parentesco con Jefe del Hogar","Cuñada o cuñado",479
+"861","3","Sacatepéquez","Parentesco con Jefe del Hogar","Cuñada o cuñado",906
+"862","4","Chimaltenango","Parentesco con Jefe del Hogar","Cuñada o cuñado",1445
+"863","5","Escuintla","Parentesco con Jefe del Hogar","Cuñada o cuñado",2570
+"864","6","Santa Rosa","Parentesco con Jefe del Hogar","Cuñada o cuñado",1130
+"865","7","Sololá","Parentesco con Jefe del Hogar","Cuñada o cuñado",939
+"866","8","Totonicapán","Parentesco con Jefe del Hogar","Cuñada o cuñado",947
+"867","9","Quetzaltenango","Parentesco con Jefe del Hogar","Cuñada o cuñado",2588
+"868","10","Suchitepéquez","Parentesco con Jefe del Hogar","Cuñada o cuñado",1729
+"869","11","Retalhuleu","Parentesco con Jefe del Hogar","Cuñada o cuñado",1080
+"870","12","San Marcos","Parentesco con Jefe del Hogar","Cuñada o cuñado",2420
+"871","13","Huehuetenango","Parentesco con Jefe del Hogar","Cuñada o cuñado",2649
+"872","14","Quiché","Parentesco con Jefe del Hogar","Cuñada o cuñado",2273
+"873","15","Baja Verapaz","Parentesco con Jefe del Hogar","Cuñada o cuñado",673
+"874","16","Alta Verapaz","Parentesco con Jefe del Hogar","Cuñada o cuñado",2693
+"875","17","Petén","Parentesco con Jefe del Hogar","Cuñada o cuñado",1626
+"876","18","Izabal","Parentesco con Jefe del Hogar","Cuñada o cuñado",1254
+"877","19","Zacapa","Parentesco con Jefe del Hogar","Cuñada o cuñado",749
+"878","20","Chiquimula","Parentesco con Jefe del Hogar","Cuñada o cuñado",1071
+"879","21","Jalapa","Parentesco con Jefe del Hogar","Cuñada o cuñado",803
+"880","22","Jutiapa","Parentesco con Jefe del Hogar","Cuñada o cuñado",1071
+"881","1","Guatemala","Parentesco con Jefe del Hogar","Otra(o) pariente",77122
+"882","2","El Progreso","Parentesco con Jefe del Hogar","Otra(o) pariente",3487
+"883","3","Sacatepéquez","Parentesco con Jefe del Hogar","Otra(o) pariente",6439
+"884","4","Chimaltenango","Parentesco con Jefe del Hogar","Otra(o) pariente",8411
+"885","5","Escuintla","Parentesco con Jefe del Hogar","Otra(o) pariente",17365
+"886","6","Santa Rosa","Parentesco con Jefe del Hogar","Otra(o) pariente",7266
+"887","7","Sololá","Parentesco con Jefe del Hogar","Otra(o) pariente",5517
+"888","8","Totonicapán","Parentesco con Jefe del Hogar","Otra(o) pariente",9106
+"889","9","Quetzaltenango","Parentesco con Jefe del Hogar","Otra(o) pariente",18244
+"890","10","Suchitepéquez","Parentesco con Jefe del Hogar","Otra(o) pariente",10610
+"891","11","Retalhuleu","Parentesco con Jefe del Hogar","Otra(o) pariente",7460
+"892","12","San Marcos","Parentesco con Jefe del Hogar","Otra(o) pariente",22241
+"893","13","Huehuetenango","Parentesco con Jefe del Hogar","Otra(o) pariente",21337
+"894","14","Quiché","Parentesco con Jefe del Hogar","Otra(o) pariente",16914
+"895","15","Baja Verapaz","Parentesco con Jefe del Hogar","Otra(o) pariente",4153
+"896","16","Alta Verapaz","Parentesco con Jefe del Hogar","Otra(o) pariente",17143
+"897","17","Petén","Parentesco con Jefe del Hogar","Otra(o) pariente",8743
+"898","18","Izabal","Parentesco con Jefe del Hogar","Otra(o) pariente",8689
+"899","19","Zacapa","Parentesco con Jefe del Hogar","Otra(o) pariente",6119
+"900","20","Chiquimula","Parentesco con Jefe del Hogar","Otra(o) pariente",9306
+"901","21","Jalapa","Parentesco con Jefe del Hogar","Otra(o) pariente",6174
+"902","22","Jutiapa","Parentesco con Jefe del Hogar","Otra(o) pariente",9146
+"903","1","Guatemala","Parentesco con Jefe del Hogar","No parientes",40349
+"904","2","El Progreso","Parentesco con Jefe del Hogar","No parientes",1208
+"905","3","Sacatepéquez","Parentesco con Jefe del Hogar","No parientes",2773
+"906","4","Chimaltenango","Parentesco con Jefe del Hogar","No parientes",2681
+"907","5","Escuintla","Parentesco con Jefe del Hogar","No parientes",6350
+"908","6","Santa Rosa","Parentesco con Jefe del Hogar","No parientes",2608
+"909","7","Sololá","Parentesco con Jefe del Hogar","No parientes",1614
+"910","8","Totonicapán","Parentesco con Jefe del Hogar","No parientes",2418
+"911","9","Quetzaltenango","Parentesco con Jefe del Hogar","No parientes",6371
+"912","10","Suchitepéquez","Parentesco con Jefe del Hogar","No parientes",3049
+"913","11","Retalhuleu","Parentesco con Jefe del Hogar","No parientes",2298
+"914","12","San Marcos","Parentesco con Jefe del Hogar","No parientes",6127
+"915","13","Huehuetenango","Parentesco con Jefe del Hogar","No parientes",6574
+"916","14","Quiché","Parentesco con Jefe del Hogar","No parientes",4604
+"917","15","Baja Verapaz","Parentesco con Jefe del Hogar","No parientes",1422
+"918","16","Alta Verapaz","Parentesco con Jefe del Hogar","No parientes",6117
+"919","17","Petén","Parentesco con Jefe del Hogar","No parientes",3197
+"920","18","Izabal","Parentesco con Jefe del Hogar","No parientes",3390
+"921","19","Zacapa","Parentesco con Jefe del Hogar","No parientes",2423
+"922","20","Chiquimula","Parentesco con Jefe del Hogar","No parientes",3128
+"923","21","Jalapa","Parentesco con Jefe del Hogar","No parientes",2004
+"924","22","Jutiapa","Parentesco con Jefe del Hogar","No parientes",3328
+"925","1","Guatemala","Total de población en viviendas colectivas y situación de calle","No hay grupo",20418
+"926","2","El Progreso","Total de población en viviendas colectivas y situación de calle","No hay grupo",192
+"927","3","Sacatepéquez","Total de población en viviendas colectivas y situación de calle","No hay grupo",2664
+"928","4","Chimaltenango","Total de población en viviendas colectivas y situación de calle","No hay grupo",1705
+"929","5","Escuintla","Total de población en viviendas colectivas y situación de calle","No hay grupo",6086
+"930","6","Santa Rosa","Total de población en viviendas colectivas y situación de calle","No hay grupo",890
+"931","7","Sololá","Total de población en viviendas colectivas y situación de calle","No hay grupo",319
+"932","8","Totonicapán","Total de población en viviendas colectivas y situación de calle","No hay grupo",178
+"933","9","Quetzaltenango","Total de población en viviendas colectivas y situación de calle","No hay grupo",3764
+"934","10","Suchitepéquez","Total de población en viviendas colectivas y situación de calle","No hay grupo",780
+"935","11","Retalhuleu","Total de población en viviendas colectivas y situación de calle","No hay grupo",184
+"936","12","San Marcos","Total de población en viviendas colectivas y situación de calle","No hay grupo",273
+"937","13","Huehuetenango","Total de población en viviendas colectivas y situación de calle","No hay grupo",409
+"938","14","Quiché","Total de población en viviendas colectivas y situación de calle","No hay grupo",457
+"939","15","Baja Verapaz","Total de población en viviendas colectivas y situación de calle","No hay grupo",169
+"940","16","Alta Verapaz","Total de población en viviendas colectivas y situación de calle","No hay grupo",847
+"941","17","Petén","Total de población en viviendas colectivas y situación de calle","No hay grupo",737
+"942","18","Izabal","Total de población en viviendas colectivas y situación de calle","No hay grupo",1049
+"943","19","Zacapa","Total de población en viviendas colectivas y situación de calle","No hay grupo",1026
+"944","20","Chiquimula","Total de población en viviendas colectivas y situación de calle","No hay grupo",495
+"945","21","Jalapa","Total de población en viviendas colectivas y situación de calle","No hay grupo",630
+"946","22","Jutiapa","Total de población en viviendas colectivas y situación de calle","No hay grupo",480
+"947","1","Guatemala","Población de 10 años o más","No hay grupo",2480766
+"948","2","El Progreso","Población de 10 años o más","No hay grupo",140244
+"949","3","Sacatepéquez","Población de 10 años o más","No hay grupo",268123
+"950","4","Chimaltenango","Población de 10 años o más","No hay grupo",476012
+"951","5","Escuintla","Población de 10 años o más","No hay grupo",578011
+"952","6","Santa Rosa","Población de 10 años o más","No hay grupo",311798
+"953","7","Sololá","Población de 10 años o más","No hay grupo",331225
+"954","8","Totonicapán","Población de 10 años o más","No hay grupo",322967
+"955","9","Quetzaltenango","Población de 10 años o más","No hay grupo",630780
+"956","10","Suchitepéquez","Población de 10 años o más","No hay grupo",426595
+"957","11","Retalhuleu","Población de 10 años o más","No hay grupo",252798
+"958","12","San Marcos","Población de 10 años o más","No hay grupo",772438
+"959","13","Huehuetenango","Población de 10 años o más","No hay grupo",856750
+"960","14","Quiché","Población de 10 años o más","No hay grupo",699467
+"961","15","Baja Verapaz","Población de 10 años o más","No hay grupo",227505
+"962","16","Alta Verapaz","Población de 10 años o más","No hay grupo",888978
+"963","17","Petén","Población de 10 años o más","No hay grupo",409498
+"964","18","Izabal","Población de 10 años o más","No hay grupo",314879
+"965","19","Zacapa","Población de 10 años o más","No hay grupo",193975
+"966","20","Chiquimula","Población de 10 años o más","No hay grupo",315537
+"967","21","Jalapa","Población de 10 años o más","No hay grupo",259561
+"968","22","Jutiapa","Población de 10 años o más","No hay grupo",384728
+"969","1","Guatemala","Soltera(o)","No hay grupo",1094982
+"970","2","El Progreso","Soltera(o)","No hay grupo",58770
+"971","3","Sacatepéquez","Soltera(o)","No hay grupo",116815
+"972","4","Chimaltenango","Soltera(o)","No hay grupo",215855
+"973","5","Escuintla","Soltera(o)","No hay grupo",238060
+"974","6","Santa Rosa","Soltera(o)","No hay grupo",134332
+"975","7","Sololá","Soltera(o)","No hay grupo",147254
+"976","8","Totonicapán","Soltera(o)","No hay grupo",147789
+"977","9","Quetzaltenango","Soltera(o)","No hay grupo",274437
+"978","10","Suchitepéquez","Soltera(o)","No hay grupo",181852
+"979","11","Retalhuleu","Soltera(o)","No hay grupo",107424
+"980","12","San Marcos","Soltera(o)","No hay grupo",331623
+"981","13","Huehuetenango","Soltera(o)","No hay grupo",353689
+"982","14","Quiché","Soltera(o)","No hay grupo",310943
+"983","15","Baja Verapaz","Soltera(o)","No hay grupo",93079
+"984","16","Alta Verapaz","Soltera(o)","No hay grupo",372745
+"985","17","Petén","Soltera(o)","No hay grupo",169193
+"986","18","Izabal","Soltera(o)","No hay grupo",135152
+"987","19","Zacapa","Soltera(o)","No hay grupo",83137
+"988","20","Chiquimula","Soltera(o)","No hay grupo",142046
+"989","21","Jalapa","Soltera(o)","No hay grupo",114436
+"990","22","Jutiapa","Soltera(o)","No hay grupo",161615
+"991","1","Guatemala","Unida(o)","No hay grupo",372920
+"992","2","El Progreso","Unida(o)","No hay grupo",28456
+"993","3","Sacatepéquez","Unida(o)","No hay grupo",32000
+"994","4","Chimaltenango","Unida(o)","No hay grupo",44548
+"995","5","Escuintla","Unida(o)","No hay grupo",138333
+"996","6","Santa Rosa","Unida(o)","No hay grupo",66177
+"997","7","Sololá","Unida(o)","No hay grupo",52464
+"998","8","Totonicapán","Unida(o)","No hay grupo",35309
+"999","9","Quetzaltenango","Unida(o)","No hay grupo",90593
+"1000","10","Suchitepéquez","Unida(o)","No hay grupo",70873
+"1001","11","Retalhuleu","Unida(o)","No hay grupo",43041
+"1002","12","San Marcos","Unida(o)","No hay grupo",161419
+"1003","13","Huehuetenango","Unida(o)","No hay grupo",202467
+"1004","14","Quiché","Unida(o)","No hay grupo",136903
+"1005","15","Baja Verapaz","Unida(o)","No hay grupo",39823
+"1006","16","Alta Verapaz","Unida(o)","No hay grupo",163419
+"1007","17","Petén","Unida(o)","No hay grupo",105361
+"1008","18","Izabal","Unida(o)","No hay grupo",79014
+"1009","19","Zacapa","Unida(o)","No hay grupo",44550
+"1010","20","Chiquimula","Unida(o)","No hay grupo",65769
+"1011","21","Jalapa","Unida(o)","No hay grupo",48969
+"1012","22","Jutiapa","Unida(o)","No hay grupo",70378
+"1013","1","Guatemala","Casada(o)","No hay grupo",819508
+"1014","2","El Progreso","Casada(o)","No hay grupo",42414
+"1015","3","Sacatepéquez","Casada(o)","No hay grupo",102857
+"1016","4","Chimaltenango","Casada(o)","No hay grupo",189102
+"1017","5","Escuintla","Casada(o)","No hay grupo",158902
+"1018","6","Santa Rosa","Casada(o)","No hay grupo",88660
+"1019","7","Sololá","Casada(o)","No hay grupo",113500
+"1020","8","Totonicapán","Casada(o)","No hay grupo",121229
+"1021","9","Quetzaltenango","Casada(o)","No hay grupo",222624
+"1022","10","Suchitepéquez","Casada(o)","No hay grupo",142559
+"1023","11","Retalhuleu","Casada(o)","No hay grupo",83575
+"1024","12","San Marcos","Casada(o)","No hay grupo",232351
+"1025","13","Huehuetenango","Casada(o)","No hay grupo",255452
+"1026","14","Quiché","Casada(o)","No hay grupo",214105
+"1027","15","Baja Verapaz","Casada(o)","No hay grupo",80265
+"1028","16","Alta Verapaz","Casada(o)","No hay grupo",309502
+"1029","17","Petén","Casada(o)","No hay grupo",110568
+"1030","18","Izabal","Casada(o)","No hay grupo",79302
+"1031","19","Zacapa","Casada(o)","No hay grupo",50942
+"1032","20","Chiquimula","Casada(o)","No hay grupo",86447
+"1033","21","Jalapa","Casada(o)","No hay grupo",76167
+"1034","22","Jutiapa","Casada(o)","No hay grupo",121120
+"1035","1","Guatemala","Separada(o)","No hay grupo",77057
+"1036","2","El Progreso","Separada(o)","No hay grupo",4042
+"1037","3","Sacatepéquez","Separada(o)","No hay grupo",5839
+"1038","4","Chimaltenango","Separada(o)","No hay grupo",8067
+"1039","5","Escuintla","Separada(o)","No hay grupo",18761
+"1040","6","Santa Rosa","Separada(o)","No hay grupo",9205
+"1041","7","Sololá","Separada(o)","No hay grupo",5463
+"1042","8","Totonicapán","Separada(o)","No hay grupo",4545
+"1043","9","Quetzaltenango","Separada(o)","No hay grupo",14644
+"1044","10","Suchitepéquez","Separada(o)","No hay grupo",11869
+"1045","11","Retalhuleu","Separada(o)","No hay grupo",6781
+"1046","12","San Marcos","Separada(o)","No hay grupo",16231
+"1047","13","Huehuetenango","Separada(o)","No hay grupo",16821
+"1048","14","Quiché","Separada(o)","No hay grupo",11289
+"1049","15","Baja Verapaz","Separada(o)","No hay grupo",5573
+"1050","16","Alta Verapaz","Separada(o)","No hay grupo",17718
+"1051","17","Petén","Separada(o)","No hay grupo",11878
+"1052","18","Izabal","Separada(o)","No hay grupo",9330
+"1053","19","Zacapa","Separada(o)","No hay grupo",6126
+"1054","20","Chiquimula","Separada(o)","No hay grupo",7232
+"1055","21","Jalapa","Separada(o)","No hay grupo",8535
+"1056","22","Jutiapa","Separada(o)","No hay grupo",12457
+"1057","1","Guatemala","Divorciada(o)","No hay grupo",18063
+"1058","2","El Progreso","Divorciada(o)","No hay grupo",463
+"1059","3","Sacatepéquez","Divorciada(o)","No hay grupo",1064
+"1060","4","Chimaltenango","Divorciada(o)","No hay grupo",679
+"1061","5","Escuintla","Divorciada(o)","No hay grupo",1354
+"1062","6","Santa Rosa","Divorciada(o)","No hay grupo",683
+"1063","7","Sololá","Divorciada(o)","No hay grupo",496
+"1064","8","Totonicapán","Divorciada(o)","No hay grupo",435
+"1065","9","Quetzaltenango","Divorciada(o)","No hay grupo",2300
+"1066","10","Suchitepéquez","Divorciada(o)","No hay grupo",1092
+"1067","11","Retalhuleu","Divorciada(o)","No hay grupo",705
+"1068","12","San Marcos","Divorciada(o)","No hay grupo",1066
+"1069","13","Huehuetenango","Divorciada(o)","No hay grupo",1036
+"1070","14","Quiché","Divorciada(o)","No hay grupo",808
+"1071","15","Baja Verapaz","Divorciada(o)","No hay grupo",516
+"1072","16","Alta Verapaz","Divorciada(o)","No hay grupo",1219
+"1073","17","Petén","Divorciada(o)","No hay grupo",794
+"1074","18","Izabal","Divorciada(o)","No hay grupo",842
+"1075","19","Zacapa","Divorciada(o)","No hay grupo",808
+"1076","20","Chiquimula","Divorciada(o)","No hay grupo",647
+"1077","21","Jalapa","Divorciada(o)","No hay grupo",608
+"1078","22","Jutiapa","Divorciada(o)","No hay grupo",994
+"1079","1","Guatemala","Viuda(o)","No hay grupo",98236
+"1080","2","El Progreso","Viuda(o)","No hay grupo",6099
+"1081","3","Sacatepéquez","Viuda(o)","No hay grupo",9548
+"1082","4","Chimaltenango","Viuda(o)","No hay grupo",17761
+"1083","5","Escuintla","Viuda(o)","No hay grupo",22601
+"1084","6","Santa Rosa","Viuda(o)","No hay grupo",12741
+"1085","7","Sololá","Viuda(o)","No hay grupo",12048
+"1086","8","Totonicapán","Viuda(o)","No hay grupo",13660
+"1087","9","Quetzaltenango","Viuda(o)","No hay grupo",26182
+"1088","10","Suchitepéquez","Viuda(o)","No hay grupo",18350
+"1089","11","Retalhuleu","Viuda(o)","No hay grupo",11272
+"1090","12","San Marcos","Viuda(o)","No hay grupo",29748
+"1091","13","Huehuetenango","Viuda(o)","No hay grupo",27285
+"1092","14","Quiché","Viuda(o)","No hay grupo",25419
+"1093","15","Baja Verapaz","Viuda(o)","No hay grupo",8249
+"1094","16","Alta Verapaz","Viuda(o)","No hay grupo",24375
+"1095","17","Petén","Viuda(o)","No hay grupo",11704
+"1096","18","Izabal","Viuda(o)","No hay grupo",11239
+"1097","19","Zacapa","Viuda(o)","No hay grupo",8412
+"1098","20","Chiquimula","Viuda(o)","No hay grupo",13396
+"1099","21","Jalapa","Viuda(o)","No hay grupo",10846
+"1100","22","Jutiapa","Viuda(o)","No hay grupo",18164

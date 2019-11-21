@@ -1,0 +1,309 @@
+"","Código","Departamento","caracteristica","grupo","observaciones"
+"1","1","Guatemala","Población de 7 años o más","No hay grupo",2641109
+"2","2","El Progreso","Población de 7 años o más","No hay grupo",151201
+"3","3","Sacatepéquez","Población de 7 años o más","No hay grupo",287301
+"4","4","Chimaltenango","Población de 7 años o más","No hay grupo",517360
+"5","5","Escuintla","Población de 7 años o más","No hay grupo",623009
+"6","6","Santa Rosa","Población de 7 años o más","No hay grupo",336320
+"7","7","Sololá","Población de 7 años o más","No hay grupo",358457
+"8","8","Totonicapán","Población de 7 años o más","No hay grupo",350819
+"9","9","Quetzaltenango","Población de 7 años o más","No hay grupo",680558
+"10","10","Suchitepéquez","Población de 7 años o más","No hay grupo",463564
+"11","11","Retalhuleu","Población de 7 años o más","No hay grupo",274349
+"12","12","San Marcos","Población de 7 años o más","No hay grupo",848315
+"13","13","Huehuetenango","Población de 7 años o más","No hay grupo",946716
+"14","14","Quiché","Población de 7 años o más","No hay grupo",773272
+"15","15","Baja Verapaz","Población de 7 años o más","No hay grupo",248176
+"16","16","Alta Verapaz","Población de 7 años o más","No hay grupo",984235
+"17","17","Petén","Población de 7 años o más","No hay grupo",449331
+"18","18","Izabal","Población de 7 años o más","No hay grupo",342614
+"19","19","Zacapa","Población de 7 años o más","No hay grupo",209192
+"20","20","Chiquimula","Población de 7 años o más","No hay grupo",343834
+"21","21","Jalapa","Población de 7 años o más","No hay grupo",283478
+"22","22","Jutiapa","Población de 7 años o más","No hay grupo",415727
+"23","1","Guatemala","Uso de Celular","Usa Celular",2087365
+"24","2","El Progreso","Uso de Celular","Usa Celular",98530
+"25","3","Sacatepéquez","Uso de Celular","Usa Celular",198266
+"26","4","Chimaltenango","Uso de Celular","Usa Celular",315002
+"27","5","Escuintla","Uso de Celular","Usa Celular",396653
+"28","6","Santa Rosa","Uso de Celular","Usa Celular",218809
+"29","7","Sololá","Uso de Celular","Usa Celular",203478
+"30","8","Totonicapán","Uso de Celular","Usa Celular",192747
+"31","9","Quetzaltenango","Uso de Celular","Usa Celular",460792
+"32","10","Suchitepéquez","Uso de Celular","Usa Celular",276979
+"33","11","Retalhuleu","Uso de Celular","Usa Celular",171058
+"34","12","San Marcos","Uso de Celular","Usa Celular",485577
+"35","13","Huehuetenango","Uso de Celular","Usa Celular",543168
+"36","14","Quiché","Uso de Celular","Usa Celular",413960
+"37","15","Baja Verapaz","Uso de Celular","Usa Celular",144415
+"38","16","Alta Verapaz","Uso de Celular","Usa Celular",403515
+"39","17","Petén","Uso de Celular","Usa Celular",241010
+"40","18","Izabal","Uso de Celular","Usa Celular",191198
+"41","19","Zacapa","Uso de Celular","Usa Celular",122827
+"42","20","Chiquimula","Uso de Celular","Usa Celular",173862
+"43","21","Jalapa","Uso de Celular","Usa Celular",153445
+"44","22","Jutiapa","Uso de Celular","Usa Celular",260115
+"45","1","Guatemala","Uso de Celular","No Usa Celular",513410
+"46","2","El Progreso","Uso de Celular","No Usa Celular",51149
+"47","3","Sacatepéquez","Uso de Celular","No Usa Celular",82741
+"48","4","Chimaltenango","Uso de Celular","No Usa Celular",196720
+"49","5","Escuintla","Uso de Celular","No Usa Celular",215651
+"50","6","Santa Rosa","Uso de Celular","No Usa Celular",115283
+"51","7","Sololá","Uso de Celular","No Usa Celular",150965
+"52","8","Totonicapán","Uso de Celular","No Usa Celular",148096
+"53","9","Quetzaltenango","Uso de Celular","No Usa Celular",209727
+"54","10","Suchitepéquez","Uso de Celular","No Usa Celular",182289
+"55","11","Retalhuleu","Uso de Celular","No Usa Celular",100658
+"56","12","San Marcos","Uso de Celular","No Usa Celular",349790
+"57","13","Huehuetenango","Uso de Celular","No Usa Celular",392036
+"58","14","Quiché","Uso de Celular","No Usa Celular",346326
+"59","15","Baja Verapaz","Uso de Celular","No Usa Celular",101990
+"60","16","Alta Verapaz","Uso de Celular","No Usa Celular",571393
+"61","17","Petén","Uso de Celular","No Usa Celular",202535
+"62","18","Izabal","Uso de Celular","No Usa Celular",147054
+"63","19","Zacapa","Uso de Celular","No Usa Celular",83297
+"64","20","Chiquimula","Uso de Celular","No Usa Celular",166686
+"65","21","Jalapa","Uso de Celular","No Usa Celular",128338
+"66","22","Jutiapa","Uso de Celular","No Usa Celular",152111
+"67","1","Guatemala","Uso de Celular","No Declarado",40334
+"68","2","El Progreso","Uso de Celular","No Declarado",1522
+"69","3","Sacatepéquez","Uso de Celular","No Declarado",6294
+"70","4","Chimaltenango","Uso de Celular","No Declarado",5638
+"71","5","Escuintla","Uso de Celular","No Declarado",10705
+"72","6","Santa Rosa","Uso de Celular","No Declarado",2228
+"73","7","Sololá","Uso de Celular","No Declarado",4014
+"74","8","Totonicapán","Uso de Celular","No Declarado",9976
+"75","9","Quetzaltenango","Uso de Celular","No Declarado",10039
+"76","10","Suchitepéquez","Uso de Celular","No Declarado",4296
+"77","11","Retalhuleu","Uso de Celular","No Declarado",2633
+"78","12","San Marcos","Uso de Celular","No Declarado",12948
+"79","13","Huehuetenango","Uso de Celular","No Declarado",11512
+"80","14","Quiché","Uso de Celular","No Declarado",12986
+"81","15","Baja Verapaz","Uso de Celular","No Declarado",1771
+"82","16","Alta Verapaz","Uso de Celular","No Declarado",9327
+"83","17","Petén","Uso de Celular","No Declarado",5786
+"84","18","Izabal","Uso de Celular","No Declarado",4362
+"85","19","Zacapa","Uso de Celular","No Declarado",3068
+"86","20","Chiquimula","Uso de Celular","No Declarado",3286
+"87","21","Jalapa","Uso de Celular","No Declarado",1695
+"88","22","Jutiapa","Uso de Celular","No Declarado",3501
+"89","1","Guatemala","Uso de Computadora","Usa Computadora",1171421
+"90","2","El Progreso","Uso de Computadora","Usa Computadora",27299
+"91","3","Sacatepéquez","Uso de Computadora","Usa Computadora",92271
+"92","4","Chimaltenango","Uso de Computadora","Usa Computadora",104528
+"93","5","Escuintla","Uso de Computadora","Usa Computadora",102681
+"94","6","Santa Rosa","Uso de Computadora","Usa Computadora",54835
+"95","7","Sololá","Uso de Computadora","Usa Computadora",60384
+"96","8","Totonicapán","Uso de Computadora","Usa Computadora",44870
+"97","9","Quetzaltenango","Uso de Computadora","Usa Computadora",168989
+"98","10","Suchitepéquez","Uso de Computadora","Usa Computadora",79320
+"99","11","Retalhuleu","Uso de Computadora","Usa Computadora",47873
+"100","12","San Marcos","Uso de Computadora","Usa Computadora",103328
+"101","13","Huehuetenango","Uso de Computadora","Usa Computadora",98817
+"102","14","Quiché","Uso de Computadora","Usa Computadora",66857
+"103","15","Baja Verapaz","Uso de Computadora","Usa Computadora",35873
+"104","16","Alta Verapaz","Uso de Computadora","Usa Computadora",100262
+"105","17","Petén","Uso de Computadora","Usa Computadora",52184
+"106","18","Izabal","Uso de Computadora","Usa Computadora",45938
+"107","19","Zacapa","Uso de Computadora","Usa Computadora",32115
+"108","20","Chiquimula","Uso de Computadora","Usa Computadora",42313
+"109","21","Jalapa","Uso de Computadora","Usa Computadora",35628
+"110","22","Jutiapa","Uso de Computadora","Usa Computadora",56887
+"111","1","Guatemala","Uso de Computadora","No usa Computadora",1431699
+"112","2","El Progreso","Uso de Computadora","No usa Computadora",122479
+"113","3","Sacatepéquez","Uso de Computadora","No usa Computadora",189424
+"114","4","Chimaltenango","Uso de Computadora","No usa Computadora",407604
+"115","5","Escuintla","Uso de Computadora","No usa Computadora",510226
+"116","6","Santa Rosa","Uso de Computadora","No usa Computadora",279451
+"117","7","Sololá","Uso de Computadora","No usa Computadora",295302
+"118","8","Totonicapán","Uso de Computadora","No usa Computadora",299583
+"119","9","Quetzaltenango","Uso de Computadora","No usa Computadora",502364
+"120","10","Suchitepéquez","Uso de Computadora","No usa Computadora",380437
+"121","11","Retalhuleu","Uso de Computadora","No usa Computadora",224059
+"122","12","San Marcos","Uso de Computadora","No usa Computadora",735306
+"123","13","Huehuetenango","Uso de Computadora","No usa Computadora",840835
+"124","14","Quiché","Uso de Computadora","No usa Computadora",698634
+"125","15","Baja Verapaz","Uso de Computadora","No usa Computadora",210973
+"126","16","Alta Verapaz","Uso de Computadora","No usa Computadora",879438
+"127","17","Petén","Uso de Computadora","No usa Computadora",392059
+"128","18","Izabal","Uso de Computadora","No usa Computadora",292235
+"129","19","Zacapa","Uso de Computadora","No usa Computadora",174190
+"130","20","Chiquimula","Uso de Computadora","No usa Computadora",299106
+"131","21","Jalapa","Uso de Computadora","No usa Computadora",246776
+"132","22","Jutiapa","Uso de Computadora","No usa Computadora",355654
+"133","1","Guatemala","Uso de Computadora","No Declarado",37989
+"134","2","El Progreso","Uso de Computadora","No Declarado",1423
+"135","3","Sacatepéquez","Uso de Computadora","No Declarado",5606
+"136","4","Chimaltenango","Uso de Computadora","No Declarado",5228
+"137","5","Escuintla","Uso de Computadora","No Declarado",10102
+"138","6","Santa Rosa","Uso de Computadora","No Declarado",2034
+"139","7","Sololá","Uso de Computadora","No Declarado",2771
+"140","8","Totonicapán","Uso de Computadora","No Declarado",6366
+"141","9","Quetzaltenango","Uso de Computadora","No Declarado",9205
+"142","10","Suchitepéquez","Uso de Computadora","No Declarado",3807
+"143","11","Retalhuleu","Uso de Computadora","No Declarado",2417
+"144","12","San Marcos","Uso de Computadora","No Declarado",9681
+"145","13","Huehuetenango","Uso de Computadora","No Declarado",7064
+"146","14","Quiché","Uso de Computadora","No Declarado",7781
+"147","15","Baja Verapaz","Uso de Computadora","No Declarado",1330
+"148","16","Alta Verapaz","Uso de Computadora","No Declarado",4535
+"149","17","Petén","Uso de Computadora","No Declarado",5088
+"150","18","Izabal","Uso de Computadora","No Declarado",4441
+"151","19","Zacapa","Uso de Computadora","No Declarado",2887
+"152","20","Chiquimula","Uso de Computadora","No Declarado",2415
+"153","21","Jalapa","Uso de Computadora","No Declarado",1074
+"154","22","Jutiapa","Uso de Computadora","No Declarado",3186
+"155","1","Guatemala","Uso de Internet","Usa Internet",1439440
+"156","2","El Progreso","Uso de Internet","Usa Internet",42613
+"157","3","Sacatepéquez","Uso de Internet","Usa Internet",110223
+"158","4","Chimaltenango","Uso de Internet","Usa Internet",133432
+"159","5","Escuintla","Uso de Internet","Usa Internet",165234
+"160","6","Santa Rosa","Uso de Internet","Usa Internet",97279
+"161","7","Sololá","Uso de Internet","Usa Internet",74137
+"162","8","Totonicapán","Uso de Internet","Usa Internet",65502
+"163","9","Quetzaltenango","Uso de Internet","Usa Internet",219112
+"164","10","Suchitepéquez","Uso de Internet","Usa Internet",119290
+"165","11","Retalhuleu","Uso de Internet","Usa Internet",77934
+"166","12","San Marcos","Uso de Internet","Usa Internet",163458
+"167","13","Huehuetenango","Uso de Internet","Usa Internet",175290
+"168","14","Quiché","Uso de Internet","Usa Internet",101337
+"169","15","Baja Verapaz","Uso de Internet","Usa Internet",50488
+"170","16","Alta Verapaz","Uso de Internet","Usa Internet",129070
+"171","17","Petén","Uso de Internet","Usa Internet",104425
+"172","18","Izabal","Uso de Internet","Usa Internet",85096
+"173","19","Zacapa","Uso de Internet","Usa Internet",55984
+"174","20","Chiquimula","Uso de Internet","Usa Internet",84267
+"175","21","Jalapa","Uso de Internet","Usa Internet",62353
+"176","22","Jutiapa","Uso de Internet","Usa Internet",118015
+"177","1","Guatemala","Uso de Internet","No usa Internet",1156406
+"178","2","El Progreso","Uso de Internet","No usa Internet",106786
+"179","3","Sacatepéquez","Uso de Internet","No usa Internet",169859
+"180","4","Chimaltenango","Uso de Internet","No usa Internet",376572
+"181","5","Escuintla","Uso de Internet","No usa Internet",444449
+"182","6","Santa Rosa","Uso de Internet","No usa Internet",235927
+"183","7","Sololá","Uso de Internet","No usa Internet",279194
+"184","8","Totonicapán","Uso de Internet","No usa Internet",274151
+"185","9","Quetzaltenango","Uso de Internet","No usa Internet",448449
+"186","10","Suchitepéquez","Uso de Internet","No usa Internet",338925
+"187","11","Retalhuleu","Uso de Internet","No usa Internet",193237
+"188","12","San Marcos","Uso de Internet","No usa Internet",668792
+"189","13","Huehuetenango","Uso de Internet","No usa Internet",757884
+"190","14","Quiché","Uso de Internet","No usa Internet",655995
+"191","15","Baja Verapaz","Uso de Internet","No usa Internet",195420
+"192","16","Alta Verapaz","Uso de Internet","No usa Internet",845854
+"193","17","Petén","Uso de Internet","No usa Internet",337697
+"194","18","Izabal","Uso de Internet","No usa Internet",251674
+"195","19","Zacapa","Uso de Internet","No usa Internet",149653
+"196","20","Chiquimula","Uso de Internet","No usa Internet",256128
+"197","21","Jalapa","Uso de Internet","No usa Internet",219347
+"198","22","Jutiapa","Uso de Internet","No usa Internet",293698
+"199","1","Guatemala","Uso de Internet","No Declarado",45263
+"200","2","El Progreso","Uso de Internet","No Declarado",1802
+"201","3","Sacatepéquez","Uso de Internet","No Declarado",7219
+"202","4","Chimaltenango","Uso de Internet","No Declarado",7356
+"203","5","Escuintla","Uso de Internet","No Declarado",13326
+"204","6","Santa Rosa","Uso de Internet","No Declarado",3114
+"205","7","Sololá","Uso de Internet","No Declarado",5126
+"206","8","Totonicapán","Uso de Internet","No Declarado",11166
+"207","9","Quetzaltenango","Uso de Internet","No Declarado",12997
+"208","10","Suchitepéquez","Uso de Internet","No Declarado",5349
+"209","11","Retalhuleu","Uso de Internet","No Declarado",3178
+"210","12","San Marcos","Uso de Internet","No Declarado",16065
+"211","13","Huehuetenango","Uso de Internet","No Declarado",13542
+"212","14","Quiché","Uso de Internet","No Declarado",15940
+"213","15","Baja Verapaz","Uso de Internet","No Declarado",2268
+"214","16","Alta Verapaz","Uso de Internet","No Declarado",9311
+"215","17","Petén","Uso de Internet","No Declarado",7209
+"216","18","Izabal","Uso de Internet","No Declarado",5844
+"217","19","Zacapa","Uso de Internet","No Declarado",3555
+"218","20","Chiquimula","Uso de Internet","No Declarado",3439
+"219","21","Jalapa","Uso de Internet","No Declarado",1778
+"220","22","Jutiapa","Uso de Internet","No Declarado",4014
+"221","1","Guatemala","Uso de Celular, computadora e internet","No hay grupo",1096441
+"222","2","El Progreso","Uso de Celular, computadora e internet","No hay grupo",23890
+"223","3","Sacatepéquez","Uso de Celular, computadora e internet","No hay grupo",80788
+"224","4","Chimaltenango","Uso de Celular, computadora e internet","No hay grupo",86944
+"225","5","Escuintla","Uso de Celular, computadora e internet","No hay grupo",91315
+"226","6","Santa Rosa","Uso de Celular, computadora e internet","No hay grupo",48203
+"227","7","Sololá","Uso de Celular, computadora e internet","No hay grupo",49830
+"228","8","Totonicapán","Uso de Celular, computadora e internet","No hay grupo",37685
+"229","9","Quetzaltenango","Uso de Celular, computadora e internet","No hay grupo",151943
+"230","10","Suchitepéquez","Uso de Celular, computadora e internet","No hay grupo",69947
+"231","11","Retalhuleu","Uso de Celular, computadora e internet","No hay grupo",43168
+"232","12","San Marcos","Uso de Celular, computadora e internet","No hay grupo",90291
+"233","13","Huehuetenango","Uso de Celular, computadora e internet","No hay grupo",85831
+"234","14","Quiché","Uso de Celular, computadora e internet","No hay grupo",55802
+"235","15","Baja Verapaz","Uso de Celular, computadora e internet","No hay grupo",30467
+"236","16","Alta Verapaz","Uso de Celular, computadora e internet","No hay grupo",82843
+"237","17","Petén","Uso de Celular, computadora e internet","No hay grupo",47211
+"238","18","Izabal","Uso de Celular, computadora e internet","No hay grupo",41392
+"239","19","Zacapa","Uso de Celular, computadora e internet","No hay grupo",28858
+"240","20","Chiquimula","Uso de Celular, computadora e internet","No hay grupo",38668
+"241","21","Jalapa","Uso de Celular, computadora e internet","No hay grupo",31731
+"242","22","Jutiapa","Uso de Celular, computadora e internet","No hay grupo",51332
+"243","1","Guatemala","Uso de Celular y computadora","No hay grupo",1114939
+"244","2","El Progreso","Uso de Celular y computadora","No hay grupo",25183
+"245","3","Sacatepéquez","Uso de Celular y computadora","No hay grupo",83502
+"246","4","Chimaltenango","Uso de Celular y computadora","No hay grupo",90858
+"247","5","Escuintla","Uso de Celular y computadora","No hay grupo",95485
+"248","6","Santa Rosa","Uso de Celular y computadora","No hay grupo",49906
+"249","7","Sololá","Uso de Celular y computadora","No hay grupo",52595
+"250","8","Totonicapán","Uso de Celular y computadora","No hay grupo",39711
+"251","9","Quetzaltenango","Uso de Celular y computadora","No hay grupo",156702
+"252","10","Suchitepéquez","Uso de Celular y computadora","No hay grupo",72248
+"253","11","Retalhuleu","Uso de Celular y computadora","No hay grupo",44327
+"254","12","San Marcos","Uso de Celular y computadora","No hay grupo",94942
+"255","13","Huehuetenango","Uso de Celular y computadora","No hay grupo",90340
+"256","14","Quiché","Uso de Celular y computadora","No hay grupo",60751
+"257","15","Baja Verapaz","Uso de Celular y computadora","No hay grupo",32494
+"258","16","Alta Verapaz","Uso de Celular y computadora","No hay grupo",88025
+"259","17","Petén","Uso de Celular y computadora","No hay grupo",48812
+"260","18","Izabal","Uso de Celular y computadora","No hay grupo",43090
+"261","19","Zacapa","Uso de Celular y computadora","No hay grupo",30023
+"262","20","Chiquimula","Uso de Celular y computadora","No hay grupo",39624
+"263","21","Jalapa","Uso de Celular y computadora","No hay grupo",32852
+"264","22","Jutiapa","Uso de Celular y computadora","No hay grupo",53019
+"265","1","Guatemala","Uso de Celular e internet","No hay grupo",1396155
+"266","2","El Progreso","Uso de Celular e internet","No hay grupo",41418
+"267","3","Sacatepéquez","Uso de Celular e internet","No hay grupo",103728
+"268","4","Chimaltenango","Uso de Celular e internet","No hay grupo",124682
+"269","5","Escuintla","Uso de Celular e internet","No hay grupo",160386
+"270","6","Santa Rosa","Uso de Celular e internet","No hay grupo",94099
+"271","7","Sololá","Uso de Celular e internet","No hay grupo",68093
+"272","8","Totonicapán","Uso de Celular e internet","No hay grupo",61816
+"273","9","Quetzaltenango","Uso de Celular e internet","No hay grupo",209586
+"274","10","Suchitepéquez","Uso de Celular e internet","No hay grupo",114374
+"275","11","Retalhuleu","Uso de Celular e internet","No hay grupo",75749
+"276","12","San Marcos","Uso de Celular e internet","No hay grupo",157259
+"277","13","Huehuetenango","Uso de Celular e internet","No hay grupo",169577
+"278","14","Quiché","Uso de Celular e internet","No hay grupo",97771
+"279","15","Baja Verapaz","Uso de Celular e internet","No hay grupo",47970
+"280","16","Alta Verapaz","Uso de Celular e internet","No hay grupo",120080
+"281","17","Petén","Uso de Celular e internet","No hay grupo",102101
+"282","18","Izabal","Uso de Celular e internet","No hay grupo",83010
+"283","19","Zacapa","Uso de Celular e internet","No hay grupo",54816
+"284","20","Chiquimula","Uso de Celular e internet","No hay grupo",82596
+"285","21","Jalapa","Uso de Celular e internet","No hay grupo",60499
+"286","22","Jutiapa","Uso de Celular e internet","No hay grupo",115743
+"287","1","Guatemala","Uso de Computadora e internet","No hay grupo",1139242
+"288","2","El Progreso","Uso de Computadora e internet","No hay grupo",25057
+"289","3","Sacatepéquez","Uso de Computadora e internet","No hay grupo",87232
+"290","4","Chimaltenango","Uso de Computadora e internet","No hay grupo",95626
+"291","5","Escuintla","Uso de Computadora e internet","No hay grupo",96101
+"292","6","Santa Rosa","Uso de Computadora e internet","No hay grupo",51333
+"293","7","Sololá","Uso de Computadora e internet","No hay grupo",55839
+"294","8","Totonicapán","Uso de Computadora e internet","No hay grupo",41335
+"295","9","Quetzaltenango","Uso de Computadora e internet","No hay grupo",161377
+"296","10","Suchitepéquez","Uso de Computadora e internet","No hay grupo",74812
+"297","11","Retalhuleu","Uso de Computadora e internet","No hay grupo",45327
+"298","12","San Marcos","Uso de Computadora e internet","No hay grupo",96435
+"299","13","Huehuetenango","Uso de Computadora e internet","No hay grupo",91436
+"300","14","Quiché","Uso de Computadora e internet","No hay grupo",59328
+"301","15","Baja Verapaz","Uso de Computadora e internet","No hay grupo",32961
+"302","16","Alta Verapaz","Uso de Computadora e internet","No hay grupo",91744
+"303","17","Petén","Uso de Computadora e internet","No hay grupo",49495
+"304","18","Izabal","Uso de Computadora e internet","No hay grupo",43460
+"305","19","Zacapa","Uso de Computadora e internet","No hay grupo",30000
+"306","20","Chiquimula","Uso de Computadora e internet","No hay grupo",40287
+"307","21","Jalapa","Uso de Computadora e internet","No hay grupo",33567
+"308","22","Jutiapa","Uso de Computadora e internet","No hay grupo",53540

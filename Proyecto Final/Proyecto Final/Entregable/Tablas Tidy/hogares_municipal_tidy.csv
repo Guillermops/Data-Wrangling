@@ -1,0 +1,1361 @@
+"","departamento","municipio","Municipio","caracteristica","grupo","observaciones"
+"1","1","01","Guatemala","Distribución de hogares por área urbana","No hay grupo",100
+"2","1","02","Santa Catarina Pinula","Distribución de hogares por área urbana","No hay grupo",88.57
+"3","1","03","San José Pinula","Distribución de hogares por área urbana","No hay grupo",85.31
+"4","1","04","San José del Golfo","Distribución de hogares por área urbana","No hay grupo",32.31
+"5","1","05","Palencia","Distribución de hogares por área urbana","No hay grupo",46.44
+"6","1","06","Chinautla","Distribución de hogares por área urbana","No hay grupo",91.68
+"7","1","07","San Pedro Ayampuc","Distribución de hogares por área urbana","No hay grupo",81.76
+"8","1","08","Mixco","Distribución de hogares por área urbana","No hay grupo",99.47
+"9","1","09","San Pedro Sacatepéquez","Distribución de hogares por área urbana","No hay grupo",72.93
+"10","1","10","San Juan Sacatepéquez","Distribución de hogares por área urbana","No hay grupo",74.15
+"11","1","11","San Raymundo","Distribución de hogares por área urbana","No hay grupo",49.46
+"12","1","12","Chuarrancho","Distribución de hogares por área urbana","No hay grupo",56.32
+"13","1","13","Fraijanes","Distribución de hogares por área urbana","No hay grupo",81.27
+"14","1","14","Amatitlán","Distribución de hogares por área urbana","No hay grupo",84.25
+"15","1","15","Villa Nueva","Distribución de hogares por área urbana","No hay grupo",98.37
+"16","1","16","Villa Canales","Distribución de hogares por área urbana","No hay grupo",80.34
+"17","1","17","San Miguel Petapa","Distribución de hogares por área urbana","No hay grupo",95.61
+"18","2","01","Guastatoya","Distribución de hogares por área urbana","No hay grupo",100
+"19","2","02","Morazán","Distribución de hogares por área urbana","No hay grupo",23.6
+"20","2","03","San Agustín Acasaguastlán","Distribución de hogares por área urbana","No hay grupo",40.25
+"21","2","04","San Cristóbal Acasaguastlán","Distribución de hogares por área urbana","No hay grupo",33.76
+"22","2","05","El Jícaro","Distribución de hogares por área urbana","No hay grupo",53.59
+"23","2","06","Sansare","Distribución de hogares por área urbana","No hay grupo",36.9
+"24","2","07","Sanarate","Distribución de hogares por área urbana","No hay grupo",53.9
+"25","2","08","San Antonio la Paz","Distribución de hogares por área urbana","No hay grupo",55.57
+"26","3","01","Antigua Guatemala","Distribución de hogares por área urbana","No hay grupo",100
+"27","3","02","Jocotenango","Distribución de hogares por área urbana","No hay grupo",89.79
+"28","3","03","Pastores","Distribución de hogares por área urbana","No hay grupo",70.1
+"29","3","04","Sumpango","Distribución de hogares por área urbana","No hay grupo",78.64
+"30","3","05","Santo Domingo Xenacoj","Distribución de hogares por área urbana","No hay grupo",86.5
+"31","3","06","Santiago Sacatepéquez","Distribución de hogares por área urbana","No hay grupo",82.42
+"32","3","07","San Bartolomé Milpas Altas","Distribución de hogares por área urbana","No hay grupo",100
+"33","3","08","San Lucas Sacatepéquez","Distribución de hogares por área urbana","No hay grupo",89.02
+"34","3","09","Santa Lucía Milpas Altas","Distribución de hogares por área urbana","No hay grupo",79.08
+"35","3","10","Magdalena Milpas Altas","Distribución de hogares por área urbana","No hay grupo",66.72
+"36","3","11","Santa María de Jesús","Distribución de hogares por área urbana","No hay grupo",99.12
+"37","3","12","Ciudad Vieja","Distribución de hogares por área urbana","No hay grupo",98.32
+"38","3","13","San Miguel Dueñas","Distribución de hogares por área urbana","No hay grupo",86.13
+"39","3","14","San Juan Alotenango","Distribución de hogares por área urbana","No hay grupo",97.33
+"40","3","15","San Antonio Aguas Calientes","Distribución de hogares por área urbana","No hay grupo",85.79
+"41","3","16","Santa Catarina Barahona","Distribución de hogares por área urbana","No hay grupo",100
+"42","4","01","Chimaltenango","Distribución de hogares por área urbana","No hay grupo",100
+"43","4","02","San José Poaquil","Distribución de hogares por área urbana","No hay grupo",36.67
+"44","4","03","San Martín Jilotepeque","Distribución de hogares por área urbana","No hay grupo",15.67
+"45","4","04","San Juan Comalapa","Distribución de hogares por área urbana","No hay grupo",68.26
+"46","4","05","Santa Apolonia","Distribución de hogares por área urbana","No hay grupo",14.08
+"47","4","06","Tecpán Guatemala","Distribución de hogares por área urbana","No hay grupo",39.88
+"48","4","07","Patzún","Distribución de hogares por área urbana","No hay grupo",50.1
+"49","4","08","San Miguel Pochuta","Distribución de hogares por área urbana","No hay grupo",52.02
+"50","4","09","Patzicía","Distribución de hogares por área urbana","No hay grupo",65
+"51","4","10","Santa Cruz Balanyá","Distribución de hogares por área urbana","No hay grupo",17.24
+"52","4","11","Acatenango","Distribución de hogares por área urbana","No hay grupo",53.98
+"53","4","12","San Pedro Yepocapa","Distribución de hogares por área urbana","No hay grupo",49.7
+"54","4","13","San Andrés Itzapa","Distribución de hogares por área urbana","No hay grupo",79.18
+"55","4","14","Parramos","Distribución de hogares por área urbana","No hay grupo",75.01
+"56","4","15","Zaragoza","Distribución de hogares por área urbana","No hay grupo",50.13
+"57","4","16","El Tejar","Distribución de hogares por área urbana","No hay grupo",81.75
+"58","5","01","Escuintla","Distribución de hogares por área urbana","No hay grupo",100
+"59","5","02","Santa Lucía Cotzumalguapa","Distribución de hogares por área urbana","No hay grupo",53.55
+"60","5","03","La Democracia","Distribución de hogares por área urbana","No hay grupo",58.75
+"61","5","04","Siquinalá","Distribución de hogares por área urbana","No hay grupo",81.93
+"62","5","05","Masagua","Distribución de hogares por área urbana","No hay grupo",37.41
+"63","5","06","Tiquisate","Distribución de hogares por área urbana","No hay grupo",52.26
+"64","5","07","La Gomera","Distribución de hogares por área urbana","No hay grupo",57.37
+"65","5","08","Guanagazapa","Distribución de hogares por área urbana","No hay grupo",25.66
+"66","5","09","San José","Distribución de hogares por área urbana","No hay grupo",38.06
+"67","5","10","Iztapa","Distribución de hogares por área urbana","No hay grupo",27.12
+"68","5","11","Palín","Distribución de hogares por área urbana","No hay grupo",94.54
+"69","5","12","San Vicente Pacaya","Distribución de hogares por área urbana","No hay grupo",54.37
+"70","5","13","Nueva Concepción","Distribución de hogares por área urbana","No hay grupo",22.46
+"71","5","14","Sipacate","Distribución de hogares por área urbana","No hay grupo",62.41
+"72","6","01","Cuilapa","Distribución de hogares por área urbana","No hay grupo",100
+"73","6","02","Barberena","Distribución de hogares por área urbana","No hay grupo",81.02
+"74","6","03","Santa Rosa de Lima","Distribución de hogares por área urbana","No hay grupo",18.17
+"75","6","04","Casillas","Distribución de hogares por área urbana","No hay grupo",31.44
+"76","6","05","San Rafael las Flores","Distribución de hogares por área urbana","No hay grupo",32.18
+"77","6","06","Oratorio","Distribución de hogares por área urbana","No hay grupo",41.58
+"78","6","07","San Juan Tecuaco","Distribución de hogares por área urbana","No hay grupo",31.65
+"79","6","08","Chiquimulilla","Distribución de hogares por área urbana","No hay grupo",35.72
+"80","6","09","Taxisco","Distribución de hogares por área urbana","No hay grupo",31.73
+"81","6","10","Santa María Ixhuatán","Distribución de hogares por área urbana","No hay grupo",20.11
+"82","6","11","Guazacapán","Distribución de hogares por área urbana","No hay grupo",66.32
+"83","6","12","Santa Cruz Naranjo","Distribución de hogares por área urbana","No hay grupo",35.01
+"84","6","13","Pueblo Nuevo Viñas","Distribución de hogares por área urbana","No hay grupo",15.44
+"85","6","14","Nueva Santa Rosa","Distribución de hogares por área urbana","No hay grupo",37.28
+"86","7","01","Sololá","Distribución de hogares por área urbana","No hay grupo",100
+"87","7","02","San José Chacayá","Distribución de hogares por área urbana","No hay grupo",27.11
+"88","7","03","Santa María Visitación","Distribución de hogares por área urbana","No hay grupo",68.8
+"89","7","04","Santa Lucía Utatlán","Distribución de hogares por área urbana","No hay grupo",7.06
+"90","7","05","Nahualá","Distribución de hogares por área urbana","No hay grupo",30.85
+"91","7","06","Santa Catarina Ixtahuacán","Distribución de hogares por área urbana","No hay grupo",35.09
+"92","7","07","Santa Clara la Laguna","Distribución de hogares por área urbana","No hay grupo",71.4
+"93","7","08","Concepción","Distribución de hogares por área urbana","No hay grupo",61.35
+"94","7","09","San Andrés Semetabaj","Distribución de hogares por área urbana","No hay grupo",28.74
+"95","7","10","Panajachel","Distribución de hogares por área urbana","No hay grupo",92.74
+"96","7","11","Santa Catarina Palopó","Distribución de hogares por área urbana","No hay grupo",81.38
+"97","7","12","San Antonio Palopó","Distribución de hogares por área urbana","No hay grupo",51.87
+"98","7","13","San Lucas Tolimán","Distribución de hogares por área urbana","No hay grupo",58.92
+"99","7","14","Santa Cruz la Laguna","Distribución de hogares por área urbana","No hay grupo",32.33
+"100","7","15","San Pablo la Laguna","Distribución de hogares por área urbana","No hay grupo",100
+"101","7","16","San Marcos la Laguna","Distribución de hogares por área urbana","No hay grupo",100
+"102","7","17","San Juan la Laguna","Distribución de hogares por área urbana","No hay grupo",68.67
+"103","7","18","San Pedro la Laguna","Distribución de hogares por área urbana","No hay grupo",100
+"104","7","19","Santiago Atitlán","Distribución de hogares por área urbana","No hay grupo",91.03
+"105","8","01","Totonicapán","Distribución de hogares por área urbana","No hay grupo",100
+"106","8","02","San Cristóbal Totonicapán","Distribución de hogares por área urbana","No hay grupo",36.18
+"107","8","03","San Francisco el Alto","Distribución de hogares por área urbana","No hay grupo",66.98
+"108","8","04","San Andrés Xecul","Distribución de hogares por área urbana","No hay grupo",59.3
+"109","8","05","Momostenango","Distribución de hogares por área urbana","No hay grupo",16.92
+"110","8","06","Santa María Chiquimula","Distribución de hogares por área urbana","No hay grupo",29.8
+"111","8","07","Santa Lucía la Reforma","Distribución de hogares por área urbana","No hay grupo",5.87
+"112","8","08","San Bartolo Aguas Calientes","Distribución de hogares por área urbana","No hay grupo",18.15
+"113","9","01","Quetzaltenango","Distribución de hogares por área urbana","No hay grupo",100
+"114","9","02","Salcajá","Distribución de hogares por área urbana","No hay grupo",87.15
+"115","9","03","San Juan Olintepeque","Distribución de hogares por área urbana","No hay grupo",90.95
+"116","9","04","San Carlos Sija","Distribución de hogares por área urbana","No hay grupo",15.31
+"117","9","05","Sibilia","Distribución de hogares por área urbana","No hay grupo",10.37
+"118","9","06","Cabricán","Distribución de hogares por área urbana","No hay grupo",30.99
+"119","9","07","Cajolá","Distribución de hogares por área urbana","No hay grupo",100
+"120","9","08","San Miguel Siguilá","Distribución de hogares por área urbana","No hay grupo",58.92
+"121","9","09","San Juan Ostuncalco","Distribución de hogares por área urbana","No hay grupo",41.17
+"122","9","10","San Mateo","Distribución de hogares por área urbana","No hay grupo",98.18
+"123","9","11","Concepción Chiquirichapa","Distribución de hogares por área urbana","No hay grupo",58.47
+"124","9","12","San Martín Sacatepéquez","Distribución de hogares por área urbana","No hay grupo",14.12
+"125","9","13","Almolonga","Distribución de hogares por área urbana","No hay grupo",79.23
+"126","9","14","Cantel","Distribución de hogares por área urbana","No hay grupo",84.23
+"127","9","15","Huitán","Distribución de hogares por área urbana","No hay grupo",35.24
+"128","9","16","Zunil","Distribución de hogares por área urbana","No hay grupo",77
+"129","9","17","Colomba Costa Cuca","Distribución de hogares por área urbana","No hay grupo",61.07
+"130","9","18","San Francisco la Unión","Distribución de hogares por área urbana","No hay grupo",40.9
+"131","9","19","El Palmar","Distribución de hogares por área urbana","No hay grupo",66.97
+"132","9","20","Coatepeque","Distribución de hogares por área urbana","No hay grupo",38.34
+"133","9","21","Génova","Distribución de hogares por área urbana","No hay grupo",13.61
+"134","9","22","Flores Costa Cuca","Distribución de hogares por área urbana","No hay grupo",43.26
+"135","9","23","La Esperanza","Distribución de hogares por área urbana","No hay grupo",90.34
+"136","9","24","Palestina de los Altos","Distribución de hogares por área urbana","No hay grupo",13.05
+"137","1","00","Mazatenango","Distribución de hogares por área urbana","No hay grupo",100
+"138","1","00","Cuyotenango","Distribución de hogares por área urbana","No hay grupo",26.88
+"139","1","00","San Francisco Zapotitlán","Distribución de hogares por área urbana","No hay grupo",82.62
+"140","1","00","San Bernardino","Distribución de hogares por área urbana","No hay grupo",25.63
+"141","1","00","San José el Ídolo","Distribución de hogares por área urbana","No hay grupo",32.39
+"142","1","00","Santo Domingo Suchitepéquez","Distribución de hogares por área urbana","No hay grupo",19.1
+"143","1","00","San Lorenzo","Distribución de hogares por área urbana","No hay grupo",36.24
+"144","1","00","Samayac","Distribución de hogares por área urbana","No hay grupo",41.24
+"145","1","00","San Pablo Jocopilas","Distribución de hogares por área urbana","No hay grupo",83.69
+"146","1","01","San Antonio Suchitepéquez","Distribución de hogares por área urbana","No hay grupo",26
+"147","1","01","San Miguel Panán","Distribución de hogares por área urbana","No hay grupo",48.24
+"148","1","01","San Gabriel","Distribución de hogares por área urbana","No hay grupo",89.44
+"149","1","01","Chicacao","Distribución de hogares por área urbana","No hay grupo",44.28
+"150","1","01","Patulul","Distribución de hogares por área urbana","No hay grupo",29.88
+"151","1","01","Santa Bárbara","Distribución de hogares por área urbana","No hay grupo",64.96
+"152","1","01","San Juan Bautista","Distribución de hogares por área urbana","No hay grupo",51.79
+"153","1","01","Santo Tomas la Unión","Distribución de hogares por área urbana","No hay grupo",39.09
+"154","1","01","Zunilito","Distribución de hogares por área urbana","No hay grupo",55.87
+"155","1","01","Pueblo Nuevo","Distribución de hogares por área urbana","No hay grupo",30.52
+"156","1","02","Río Bravo","Distribución de hogares por área urbana","No hay grupo",56.57
+"157","1","02","San José La Máquina","Distribución de hogares por área urbana","No hay grupo",21.61
+"158","1","10","Retalhuleu","Distribución de hogares por área urbana","No hay grupo",100
+"159","1","10","San Sebastián","Distribución de hogares por área urbana","No hay grupo",31.97
+"160","1","10","Santa Cruz Muluá","Distribución de hogares por área urbana","No hay grupo",37.96
+"161","1","10","San Martín Zapotitlán","Distribución de hogares por área urbana","No hay grupo",31.94
+"162","1","10","San Felipe","Distribución de hogares por área urbana","No hay grupo",72.22
+"163","1","10","San Andrés Villa Seca","Distribución de hogares por área urbana","No hay grupo",23.35
+"164","1","10","Champerico","Distribución de hogares por área urbana","No hay grupo",34.21
+"165","1","10","Nuevo San Carlos","Distribución de hogares por área urbana","No hay grupo",58.52
+"166","1","10","El Asintal","Distribución de hogares por área urbana","No hay grupo",47.44
+"167","1","20","San Marcos","Distribución de hogares por área urbana","No hay grupo",100
+"168","1","20","San Pedro Sacatepéquez","Distribución de hogares por área urbana","No hay grupo",63.06
+"169","1","20","San Antonio Sacatepéquez","Distribución de hogares por área urbana","No hay grupo",10.15
+"170","1","20","Comitancillo","Distribución de hogares por área urbana","No hay grupo",16.61
+"171","1","20","San Miguel Ixtahuacán","Distribución de hogares por área urbana","No hay grupo",8.62
+"172","1","20","Concepción Tutuapa","Distribución de hogares por área urbana","No hay grupo",9.1
+"173","1","20","Tacaná","Distribución de hogares por área urbana","No hay grupo",12.8
+"174","1","20","Sibinal","Distribución de hogares por área urbana","No hay grupo",16.31
+"175","1","20","Tajumulco","Distribución de hogares por área urbana","No hay grupo",1.53
+"176","1","21","Tejutla","Distribución de hogares por área urbana","No hay grupo",13.09
+"177","1","21","San Rafael Pie de la Cuesta","Distribución de hogares por área urbana","No hay grupo",22.56
+"178","1","21","Nuevo Progreso","Distribución de hogares por área urbana","No hay grupo",9.76
+"179","1","21","El Tumbador","Distribución de hogares por área urbana","No hay grupo",20.27
+"180","1","21","San José el Rodeo","Distribución de hogares por área urbana","No hay grupo",13.77
+"181","1","21","Malacatán","Distribución de hogares por área urbana","No hay grupo",10.41
+"182","1","21","Catarina","Distribución de hogares por área urbana","No hay grupo",11.57
+"183","1","21","Ayutla","Distribución de hogares por área urbana","No hay grupo",65.25
+"184","1","21","Ocós","Distribución de hogares por área urbana","No hay grupo",41.04
+"185","1","21","San Pablo","Distribución de hogares por área urbana","No hay grupo",37.15
+"186","1","22","El Quetzal","Distribución de hogares por área urbana","No hay grupo",47.1
+"187","1","22","La Reforma","Distribución de hogares por área urbana","No hay grupo",23.4
+"188","1","22","Pajapita","Distribución de hogares por área urbana","No hay grupo",32.01
+"189","1","22","Ixchiguán","Distribución de hogares por área urbana","No hay grupo",6.96
+"190","1","22","San José Ojetenam","Distribución de hogares por área urbana","No hay grupo",11.45
+"191","1","22","San Cristóbal Cucho","Distribución de hogares por área urbana","No hay grupo",34.52
+"192","1","22","Sipacapa","Distribución de hogares por área urbana","No hay grupo",10.56
+"193","1","22","Esquipulas Palo Gordo","Distribución de hogares por área urbana","No hay grupo",30.13
+"194","1","22","Río Blanco","Distribución de hogares por área urbana","No hay grupo",20.37
+"195","1","22","San Lorenzo","Distribución de hogares por área urbana","No hay grupo",29.57
+"196","1","23","La Blanca","Distribución de hogares por área urbana","No hay grupo",49.17
+"197","1","30","Huehuetenango","Distribución de hogares por área urbana","No hay grupo",100
+"198","1","30","Chiantla","Distribución de hogares por área urbana","No hay grupo",9.34
+"199","1","30","Malacatancito","Distribución de hogares por área urbana","No hay grupo",5.1
+"200","1","30","Cuilco","Distribución de hogares por área urbana","No hay grupo",4.48
+"201","1","30","Nentón","Distribución de hogares por área urbana","No hay grupo",41.41
+"202","1","30","San Pedro Necta","Distribución de hogares por área urbana","No hay grupo",12.27
+"203","1","30","Jacaltenango","Distribución de hogares por área urbana","No hay grupo",62.33
+"204","1","30","San Pedro Soloma","Distribución de hogares por área urbana","No hay grupo",30.05
+"205","1","30","San Ildefonso Ixtahuacán","Distribución de hogares por área urbana","No hay grupo",26.95
+"206","1","31","Santa Bárbara","Distribución de hogares por área urbana","No hay grupo",3.5
+"207","1","31","La Libertad","Distribución de hogares por área urbana","No hay grupo",17.37
+"208","1","31","La Democracia","Distribución de hogares por área urbana","No hay grupo",43.61
+"209","1","31","San Miguel Acatán","Distribución de hogares por área urbana","No hay grupo",22.78
+"210","1","31","San Rafael La Independencia","Distribución de hogares por área urbana","No hay grupo",10.51
+"211","1","31","Todos Santos Cuchumatán","Distribución de hogares por área urbana","No hay grupo",2.14
+"212","1","31","San Juan Atitán","Distribución de hogares por área urbana","No hay grupo",21.45
+"213","1","31","Santa Eulalia","Distribución de hogares por área urbana","No hay grupo",9.27
+"214","1","31","San Mateo Ixtatán","Distribución de hogares por área urbana","No hay grupo",35.17
+"215","1","31","Colotenango","Distribución de hogares por área urbana","No hay grupo",15.02
+"216","1","32","San Sebastián Huehuetenango","Distribución de hogares por área urbana","No hay grupo",11.69
+"217","1","32","Tectitán","Distribución de hogares por área urbana","No hay grupo",9.65
+"218","1","32","Concepción Huista","Distribución de hogares por área urbana","No hay grupo",40.45
+"219","1","32","San Juan Ixcoy","Distribución de hogares por área urbana","No hay grupo",10.45
+"220","1","32","San Antonio Huista","Distribución de hogares por área urbana","No hay grupo",39.24
+"221","1","32","San Sebastián Coatán","Distribución de hogares por área urbana","No hay grupo",5.24
+"222","1","32","Santa Cruz Barillas","Distribución de hogares por área urbana","No hay grupo",19.13
+"223","1","32","Aguacatán","Distribución de hogares por área urbana","No hay grupo",19.55
+"224","1","32","San Rafael Petzal","Distribución de hogares por área urbana","No hay grupo",46.77
+"225","1","32","San Gaspar Ixchil","Distribución de hogares por área urbana","No hay grupo",11.37
+"226","1","33","Santiago Chimaltenango","Distribución de hogares por área urbana","No hay grupo",61.21
+"227","1","33","Santa Ana Huista","Distribución de hogares por área urbana","No hay grupo",2.74
+"228","1","33","Unión Cantinil","Distribución de hogares por área urbana","No hay grupo",10.18
+"229","1","33","Petatán","Distribución de hogares por área urbana","No hay grupo",44.13
+"230","1","40","Santa Cruz del Quiché","Distribución de hogares por área urbana","No hay grupo",100
+"231","1","40","Chiché","Distribución de hogares por área urbana","No hay grupo",17.26
+"232","1","40","Chinique","Distribución de hogares por área urbana","No hay grupo",22.27
+"233","1","40","Zacualpa","Distribución de hogares por área urbana","No hay grupo",20.36
+"234","1","40","Chajul","Distribución de hogares por área urbana","No hay grupo",51.37
+"235","1","40","Santo Tomás Chichicastenango","Distribución de hogares por área urbana","No hay grupo",50.25
+"236","1","40","Patzité","Distribución de hogares por área urbana","No hay grupo",17.75
+"237","1","40","San Antonio Ilotenango","Distribución de hogares por área urbana","No hay grupo",19.41
+"238","1","40","San Pedro Jocopilas","Distribución de hogares por área urbana","No hay grupo",5
+"239","1","41","Cunén","Distribución de hogares por área urbana","No hay grupo",21.27
+"240","1","41","San Juan Cotzal","Distribución de hogares por área urbana","No hay grupo",46.59
+"241","1","41","Joyabaj","Distribución de hogares por área urbana","No hay grupo",20.76
+"242","1","41","Santa María Nebaj","Distribución de hogares por área urbana","No hay grupo",45.72
+"243","1","41","San Andrés Sajcabajá","Distribución de hogares por área urbana","No hay grupo",13.83
+"244","1","41","San Miguel Uspantán","Distribución de hogares por área urbana","No hay grupo",11.62
+"245","1","41","Sacapulas","Distribución de hogares por área urbana","No hay grupo",26.77
+"246","1","41","San Bartolomé Jocotenango","Distribución de hogares por área urbana","No hay grupo",18.13
+"247","1","41","Canillá","Distribución de hogares por área urbana","No hay grupo",23.9
+"248","1","41","Chicamán","Distribución de hogares por área urbana","No hay grupo",9.6
+"249","1","42","Playa Grande Ixcán","Distribución de hogares por área urbana","No hay grupo",14.37
+"250","1","42","Pachalum","Distribución de hogares por área urbana","No hay grupo",24.3
+"251","1","50","Salamá","Distribución de hogares por área urbana","No hay grupo",100
+"252","1","50","San Miguel Chicaj","Distribución de hogares por área urbana","No hay grupo",24.45
+"253","1","50","Rabinal","Distribución de hogares por área urbana","No hay grupo",39.34
+"254","1","50","Cubulco","Distribución de hogares por área urbana","No hay grupo",21.61
+"255","1","50","Granados","Distribución de hogares por área urbana","No hay grupo",9.05
+"256","1","50","Santa Cruz El Chol","Distribución de hogares por área urbana","No hay grupo",22.38
+"257","1","50","San Jerónimo","Distribución de hogares por área urbana","No hay grupo",43.49
+"258","1","50","Purulhá","Distribución de hogares por área urbana","No hay grupo",15.51
+"259","1","60","Cobán","Distribución de hogares por área urbana","No hay grupo",99.91
+"260","1","60","Santa Cruz Verapaz","Distribución de hogares por área urbana","No hay grupo",29.85
+"261","1","60","San Cristóbal Verapaz","Distribución de hogares por área urbana","No hay grupo",32.66
+"262","1","60","Tactic","Distribución de hogares por área urbana","No hay grupo",42.75
+"263","1","60","Tamahú","Distribución de hogares por área urbana","No hay grupo",24.24
+"264","1","60","San Miguel Tucurú","Distribución de hogares por área urbana","No hay grupo",10.84
+"265","1","60","Panzós","Distribución de hogares por área urbana","No hay grupo",31.19
+"266","1","60","Senahú","Distribución de hogares por área urbana","No hay grupo",13.84
+"267","1","60","San Pedro Carchá","Distribución de hogares por área urbana","No hay grupo",8.3
+"268","1","61","San Juan Chamelco","Distribución de hogares por área urbana","No hay grupo",24.6
+"269","1","61","San Agustín Lanquín","Distribución de hogares por área urbana","No hay grupo",14.51
+"270","1","61","Santa María Cahabón","Distribución de hogares por área urbana","No hay grupo",5.99
+"271","1","61","Chisec","Distribución de hogares por área urbana","No hay grupo",11.8
+"272","1","61","Chahal","Distribución de hogares por área urbana","No hay grupo",16.84
+"273","1","61","Fray Bartolomé de las Casas","Distribución de hogares por área urbana","No hay grupo",6.38
+"274","1","61","Santa Catalina La Tinta","Distribución de hogares por área urbana","No hay grupo",52.71
+"275","1","61","Raxruhá","Distribución de hogares por área urbana","No hay grupo",19.48
+"276","1","70","Flores","Distribución de hogares por área urbana","No hay grupo",100
+"277","1","70","San José","Distribución de hogares por área urbana","No hay grupo",21.97
+"278","1","70","San Benito","Distribución de hogares por área urbana","No hay grupo",80.96
+"279","1","70","San Andrés","Distribución de hogares por área urbana","No hay grupo",39.71
+"280","1","70","La Libertad","Distribución de hogares por área urbana","No hay grupo",35.21
+"281","1","70","San Francisco","Distribución de hogares por área urbana","No hay grupo",62.95
+"282","1","70","Santa Ana","Distribución de hogares por área urbana","No hay grupo",49.27
+"283","1","70","Dolores","Distribución de hogares por área urbana","No hay grupo",28.46
+"284","1","70","San Luis","Distribución de hogares por área urbana","No hay grupo",16.21
+"285","1","71","Sayaxché","Distribución de hogares por área urbana","No hay grupo",16.32
+"286","1","71","Melchor de Mencos","Distribución de hogares por área urbana","No hay grupo",55.01
+"287","1","71","Poptún","Distribución de hogares por área urbana","No hay grupo",60.44
+"288","1","71","Las Cruces","Distribución de hogares por área urbana","No hay grupo",34.23
+"289","1","71","El Chal","Distribución de hogares por área urbana","No hay grupo",25.8
+"290","1","80","Puerto Barrios","Distribución de hogares por área urbana","No hay grupo",100
+"291","1","80","Livingston","Distribución de hogares por área urbana","No hay grupo",28.24
+"292","1","80","El Estor","Distribución de hogares por área urbana","No hay grupo",30.73
+"293","1","80","Morales","Distribución de hogares por área urbana","No hay grupo",25.2
+"294","1","80","Los Amates","Distribución de hogares por área urbana","No hay grupo",8.69
+"295","1","90","Zacapa","Distribución de hogares por área urbana","No hay grupo",99.96
+"296","1","90","Estanzuela","Distribución de hogares por área urbana","No hay grupo",81.89
+"297","1","90","Río Hondo","Distribución de hogares por área urbana","No hay grupo",30.54
+"298","1","90","Gualán","Distribución de hogares por área urbana","No hay grupo",15.73
+"299","1","90","Teculután","Distribución de hogares por área urbana","No hay grupo",32.16
+"300","1","90","Usumatlán","Distribución de hogares por área urbana","No hay grupo",38.22
+"301","1","90","Cabañas","Distribución de hogares por área urbana","No hay grupo",58.55
+"302","1","90","San Diego","Distribución de hogares por área urbana","No hay grupo",11.03
+"303","1","90","La Unión","Distribución de hogares por área urbana","No hay grupo",8.84
+"304","1","91","Huité","Distribución de hogares por área urbana","No hay grupo",33.6
+"305","1","91","San Jorge","Distribución de hogares por área urbana","No hay grupo",31.33
+"306","2","00","Chiquimula","Distribución de hogares por área urbana","No hay grupo",100
+"307","2","00","San José la Arada","Distribución de hogares por área urbana","No hay grupo",33.74
+"308","2","00","San Juan Ermita","Distribución de hogares por área urbana","No hay grupo",4
+"309","2","00","Jocotán","Distribución de hogares por área urbana","No hay grupo",14.58
+"310","2","00","Camotán","Distribución de hogares por área urbana","No hay grupo",1.48
+"311","2","00","Olopa","Distribución de hogares por área urbana","No hay grupo",10.76
+"312","2","00","Esquipulas","Distribución de hogares por área urbana","No hay grupo",36.64
+"313","2","00","Concepción las Minas","Distribución de hogares por área urbana","No hay grupo",10.21
+"314","2","00","Quezaltepeque","Distribución de hogares por área urbana","No hay grupo",7.85
+"315","2","01","San Jacinto","Distribución de hogares por área urbana","No hay grupo",7.41
+"316","2","01","Ipala","Distribución de hogares por área urbana","No hay grupo",27.02
+"317","2","10","Jalapa","Distribución de hogares por área urbana","No hay grupo",100
+"318","2","10","San Pedro Pinula","Distribución de hogares por área urbana","No hay grupo",15.73
+"319","2","10","San Luis Jilotepeque","Distribución de hogares por área urbana","No hay grupo",47.34
+"320","2","10","San Manuel Chaparrón","Distribución de hogares por área urbana","No hay grupo",40.59
+"321","2","10","San Carlos Alzatate","Distribución de hogares por área urbana","No hay grupo",46.39
+"322","2","10","Monjas","Distribución de hogares por área urbana","No hay grupo",49.69
+"323","2","10","Mataquescuintla","Distribución de hogares por área urbana","No hay grupo",24.52
+"324","2","20","Jutiapa","Distribución de hogares por área urbana","No hay grupo",100
+"325","2","20","El Progreso","Distribución de hogares por área urbana","No hay grupo",44.35
+"326","2","20","Santa Catarina Mita","Distribución de hogares por área urbana","No hay grupo",50.87
+"327","2","20","Agua Blanca","Distribución de hogares por área urbana","No hay grupo",24.58
+"328","2","20","Asunción Mita","Distribución de hogares por área urbana","No hay grupo",44.43
+"329","2","20","Yupiltepeque","Distribución de hogares por área urbana","No hay grupo",18.02
+"330","2","20","Atescatempa","Distribución de hogares por área urbana","No hay grupo",55
+"331","2","20","Jerez","Distribución de hogares por área urbana","No hay grupo",61.69
+"332","2","20","El Adelanto","Distribución de hogares por área urbana","No hay grupo",37.38
+"333","2","21","Zapotitlán","Distribución de hogares por área urbana","No hay grupo",24.84
+"334","2","21","Comapa","Distribución de hogares por área urbana","No hay grupo",14.07
+"335","2","21","Jalpatagua","Distribución de hogares por área urbana","No hay grupo",36.06
+"336","2","21","Conguaco","Distribución de hogares por área urbana","No hay grupo",13.52
+"337","2","21","Moyuta","Distribución de hogares por área urbana","No hay grupo",18.59
+"338","2","21","Pasaco","Distribución de hogares por área urbana","No hay grupo",23.85
+"339","2","21","San José Acatempa","Distribución de hogares por área urbana","No hay grupo",40.89
+"340","2","21","Quesada","Distribución de hogares por área urbana","No hay grupo",12.42
+"341","1","01","Guatemala","Distribución de hogares por área rural","No hay grupo",0
+"342","1","02","Santa Catarina Pinula","Distribución de hogares por área rural","No hay grupo",11.43
+"343","1","03","San José Pinula","Distribución de hogares por área rural","No hay grupo",14.69
+"344","1","04","San José del Golfo","Distribución de hogares por área rural","No hay grupo",67.69
+"345","1","05","Palencia","Distribución de hogares por área rural","No hay grupo",53.56
+"346","1","06","Chinautla","Distribución de hogares por área rural","No hay grupo",8.32
+"347","1","07","San Pedro Ayampuc","Distribución de hogares por área rural","No hay grupo",18.24
+"348","1","08","Mixco","Distribución de hogares por área rural","No hay grupo",0.53
+"349","1","09","San Pedro Sacatepéquez","Distribución de hogares por área rural","No hay grupo",27.07
+"350","1","10","San Juan Sacatepéquez","Distribución de hogares por área rural","No hay grupo",25.85
+"351","1","11","San Raymundo","Distribución de hogares por área rural","No hay grupo",50.54
+"352","1","12","Chuarrancho","Distribución de hogares por área rural","No hay grupo",43.68
+"353","1","13","Fraijanes","Distribución de hogares por área rural","No hay grupo",18.73
+"354","1","14","Amatitlán","Distribución de hogares por área rural","No hay grupo",15.75
+"355","1","15","Villa Nueva","Distribución de hogares por área rural","No hay grupo",1.63
+"356","1","16","Villa Canales","Distribución de hogares por área rural","No hay grupo",19.66
+"357","1","17","San Miguel Petapa","Distribución de hogares por área rural","No hay grupo",4.39
+"358","2","01","Guastatoya","Distribución de hogares por área rural","No hay grupo",0
+"359","2","02","Morazán","Distribución de hogares por área rural","No hay grupo",76.4
+"360","2","03","San Agustín Acasaguastlán","Distribución de hogares por área rural","No hay grupo",59.75
+"361","2","04","San Cristóbal Acasaguastlán","Distribución de hogares por área rural","No hay grupo",66.24
+"362","2","05","El Jícaro","Distribución de hogares por área rural","No hay grupo",46.41
+"363","2","06","Sansare","Distribución de hogares por área rural","No hay grupo",63.1
+"364","2","07","Sanarate","Distribución de hogares por área rural","No hay grupo",46.1
+"365","2","08","San Antonio la Paz","Distribución de hogares por área rural","No hay grupo",44.43
+"366","3","01","Antigua Guatemala","Distribución de hogares por área rural","No hay grupo",0
+"367","3","02","Jocotenango","Distribución de hogares por área rural","No hay grupo",10.21
+"368","3","03","Pastores","Distribución de hogares por área rural","No hay grupo",29.9
+"369","3","04","Sumpango","Distribución de hogares por área rural","No hay grupo",21.36
+"370","3","05","Santo Domingo Xenacoj","Distribución de hogares por área rural","No hay grupo",13.5
+"371","3","06","Santiago Sacatepéquez","Distribución de hogares por área rural","No hay grupo",17.58
+"372","3","07","San Bartolomé Milpas Altas","Distribución de hogares por área rural","No hay grupo",0
+"373","3","08","San Lucas Sacatepéquez","Distribución de hogares por área rural","No hay grupo",10.98
+"374","3","09","Santa Lucía Milpas Altas","Distribución de hogares por área rural","No hay grupo",20.92
+"375","3","10","Magdalena Milpas Altas","Distribución de hogares por área rural","No hay grupo",33.28
+"376","3","11","Santa María de Jesús","Distribución de hogares por área rural","No hay grupo",0.88
+"377","3","12","Ciudad Vieja","Distribución de hogares por área rural","No hay grupo",1.68
+"378","3","13","San Miguel Dueñas","Distribución de hogares por área rural","No hay grupo",13.87
+"379","3","14","San Juan Alotenango","Distribución de hogares por área rural","No hay grupo",2.67
+"380","3","15","San Antonio Aguas Calientes","Distribución de hogares por área rural","No hay grupo",14.21
+"381","3","16","Santa Catarina Barahona","Distribución de hogares por área rural","No hay grupo",0
+"382","4","01","Chimaltenango","Distribución de hogares por área rural","No hay grupo",0
+"383","4","02","San José Poaquil","Distribución de hogares por área rural","No hay grupo",63.33
+"384","4","03","San Martín Jilotepeque","Distribución de hogares por área rural","No hay grupo",84.33
+"385","4","04","San Juan Comalapa","Distribución de hogares por área rural","No hay grupo",31.74
+"386","4","05","Santa Apolonia","Distribución de hogares por área rural","No hay grupo",85.92
+"387","4","06","Tecpán Guatemala","Distribución de hogares por área rural","No hay grupo",60.12
+"388","4","07","Patzún","Distribución de hogares por área rural","No hay grupo",49.9
+"389","4","08","San Miguel Pochuta","Distribución de hogares por área rural","No hay grupo",47.98
+"390","4","09","Patzicía","Distribución de hogares por área rural","No hay grupo",35
+"391","4","10","Santa Cruz Balanyá","Distribución de hogares por área rural","No hay grupo",82.76
+"392","4","11","Acatenango","Distribución de hogares por área rural","No hay grupo",46.02
+"393","4","12","San Pedro Yepocapa","Distribución de hogares por área rural","No hay grupo",50.3
+"394","4","13","San Andrés Itzapa","Distribución de hogares por área rural","No hay grupo",20.82
+"395","4","14","Parramos","Distribución de hogares por área rural","No hay grupo",24.99
+"396","4","15","Zaragoza","Distribución de hogares por área rural","No hay grupo",49.87
+"397","4","16","El Tejar","Distribución de hogares por área rural","No hay grupo",18.25
+"398","5","01","Escuintla","Distribución de hogares por área rural","No hay grupo",0
+"399","5","02","Santa Lucía Cotzumalguapa","Distribución de hogares por área rural","No hay grupo",46.45
+"400","5","03","La Democracia","Distribución de hogares por área rural","No hay grupo",41.25
+"401","5","04","Siquinalá","Distribución de hogares por área rural","No hay grupo",18.07
+"402","5","05","Masagua","Distribución de hogares por área rural","No hay grupo",62.59
+"403","5","06","Tiquisate","Distribución de hogares por área rural","No hay grupo",47.74
+"404","5","07","La Gomera","Distribución de hogares por área rural","No hay grupo",42.63
+"405","5","08","Guanagazapa","Distribución de hogares por área rural","No hay grupo",74.34
+"406","5","09","San José","Distribución de hogares por área rural","No hay grupo",61.94
+"407","5","10","Iztapa","Distribución de hogares por área rural","No hay grupo",72.88
+"408","5","11","Palín","Distribución de hogares por área rural","No hay grupo",5.46
+"409","5","12","San Vicente Pacaya","Distribución de hogares por área rural","No hay grupo",45.63
+"410","5","13","Nueva Concepción","Distribución de hogares por área rural","No hay grupo",77.54
+"411","5","14","Sipacate","Distribución de hogares por área rural","No hay grupo",37.59
+"412","6","01","Cuilapa","Distribución de hogares por área rural","No hay grupo",0
+"413","6","02","Barberena","Distribución de hogares por área rural","No hay grupo",18.98
+"414","6","03","Santa Rosa de Lima","Distribución de hogares por área rural","No hay grupo",81.83
+"415","6","04","Casillas","Distribución de hogares por área rural","No hay grupo",68.56
+"416","6","05","San Rafael las Flores","Distribución de hogares por área rural","No hay grupo",67.82
+"417","6","06","Oratorio","Distribución de hogares por área rural","No hay grupo",58.42
+"418","6","07","San Juan Tecuaco","Distribución de hogares por área rural","No hay grupo",68.35
+"419","6","08","Chiquimulilla","Distribución de hogares por área rural","No hay grupo",64.28
+"420","6","09","Taxisco","Distribución de hogares por área rural","No hay grupo",68.27
+"421","6","10","Santa María Ixhuatán","Distribución de hogares por área rural","No hay grupo",79.89
+"422","6","11","Guazacapán","Distribución de hogares por área rural","No hay grupo",33.68
+"423","6","12","Santa Cruz Naranjo","Distribución de hogares por área rural","No hay grupo",64.99
+"424","6","13","Pueblo Nuevo Viñas","Distribución de hogares por área rural","No hay grupo",84.56
+"425","6","14","Nueva Santa Rosa","Distribución de hogares por área rural","No hay grupo",62.72
+"426","7","01","Sololá","Distribución de hogares por área rural","No hay grupo",0
+"427","7","02","San José Chacayá","Distribución de hogares por área rural","No hay grupo",72.89
+"428","7","03","Santa María Visitación","Distribución de hogares por área rural","No hay grupo",31.2
+"429","7","04","Santa Lucía Utatlán","Distribución de hogares por área rural","No hay grupo",92.94
+"430","7","05","Nahualá","Distribución de hogares por área rural","No hay grupo",69.15
+"431","7","06","Santa Catarina Ixtahuacán","Distribución de hogares por área rural","No hay grupo",64.91
+"432","7","07","Santa Clara la Laguna","Distribución de hogares por área rural","No hay grupo",28.6
+"433","7","08","Concepción","Distribución de hogares por área rural","No hay grupo",38.65
+"434","7","09","San Andrés Semetabaj","Distribución de hogares por área rural","No hay grupo",71.26
+"435","7","10","Panajachel","Distribución de hogares por área rural","No hay grupo",7.26
+"436","7","11","Santa Catarina Palopó","Distribución de hogares por área rural","No hay grupo",18.62
+"437","7","12","San Antonio Palopó","Distribución de hogares por área rural","No hay grupo",48.13
+"438","7","13","San Lucas Tolimán","Distribución de hogares por área rural","No hay grupo",41.08
+"439","7","14","Santa Cruz la Laguna","Distribución de hogares por área rural","No hay grupo",67.67
+"440","7","15","San Pablo la Laguna","Distribución de hogares por área rural","No hay grupo",0
+"441","7","16","San Marcos la Laguna","Distribución de hogares por área rural","No hay grupo",0
+"442","7","17","San Juan la Laguna","Distribución de hogares por área rural","No hay grupo",31.33
+"443","7","18","San Pedro la Laguna","Distribución de hogares por área rural","No hay grupo",0
+"444","7","19","Santiago Atitlán","Distribución de hogares por área rural","No hay grupo",8.97
+"445","8","01","Totonicapán","Distribución de hogares por área rural","No hay grupo",0
+"446","8","02","San Cristóbal Totonicapán","Distribución de hogares por área rural","No hay grupo",63.82
+"447","8","03","San Francisco el Alto","Distribución de hogares por área rural","No hay grupo",33.02
+"448","8","04","San Andrés Xecul","Distribución de hogares por área rural","No hay grupo",40.7
+"449","8","05","Momostenango","Distribución de hogares por área rural","No hay grupo",83.08
+"450","8","06","Santa María Chiquimula","Distribución de hogares por área rural","No hay grupo",70.2
+"451","8","07","Santa Lucía la Reforma","Distribución de hogares por área rural","No hay grupo",94.13
+"452","8","08","San Bartolo Aguas Calientes","Distribución de hogares por área rural","No hay grupo",81.85
+"453","9","01","Quetzaltenango","Distribución de hogares por área rural","No hay grupo",0
+"454","9","02","Salcajá","Distribución de hogares por área rural","No hay grupo",12.85
+"455","9","03","San Juan Olintepeque","Distribución de hogares por área rural","No hay grupo",9.05
+"456","9","04","San Carlos Sija","Distribución de hogares por área rural","No hay grupo",84.69
+"457","9","05","Sibilia","Distribución de hogares por área rural","No hay grupo",89.63
+"458","9","06","Cabricán","Distribución de hogares por área rural","No hay grupo",69.01
+"459","9","07","Cajolá","Distribución de hogares por área rural","No hay grupo",0
+"460","9","08","San Miguel Siguilá","Distribución de hogares por área rural","No hay grupo",41.08
+"461","9","09","San Juan Ostuncalco","Distribución de hogares por área rural","No hay grupo",58.83
+"462","9","10","San Mateo","Distribución de hogares por área rural","No hay grupo",1.82
+"463","9","11","Concepción Chiquirichapa","Distribución de hogares por área rural","No hay grupo",41.53
+"464","9","12","San Martín Sacatepéquez","Distribución de hogares por área rural","No hay grupo",85.88
+"465","9","13","Almolonga","Distribución de hogares por área rural","No hay grupo",20.77
+"466","9","14","Cantel","Distribución de hogares por área rural","No hay grupo",15.77
+"467","9","15","Huitán","Distribución de hogares por área rural","No hay grupo",64.76
+"468","9","16","Zunil","Distribución de hogares por área rural","No hay grupo",23
+"469","9","17","Colomba Costa Cuca","Distribución de hogares por área rural","No hay grupo",38.93
+"470","9","18","San Francisco la Unión","Distribución de hogares por área rural","No hay grupo",59.1
+"471","9","19","El Palmar","Distribución de hogares por área rural","No hay grupo",33.03
+"472","9","20","Coatepeque","Distribución de hogares por área rural","No hay grupo",61.66
+"473","9","21","Génova","Distribución de hogares por área rural","No hay grupo",86.39
+"474","9","22","Flores Costa Cuca","Distribución de hogares por área rural","No hay grupo",56.74
+"475","9","23","La Esperanza","Distribución de hogares por área rural","No hay grupo",9.66
+"476","9","24","Palestina de los Altos","Distribución de hogares por área rural","No hay grupo",86.95
+"477","1","00","Mazatenango","Distribución de hogares por área rural","No hay grupo",0
+"478","1","00","Cuyotenango","Distribución de hogares por área rural","No hay grupo",73.12
+"479","1","00","San Francisco Zapotitlán","Distribución de hogares por área rural","No hay grupo",17.38
+"480","1","00","San Bernardino","Distribución de hogares por área rural","No hay grupo",74.37
+"481","1","00","San José el Ídolo","Distribución de hogares por área rural","No hay grupo",67.61
+"482","1","00","Santo Domingo Suchitepéquez","Distribución de hogares por área rural","No hay grupo",80.9
+"483","1","00","San Lorenzo","Distribución de hogares por área rural","No hay grupo",63.76
+"484","1","00","Samayac","Distribución de hogares por área rural","No hay grupo",58.76
+"485","1","00","San Pablo Jocopilas","Distribución de hogares por área rural","No hay grupo",16.31
+"486","1","01","San Antonio Suchitepéquez","Distribución de hogares por área rural","No hay grupo",74
+"487","1","01","San Miguel Panán","Distribución de hogares por área rural","No hay grupo",51.76
+"488","1","01","San Gabriel","Distribución de hogares por área rural","No hay grupo",10.56
+"489","1","01","Chicacao","Distribución de hogares por área rural","No hay grupo",55.72
+"490","1","01","Patulul","Distribución de hogares por área rural","No hay grupo",70.12
+"491","1","01","Santa Bárbara","Distribución de hogares por área rural","No hay grupo",35.04
+"492","1","01","San Juan Bautista","Distribución de hogares por área rural","No hay grupo",48.21
+"493","1","01","Santo Tomas la Unión","Distribución de hogares por área rural","No hay grupo",60.91
+"494","1","01","Zunilito","Distribución de hogares por área rural","No hay grupo",44.13
+"495","1","01","Pueblo Nuevo","Distribución de hogares por área rural","No hay grupo",69.48
+"496","1","02","Río Bravo","Distribución de hogares por área rural","No hay grupo",43.43
+"497","1","02","San José La Máquina","Distribución de hogares por área rural","No hay grupo",78.39
+"498","1","10","Retalhuleu","Distribución de hogares por área rural","No hay grupo",0
+"499","1","10","San Sebastián","Distribución de hogares por área rural","No hay grupo",68.03
+"500","1","10","Santa Cruz Muluá","Distribución de hogares por área rural","No hay grupo",62.04
+"501","1","10","San Martín Zapotitlán","Distribución de hogares por área rural","No hay grupo",68.06
+"502","1","10","San Felipe","Distribución de hogares por área rural","No hay grupo",27.78
+"503","1","10","San Andrés Villa Seca","Distribución de hogares por área rural","No hay grupo",76.65
+"504","1","10","Champerico","Distribución de hogares por área rural","No hay grupo",65.79
+"505","1","10","Nuevo San Carlos","Distribución de hogares por área rural","No hay grupo",41.48
+"506","1","10","El Asintal","Distribución de hogares por área rural","No hay grupo",52.56
+"507","1","20","San Marcos","Distribución de hogares por área rural","No hay grupo",0
+"508","1","20","San Pedro Sacatepéquez","Distribución de hogares por área rural","No hay grupo",36.94
+"509","1","20","San Antonio Sacatepéquez","Distribución de hogares por área rural","No hay grupo",89.85
+"510","1","20","Comitancillo","Distribución de hogares por área rural","No hay grupo",83.39
+"511","1","20","San Miguel Ixtahuacán","Distribución de hogares por área rural","No hay grupo",91.38
+"512","1","20","Concepción Tutuapa","Distribución de hogares por área rural","No hay grupo",90.9
+"513","1","20","Tacaná","Distribución de hogares por área rural","No hay grupo",87.2
+"514","1","20","Sibinal","Distribución de hogares por área rural","No hay grupo",83.69
+"515","1","20","Tajumulco","Distribución de hogares por área rural","No hay grupo",98.47
+"516","1","21","Tejutla","Distribución de hogares por área rural","No hay grupo",86.91
+"517","1","21","San Rafael Pie de la Cuesta","Distribución de hogares por área rural","No hay grupo",77.44
+"518","1","21","Nuevo Progreso","Distribución de hogares por área rural","No hay grupo",90.24
+"519","1","21","El Tumbador","Distribución de hogares por área rural","No hay grupo",79.73
+"520","1","21","San José el Rodeo","Distribución de hogares por área rural","No hay grupo",86.23
+"521","1","21","Malacatán","Distribución de hogares por área rural","No hay grupo",89.59
+"522","1","21","Catarina","Distribución de hogares por área rural","No hay grupo",88.43
+"523","1","21","Ayutla","Distribución de hogares por área rural","No hay grupo",34.75
+"524","1","21","Ocós","Distribución de hogares por área rural","No hay grupo",58.96
+"525","1","21","San Pablo","Distribución de hogares por área rural","No hay grupo",62.85
+"526","1","22","El Quetzal","Distribución de hogares por área rural","No hay grupo",52.9
+"527","1","22","La Reforma","Distribución de hogares por área rural","No hay grupo",76.6
+"528","1","22","Pajapita","Distribución de hogares por área rural","No hay grupo",67.99
+"529","1","22","Ixchiguán","Distribución de hogares por área rural","No hay grupo",93.04
+"530","1","22","San José Ojetenam","Distribución de hogares por área rural","No hay grupo",88.55
+"531","1","22","San Cristóbal Cucho","Distribución de hogares por área rural","No hay grupo",65.48
+"532","1","22","Sipacapa","Distribución de hogares por área rural","No hay grupo",89.44
+"533","1","22","Esquipulas Palo Gordo","Distribución de hogares por área rural","No hay grupo",69.87
+"534","1","22","Río Blanco","Distribución de hogares por área rural","No hay grupo",79.63
+"535","1","22","San Lorenzo","Distribución de hogares por área rural","No hay grupo",70.43
+"536","1","23","La Blanca","Distribución de hogares por área rural","No hay grupo",50.83
+"537","1","30","Huehuetenango","Distribución de hogares por área rural","No hay grupo",0
+"538","1","30","Chiantla","Distribución de hogares por área rural","No hay grupo",90.66
+"539","1","30","Malacatancito","Distribución de hogares por área rural","No hay grupo",94.9
+"540","1","30","Cuilco","Distribución de hogares por área rural","No hay grupo",95.52
+"541","1","30","Nentón","Distribución de hogares por área rural","No hay grupo",58.59
+"542","1","30","San Pedro Necta","Distribución de hogares por área rural","No hay grupo",87.73
+"543","1","30","Jacaltenango","Distribución de hogares por área rural","No hay grupo",37.67
+"544","1","30","San Pedro Soloma","Distribución de hogares por área rural","No hay grupo",69.95
+"545","1","30","San Ildefonso Ixtahuacán","Distribución de hogares por área rural","No hay grupo",73.05
+"546","1","31","Santa Bárbara","Distribución de hogares por área rural","No hay grupo",96.5
+"547","1","31","La Libertad","Distribución de hogares por área rural","No hay grupo",82.63
+"548","1","31","La Democracia","Distribución de hogares por área rural","No hay grupo",56.39
+"549","1","31","San Miguel Acatán","Distribución de hogares por área rural","No hay grupo",77.22
+"550","1","31","San Rafael La Independencia","Distribución de hogares por área rural","No hay grupo",89.49
+"551","1","31","Todos Santos Cuchumatán","Distribución de hogares por área rural","No hay grupo",97.86
+"552","1","31","San Juan Atitán","Distribución de hogares por área rural","No hay grupo",78.55
+"553","1","31","Santa Eulalia","Distribución de hogares por área rural","No hay grupo",90.73
+"554","1","31","San Mateo Ixtatán","Distribución de hogares por área rural","No hay grupo",64.83
+"555","1","31","Colotenango","Distribución de hogares por área rural","No hay grupo",84.98
+"556","1","32","San Sebastián Huehuetenango","Distribución de hogares por área rural","No hay grupo",88.31
+"557","1","32","Tectitán","Distribución de hogares por área rural","No hay grupo",90.35
+"558","1","32","Concepción Huista","Distribución de hogares por área rural","No hay grupo",59.55
+"559","1","32","San Juan Ixcoy","Distribución de hogares por área rural","No hay grupo",89.55
+"560","1","32","San Antonio Huista","Distribución de hogares por área rural","No hay grupo",60.76
+"561","1","32","San Sebastián Coatán","Distribución de hogares por área rural","No hay grupo",94.76
+"562","1","32","Santa Cruz Barillas","Distribución de hogares por área rural","No hay grupo",80.87
+"563","1","32","Aguacatán","Distribución de hogares por área rural","No hay grupo",80.45
+"564","1","32","San Rafael Petzal","Distribución de hogares por área rural","No hay grupo",53.23
+"565","1","32","San Gaspar Ixchil","Distribución de hogares por área rural","No hay grupo",88.63
+"566","1","33","Santiago Chimaltenango","Distribución de hogares por área rural","No hay grupo",38.79
+"567","1","33","Santa Ana Huista","Distribución de hogares por área rural","No hay grupo",97.26
+"568","1","33","Unión Cantinil","Distribución de hogares por área rural","No hay grupo",89.82
+"569","1","33","Petatán","Distribución de hogares por área rural","No hay grupo",55.87
+"570","1","40","Santa Cruz del Quiché","Distribución de hogares por área rural","No hay grupo",0
+"571","1","40","Chiché","Distribución de hogares por área rural","No hay grupo",82.74
+"572","1","40","Chinique","Distribución de hogares por área rural","No hay grupo",77.73
+"573","1","40","Zacualpa","Distribución de hogares por área rural","No hay grupo",79.64
+"574","1","40","Chajul","Distribución de hogares por área rural","No hay grupo",48.63
+"575","1","40","Santo Tomás Chichicastenango","Distribución de hogares por área rural","No hay grupo",49.75
+"576","1","40","Patzité","Distribución de hogares por área rural","No hay grupo",82.25
+"577","1","40","San Antonio Ilotenango","Distribución de hogares por área rural","No hay grupo",80.59
+"578","1","40","San Pedro Jocopilas","Distribución de hogares por área rural","No hay grupo",95
+"579","1","41","Cunén","Distribución de hogares por área rural","No hay grupo",78.73
+"580","1","41","San Juan Cotzal","Distribución de hogares por área rural","No hay grupo",53.41
+"581","1","41","Joyabaj","Distribución de hogares por área rural","No hay grupo",79.24
+"582","1","41","Santa María Nebaj","Distribución de hogares por área rural","No hay grupo",54.28
+"583","1","41","San Andrés Sajcabajá","Distribución de hogares por área rural","No hay grupo",86.17
+"584","1","41","San Miguel Uspantán","Distribución de hogares por área rural","No hay grupo",88.38
+"585","1","41","Sacapulas","Distribución de hogares por área rural","No hay grupo",73.23
+"586","1","41","San Bartolomé Jocotenango","Distribución de hogares por área rural","No hay grupo",81.87
+"587","1","41","Canillá","Distribución de hogares por área rural","No hay grupo",76.1
+"588","1","41","Chicamán","Distribución de hogares por área rural","No hay grupo",90.4
+"589","1","42","Playa Grande Ixcán","Distribución de hogares por área rural","No hay grupo",85.63
+"590","1","42","Pachalum","Distribución de hogares por área rural","No hay grupo",75.7
+"591","1","50","Salamá","Distribución de hogares por área rural","No hay grupo",0
+"592","1","50","San Miguel Chicaj","Distribución de hogares por área rural","No hay grupo",75.55
+"593","1","50","Rabinal","Distribución de hogares por área rural","No hay grupo",60.66
+"594","1","50","Cubulco","Distribución de hogares por área rural","No hay grupo",78.39
+"595","1","50","Granados","Distribución de hogares por área rural","No hay grupo",90.95
+"596","1","50","Santa Cruz El Chol","Distribución de hogares por área rural","No hay grupo",77.62
+"597","1","50","San Jerónimo","Distribución de hogares por área rural","No hay grupo",56.51
+"598","1","50","Purulhá","Distribución de hogares por área rural","No hay grupo",84.49
+"599","1","60","Cobán","Distribución de hogares por área rural","No hay grupo",0.09
+"600","1","60","Santa Cruz Verapaz","Distribución de hogares por área rural","No hay grupo",70.15
+"601","1","60","San Cristóbal Verapaz","Distribución de hogares por área rural","No hay grupo",67.34
+"602","1","60","Tactic","Distribución de hogares por área rural","No hay grupo",57.25
+"603","1","60","Tamahú","Distribución de hogares por área rural","No hay grupo",75.76
+"604","1","60","San Miguel Tucurú","Distribución de hogares por área rural","No hay grupo",89.16
+"605","1","60","Panzós","Distribución de hogares por área rural","No hay grupo",68.81
+"606","1","60","Senahú","Distribución de hogares por área rural","No hay grupo",86.16
+"607","1","60","San Pedro Carchá","Distribución de hogares por área rural","No hay grupo",91.7
+"608","1","61","San Juan Chamelco","Distribución de hogares por área rural","No hay grupo",75.4
+"609","1","61","San Agustín Lanquín","Distribución de hogares por área rural","No hay grupo",85.49
+"610","1","61","Santa María Cahabón","Distribución de hogares por área rural","No hay grupo",94.01
+"611","1","61","Chisec","Distribución de hogares por área rural","No hay grupo",88.2
+"612","1","61","Chahal","Distribución de hogares por área rural","No hay grupo",83.16
+"613","1","61","Fray Bartolomé de las Casas","Distribución de hogares por área rural","No hay grupo",93.62
+"614","1","61","Santa Catalina La Tinta","Distribución de hogares por área rural","No hay grupo",47.29
+"615","1","61","Raxruhá","Distribución de hogares por área rural","No hay grupo",80.52
+"616","1","70","Flores","Distribución de hogares por área rural","No hay grupo",0
+"617","1","70","San José","Distribución de hogares por área rural","No hay grupo",78.03
+"618","1","70","San Benito","Distribución de hogares por área rural","No hay grupo",19.04
+"619","1","70","San Andrés","Distribución de hogares por área rural","No hay grupo",60.29
+"620","1","70","La Libertad","Distribución de hogares por área rural","No hay grupo",64.79
+"621","1","70","San Francisco","Distribución de hogares por área rural","No hay grupo",37.05
+"622","1","70","Santa Ana","Distribución de hogares por área rural","No hay grupo",50.73
+"623","1","70","Dolores","Distribución de hogares por área rural","No hay grupo",71.54
+"624","1","70","San Luis","Distribución de hogares por área rural","No hay grupo",83.79
+"625","1","71","Sayaxché","Distribución de hogares por área rural","No hay grupo",83.68
+"626","1","71","Melchor de Mencos","Distribución de hogares por área rural","No hay grupo",44.99
+"627","1","71","Poptún","Distribución de hogares por área rural","No hay grupo",39.56
+"628","1","71","Las Cruces","Distribución de hogares por área rural","No hay grupo",65.77
+"629","1","71","El Chal","Distribución de hogares por área rural","No hay grupo",74.2
+"630","1","80","Puerto Barrios","Distribución de hogares por área rural","No hay grupo",0
+"631","1","80","Livingston","Distribución de hogares por área rural","No hay grupo",71.76
+"632","1","80","El Estor","Distribución de hogares por área rural","No hay grupo",69.27
+"633","1","80","Morales","Distribución de hogares por área rural","No hay grupo",74.8
+"634","1","80","Los Amates","Distribución de hogares por área rural","No hay grupo",91.31
+"635","1","90","Zacapa","Distribución de hogares por área rural","No hay grupo",0.04
+"636","1","90","Estanzuela","Distribución de hogares por área rural","No hay grupo",18.11
+"637","1","90","Río Hondo","Distribución de hogares por área rural","No hay grupo",69.46
+"638","1","90","Gualán","Distribución de hogares por área rural","No hay grupo",84.27
+"639","1","90","Teculután","Distribución de hogares por área rural","No hay grupo",67.84
+"640","1","90","Usumatlán","Distribución de hogares por área rural","No hay grupo",61.78
+"641","1","90","Cabañas","Distribución de hogares por área rural","No hay grupo",41.45
+"642","1","90","San Diego","Distribución de hogares por área rural","No hay grupo",88.97
+"643","1","90","La Unión","Distribución de hogares por área rural","No hay grupo",91.16
+"644","1","91","Huité","Distribución de hogares por área rural","No hay grupo",66.4
+"645","1","91","San Jorge","Distribución de hogares por área rural","No hay grupo",68.67
+"646","2","00","Chiquimula","Distribución de hogares por área rural","No hay grupo",0
+"647","2","00","San José la Arada","Distribución de hogares por área rural","No hay grupo",66.26
+"648","2","00","San Juan Ermita","Distribución de hogares por área rural","No hay grupo",96
+"649","2","00","Jocotán","Distribución de hogares por área rural","No hay grupo",85.42
+"650","2","00","Camotán","Distribución de hogares por área rural","No hay grupo",98.52
+"651","2","00","Olopa","Distribución de hogares por área rural","No hay grupo",89.24
+"652","2","00","Esquipulas","Distribución de hogares por área rural","No hay grupo",63.36
+"653","2","00","Concepción las Minas","Distribución de hogares por área rural","No hay grupo",89.79
+"654","2","00","Quezaltepeque","Distribución de hogares por área rural","No hay grupo",92.15
+"655","2","01","San Jacinto","Distribución de hogares por área rural","No hay grupo",92.59
+"656","2","01","Ipala","Distribución de hogares por área rural","No hay grupo",72.98
+"657","2","10","Jalapa","Distribución de hogares por área rural","No hay grupo",0
+"658","2","10","San Pedro Pinula","Distribución de hogares por área rural","No hay grupo",84.27
+"659","2","10","San Luis Jilotepeque","Distribución de hogares por área rural","No hay grupo",52.66
+"660","2","10","San Manuel Chaparrón","Distribución de hogares por área rural","No hay grupo",59.41
+"661","2","10","San Carlos Alzatate","Distribución de hogares por área rural","No hay grupo",53.61
+"662","2","10","Monjas","Distribución de hogares por área rural","No hay grupo",50.31
+"663","2","10","Mataquescuintla","Distribución de hogares por área rural","No hay grupo",75.48
+"664","2","20","Jutiapa","Distribución de hogares por área rural","No hay grupo",0
+"665","2","20","El Progreso","Distribución de hogares por área rural","No hay grupo",55.65
+"666","2","20","Santa Catarina Mita","Distribución de hogares por área rural","No hay grupo",49.13
+"667","2","20","Agua Blanca","Distribución de hogares por área rural","No hay grupo",75.42
+"668","2","20","Asunción Mita","Distribución de hogares por área rural","No hay grupo",55.57
+"669","2","20","Yupiltepeque","Distribución de hogares por área rural","No hay grupo",81.98
+"670","2","20","Atescatempa","Distribución de hogares por área rural","No hay grupo",45
+"671","2","20","Jerez","Distribución de hogares por área rural","No hay grupo",38.31
+"672","2","20","El Adelanto","Distribución de hogares por área rural","No hay grupo",62.62
+"673","2","21","Zapotitlán","Distribución de hogares por área rural","No hay grupo",75.16
+"674","2","21","Comapa","Distribución de hogares por área rural","No hay grupo",85.93
+"675","2","21","Jalpatagua","Distribución de hogares por área rural","No hay grupo",63.94
+"676","2","21","Conguaco","Distribución de hogares por área rural","No hay grupo",86.48
+"677","2","21","Moyuta","Distribución de hogares por área rural","No hay grupo",81.41
+"678","2","21","Pasaco","Distribución de hogares por área rural","No hay grupo",76.15
+"679","2","21","San José Acatempa","Distribución de hogares por área rural","No hay grupo",59.11
+"680","2","21","Quesada","Distribución de hogares por área rural","No hay grupo",87.58
+"681","1","01","Guatemala","Promedio de personas por hogar","No hay grupo",3.75
+"682","1","02","Santa Catarina Pinula","Promedio de personas por hogar","No hay grupo",4.01
+"683","1","03","San José Pinula","Promedio de personas por hogar","No hay grupo",4.06
+"684","1","04","San José del Golfo","Promedio de personas por hogar","No hay grupo",3.78
+"685","1","05","Palencia","Promedio de personas por hogar","No hay grupo",4.07
+"686","1","06","Chinautla","Promedio de personas por hogar","No hay grupo",4.09
+"687","1","07","San Pedro Ayampuc","Promedio de personas por hogar","No hay grupo",4.15
+"688","1","08","Mixco","Promedio de personas por hogar","No hay grupo",3.92
+"689","1","09","San Pedro Sacatepéquez","Promedio de personas por hogar","No hay grupo",4.65
+"690","1","10","San Juan Sacatepéquez","Promedio de personas por hogar","No hay grupo",4.8
+"691","1","11","San Raymundo","Promedio de personas por hogar","No hay grupo",4.47
+"692","1","12","Chuarrancho","Promedio de personas por hogar","No hay grupo",4.81
+"693","1","13","Fraijanes","Promedio de personas por hogar","No hay grupo",3.91
+"694","1","14","Amatitlán","Promedio de personas por hogar","No hay grupo",4.03
+"695","1","15","Villa Nueva","Promedio de personas por hogar","No hay grupo",3.97
+"696","1","16","Villa Canales","Promedio de personas por hogar","No hay grupo",4.11
+"697","1","17","San Miguel Petapa","Promedio de personas por hogar","No hay grupo",3.92
+"698","2","01","Guastatoya","Promedio de personas por hogar","No hay grupo",3.75
+"699","2","02","Morazán","Promedio de personas por hogar","No hay grupo",3.77
+"700","2","03","San Agustín Acasaguastlán","Promedio de personas por hogar","No hay grupo",4.32
+"701","2","04","San Cristóbal Acasaguastlán","Promedio de personas por hogar","No hay grupo",3.81
+"702","2","05","El Jícaro","Promedio de personas por hogar","No hay grupo",3.8
+"703","2","06","Sansare","Promedio de personas por hogar","No hay grupo",4.07
+"704","2","07","Sanarate","Promedio de personas por hogar","No hay grupo",3.96
+"705","2","08","San Antonio la Paz","Promedio de personas por hogar","No hay grupo",3.97
+"706","3","01","Antigua Guatemala","Promedio de personas por hogar","No hay grupo",4.06
+"707","3","02","Jocotenango","Promedio de personas por hogar","No hay grupo",4.06
+"708","3","03","Pastores","Promedio de personas por hogar","No hay grupo",4.11
+"709","3","04","Sumpango","Promedio de personas por hogar","No hay grupo",4.53
+"710","3","05","Santo Domingo Xenacoj","Promedio de personas por hogar","No hay grupo",4.46
+"711","3","06","Santiago Sacatepéquez","Promedio de personas por hogar","No hay grupo",4.44
+"712","3","07","San Bartolomé Milpas Altas","Promedio de personas por hogar","No hay grupo",4.07
+"713","3","08","San Lucas Sacatepéquez","Promedio de personas por hogar","No hay grupo",3.87
+"714","3","09","Santa Lucía Milpas Altas","Promedio de personas por hogar","No hay grupo",4.01
+"715","3","10","Magdalena Milpas Altas","Promedio de personas por hogar","No hay grupo",4.57
+"716","3","11","Santa María de Jesús","Promedio de personas por hogar","No hay grupo",5.08
+"717","3","12","Ciudad Vieja","Promedio de personas por hogar","No hay grupo",4.16
+"718","3","13","San Miguel Dueñas","Promedio de personas por hogar","No hay grupo",4.2
+"719","3","14","San Juan Alotenango","Promedio de personas por hogar","No hay grupo",4.35
+"720","3","15","San Antonio Aguas Calientes","Promedio de personas por hogar","No hay grupo",4.23
+"721","3","16","Santa Catarina Barahona","Promedio de personas por hogar","No hay grupo",4.11
+"722","4","01","Chimaltenango","Promedio de personas por hogar","No hay grupo",4.58
+"723","4","02","San José Poaquil","Promedio de personas por hogar","No hay grupo",5.13
+"724","4","03","San Martín Jilotepeque","Promedio de personas por hogar","No hay grupo",4.97
+"725","4","04","San Juan Comalapa","Promedio de personas por hogar","No hay grupo",4.86
+"726","4","05","Santa Apolonia","Promedio de personas por hogar","No hay grupo",5.54
+"727","4","06","Tecpán Guatemala","Promedio de personas por hogar","No hay grupo",5.53
+"728","4","07","Patzún","Promedio de personas por hogar","No hay grupo",4.75
+"729","4","08","San Miguel Pochuta","Promedio de personas por hogar","No hay grupo",4.61
+"730","4","09","Patzicía","Promedio de personas por hogar","No hay grupo",4.53
+"731","4","10","Santa Cruz Balanyá","Promedio de personas por hogar","No hay grupo",4.69
+"732","4","11","Acatenango","Promedio de personas por hogar","No hay grupo",4.66
+"733","4","12","San Pedro Yepocapa","Promedio de personas por hogar","No hay grupo",4.84
+"734","4","13","San Andrés Itzapa","Promedio de personas por hogar","No hay grupo",4.79
+"735","4","14","Parramos","Promedio de personas por hogar","No hay grupo",4.48
+"736","4","15","Zaragoza","Promedio de personas por hogar","No hay grupo",4.28
+"737","4","16","El Tejar","Promedio de personas por hogar","No hay grupo",4.39
+"738","5","01","Escuintla","Promedio de personas por hogar","No hay grupo",3.83
+"739","5","02","Santa Lucía Cotzumalguapa","Promedio de personas por hogar","No hay grupo",4.2
+"740","5","03","La Democracia","Promedio de personas por hogar","No hay grupo",3.87
+"741","5","04","Siquinalá","Promedio de personas por hogar","No hay grupo",4.17
+"742","5","05","Masagua","Promedio de personas por hogar","No hay grupo",3.88
+"743","5","06","Tiquisate","Promedio de personas por hogar","No hay grupo",3.91
+"744","5","07","La Gomera","Promedio de personas por hogar","No hay grupo",3.95
+"745","5","08","Guanagazapa","Promedio de personas por hogar","No hay grupo",4.44
+"746","5","09","San José","Promedio de personas por hogar","No hay grupo",3.66
+"747","5","10","Iztapa","Promedio de personas por hogar","No hay grupo",3.75
+"748","5","11","Palín","Promedio de personas por hogar","No hay grupo",4.1
+"749","5","12","San Vicente Pacaya","Promedio de personas por hogar","No hay grupo",3.9
+"750","5","13","Nueva Concepción","Promedio de personas por hogar","No hay grupo",3.97
+"751","5","14","Sipacate","Promedio de personas por hogar","No hay grupo",3.87
+"752","6","01","Cuilapa","Promedio de personas por hogar","No hay grupo",4.04
+"753","6","02","Barberena","Promedio de personas por hogar","No hay grupo",4.09
+"754","6","03","Santa Rosa de Lima","Promedio de personas por hogar","No hay grupo",3.95
+"755","6","04","Casillas","Promedio de personas por hogar","No hay grupo",4.1
+"756","6","05","San Rafael las Flores","Promedio de personas por hogar","No hay grupo",4.06
+"757","6","06","Oratorio","Promedio de personas por hogar","No hay grupo",3.99
+"758","6","07","San Juan Tecuaco","Promedio de personas por hogar","No hay grupo",4.78
+"759","6","08","Chiquimulilla","Promedio de personas por hogar","No hay grupo",3.88
+"760","6","09","Taxisco","Promedio de personas por hogar","No hay grupo",3.96
+"761","6","10","Santa María Ixhuatán","Promedio de personas por hogar","No hay grupo",4.02
+"762","6","11","Guazacapán","Promedio de personas por hogar","No hay grupo",4.12
+"763","6","12","Santa Cruz Naranjo","Promedio de personas por hogar","No hay grupo",3.98
+"764","6","13","Pueblo Nuevo Viñas","Promedio de personas por hogar","No hay grupo",4.12
+"765","6","14","Nueva Santa Rosa","Promedio de personas por hogar","No hay grupo",3.93
+"766","7","01","Sololá","Promedio de personas por hogar","No hay grupo",5.98
+"767","7","02","San José Chacayá","Promedio de personas por hogar","No hay grupo",5.46
+"768","7","03","Santa María Visitación","Promedio de personas por hogar","No hay grupo",4.32
+"769","7","04","Santa Lucía Utatlán","Promedio de personas por hogar","No hay grupo",4.53
+"770","7","05","Nahualá","Promedio de personas por hogar","No hay grupo",5.12
+"771","7","06","Santa Catarina Ixtahuacán","Promedio de personas por hogar","No hay grupo",4.95
+"772","7","07","Santa Clara la Laguna","Promedio de personas por hogar","No hay grupo",4.45
+"773","7","08","Concepción","Promedio de personas por hogar","No hay grupo",6.97
+"774","7","09","San Andrés Semetabaj","Promedio de personas por hogar","No hay grupo",4.93
+"775","7","10","Panajachel","Promedio de personas por hogar","No hay grupo",4.07
+"776","7","11","Santa Catarina Palopó","Promedio de personas por hogar","No hay grupo",5.3
+"777","7","12","San Antonio Palopó","Promedio de personas por hogar","No hay grupo",4.42
+"778","7","13","San Lucas Tolimán","Promedio de personas por hogar","No hay grupo",4.64
+"779","7","14","Santa Cruz la Laguna","Promedio de personas por hogar","No hay grupo",5
+"780","7","15","San Pablo la Laguna","Promedio de personas por hogar","No hay grupo",4.22
+"781","7","16","San Marcos la Laguna","Promedio de personas por hogar","No hay grupo",4.8
+"782","7","17","San Juan la Laguna","Promedio de personas por hogar","No hay grupo",4.62
+"783","7","18","San Pedro la Laguna","Promedio de personas por hogar","No hay grupo",4.06
+"784","7","19","Santiago Atitlán","Promedio de personas por hogar","No hay grupo",4.15
+"785","8","01","Totonicapán","Promedio de personas por hogar","No hay grupo",4.54
+"786","8","02","San Cristóbal Totonicapán","Promedio de personas por hogar","No hay grupo",4.85
+"787","8","03","San Francisco el Alto","Promedio de personas por hogar","No hay grupo",5.39
+"788","8","04","San Andrés Xecul","Promedio de personas por hogar","No hay grupo",5.18
+"789","8","05","Momostenango","Promedio de personas por hogar","No hay grupo",6.06
+"790","8","06","Santa María Chiquimula","Promedio de personas por hogar","No hay grupo",6.31
+"791","8","07","Santa Lucía la Reforma","Promedio de personas por hogar","No hay grupo",7.03
+"792","8","08","San Bartolo Aguas Calientes","Promedio de personas por hogar","No hay grupo",5.42
+"793","9","01","Quetzaltenango","Promedio de personas por hogar","No hay grupo",4.21
+"794","9","02","Salcajá","Promedio de personas por hogar","No hay grupo",4.09
+"795","9","03","San Juan Olintepeque","Promedio de personas por hogar","No hay grupo",4.44
+"796","9","04","San Carlos Sija","Promedio de personas por hogar","No hay grupo",4.55
+"797","9","05","Sibilia","Promedio de personas por hogar","No hay grupo",4.4
+"798","9","06","Cabricán","Promedio de personas por hogar","No hay grupo",5.25
+"799","9","07","Cajolá","Promedio de personas por hogar","No hay grupo",5.13
+"800","9","08","San Miguel Siguilá","Promedio de personas por hogar","No hay grupo",5.35
+"801","9","09","San Juan Ostuncalco","Promedio de personas por hogar","No hay grupo",5.14
+"802","9","10","San Mateo","Promedio de personas por hogar","No hay grupo",4.36
+"803","9","11","Concepción Chiquirichapa","Promedio de personas por hogar","No hay grupo",4.89
+"804","9","12","San Martín Sacatepéquez","Promedio de personas por hogar","No hay grupo",4.98
+"805","9","13","Almolonga","Promedio de personas por hogar","No hay grupo",4.47
+"806","9","14","Cantel","Promedio de personas por hogar","No hay grupo",4.4
+"807","9","15","Huitán","Promedio de personas por hogar","No hay grupo",5.4
+"808","9","16","Zunil","Promedio de personas por hogar","No hay grupo",4.23
+"809","9","17","Colomba Costa Cuca","Promedio de personas por hogar","No hay grupo",4.71
+"810","9","18","San Francisco la Unión","Promedio de personas por hogar","No hay grupo",4.91
+"811","9","19","El Palmar","Promedio de personas por hogar","No hay grupo",4.77
+"812","9","20","Coatepeque","Promedio de personas por hogar","No hay grupo",4.5
+"813","9","21","Génova","Promedio de personas por hogar","No hay grupo",4.69
+"814","9","22","Flores Costa Cuca","Promedio de personas por hogar","No hay grupo",4.54
+"815","9","23","La Esperanza","Promedio de personas por hogar","No hay grupo",4.24
+"816","9","24","Palestina de los Altos","Promedio de personas por hogar","No hay grupo",4.83
+"817","1","00","Mazatenango","Promedio de personas por hogar","No hay grupo",4.19
+"818","1","00","Cuyotenango","Promedio de personas por hogar","No hay grupo",4.31
+"819","1","00","San Francisco Zapotitlán","Promedio de personas por hogar","No hay grupo",4.24
+"820","1","00","San Bernardino","Promedio de personas por hogar","No hay grupo",4.43
+"821","1","00","San José el Ídolo","Promedio de personas por hogar","No hay grupo",4.32
+"822","1","00","Santo Domingo Suchitepéquez","Promedio de personas por hogar","No hay grupo",4.4
+"823","1","00","San Lorenzo","Promedio de personas por hogar","No hay grupo",4.33
+"824","1","00","Samayac","Promedio de personas por hogar","No hay grupo",4.27
+"825","1","00","San Pablo Jocopilas","Promedio de personas por hogar","No hay grupo",4.26
+"826","1","01","San Antonio Suchitepéquez","Promedio de personas por hogar","No hay grupo",4.82
+"827","1","01","San Miguel Panán","Promedio de personas por hogar","No hay grupo",4.83
+"828","1","01","San Gabriel","Promedio de personas por hogar","No hay grupo",4.29
+"829","1","01","Chicacao","Promedio de personas por hogar","No hay grupo",5.05
+"830","1","01","Patulul","Promedio de personas por hogar","No hay grupo",4.4
+"831","1","01","Santa Bárbara","Promedio de personas por hogar","No hay grupo",4.6
+"832","1","01","San Juan Bautista","Promedio de personas por hogar","No hay grupo",4.39
+"833","1","01","Santo Tomas la Unión","Promedio de personas por hogar","No hay grupo",4.43
+"834","1","01","Zunilito","Promedio de personas por hogar","No hay grupo",4.48
+"835","1","01","Pueblo Nuevo","Promedio de personas por hogar","No hay grupo",4.47
+"836","1","02","Río Bravo","Promedio de personas por hogar","No hay grupo",4.32
+"837","1","02","San José La Máquina","Promedio de personas por hogar","No hay grupo",4.35
+"838","1","10","Retalhuleu","Promedio de personas por hogar","No hay grupo",4.24
+"839","1","10","San Sebastián","Promedio de personas por hogar","No hay grupo",4.49
+"840","1","10","Santa Cruz Muluá","Promedio de personas por hogar","No hay grupo",4.39
+"841","1","10","San Martín Zapotitlán","Promedio de personas por hogar","No hay grupo",4.42
+"842","1","10","San Felipe","Promedio de personas por hogar","No hay grupo",4.55
+"843","1","10","San Andrés Villa Seca","Promedio de personas por hogar","No hay grupo",4.54
+"844","1","10","Champerico","Promedio de personas por hogar","No hay grupo",4.25
+"845","1","10","Nuevo San Carlos","Promedio de personas por hogar","No hay grupo",4.66
+"846","1","10","El Asintal","Promedio de personas por hogar","No hay grupo",4.63
+"847","1","20","San Marcos","Promedio de personas por hogar","No hay grupo",4.67
+"848","1","20","San Pedro Sacatepéquez","Promedio de personas por hogar","No hay grupo",4.46
+"849","1","20","San Antonio Sacatepéquez","Promedio de personas por hogar","No hay grupo",4.67
+"850","1","20","Comitancillo","Promedio de personas por hogar","No hay grupo",5.86
+"851","1","20","San Miguel Ixtahuacán","Promedio de personas por hogar","No hay grupo",5.81
+"852","1","20","Concepción Tutuapa","Promedio de personas por hogar","No hay grupo",5.68
+"853","1","20","Tacaná","Promedio de personas por hogar","No hay grupo",5.75
+"854","1","20","Sibinal","Promedio de personas por hogar","No hay grupo",6.39
+"855","1","20","Tajumulco","Promedio de personas por hogar","No hay grupo",5.49
+"856","1","21","Tejutla","Promedio de personas por hogar","No hay grupo",5.27
+"857","1","21","San Rafael Pie de la Cuesta","Promedio de personas por hogar","No hay grupo",4.56
+"858","1","21","Nuevo Progreso","Promedio de personas por hogar","No hay grupo",4.8
+"859","1","21","El Tumbador","Promedio de personas por hogar","No hay grupo",4.93
+"860","1","21","San José el Rodeo","Promedio de personas por hogar","No hay grupo",4.8
+"861","1","21","Malacatán","Promedio de personas por hogar","No hay grupo",5.07
+"862","1","21","Catarina","Promedio de personas por hogar","No hay grupo",4.47
+"863","1","21","Ayutla","Promedio de personas por hogar","No hay grupo",4.26
+"864","1","21","Ocós","Promedio de personas por hogar","No hay grupo",4.21
+"865","1","21","San Pablo","Promedio de personas por hogar","No hay grupo",4.94
+"866","1","22","El Quetzal","Promedio de personas por hogar","No hay grupo",5.07
+"867","1","22","La Reforma","Promedio de personas por hogar","No hay grupo",4.86
+"868","1","22","Pajapita","Promedio de personas por hogar","No hay grupo",4.6
+"869","1","22","Ixchiguán","Promedio de personas por hogar","No hay grupo",5.29
+"870","1","22","San José Ojetenam","Promedio de personas por hogar","No hay grupo",6.03
+"871","1","22","San Cristóbal Cucho","Promedio de personas por hogar","No hay grupo",4.85
+"872","1","22","Sipacapa","Promedio de personas por hogar","No hay grupo",5.68
+"873","1","22","Esquipulas Palo Gordo","Promedio de personas por hogar","No hay grupo",4.9
+"874","1","22","Río Blanco","Promedio de personas por hogar","No hay grupo",4.73
+"875","1","22","San Lorenzo","Promedio de personas por hogar","No hay grupo",5.24
+"876","1","23","La Blanca","Promedio de personas por hogar","No hay grupo",4.35
+"877","1","30","Huehuetenango","Promedio de personas por hogar","No hay grupo",4.35
+"878","1","30","Chiantla","Promedio de personas por hogar","No hay grupo",5.17
+"879","1","30","Malacatancito","Promedio de personas por hogar","No hay grupo",4.76
+"880","1","30","Cuilco","Promedio de personas por hogar","No hay grupo",5.31
+"881","1","30","Nentón","Promedio de personas por hogar","No hay grupo",5.36
+"882","1","30","San Pedro Necta","Promedio de personas por hogar","No hay grupo",5.43
+"883","1","30","Jacaltenango","Promedio de personas por hogar","No hay grupo",3.98
+"884","1","30","San Pedro Soloma","Promedio de personas por hogar","No hay grupo",5.5
+"885","1","30","San Ildefonso Ixtahuacán","Promedio de personas por hogar","No hay grupo",5.56
+"886","1","31","Santa Bárbara","Promedio de personas por hogar","No hay grupo",5.91
+"887","1","31","La Libertad","Promedio de personas por hogar","No hay grupo",5.27
+"888","1","31","La Democracia","Promedio de personas por hogar","No hay grupo",4.99
+"889","1","31","San Miguel Acatán","Promedio de personas por hogar","No hay grupo",6.12
+"890","1","31","San Rafael La Independencia","Promedio de personas por hogar","No hay grupo",6.12
+"891","1","31","Todos Santos Cuchumatán","Promedio de personas por hogar","No hay grupo",5
+"892","1","31","San Juan Atitán","Promedio de personas por hogar","No hay grupo",4.66
+"893","1","31","Santa Eulalia","Promedio de personas por hogar","No hay grupo",5.95
+"894","1","31","San Mateo Ixtatán","Promedio de personas por hogar","No hay grupo",6.25
+"895","1","31","Colotenango","Promedio de personas por hogar","No hay grupo",5.83
+"896","1","32","San Sebastián Huehuetenango","Promedio de personas por hogar","No hay grupo",5.7
+"897","1","32","Tectitán","Promedio de personas por hogar","No hay grupo",5.94
+"898","1","32","Concepción Huista","Promedio de personas por hogar","No hay grupo",5.34
+"899","1","32","San Juan Ixcoy","Promedio de personas por hogar","No hay grupo",5.42
+"900","1","32","San Antonio Huista","Promedio de personas por hogar","No hay grupo",4.23
+"901","1","32","San Sebastián Coatán","Promedio de personas por hogar","No hay grupo",5.05
+"902","1","32","Santa Cruz Barillas","Promedio de personas por hogar","No hay grupo",5.7
+"903","1","32","Aguacatán","Promedio de personas por hogar","No hay grupo",4.99
+"904","1","32","San Rafael Petzal","Promedio de personas por hogar","No hay grupo",5.19
+"905","1","32","San Gaspar Ixchil","Promedio de personas por hogar","No hay grupo",5.54
+"906","1","33","Santiago Chimaltenango","Promedio de personas por hogar","No hay grupo",4.15
+"907","1","33","Santa Ana Huista","Promedio de personas por hogar","No hay grupo",4.03
+"908","1","33","Unión Cantinil","Promedio de personas por hogar","No hay grupo",4.65
+"909","1","33","Petatán","Promedio de personas por hogar","No hay grupo",4.73
+"910","1","40","Santa Cruz del Quiché","Promedio de personas por hogar","No hay grupo",5.11
+"911","1","40","Chiché","Promedio de personas por hogar","No hay grupo",6.03
+"912","1","40","Chinique","Promedio de personas por hogar","No hay grupo",5.19
+"913","1","40","Zacualpa","Promedio de personas por hogar","No hay grupo",5.74
+"914","1","40","Chajul","Promedio de personas por hogar","No hay grupo",5.54
+"915","1","40","Santo Tomás Chichicastenango","Promedio de personas por hogar","No hay grupo",6.21
+"916","1","40","Patzité","Promedio de personas por hogar","No hay grupo",5.77
+"917","1","40","San Antonio Ilotenango","Promedio de personas por hogar","No hay grupo",6.02
+"918","1","40","San Pedro Jocopilas","Promedio de personas por hogar","No hay grupo",6.91
+"919","1","41","Cunén","Promedio de personas por hogar","No hay grupo",6.2
+"920","1","41","San Juan Cotzal","Promedio de personas por hogar","No hay grupo",5.6
+"921","1","41","Joyabaj","Promedio de personas por hogar","No hay grupo",5.56
+"922","1","41","Santa María Nebaj","Promedio de personas por hogar","No hay grupo",4.94
+"923","1","41","San Andrés Sajcabajá","Promedio de personas por hogar","No hay grupo",4.81
+"924","1","41","San Miguel Uspantán","Promedio de personas por hogar","No hay grupo",5.36
+"925","1","41","Sacapulas","Promedio de personas por hogar","No hay grupo",5.91
+"926","1","41","San Bartolomé Jocotenango","Promedio de personas por hogar","No hay grupo",6.85
+"927","1","41","Canillá","Promedio de personas por hogar","No hay grupo",4.5
+"928","1","41","Chicamán","Promedio de personas por hogar","No hay grupo",5.33
+"929","1","42","Playa Grande Ixcán","Promedio de personas por hogar","No hay grupo",5.33
+"930","1","42","Pachalum","Promedio de personas por hogar","No hay grupo",3.94
+"931","1","50","Salamá","Promedio de personas por hogar","No hay grupo",4.15
+"932","1","50","San Miguel Chicaj","Promedio de personas por hogar","No hay grupo",4.54
+"933","1","50","Rabinal","Promedio de personas por hogar","No hay grupo",4.31
+"934","1","50","Cubulco","Promedio de personas por hogar","No hay grupo",4.41
+"935","1","50","Granados","Promedio de personas por hogar","No hay grupo",3.77
+"936","1","50","Santa Cruz El Chol","Promedio de personas por hogar","No hay grupo",3.89
+"937","1","50","San Jerónimo","Promedio de personas por hogar","No hay grupo",4.13
+"938","1","50","Purulhá","Promedio de personas por hogar","No hay grupo",5.23
+"939","1","60","Cobán","Promedio de personas por hogar","No hay grupo",4.91
+"940","1","60","Santa Cruz Verapaz","Promedio de personas por hogar","No hay grupo",5.28
+"941","1","60","San Cristóbal Verapaz","Promedio de personas por hogar","No hay grupo",5.65
+"942","1","60","Tactic","Promedio de personas por hogar","No hay grupo",4.87
+"943","1","60","Tamahú","Promedio de personas por hogar","No hay grupo",5.53
+"944","1","60","San Miguel Tucurú","Promedio de personas por hogar","No hay grupo",5.19
+"945","1","60","Panzós","Promedio de personas por hogar","No hay grupo",5.5
+"946","1","60","Senahú","Promedio de personas por hogar","No hay grupo",5.55
+"947","1","60","San Pedro Carchá","Promedio de personas por hogar","No hay grupo",5.4
+"948","1","61","San Juan Chamelco","Promedio de personas por hogar","No hay grupo",5.19
+"949","1","61","San Agustín Lanquín","Promedio de personas por hogar","No hay grupo",5.5
+"950","1","61","Santa María Cahabón","Promedio de personas por hogar","No hay grupo",5.54
+"951","1","61","Chisec","Promedio de personas por hogar","No hay grupo",5.67
+"952","1","61","Chahal","Promedio de personas por hogar","No hay grupo",5.3
+"953","1","61","Fray Bartolomé de las Casas","Promedio de personas por hogar","No hay grupo",5.27
+"954","1","61","Santa Catalina La Tinta","Promedio de personas por hogar","No hay grupo",5.25
+"955","1","61","Raxruhá","Promedio de personas por hogar","No hay grupo",5.53
+"956","1","70","Flores","Promedio de personas por hogar","No hay grupo",3.67
+"957","1","70","San José","Promedio de personas por hogar","No hay grupo",4.84
+"958","1","70","San Benito","Promedio de personas por hogar","No hay grupo",3.84
+"959","1","70","San Andrés","Promedio de personas por hogar","No hay grupo",4.57
+"960","1","70","La Libertad","Promedio de personas por hogar","No hay grupo",4.52
+"961","1","70","San Francisco","Promedio de personas por hogar","No hay grupo",4.36
+"962","1","70","Santa Ana","Promedio de personas por hogar","No hay grupo",4.39
+"963","1","70","Dolores","Promedio de personas por hogar","No hay grupo",4.56
+"964","1","70","San Luis","Promedio de personas por hogar","No hay grupo",4.33
+"965","1","71","Sayaxché","Promedio de personas por hogar","No hay grupo",4.8
+"966","1","71","Melchor de Mencos","Promedio de personas por hogar","No hay grupo",4.14
+"967","1","71","Poptún","Promedio de personas por hogar","No hay grupo",4.38
+"968","1","71","Las Cruces","Promedio de personas por hogar","No hay grupo",4.64
+"969","1","71","El Chal","Promedio de personas por hogar","No hay grupo",4.24
+"970","1","80","Puerto Barrios","Promedio de personas por hogar","No hay grupo",3.75
+"971","1","80","Livingston","Promedio de personas por hogar","No hay grupo",4.61
+"972","1","80","El Estor","Promedio de personas por hogar","No hay grupo",5.29
+"973","1","80","Morales","Promedio de personas por hogar","No hay grupo",4.1
+"974","1","80","Los Amates","Promedio de personas por hogar","No hay grupo",4.37
+"975","1","90","Zacapa","Promedio de personas por hogar","No hay grupo",3.92
+"976","1","90","Estanzuela","Promedio de personas por hogar","No hay grupo",3.89
+"977","1","90","Río Hondo","Promedio de personas por hogar","No hay grupo",3.64
+"978","1","90","Gualán","Promedio de personas por hogar","No hay grupo",4.18
+"979","1","90","Teculután","Promedio de personas por hogar","No hay grupo",3.94
+"980","1","90","Usumatlán","Promedio de personas por hogar","No hay grupo",3.99
+"981","1","90","Cabañas","Promedio de personas por hogar","No hay grupo",4.07
+"982","1","90","San Diego","Promedio de personas por hogar","No hay grupo",4.29
+"983","1","90","La Unión","Promedio de personas por hogar","No hay grupo",4.97
+"984","1","91","Huité","Promedio de personas por hogar","No hay grupo",4.23
+"985","1","91","San Jorge","Promedio de personas por hogar","No hay grupo",4.25
+"986","2","00","Chiquimula","Promedio de personas por hogar","No hay grupo",4.45
+"987","2","00","San José la Arada","Promedio de personas por hogar","No hay grupo",3.91
+"988","2","00","San Juan Ermita","Promedio de personas por hogar","No hay grupo",4.46
+"989","2","00","Jocotán","Promedio de personas por hogar","No hay grupo",5.28
+"990","2","00","Camotán","Promedio de personas por hogar","No hay grupo",5.21
+"991","2","00","Olopa","Promedio de personas por hogar","No hay grupo",4.84
+"992","2","00","Esquipulas","Promedio de personas por hogar","No hay grupo",4.24
+"993","2","00","Concepción las Minas","Promedio de personas por hogar","No hay grupo",3.76
+"994","2","00","Quezaltepeque","Promedio de personas por hogar","No hay grupo",4.19
+"995","2","01","San Jacinto","Promedio de personas por hogar","No hay grupo",4.37
+"996","2","01","Ipala","Promedio de personas por hogar","No hay grupo",3.91
+"997","2","10","Jalapa","Promedio de personas por hogar","No hay grupo",4.77
+"998","2","10","San Pedro Pinula","Promedio de personas por hogar","No hay grupo",5.11
+"999","2","10","San Luis Jilotepeque","Promedio de personas por hogar","No hay grupo",4.04
+"1000","2","10","San Manuel Chaparrón","Promedio de personas por hogar","No hay grupo",3.77
+"1001","2","10","San Carlos Alzatate","Promedio de personas por hogar","No hay grupo",5.31
+"1002","2","10","Monjas","Promedio de personas por hogar","No hay grupo",4.12
+"1003","2","10","Mataquescuintla","Promedio de personas por hogar","No hay grupo",4.43
+"1004","2","20","Jutiapa","Promedio de personas por hogar","No hay grupo",4.47
+"1005","2","20","El Progreso","Promedio de personas por hogar","No hay grupo",3.86
+"1006","2","20","Santa Catarina Mita","Promedio de personas por hogar","No hay grupo",3.81
+"1007","2","20","Agua Blanca","Promedio de personas por hogar","No hay grupo",3.76
+"1008","2","20","Asunción Mita","Promedio de personas por hogar","No hay grupo",3.8
+"1009","2","20","Yupiltepeque","Promedio de personas por hogar","No hay grupo",4.39
+"1010","2","20","Atescatempa","Promedio de personas por hogar","No hay grupo",3.72
+"1011","2","20","Jerez","Promedio de personas por hogar","No hay grupo",3.38
+"1012","2","20","El Adelanto","Promedio de personas por hogar","No hay grupo",4.41
+"1013","2","21","Zapotitlán","Promedio de personas por hogar","No hay grupo",4.45
+"1014","2","21","Comapa","Promedio de personas por hogar","No hay grupo",4.55
+"1015","2","21","Jalpatagua","Promedio de personas por hogar","No hay grupo",4.06
+"1016","2","21","Conguaco","Promedio de personas por hogar","No hay grupo",5.22
+"1017","2","21","Moyuta","Promedio de personas por hogar","No hay grupo",4.15
+"1018","2","21","Pasaco","Promedio de personas por hogar","No hay grupo",4.13
+"1019","2","21","San José Acatempa","Promedio de personas por hogar","No hay grupo",3.69
+"1020","2","21","Quesada","Promedio de personas por hogar","No hay grupo",4.06
+"1021","1","01","Guatemala","Promedio de personas por dormitorio","No hay grupo",1.65
+"1022","1","02","Santa Catarina Pinula","Promedio de personas por dormitorio","No hay grupo",1.74
+"1023","1","03","San José Pinula","Promedio de personas por dormitorio","No hay grupo",1.89
+"1024","1","04","San José del Golfo","Promedio de personas por dormitorio","No hay grupo",1.86
+"1025","1","05","Palencia","Promedio de personas por dormitorio","No hay grupo",2.21
+"1026","1","06","Chinautla","Promedio de personas por dormitorio","No hay grupo",2.07
+"1027","1","07","San Pedro Ayampuc","Promedio de personas por dormitorio","No hay grupo",2.21
+"1028","1","08","Mixco","Promedio de personas por dormitorio","No hay grupo",1.67
+"1029","1","09","San Pedro Sacatepéquez","Promedio de personas por dormitorio","No hay grupo",2.45
+"1030","1","10","San Juan Sacatepéquez","Promedio de personas por dormitorio","No hay grupo",2.28
+"1031","1","11","San Raymundo","Promedio de personas por dormitorio","No hay grupo",2.21
+"1032","1","12","Chuarrancho","Promedio de personas por dormitorio","No hay grupo",2.49
+"1033","1","13","Fraijanes","Promedio de personas por dormitorio","No hay grupo",1.68
+"1034","1","14","Amatitlán","Promedio de personas por dormitorio","No hay grupo",2
+"1035","1","15","Villa Nueva","Promedio de personas por dormitorio","No hay grupo",1.78
+"1036","1","16","Villa Canales","Promedio de personas por dormitorio","No hay grupo",2.1
+"1037","1","17","San Miguel Petapa","Promedio de personas por dormitorio","No hay grupo",1.67
+"1038","2","01","Guastatoya","Promedio de personas por dormitorio","No hay grupo",1.82
+"1039","2","02","Morazán","Promedio de personas por dormitorio","No hay grupo",2
+"1040","2","03","San Agustín Acasaguastlán","Promedio de personas por dormitorio","No hay grupo",2.52
+"1041","2","04","San Cristóbal Acasaguastlán","Promedio de personas por dormitorio","No hay grupo",2.03
+"1042","2","05","El Jícaro","Promedio de personas por dormitorio","No hay grupo",2.11
+"1043","2","06","Sansare","Promedio de personas por dormitorio","No hay grupo",1.9
+"1044","2","07","Sanarate","Promedio de personas por dormitorio","No hay grupo",1.93
+"1045","2","08","San Antonio la Paz","Promedio de personas por dormitorio","No hay grupo",2.12
+"1046","3","01","Antigua Guatemala","Promedio de personas por dormitorio","No hay grupo",1.7
+"1047","3","02","Jocotenango","Promedio de personas por dormitorio","No hay grupo",1.6
+"1048","3","03","Pastores","Promedio de personas por dormitorio","No hay grupo",2.07
+"1049","3","04","Sumpango","Promedio de personas por dormitorio","No hay grupo",2.06
+"1050","3","05","Santo Domingo Xenacoj","Promedio de personas por dormitorio","No hay grupo",2.1
+"1051","3","06","Santiago Sacatepéquez","Promedio de personas por dormitorio","No hay grupo",1.88
+"1052","3","07","San Bartolomé Milpas Altas","Promedio de personas por dormitorio","No hay grupo",1.87
+"1053","3","08","San Lucas Sacatepéquez","Promedio de personas por dormitorio","No hay grupo",1.63
+"1054","3","09","Santa Lucía Milpas Altas","Promedio de personas por dormitorio","No hay grupo",1.87
+"1055","3","10","Magdalena Milpas Altas","Promedio de personas por dormitorio","No hay grupo",2.06
+"1056","3","11","Santa María de Jesús","Promedio de personas por dormitorio","No hay grupo",2.24
+"1057","3","12","Ciudad Vieja","Promedio de personas por dormitorio","No hay grupo",1.98
+"1058","3","13","San Miguel Dueñas","Promedio de personas por dormitorio","No hay grupo",1.91
+"1059","3","14","San Juan Alotenango","Promedio de personas por dormitorio","No hay grupo",2.39
+"1060","3","15","San Antonio Aguas Calientes","Promedio de personas por dormitorio","No hay grupo",1.9
+"1061","3","16","Santa Catarina Barahona","Promedio de personas por dormitorio","No hay grupo",1.94
+"1062","4","01","Chimaltenango","Promedio de personas por dormitorio","No hay grupo",1.96
+"1063","4","02","San José Poaquil","Promedio de personas por dormitorio","No hay grupo",2.56
+"1064","4","03","San Martín Jilotepeque","Promedio de personas por dormitorio","No hay grupo",2.38
+"1065","4","04","San Juan Comalapa","Promedio de personas por dormitorio","No hay grupo",2.27
+"1066","4","05","Santa Apolonia","Promedio de personas por dormitorio","No hay grupo",2.87
+"1067","4","06","Tecpán Guatemala","Promedio de personas por dormitorio","No hay grupo",2.7
+"1068","4","07","Patzún","Promedio de personas por dormitorio","No hay grupo",2.38
+"1069","4","08","San Miguel Pochuta","Promedio de personas por dormitorio","No hay grupo",2.72
+"1070","4","09","Patzicía","Promedio de personas por dormitorio","No hay grupo",2.33
+"1071","4","10","Santa Cruz Balanyá","Promedio de personas por dormitorio","No hay grupo",2.3
+"1072","4","11","Acatenango","Promedio de personas por dormitorio","No hay grupo",2.47
+"1073","4","12","San Pedro Yepocapa","Promedio de personas por dormitorio","No hay grupo",2.76
+"1074","4","13","San Andrés Itzapa","Promedio de personas por dormitorio","No hay grupo",2.16
+"1075","4","14","Parramos","Promedio de personas por dormitorio","No hay grupo",2.13
+"1076","4","15","Zaragoza","Promedio de personas por dormitorio","No hay grupo",2.14
+"1077","4","16","El Tejar","Promedio de personas por dormitorio","No hay grupo",2.02
+"1078","5","01","Escuintla","Promedio de personas por dormitorio","No hay grupo",2.19
+"1079","5","02","Santa Lucía Cotzumalguapa","Promedio de personas por dormitorio","No hay grupo",2.51
+"1080","5","03","La Democracia","Promedio de personas por dormitorio","No hay grupo",2.53
+"1081","5","04","Siquinalá","Promedio de personas por dormitorio","No hay grupo",2.62
+"1082","5","05","Masagua","Promedio de personas por dormitorio","No hay grupo",2.54
+"1083","5","06","Tiquisate","Promedio de personas por dormitorio","No hay grupo",2.28
+"1084","5","07","La Gomera","Promedio de personas por dormitorio","No hay grupo",2.39
+"1085","5","08","Guanagazapa","Promedio de personas por dormitorio","No hay grupo",2.93
+"1086","5","09","San José","Promedio de personas por dormitorio","No hay grupo",2.21
+"1087","5","10","Iztapa","Promedio de personas por dormitorio","No hay grupo",2.21
+"1088","5","11","Palín","Promedio de personas por dormitorio","No hay grupo",2.17
+"1089","5","12","San Vicente Pacaya","Promedio de personas por dormitorio","No hay grupo",2.15
+"1090","5","13","Nueva Concepción","Promedio de personas por dormitorio","No hay grupo",2.31
+"1091","5","14","Sipacate","Promedio de personas por dormitorio","No hay grupo",2.55
+"1092","6","01","Cuilapa","Promedio de personas por dormitorio","No hay grupo",2.1
+"1093","6","02","Barberena","Promedio de personas por dormitorio","No hay grupo",2.28
+"1094","6","03","Santa Rosa de Lima","Promedio de personas por dormitorio","No hay grupo",1.97
+"1095","6","04","Casillas","Promedio de personas por dormitorio","No hay grupo",1.99
+"1096","6","05","San Rafael las Flores","Promedio de personas por dormitorio","No hay grupo",2.17
+"1097","6","06","Oratorio","Promedio de personas por dormitorio","No hay grupo",2.23
+"1098","6","07","San Juan Tecuaco","Promedio de personas por dormitorio","No hay grupo",3.02
+"1099","6","08","Chiquimulilla","Promedio de personas por dormitorio","No hay grupo",2.3
+"1100","6","09","Taxisco","Promedio de personas por dormitorio","No hay grupo",2.42
+"1101","6","10","Santa María Ixhuatán","Promedio de personas por dormitorio","No hay grupo",2.42
+"1102","6","11","Guazacapán","Promedio de personas por dormitorio","No hay grupo",2.53
+"1103","6","12","Santa Cruz Naranjo","Promedio de personas por dormitorio","No hay grupo",2.05
+"1104","6","13","Pueblo Nuevo Viñas","Promedio de personas por dormitorio","No hay grupo",2.58
+"1105","6","14","Nueva Santa Rosa","Promedio de personas por dormitorio","No hay grupo",2.01
+"1106","7","01","Sololá","Promedio de personas por dormitorio","No hay grupo",2.3
+"1107","7","02","San José Chacayá","Promedio de personas por dormitorio","No hay grupo",2.46
+"1108","7","03","Santa María Visitación","Promedio de personas por dormitorio","No hay grupo",1.97
+"1109","7","04","Santa Lucía Utatlán","Promedio de personas por dormitorio","No hay grupo",2.17
+"1110","7","05","Nahualá","Promedio de personas por dormitorio","No hay grupo",2.84
+"1111","7","06","Santa Catarina Ixtahuacán","Promedio de personas por dormitorio","No hay grupo",2.91
+"1112","7","07","Santa Clara la Laguna","Promedio de personas por dormitorio","No hay grupo",2.31
+"1113","7","08","Concepción","Promedio de personas por dormitorio","No hay grupo",2.69
+"1114","7","09","San Andrés Semetabaj","Promedio de personas por dormitorio","No hay grupo",1.98
+"1115","7","10","Panajachel","Promedio de personas por dormitorio","No hay grupo",1.89
+"1116","7","11","Santa Catarina Palopó","Promedio de personas por dormitorio","No hay grupo",2.35
+"1117","7","12","San Antonio Palopó","Promedio de personas por dormitorio","No hay grupo",2.22
+"1118","7","13","San Lucas Tolimán","Promedio de personas por dormitorio","No hay grupo",2.3
+"1119","7","14","Santa Cruz la Laguna","Promedio de personas por dormitorio","No hay grupo",2.77
+"1120","7","15","San Pablo la Laguna","Promedio de personas por dormitorio","No hay grupo",2.65
+"1121","7","16","San Marcos la Laguna","Promedio de personas por dormitorio","No hay grupo",2.21
+"1122","7","17","San Juan la Laguna","Promedio de personas por dormitorio","No hay grupo",2.26
+"1123","7","18","San Pedro la Laguna","Promedio de personas por dormitorio","No hay grupo",1.84
+"1124","7","19","Santiago Atitlán","Promedio de personas por dormitorio","No hay grupo",2.22
+"1125","8","01","Totonicapán","Promedio de personas por dormitorio","No hay grupo",2.24
+"1126","8","02","San Cristóbal Totonicapán","Promedio de personas por dormitorio","No hay grupo",2.33
+"1127","8","03","San Francisco el Alto","Promedio de personas por dormitorio","No hay grupo",2.58
+"1128","8","04","San Andrés Xecul","Promedio de personas por dormitorio","No hay grupo",2.44
+"1129","8","05","Momostenango","Promedio de personas por dormitorio","No hay grupo",2.88
+"1130","8","06","Santa María Chiquimula","Promedio de personas por dormitorio","No hay grupo",3.76
+"1131","8","07","Santa Lucía la Reforma","Promedio de personas por dormitorio","No hay grupo",3.57
+"1132","8","08","San Bartolo Aguas Calientes","Promedio de personas por dormitorio","No hay grupo",2.96
+"1133","9","01","Quetzaltenango","Promedio de personas por dormitorio","No hay grupo",1.7
+"1134","9","02","Salcajá","Promedio de personas por dormitorio","No hay grupo",1.75
+"1135","9","03","San Juan Olintepeque","Promedio de personas por dormitorio","No hay grupo",1.94
+"1136","9","04","San Carlos Sija","Promedio de personas por dormitorio","No hay grupo",2.3
+"1137","9","05","Sibilia","Promedio de personas por dormitorio","No hay grupo",2.03
+"1138","9","06","Cabricán","Promedio de personas por dormitorio","No hay grupo",2.77
+"1139","9","07","Cajolá","Promedio de personas por dormitorio","No hay grupo",2.93
+"1140","9","08","San Miguel Siguilá","Promedio de personas por dormitorio","No hay grupo",2.59
+"1141","9","09","San Juan Ostuncalco","Promedio de personas por dormitorio","No hay grupo",2.37
+"1142","9","10","San Mateo","Promedio de personas por dormitorio","No hay grupo",1.92
+"1143","9","11","Concepción Chiquirichapa","Promedio de personas por dormitorio","No hay grupo",2.14
+"1144","9","12","San Martín Sacatepéquez","Promedio de personas por dormitorio","No hay grupo",2.59
+"1145","9","13","Almolonga","Promedio de personas por dormitorio","No hay grupo",1.9
+"1146","9","14","Cantel","Promedio de personas por dormitorio","No hay grupo",2.21
+"1147","9","15","Huitán","Promedio de personas por dormitorio","No hay grupo",2.94
+"1148","9","16","Zunil","Promedio de personas por dormitorio","No hay grupo",2.3
+"1149","9","17","Colomba Costa Cuca","Promedio de personas por dormitorio","No hay grupo",2.64
+"1150","9","18","San Francisco la Unión","Promedio de personas por dormitorio","No hay grupo",2.42
+"1151","9","19","El Palmar","Promedio de personas por dormitorio","No hay grupo",2.62
+"1152","9","20","Coatepeque","Promedio de personas por dormitorio","No hay grupo",2.31
+"1153","9","21","Génova","Promedio de personas por dormitorio","No hay grupo",2.74
+"1154","9","22","Flores Costa Cuca","Promedio de personas por dormitorio","No hay grupo",2.64
+"1155","9","23","La Esperanza","Promedio de personas por dormitorio","No hay grupo",1.75
+"1156","9","24","Palestina de los Altos","Promedio de personas por dormitorio","No hay grupo",2.49
+"1157","1","00","Mazatenango","Promedio de personas por dormitorio","No hay grupo",2.13
+"1158","1","00","Cuyotenango","Promedio de personas por dormitorio","No hay grupo",2.68
+"1159","1","00","San Francisco Zapotitlán","Promedio de personas por dormitorio","No hay grupo",2.29
+"1160","1","00","San Bernardino","Promedio de personas por dormitorio","No hay grupo",2.8
+"1161","1","00","San José el Ídolo","Promedio de personas por dormitorio","No hay grupo",2.61
+"1162","1","00","Santo Domingo Suchitepéquez","Promedio de personas por dormitorio","No hay grupo",2.82
+"1163","1","00","San Lorenzo","Promedio de personas por dormitorio","No hay grupo",2.87
+"1164","1","00","Samayac","Promedio de personas por dormitorio","No hay grupo",2.48
+"1165","1","00","San Pablo Jocopilas","Promedio de personas por dormitorio","No hay grupo",2.33
+"1166","1","01","San Antonio Suchitepéquez","Promedio de personas por dormitorio","No hay grupo",2.96
+"1167","1","01","San Miguel Panán","Promedio de personas por dormitorio","No hay grupo",3.06
+"1168","1","01","San Gabriel","Promedio de personas por dormitorio","No hay grupo",2.43
+"1169","1","01","Chicacao","Promedio de personas por dormitorio","No hay grupo",3.18
+"1170","1","01","Patulul","Promedio de personas por dormitorio","No hay grupo",2.58
+"1171","1","01","Santa Bárbara","Promedio de personas por dormitorio","No hay grupo",3.01
+"1172","1","01","San Juan Bautista","Promedio de personas por dormitorio","No hay grupo",2.86
+"1173","1","01","Santo Tomas la Unión","Promedio de personas por dormitorio","No hay grupo",2.27
+"1174","1","01","Zunilito","Promedio de personas por dormitorio","No hay grupo",2.43
+"1175","1","01","Pueblo Nuevo","Promedio de personas por dormitorio","No hay grupo",2.74
+"1176","1","02","Río Bravo","Promedio de personas por dormitorio","No hay grupo",2.72
+"1177","1","02","San José La Máquina","Promedio de personas por dormitorio","No hay grupo",2.63
+"1178","1","10","Retalhuleu","Promedio de personas por dormitorio","No hay grupo",2.23
+"1179","1","10","San Sebastián","Promedio de personas por dormitorio","No hay grupo",2.41
+"1180","1","10","Santa Cruz Muluá","Promedio de personas por dormitorio","No hay grupo",2.63
+"1181","1","10","San Martín Zapotitlán","Promedio de personas por dormitorio","No hay grupo",2.32
+"1182","1","10","San Felipe","Promedio de personas por dormitorio","No hay grupo",2.27
+"1183","1","10","San Andrés Villa Seca","Promedio de personas por dormitorio","No hay grupo",2.85
+"1184","1","10","Champerico","Promedio de personas por dormitorio","No hay grupo",2.6
+"1185","1","10","Nuevo San Carlos","Promedio de personas por dormitorio","No hay grupo",2.75
+"1186","1","10","El Asintal","Promedio de personas por dormitorio","No hay grupo",2.63
+"1187","1","20","San Marcos","Promedio de personas por dormitorio","No hay grupo",1.93
+"1188","1","20","San Pedro Sacatepéquez","Promedio de personas por dormitorio","No hay grupo",2.05
+"1189","1","20","San Antonio Sacatepéquez","Promedio de personas por dormitorio","No hay grupo",2.52
+"1190","1","20","Comitancillo","Promedio de personas por dormitorio","No hay grupo",3.61
+"1191","1","20","San Miguel Ixtahuacán","Promedio de personas por dormitorio","No hay grupo",3.72
+"1192","1","20","Concepción Tutuapa","Promedio de personas por dormitorio","No hay grupo",3.83
+"1193","1","20","Tacaná","Promedio de personas por dormitorio","No hay grupo",3.1
+"1194","1","20","Sibinal","Promedio de personas por dormitorio","No hay grupo",3.25
+"1195","1","20","Tajumulco","Promedio de personas por dormitorio","No hay grupo",3.47
+"1196","1","21","Tejutla","Promedio de personas por dormitorio","No hay grupo",2.98
+"1197","1","21","San Rafael Pie de la Cuesta","Promedio de personas por dormitorio","No hay grupo",2.34
+"1198","1","21","Nuevo Progreso","Promedio de personas por dormitorio","No hay grupo",2.93
+"1199","1","21","El Tumbador","Promedio de personas por dormitorio","No hay grupo",3.02
+"1200","1","21","San José el Rodeo","Promedio de personas por dormitorio","No hay grupo",2.58
+"1201","1","21","Malacatán","Promedio de personas por dormitorio","No hay grupo",2.66
+"1202","1","21","Catarina","Promedio de personas por dormitorio","No hay grupo",2.42
+"1203","1","21","Ayutla","Promedio de personas por dormitorio","No hay grupo",2.24
+"1204","1","21","Ocós","Promedio de personas por dormitorio","No hay grupo",2.56
+"1205","1","21","San Pablo","Promedio de personas por dormitorio","No hay grupo",2.55
+"1206","1","22","El Quetzal","Promedio de personas por dormitorio","No hay grupo",2.86
+"1207","1","22","La Reforma","Promedio de personas por dormitorio","No hay grupo",2.99
+"1208","1","22","Pajapita","Promedio de personas por dormitorio","No hay grupo",2.44
+"1209","1","22","Ixchiguán","Promedio de personas por dormitorio","No hay grupo",3.09
+"1210","1","22","San José Ojetenam","Promedio de personas por dormitorio","No hay grupo",3.45
+"1211","1","22","San Cristóbal Cucho","Promedio de personas por dormitorio","No hay grupo",2.71
+"1212","1","22","Sipacapa","Promedio de personas por dormitorio","No hay grupo",3.38
+"1213","1","22","Esquipulas Palo Gordo","Promedio de personas por dormitorio","No hay grupo",2.35
+"1214","1","22","Río Blanco","Promedio de personas por dormitorio","No hay grupo",2.41
+"1215","1","22","San Lorenzo","Promedio de personas por dormitorio","No hay grupo",3.11
+"1216","1","23","La Blanca","Promedio de personas por dormitorio","No hay grupo",2.66
+"1217","1","30","Huehuetenango","Promedio de personas por dormitorio","No hay grupo",1.83
+"1218","1","30","Chiantla","Promedio de personas por dormitorio","No hay grupo",2.99
+"1219","1","30","Malacatancito","Promedio de personas por dormitorio","No hay grupo",2.46
+"1220","1","30","Cuilco","Promedio de personas por dormitorio","No hay grupo",2.91
+"1221","1","30","Nentón","Promedio de personas por dormitorio","No hay grupo",3.01
+"1222","1","30","San Pedro Necta","Promedio de personas por dormitorio","No hay grupo",3.09
+"1223","1","30","Jacaltenango","Promedio de personas por dormitorio","No hay grupo",2.11
+"1224","1","30","San Pedro Soloma","Promedio de personas por dormitorio","No hay grupo",3.29
+"1225","1","30","San Ildefonso Ixtahuacán","Promedio de personas por dormitorio","No hay grupo",3.03
+"1226","1","31","Santa Bárbara","Promedio de personas por dormitorio","No hay grupo",3.71
+"1227","1","31","La Libertad","Promedio de personas por dormitorio","No hay grupo",2.74
+"1228","1","31","La Democracia","Promedio de personas por dormitorio","No hay grupo",2.32
+"1229","1","31","San Miguel Acatán","Promedio de personas por dormitorio","No hay grupo",3.73
+"1230","1","31","San Rafael La Independencia","Promedio de personas por dormitorio","No hay grupo",3.41
+"1231","1","31","Todos Santos Cuchumatán","Promedio de personas por dormitorio","No hay grupo",3.02
+"1232","1","31","San Juan Atitán","Promedio de personas por dormitorio","No hay grupo",2.47
+"1233","1","31","Santa Eulalia","Promedio de personas por dormitorio","No hay grupo",4.14
+"1234","1","31","San Mateo Ixtatán","Promedio de personas por dormitorio","No hay grupo",3.52
+"1235","1","31","Colotenango","Promedio de personas por dormitorio","No hay grupo",3.24
+"1236","1","32","San Sebastián Huehuetenango","Promedio de personas por dormitorio","No hay grupo",3.42
+"1237","1","32","Tectitán","Promedio de personas por dormitorio","No hay grupo",2.77
+"1238","1","32","Concepción Huista","Promedio de personas por dormitorio","No hay grupo",2.92
+"1239","1","32","San Juan Ixcoy","Promedio de personas por dormitorio","No hay grupo",3.52
+"1240","1","32","San Antonio Huista","Promedio de personas por dormitorio","No hay grupo",2.18
+"1241","1","32","San Sebastián Coatán","Promedio de personas por dormitorio","No hay grupo",2.7
+"1242","1","32","Santa Cruz Barillas","Promedio de personas por dormitorio","No hay grupo",3.77
+"1243","1","32","Aguacatán","Promedio de personas por dormitorio","No hay grupo",2.62
+"1244","1","32","San Rafael Petzal","Promedio de personas por dormitorio","No hay grupo",2.72
+"1245","1","32","San Gaspar Ixchil","Promedio de personas por dormitorio","No hay grupo",3.25
+"1246","1","33","Santiago Chimaltenango","Promedio de personas por dormitorio","No hay grupo",2.7
+"1247","1","33","Santa Ana Huista","Promedio de personas por dormitorio","No hay grupo",2.15
+"1248","1","33","Unión Cantinil","Promedio de personas por dormitorio","No hay grupo",2.57
+"1249","1","33","Petatán","Promedio de personas por dormitorio","No hay grupo",2.52
+"1250","1","40","Santa Cruz del Quiché","Promedio de personas por dormitorio","No hay grupo",2.29
+"1251","1","40","Chiché","Promedio de personas por dormitorio","No hay grupo",2.75
+"1252","1","40","Chinique","Promedio de personas por dormitorio","No hay grupo",2.57
+"1253","1","40","Zacualpa","Promedio de personas por dormitorio","No hay grupo",2.71
+"1254","1","40","Chajul","Promedio de personas por dormitorio","No hay grupo",4.1
+"1255","1","40","Santo Tomás Chichicastenango","Promedio de personas por dormitorio","No hay grupo",2.65
+"1256","1","40","Patzité","Promedio de personas por dormitorio","No hay grupo",3.25
+"1257","1","40","San Antonio Ilotenango","Promedio de personas por dormitorio","No hay grupo",3.16
+"1258","1","40","San Pedro Jocopilas","Promedio de personas por dormitorio","No hay grupo",3.14
+"1259","1","41","Cunén","Promedio de personas por dormitorio","No hay grupo",3.38
+"1260","1","41","San Juan Cotzal","Promedio de personas por dormitorio","No hay grupo",3.72
+"1261","1","41","Joyabaj","Promedio de personas por dormitorio","No hay grupo",2.51
+"1262","1","41","Santa María Nebaj","Promedio de personas por dormitorio","No hay grupo",2.76
+"1263","1","41","San Andrés Sajcabajá","Promedio de personas por dormitorio","No hay grupo",2.77
+"1264","1","41","San Miguel Uspantán","Promedio de personas por dormitorio","No hay grupo",3.52
+"1265","1","41","Sacapulas","Promedio de personas por dormitorio","No hay grupo",3.26
+"1266","1","41","San Bartolomé Jocotenango","Promedio de personas por dormitorio","No hay grupo",3.61
+"1267","1","41","Canillá","Promedio de personas por dormitorio","No hay grupo",2.42
+"1268","1","41","Chicamán","Promedio de personas por dormitorio","No hay grupo",3.54
+"1269","1","42","Playa Grande Ixcán","Promedio de personas por dormitorio","No hay grupo",3.19
+"1270","1","42","Pachalum","Promedio de personas por dormitorio","No hay grupo",1.88
+"1271","1","50","Salamá","Promedio de personas por dormitorio","No hay grupo",2.14
+"1272","1","50","San Miguel Chicaj","Promedio de personas por dormitorio","No hay grupo",2.45
+"1273","1","50","Rabinal","Promedio de personas por dormitorio","No hay grupo",2.35
+"1274","1","50","Cubulco","Promedio de personas por dormitorio","No hay grupo",2.7
+"1275","1","50","Granados","Promedio de personas por dormitorio","No hay grupo",2.09
+"1276","1","50","Santa Cruz El Chol","Promedio de personas por dormitorio","No hay grupo",2.05
+"1277","1","50","San Jerónimo","Promedio de personas por dormitorio","No hay grupo",2.17
+"1278","1","50","Purulhá","Promedio de personas por dormitorio","No hay grupo",3.75
+"1279","1","60","Cobán","Promedio de personas por dormitorio","No hay grupo",2.59
+"1280","1","60","Santa Cruz Verapaz","Promedio de personas por dormitorio","No hay grupo",2.73
+"1281","1","60","San Cristóbal Verapaz","Promedio de personas por dormitorio","No hay grupo",2.99
+"1282","1","60","Tactic","Promedio de personas por dormitorio","No hay grupo",2.54
+"1283","1","60","Tamahú","Promedio de personas por dormitorio","No hay grupo",3.87
+"1284","1","60","San Miguel Tucurú","Promedio de personas por dormitorio","No hay grupo",3.49
+"1285","1","60","Panzós","Promedio de personas por dormitorio","No hay grupo",4.01
+"1286","1","60","Senahú","Promedio de personas por dormitorio","No hay grupo",3.95
+"1287","1","60","San Pedro Carchá","Promedio de personas por dormitorio","No hay grupo",3.56
+"1288","1","61","San Juan Chamelco","Promedio de personas por dormitorio","No hay grupo",3.11
+"1289","1","61","San Agustín Lanquín","Promedio de personas por dormitorio","No hay grupo",3.67
+"1290","1","61","Santa María Cahabón","Promedio de personas por dormitorio","No hay grupo",3.15
+"1291","1","61","Chisec","Promedio de personas por dormitorio","No hay grupo",3.78
+"1292","1","61","Chahal","Promedio de personas por dormitorio","No hay grupo",3.58
+"1293","1","61","Fray Bartolomé de las Casas","Promedio de personas por dormitorio","No hay grupo",3.59
+"1294","1","61","Santa Catalina La Tinta","Promedio de personas por dormitorio","No hay grupo",3.46
+"1295","1","61","Raxruhá","Promedio de personas por dormitorio","No hay grupo",3.81
+"1296","1","70","Flores","Promedio de personas por dormitorio","No hay grupo",1.85
+"1297","1","70","San José","Promedio de personas por dormitorio","No hay grupo",2.38
+"1298","1","70","San Benito","Promedio de personas por dormitorio","No hay grupo",2.04
+"1299","1","70","San Andrés","Promedio de personas por dormitorio","No hay grupo",2.68
+"1300","1","70","La Libertad","Promedio de personas por dormitorio","No hay grupo",2.62
+"1301","1","70","San Francisco","Promedio de personas por dormitorio","No hay grupo",2.21
+"1302","1","70","Santa Ana","Promedio de personas por dormitorio","No hay grupo",2.37
+"1303","1","70","Dolores","Promedio de personas por dormitorio","No hay grupo",2.52
+"1304","1","70","San Luis","Promedio de personas por dormitorio","No hay grupo",2.65
+"1305","1","71","Sayaxché","Promedio de personas por dormitorio","No hay grupo",2.94
+"1306","1","71","Melchor de Mencos","Promedio de personas por dormitorio","No hay grupo",2.23
+"1307","1","71","Poptún","Promedio de personas por dormitorio","No hay grupo",2.24
+"1308","1","71","Las Cruces","Promedio de personas por dormitorio","No hay grupo",2.64
+"1309","1","71","El Chal","Promedio de personas por dormitorio","No hay grupo",2.27
+"1310","1","80","Puerto Barrios","Promedio de personas por dormitorio","No hay grupo",1.95
+"1311","1","80","Livingston","Promedio de personas por dormitorio","No hay grupo",2.85
+"1312","1","80","El Estor","Promedio de personas por dormitorio","No hay grupo",3.67
+"1313","1","80","Morales","Promedio de personas por dormitorio","No hay grupo",2.27
+"1314","1","80","Los Amates","Promedio de personas por dormitorio","No hay grupo",2.33
+"1315","1","90","Zacapa","Promedio de personas por dormitorio","No hay grupo",2.05
+"1316","1","90","Estanzuela","Promedio de personas por dormitorio","No hay grupo",1.9
+"1317","1","90","Río Hondo","Promedio de personas por dormitorio","No hay grupo",1.85
+"1318","1","90","Gualán","Promedio de personas por dormitorio","No hay grupo",2.19
+"1319","1","90","Teculután","Promedio de personas por dormitorio","No hay grupo",2.13
+"1320","1","90","Usumatlán","Promedio de personas por dormitorio","No hay grupo",2.09
+"1321","1","90","Cabañas","Promedio de personas por dormitorio","No hay grupo",2.33
+"1322","1","90","San Diego","Promedio de personas por dormitorio","No hay grupo",2.23
+"1323","1","90","La Unión","Promedio de personas por dormitorio","No hay grupo",2.83
+"1324","1","91","Huité","Promedio de personas por dormitorio","No hay grupo",2.64
+"1325","1","91","San Jorge","Promedio de personas por dormitorio","No hay grupo",2.45
+"1326","2","00","Chiquimula","Promedio de personas por dormitorio","No hay grupo",2.21
+"1327","2","00","San José la Arada","Promedio de personas por dormitorio","No hay grupo",2.22
+"1328","2","00","San Juan Ermita","Promedio de personas por dormitorio","No hay grupo",2.72
+"1329","2","00","Jocotán","Promedio de personas por dormitorio","No hay grupo",3.43
+"1330","2","00","Camotán","Promedio de personas por dormitorio","No hay grupo",3.05
+"1331","2","00","Olopa","Promedio de personas por dormitorio","No hay grupo",3.17
+"1332","2","00","Esquipulas","Promedio de personas por dormitorio","No hay grupo",2.26
+"1333","2","00","Concepción las Minas","Promedio de personas por dormitorio","No hay grupo",1.87
+"1334","2","00","Quezaltepeque","Promedio de personas por dormitorio","No hay grupo",2.2
+"1335","2","01","San Jacinto","Promedio de personas por dormitorio","No hay grupo",2.56
+"1336","2","01","Ipala","Promedio de personas por dormitorio","No hay grupo",2.02
+"1337","2","10","Jalapa","Promedio de personas por dormitorio","No hay grupo",2.43
+"1338","2","10","San Pedro Pinula","Promedio de personas por dormitorio","No hay grupo",2.94
+"1339","2","10","San Luis Jilotepeque","Promedio de personas por dormitorio","No hay grupo",2.26
+"1340","2","10","San Manuel Chaparrón","Promedio de personas por dormitorio","No hay grupo",1.95
+"1341","2","10","San Carlos Alzatate","Promedio de personas por dormitorio","No hay grupo",2.85
+"1342","2","10","Monjas","Promedio de personas por dormitorio","No hay grupo",2.04
+"1343","2","10","Mataquescuintla","Promedio de personas por dormitorio","No hay grupo",2.37
+"1344","2","20","Jutiapa","Promedio de personas por dormitorio","No hay grupo",2.31
+"1345","2","20","El Progreso","Promedio de personas por dormitorio","No hay grupo",1.78
+"1346","2","20","Santa Catarina Mita","Promedio de personas por dormitorio","No hay grupo",2.03
+"1347","2","20","Agua Blanca","Promedio de personas por dormitorio","No hay grupo",2.02
+"1348","2","20","Asunción Mita","Promedio de personas por dormitorio","No hay grupo",1.98
+"1349","2","20","Yupiltepeque","Promedio de personas por dormitorio","No hay grupo",2.76
+"1350","2","20","Atescatempa","Promedio de personas por dormitorio","No hay grupo",2.07
+"1351","2","20","Jerez","Promedio de personas por dormitorio","No hay grupo",1.96
+"1352","2","20","El Adelanto","Promedio de personas por dormitorio","No hay grupo",2.8
+"1353","2","21","Zapotitlán","Promedio de personas por dormitorio","No hay grupo",2.74
+"1354","2","21","Comapa","Promedio de personas por dormitorio","No hay grupo",2.89
+"1355","2","21","Jalpatagua","Promedio de personas por dormitorio","No hay grupo",2.13
+"1356","2","21","Conguaco","Promedio de personas por dormitorio","No hay grupo",3.48
+"1357","2","21","Moyuta","Promedio de personas por dormitorio","No hay grupo",2.45
+"1358","2","21","Pasaco","Promedio de personas por dormitorio","No hay grupo",2.49
+"1359","2","21","San José Acatempa","Promedio de personas por dormitorio","No hay grupo",1.97
+"1360","2","21","Quesada","Promedio de personas por dormitorio","No hay grupo",2.01

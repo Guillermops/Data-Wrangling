@@ -1,0 +1,2381 @@
+"","departamento","municipio","Municipio","caracteristica","grupo","observaciones"
+"1","1","01","Guatemala","Población de 7 años o más","No hay grupo",823541
+"2","1","02","Santa Catarina Pinula","Población de 7 años o más","No hay grupo",70958
+"3","1","03","San José Pinula","Población de 7 años o más","No hay grupo",68509
+"4","1","04","San José del Golfo","Población de 7 años o más","No hay grupo",6206
+"5","1","05","Palencia","Población de 7 años o más","No hay grupo",59630
+"6","1","06","Chinautla","Población de 7 años o más","No hay grupo",98780
+"7","1","07","San Pedro Ayampuc","Población de 7 años o más","No hay grupo",50043
+"8","1","08","Mixco","Población de 7 años o más","No hay grupo",413084
+"9","1","09","San Pedro Sacatepéquez","Población de 7 años o más","No hay grupo",43666
+"10","1","10","San Juan Sacatepéquez","Población de 7 años o más","No hay grupo",184474
+"11","1","11","San Raymundo","Población de 7 años o más","No hay grupo",26643
+"12","1","12","Chuarrancho","Población de 7 años o más","No hay grupo",10555
+"13","1","13","Fraijanes","Población de 7 años o más","No hay grupo",52138
+"14","1","14","Amatitlán","Población de 7 años o más","No hay grupo",100917
+"15","1","15","Villa Nueva","Población de 7 años o más","No hay grupo",378827
+"16","1","16","Villa Canales","Población de 7 años o más","No hay grupo",133606
+"17","1","17","San Miguel Petapa","Población de 7 años o más","No hay grupo",119532
+"18","2","01","Guastatoya","Población de 7 años o más","No hay grupo",21686
+"19","2","02","Morazán","Población de 7 años o más","No hay grupo",10512
+"20","2","03","San Agustín Acasaguastlán","Población de 7 años o más","No hay grupo",38035
+"21","2","04","San Cristóbal Acasaguastlán","Población de 7 años o más","No hay grupo",6227
+"22","2","05","El Jícaro","Población de 7 años o más","No hay grupo",11426
+"23","2","06","Sansare","Población de 7 años o más","No hay grupo",11416
+"24","2","07","Sanarate","Población de 7 años o más","No hay grupo",34148
+"25","2","08","San Antonio la Paz","Población de 7 años o más","No hay grupo",17751
+"26","3","01","Antigua Guatemala","Población de 7 años o más","No hay grupo",40973
+"27","3","02","Jocotenango","Población de 7 años o más","No hay grupo",19292
+"28","3","03","Pastores","Población de 7 años o más","No hay grupo",15433
+"29","3","04","Sumpango","Población de 7 años o más","No hay grupo",31813
+"30","3","05","Santo Domingo Xenacoj","Población de 7 años o más","No hay grupo",10585
+"31","3","06","Santiago Sacatepéquez","Población de 7 años o más","No hay grupo",25291
+"32","3","07","San Bartolomé Milpas Altas","Población de 7 años o más","No hay grupo",6831
+"33","3","08","San Lucas Sacatepéquez","Población de 7 años o más","No hay grupo",20577
+"34","3","09","Santa Lucía Milpas Altas","Población de 7 años o más","No hay grupo",13662
+"35","3","10","Magdalena Milpas Altas","Población de 7 años o más","No hay grupo",10365
+"36","3","11","Santa María de Jesús","Población de 7 años o más","No hay grupo",18454
+"37","3","12","Ciudad Vieja","Población de 7 años o más","No hay grupo",29121
+"38","3","13","San Miguel Dueñas","Población de 7 años o más","No hay grupo",10985
+"39","3","14","San Juan Alotenango","Población de 7 años o más","No hay grupo",20473
+"40","3","15","San Antonio Aguas Calientes","Población de 7 años o más","No hay grupo",9900
+"41","3","16","Santa Catarina Barahona","Población de 7 años o más","No hay grupo",3546
+"42","4","01","Chimaltenango","Población de 7 años o más","No hay grupo",83554
+"43","4","02","San José Poaquil","Población de 7 años o más","No hay grupo",22856
+"44","4","03","San Martín Jilotepeque","Población de 7 años o más","No hay grupo",61676
+"45","4","04","San Juan Comalapa","Población de 7 años o más","No hay grupo",41229
+"46","4","05","Santa Apolonia","Población de 7 años o más","No hay grupo",15016
+"47","4","06","Tecpán Guatemala","Población de 7 años o más","No hay grupo",75219
+"48","4","07","Patzún","Población de 7 años o más","No hay grupo",49017
+"49","4","08","San Miguel Pochuta","Población de 7 años o más","No hay grupo",7463
+"50","4","09","Patzicía","Población de 7 años o más","No hay grupo",28069
+"51","4","10","Santa Cruz Balanyá","Población de 7 años o más","No hay grupo",7931
+"52","4","11","Acatenango","Población de 7 años o más","No hay grupo",19335
+"53","4","12","San Pedro Yepocapa","Población de 7 años o más","No hay grupo",28758
+"54","4","13","San Andrés Itzapa","Población de 7 años o más","No hay grupo",26742
+"55","4","14","Parramos","Población de 7 años o más","No hay grupo",13554
+"56","4","15","Zaragoza","Población de 7 años o más","No hay grupo",20166
+"57","4","16","El Tejar","Población de 7 años o más","No hay grupo",16775
+"58","5","01","Escuintla","Población de 7 años o más","No hay grupo",135581
+"59","5","02","Santa Lucía Cotzumalguapa","Población de 7 años o más","No hay grupo",95804
+"60","5","03","La Democracia","Población de 7 años o más","No hay grupo",19293
+"61","5","04","Siquinalá","Población de 7 años o más","No hay grupo",19307
+"62","5","05","Masagua","Población de 7 años o más","No hay grupo",38004
+"63","5","06","Tiquisate","Población de 7 años o más","No hay grupo",48081
+"64","5","07","La Gomera","Población de 7 años o más","No hay grupo",39179
+"65","5","08","Guanagazapa","Población de 7 años o más","No hay grupo",13346
+"66","5","09","San José","Población de 7 años o más","No hay grupo",53388
+"67","5","10","Iztapa","Población de 7 años o más","No hay grupo",15581
+"68","5","11","Palín","Población de 7 años o más","No hay grupo",56334
+"69","5","12","San Vicente Pacaya","Población de 7 años o más","No hay grupo",14221
+"70","5","13","Nueva Concepción","Población de 7 años o más","No hay grupo",61150
+"71","5","14","Sipacate","Población de 7 años o más","No hay grupo",13740
+"72","6","01","Cuilapa","Población de 7 años o más","No hay grupo",35176
+"73","6","02","Barberena","Población de 7 años o más","No hay grupo",49388
+"74","6","03","Santa Rosa de Lima","Población de 7 años o más","No hay grupo",16734
+"75","6","04","Casillas","Población de 7 años o más","No hay grupo",21176
+"76","6","05","San Rafael las Flores","Población de 7 años o más","No hay grupo",10535
+"77","6","06","Oratorio","Población de 7 años o más","No hay grupo",21058
+"78","6","07","San Juan Tecuaco","Población de 7 años o más","No hay grupo",8476
+"79","6","08","Chiquimulilla","Población de 7 años o más","No hay grupo",45898
+"80","6","09","Taxisco","Población de 7 años o más","No hay grupo",25394
+"81","6","10","Santa María Ixhuatán","Población de 7 años o más","No hay grupo",20106
+"82","6","11","Guazacapán","Población de 7 años o más","No hay grupo",15935
+"83","6","12","Santa Cruz Naranjo","Población de 7 años o más","No hay grupo",13984
+"84","6","13","Pueblo Nuevo Viñas","Población de 7 años o más","No hay grupo",21419
+"85","6","14","Nueva Santa Rosa","Población de 7 años o más","No hay grupo",31041
+"86","7","01","Sololá","Población de 7 años o más","No hay grupo",75102
+"87","7","02","San José Chacayá","Población de 7 años o más","No hay grupo",3387
+"88","7","03","Santa María Visitación","Población de 7 años o más","No hay grupo",2059
+"89","7","04","Santa Lucía Utatlán","Población de 7 años o más","No hay grupo",18358
+"90","7","05","Nahualá","Población de 7 años o más","No hay grupo",63409
+"91","7","06","Santa Catarina Ixtahuacán","Población de 7 años o más","No hay grupo",47679
+"92","7","07","Santa Clara la Laguna","Población de 7 años o más","No hay grupo",8071
+"93","7","08","Concepción","Población de 7 años o más","No hay grupo",5437
+"94","7","09","San Andrés Semetabaj","Población de 7 años o más","No hay grupo",11114
+"95","7","10","Panajachel","Población de 7 años o más","No hay grupo",13068
+"96","7","11","Santa Catarina Palopó","Población de 7 años o más","No hay grupo",3323
+"97","7","12","San Antonio Palopó","Población de 7 años o más","No hay grupo",12242
+"98","7","13","San Lucas Tolimán","Población de 7 años o más","No hay grupo",25377
+"99","7","14","Santa Cruz la Laguna","Población de 7 años o más","No hay grupo",4846
+"100","7","15","San Pablo la Laguna","Población de 7 años o más","No hay grupo",6329
+"101","7","16","San Marcos la Laguna","Población de 7 años o más","No hay grupo",2298
+"102","7","17","San Juan la Laguna","Población de 7 años o más","No hay grupo",10300
+"103","7","18","San Pedro la Laguna","Población de 7 años o más","No hay grupo",9447
+"104","7","19","Santiago Atitlán","Población de 7 años o más","No hay grupo",36611
+"105","8","01","Totonicapán","Población de 7 años o más","No hay grupo",90604
+"106","8","02","San Cristóbal Totonicapán","Población de 7 años o más","No hay grupo",31310
+"107","8","03","San Francisco el Alto","Población de 7 años o más","No hay grupo",49012
+"108","8","04","San Andrés Xecul","Población de 7 años o más","No hay grupo",22806
+"109","8","05","Momostenango","Población de 7 años o más","No hay grupo",86389
+"110","8","06","Santa María Chiquimula","Población de 7 años o más","No hay grupo",44425
+"111","8","07","Santa Lucía la Reforma","Población de 7 años o más","No hay grupo",17677
+"112","8","08","San Bartolo Aguas Calientes","Población de 7 años o más","No hay grupo",8596
+"113","9","01","Quetzaltenango","Población de 7 años o más","No hay grupo",158834
+"114","9","02","Salcajá","Población de 7 años o más","No hay grupo",17024
+"115","9","03","San Juan Olintepeque","Población de 7 años o más","No hay grupo",29934
+"116","9","04","San Carlos Sija","Población de 7 años o más","No hay grupo",25812
+"117","9","05","Sibilia","Población de 7 años o más","No hay grupo",7094
+"118","9","06","Cabricán","Población de 7 años o más","No hay grupo",19462
+"119","9","07","Cajolá","Población de 7 años o más","No hay grupo",11908
+"120","9","08","San Miguel Siguilá","Población de 7 años o más","No hay grupo",6369
+"121","9","09","San Juan Ostuncalco","Población de 7 años o más","No hay grupo",42771
+"122","9","10","San Mateo","Población de 7 años o más","No hay grupo",6756
+"123","9","11","Concepción Chiquirichapa","Población de 7 años o más","No hay grupo",14424
+"124","9","12","San Martín Sacatepéquez","Población de 7 años o más","No hay grupo",24031
+"125","9","13","Almolonga","Población de 7 años o más","No hay grupo",13874
+"126","9","14","Cantel","Población de 7 años o más","No hay grupo",36428
+"127","9","15","Huitán","Población de 7 años o más","No hay grupo",10758
+"128","9","16","Zunil","Población de 7 años o más","No hay grupo",12341
+"129","9","17","Colomba Costa Cuca","Población de 7 años o más","No hay grupo",40012
+"130","9","18","San Francisco la Unión","Población de 7 años o más","No hay grupo",6753
+"131","9","19","El Palmar","Población de 7 años o más","No hay grupo",24362
+"132","9","20","Coatepeque","Población de 7 años o más","No hay grupo",89886
+"133","9","21","Génova","Población de 7 años o más","No hay grupo",31049
+"134","9","22","Flores Costa Cuca","Población de 7 años o más","No hay grupo",18371
+"135","9","23","La Esperanza","Población de 7 años o más","No hay grupo",19218
+"136","9","24","Palestina de los Altos","Población de 7 años o más","No hay grupo",13087
+"137","1","00","Mazatenango","Población de 7 años o más","No hay grupo",66157
+"138","1","00","Cuyotenango","Población de 7 años o más","No hay grupo",28025
+"139","1","00","San Francisco Zapotitlán","Población de 7 años o más","No hay grupo",19113
+"140","1","00","San Bernardino","Población de 7 años o más","No hay grupo",13193
+"141","1","00","San José el Ídolo","Población de 7 años o más","No hay grupo",8469
+"142","1","00","Santo Domingo Suchitepéquez","Población de 7 años o más","No hay grupo",35103
+"143","1","00","San Lorenzo","Población de 7 años o más","No hay grupo",11099
+"144","1","00","Samayac","Población de 7 años o más","No hay grupo",21131
+"145","1","00","San Pablo Jocopilas","Población de 7 años o más","No hay grupo",17457
+"146","1","01","San Antonio Suchitepéquez","Población de 7 años o más","No hay grupo",48964
+"147","1","01","San Miguel Panán","Población de 7 años o más","No hay grupo",8400
+"148","1","01","San Gabriel","Población de 7 años o más","No hay grupo",6214
+"149","1","01","Chicacao","Población de 7 años o más","No hay grupo",49666
+"150","1","01","Patulul","Población de 7 años o más","No hay grupo",34020
+"151","1","01","Santa Bárbara","Población de 7 años o más","No hay grupo",21612
+"152","1","01","San Juan Bautista","Población de 7 años o más","No hay grupo",6454
+"153","1","01","Santo Tomas la Unión","Población de 7 años o más","No hay grupo",10118
+"154","1","01","Zunilito","Población de 7 años o más","No hay grupo",7053
+"155","1","01","Pueblo Nuevo","Población de 7 años o más","No hay grupo",9586
+"156","1","02","Río Bravo","Población de 7 años o más","No hay grupo",22733
+"157","1","02","San José La Máquina","Población de 7 años o más","No hay grupo",18997
+"158","1","10","Retalhuleu","Población de 7 años o más","No hay grupo",76688
+"159","1","10","San Sebastián","Población de 7 años o más","No hay grupo",24897
+"160","1","10","Santa Cruz Muluá","Población de 7 años o más","No hay grupo",11360
+"161","1","10","San Martín Zapotitlán","Población de 7 años o más","No hay grupo",10200
+"162","1","10","San Felipe","Población de 7 años o más","No hay grupo",20609
+"163","1","10","San Andrés Villa Seca","Población de 7 años o más","No hay grupo",39034
+"164","1","10","Champerico","Población de 7 años o más","No hay grupo",27229
+"165","1","10","Nuevo San Carlos","Población de 7 años o más","No hay grupo",33301
+"166","1","10","El Asintal","Población de 7 años o más","No hay grupo",31031
+"167","1","20","San Marcos","Población de 7 años o más","No hay grupo",40156
+"168","1","20","San Pedro Sacatepéquez","Población de 7 años o más","No hay grupo",67734
+"169","1","20","San Antonio Sacatepéquez","Población de 7 años o más","No hay grupo",15824
+"170","1","20","Comitancillo","Población de 7 años o más","No hay grupo",47203
+"171","1","20","San Miguel Ixtahuacán","Población de 7 años o más","No hay grupo",37037
+"172","1","20","Concepción Tutuapa","Población de 7 años o más","No hay grupo",53114
+"173","1","20","Tacaná","Población de 7 años o más","No hay grupo",62127
+"174","1","20","Sibinal","Población de 7 años o más","No hay grupo",12829
+"175","1","20","Tajumulco","Población de 7 años o más","No hay grupo",40307
+"176","1","21","Tejutla","Población de 7 años o más","No hay grupo",31178
+"177","1","21","San Rafael Pie de la Cuesta","Población de 7 años o más","No hay grupo",14546
+"178","1","21","Nuevo Progreso","Población de 7 años o más","No hay grupo",25223
+"179","1","21","El Tumbador","Población de 7 años o más","No hay grupo",36986
+"180","1","21","San José el Rodeo","Población de 7 años o más","No hay grupo",14994
+"181","1","21","Malacatán","Población de 7 años o más","No hay grupo",77289
+"182","1","21","Catarina","Población de 7 años o más","No hay grupo",25409
+"183","1","21","Ayutla","Población de 7 años o más","No hay grupo",30949
+"184","1","21","Ocós","Población de 7 años o más","No hay grupo",9005
+"185","1","21","San Pablo","Población de 7 años o más","No hay grupo",40756
+"186","1","22","El Quetzal","Población de 7 años o más","No hay grupo",19358
+"187","1","22","La Reforma","Población de 7 años o más","No hay grupo",14929
+"188","1","22","Pajapita","Población de 7 años o más","No hay grupo",18310
+"189","1","22","Ixchiguán","Población de 7 años o más","No hay grupo",17944
+"190","1","22","San José Ojetenam","Población de 7 años o más","No hay grupo",15559
+"191","1","22","San Cristóbal Cucho","Población de 7 años o más","No hay grupo",13715
+"192","1","22","Sipacapa","Población de 7 años o más","No hay grupo",15951
+"193","1","22","Esquipulas Palo Gordo","Población de 7 años o más","No hay grupo",10687
+"194","1","22","Río Blanco","Población de 7 años o más","No hay grupo",4468
+"195","1","22","San Lorenzo","Población de 7 años o más","No hay grupo",10792
+"196","1","23","La Blanca","Población de 7 años o más","No hay grupo",23936
+"197","1","30","Huehuetenango","Población de 7 años o más","No hay grupo",101248
+"198","1","30","Chiantla","Población de 7 años o más","No hay grupo",71571
+"199","1","30","Malacatancito","Población de 7 años o más","No hay grupo",15959
+"200","1","30","Cuilco","Población de 7 años o más","No hay grupo",48184
+"201","1","30","Nentón","Población de 7 años o más","No hay grupo",36210
+"202","1","30","San Pedro Necta","Población de 7 años o más","No hay grupo",31377
+"203","1","30","Jacaltenango","Población de 7 años o más","No hay grupo",31398
+"204","1","30","San Pedro Soloma","Población de 7 años o más","No hay grupo",38459
+"205","1","30","San Ildefonso Ixtahuacán","Población de 7 años o más","No hay grupo",35055
+"206","1","31","Santa Bárbara","Población de 7 años o más","No hay grupo",26634
+"207","1","31","La Libertad","Población de 7 años o más","No hay grupo",30972
+"208","1","31","La Democracia","Población de 7 años o más","No hay grupo",45266
+"209","1","31","San Miguel Acatán","Población de 7 años o más","No hay grupo",21024
+"210","1","31","San Rafael La Independencia","Población de 7 años o más","No hay grupo",11050
+"211","1","31","Todos Santos Cuchumatán","Población de 7 años o más","No hay grupo",24373
+"212","1","31","San Juan Atitán","Población de 7 años o más","No hay grupo",15907
+"213","1","31","Santa Eulalia","Población de 7 años o más","No hay grupo",30707
+"214","1","31","San Mateo Ixtatán","Población de 7 años o más","No hay grupo",34097
+"215","1","31","Colotenango","Población de 7 años o más","No hay grupo",27302
+"216","1","32","San Sebastián Huehuetenango","Población de 7 años o más","No hay grupo",26261
+"217","1","32","Tectitán","Población de 7 años o más","No hay grupo",8708
+"218","1","32","Concepción Huista","Población de 7 años o más","No hay grupo",15045
+"219","1","32","San Juan Ixcoy","Población de 7 años o más","No hay grupo",18192
+"220","1","32","San Antonio Huista","Población de 7 años o más","No hay grupo",13969
+"221","1","32","San Sebastián Coatán","Población de 7 años o más","No hay grupo",16769
+"222","1","32","Santa Cruz Barillas","Población de 7 años o más","No hay grupo",79492
+"223","1","32","Aguacatán","Población de 7 años o más","No hay grupo",41339
+"224","1","32","San Rafael Petzal","Población de 7 años o más","No hay grupo",9198
+"225","1","32","San Gaspar Ixchil","Población de 7 años o más","No hay grupo",6270
+"226","1","33","Santiago Chimaltenango","Población de 7 años o más","No hay grupo",8813
+"227","1","33","Santa Ana Huista","Población de 7 años o más","No hay grupo",7886
+"228","1","33","Unión Cantinil","Población de 7 años o más","No hay grupo",12954
+"229","1","33","Petatán","Población de 7 años o más","No hay grupo",5027
+"230","1","40","Santa Cruz del Quiché","Población de 7 años o más","No hay grupo",66028
+"231","1","40","Chiché","Población de 7 años o más","No hay grupo",24260
+"232","1","40","Chinique","Población de 7 años o más","No hay grupo",9486
+"233","1","40","Zacualpa","Población de 7 años o más","No hay grupo",26816
+"234","1","40","Chajul","Población de 7 años o más","No hay grupo",37842
+"235","1","40","Santo Tomás Chichicastenango","Población de 7 años o más","No hay grupo",118034
+"236","1","40","Patzité","Población de 7 años o más","No hay grupo",4962
+"237","1","40","San Antonio Ilotenango","Población de 7 años o más","No hay grupo",20228
+"238","1","40","San Pedro Jocopilas","Población de 7 años o más","No hay grupo",25942
+"239","1","41","Cunén","Población de 7 años o más","No hay grupo",32786
+"240","1","41","San Juan Cotzal","Población de 7 años o más","No hay grupo",25617
+"241","1","41","Joyabaj","Población de 7 años o más","No hay grupo",65399
+"242","1","41","Santa María Nebaj","Población de 7 años o más","No hay grupo",60822
+"243","1","41","San Andrés Sajcabajá","Población de 7 años o más","No hay grupo",20824
+"244","1","41","San Miguel Uspantán","Población de 7 años o más","No hay grupo",52438
+"245","1","41","Sacapulas","Población de 7 años o más","No hay grupo",42951
+"246","1","41","San Bartolomé Jocotenango","Población de 7 años o más","No hay grupo",10860
+"247","1","41","Canillá","Población de 7 años o más","No hay grupo",10011
+"248","1","41","Chicamán","Población de 7 años o más","No hay grupo",31535
+"249","1","42","Playa Grande Ixcán","Población de 7 años o más","No hay grupo",78853
+"250","1","42","Pachalum","Población de 7 años o más","No hay grupo",7578
+"251","1","50","Salamá","Población de 7 años o más","No hay grupo",55033
+"252","1","50","San Miguel Chicaj","Población de 7 años o más","No hay grupo",27345
+"253","1","50","Rabinal","Población de 7 años o más","No hay grupo",34690
+"254","1","50","Cubulco","Población de 7 años o más","No hay grupo",45369
+"255","1","50","Granados","Población de 7 años o más","No hay grupo",11644
+"256","1","50","Santa Cruz El Chol","Población de 7 años o más","No hay grupo",8188
+"257","1","50","San Jerónimo","Población de 7 años o más","No hay grupo",21412
+"258","1","50","Purulhá","Población de 7 años o más","No hay grupo",44495
+"259","1","60","Cobán","Población de 7 años o más","No hay grupo",176556
+"260","1","60","Santa Cruz Verapaz","Población de 7 años o más","No hay grupo",26246
+"261","1","60","San Cristóbal Verapaz","Población de 7 años o más","No hay grupo",55367
+"262","1","60","Tactic","Población de 7 años o más","No hay grupo",31382
+"263","1","60","Tamahú","Población de 7 años o más","No hay grupo",16174
+"264","1","60","San Miguel Tucurú","Población de 7 años o más","No hay grupo",34450
+"265","1","60","Panzós","Población de 7 años o más","No hay grupo",56330
+"266","1","60","Senahú","Población de 7 años o más","No hay grupo",73262
+"267","1","60","San Pedro Carchá","Población de 7 años o más","No hay grupo",190682
+"268","1","61","San Juan Chamelco","Población de 7 años o más","No hay grupo",46967
+"269","1","61","San Agustín Lanquín","Población de 7 años o más","No hay grupo",19587
+"270","1","61","Santa María Cahabón","Población de 7 años o más","No hay grupo",53122
+"271","1","61","Chisec","Población de 7 años o más","No hay grupo",67101
+"272","1","61","Chahal","Población de 7 años o más","No hay grupo",21430
+"273","1","61","Fray Bartolomé de las Casas","Población de 7 años o más","No hay grupo",53309
+"274","1","61","Santa Catalina La Tinta","Población de 7 años o más","No hay grupo",32694
+"275","1","61","Raxruhá","Población de 7 años o más","No hay grupo",29576
+"276","1","70","Flores","Población de 7 años o más","No hay grupo",32869
+"277","1","70","San José","Población de 7 años o más","No hay grupo",5840
+"278","1","70","San Benito","Población de 7 años o más","No hay grupo",37396
+"279","1","70","San Andrés","Población de 7 años o más","No hay grupo",26660
+"280","1","70","La Libertad","Población de 7 años o más","No hay grupo",59014
+"281","1","70","San Francisco","Población de 7 años o más","No hay grupo",12752
+"282","1","70","Santa Ana","Población de 7 años o más","No hay grupo",18226
+"283","1","70","Dolores","Población de 7 años o más","No hay grupo",22101
+"284","1","70","San Luis","Población de 7 años o más","No hay grupo",54895
+"285","1","71","Sayaxché","Población de 7 años o más","No hay grupo",74570
+"286","1","71","Melchor de Mencos","Población de 7 años o más","No hay grupo",23557
+"287","1","71","Poptún","Población de 7 años o más","No hay grupo",43517
+"288","1","71","Las Cruces","Población de 7 años o más","No hay grupo",26491
+"289","1","71","El Chal","Población de 7 años o más","No hay grupo",11443
+"290","1","80","Puerto Barrios","Población de 7 años o más","No hay grupo",88034
+"291","1","80","Livingston","Población de 7 años o más","No hay grupo",60101
+"292","1","80","El Estor","Población de 7 años o más","No hay grupo",57875
+"293","1","80","Morales","Población de 7 años o más","No hay grupo",85458
+"294","1","80","Los Amates","Población de 7 años o más","No hay grupo",51146
+"295","1","90","Zacapa","Población de 7 años o más","No hay grupo",52315
+"296","1","90","Estanzuela","Población de 7 años o más","No hay grupo",8679
+"297","1","90","Río Hondo","Población de 7 años o más","No hay grupo",18647
+"298","1","90","Gualán","Población de 7 años o más","No hay grupo",38900
+"299","1","90","Teculután","Población de 7 años o más","No hay grupo",15264
+"300","1","90","Usumatlán","Población de 7 años o más","No hay grupo",10375
+"301","1","90","Cabañas","Población de 7 años o más","No hay grupo",11566
+"302","1","90","San Diego","Población de 7 años o más","No hay grupo",6210
+"303","1","90","La Unión","Población de 7 años o más","No hay grupo",27064
+"304","1","91","Huité","Población de 7 años o más","No hay grupo",9546
+"305","1","91","San Jorge","Población de 7 años o más","No hay grupo",10626
+"306","2","00","Chiquimula","Población de 7 años o más","No hay grupo",94267
+"307","2","00","San José la Arada","Población de 7 años o más","No hay grupo",7538
+"308","2","00","San Juan Ermita","Población de 7 años o más","No hay grupo",13703
+"309","2","00","Jocotán","Población de 7 años o más","No hay grupo",52224
+"310","2","00","Camotán","Población de 7 años o más","No hay grupo",44574
+"311","2","00","Olopa","Población de 7 años o más","No hay grupo",21810
+"312","2","00","Esquipulas","Población de 7 años o más","No hay grupo",45098
+"313","2","00","Concepción las Minas","Población de 7 años o más","No hay grupo",10260
+"314","2","00","Quezaltepeque","Población de 7 años o más","No hay grupo",24071
+"315","2","01","San Jacinto","Población de 7 años o más","No hay grupo",10780
+"316","2","01","Ipala","Población de 7 años o más","No hay grupo",19509
+"317","2","10","Jalapa","Población de 7 años o más","No hay grupo",130920
+"318","2","10","San Pedro Pinula","Población de 7 años o más","No hay grupo",50234
+"319","2","10","San Luis Jilotepeque","Población de 7 años o más","No hay grupo",21370
+"320","2","10","San Manuel Chaparrón","Población de 7 años o más","No hay grupo",7210
+"321","2","10","San Carlos Alzatate","Población de 7 años o más","No hay grupo",15344
+"322","2","10","Monjas","Población de 7 años o más","No hay grupo",23363
+"323","2","10","Mataquescuintla","Población de 7 años o más","No hay grupo",35037
+"324","2","20","Jutiapa","Población de 7 años o más","No hay grupo",123277
+"325","2","20","El Progreso","Población de 7 años o más","No hay grupo",19244
+"326","2","20","Santa Catarina Mita","Población de 7 años o más","No hay grupo",24867
+"327","2","20","Agua Blanca","Población de 7 años o más","No hay grupo",14356
+"328","2","20","Asunción Mita","Población de 7 años o más","No hay grupo",42018
+"329","2","20","Yupiltepeque","Población de 7 años o más","No hay grupo",14956
+"330","2","20","Atescatempa","Población de 7 años o más","No hay grupo",16106
+"331","2","20","Jerez","Población de 7 años o más","No hay grupo",5568
+"332","2","20","El Adelanto","Población de 7 años o más","No hay grupo",5556
+"333","2","21","Zapotitlán","Población de 7 años o más","No hay grupo",7827
+"334","2","21","Comapa","Población de 7 años o más","No hay grupo",26734
+"335","2","21","Jalpatagua","Población de 7 años o más","No hay grupo",24603
+"336","2","21","Conguaco","Población de 7 años o más","No hay grupo",18830
+"337","2","21","Moyuta","Población de 7 años o más","No hay grupo",33323
+"338","2","21","Pasaco","Población de 7 años o más","No hay grupo",7496
+"339","2","21","San José Acatempa","Población de 7 años o más","No hay grupo",11548
+"340","2","21","Quesada","Población de 7 años o más","No hay grupo",19418
+"341","1","01","Guatemala","Población Económicamente Activa","No hay grupo",438993
+"342","1","02","Santa Catarina Pinula","Población Económicamente Activa","No hay grupo",37411
+"343","1","03","San José Pinula","Población Económicamente Activa","No hay grupo",34826
+"344","1","04","San José del Golfo","Población Económicamente Activa","No hay grupo",2569
+"345","1","05","Palencia","Población Económicamente Activa","No hay grupo",26243
+"346","1","06","Chinautla","Población Económicamente Activa","No hay grupo",48439
+"347","1","07","San Pedro Ayampuc","Población Económicamente Activa","No hay grupo",22786
+"348","1","08","Mixco","Población Económicamente Activa","No hay grupo",220550
+"349","1","09","San Pedro Sacatepéquez","Población Económicamente Activa","No hay grupo",23490
+"350","1","10","San Juan Sacatepéquez","Población Económicamente Activa","No hay grupo",84320
+"351","1","11","San Raymundo","Población Económicamente Activa","No hay grupo",11950
+"352","1","12","Chuarrancho","Población Económicamente Activa","No hay grupo",3879
+"353","1","13","Fraijanes","Población Económicamente Activa","No hay grupo",28266
+"354","1","14","Amatitlán","Población Económicamente Activa","No hay grupo",47384
+"355","1","15","Villa Nueva","Población Económicamente Activa","No hay grupo",188962
+"356","1","16","Villa Canales","Población Económicamente Activa","No hay grupo",63276
+"357","1","17","San Miguel Petapa","Población Económicamente Activa","No hay grupo",60995
+"358","2","01","Guastatoya","Población Económicamente Activa","No hay grupo",10106
+"359","2","02","Morazán","Población Económicamente Activa","No hay grupo",4178
+"360","2","03","San Agustín Acasaguastlán","Población Económicamente Activa","No hay grupo",14335
+"361","2","04","San Cristóbal Acasaguastlán","Población Económicamente Activa","No hay grupo",2176
+"362","2","05","El Jícaro","Población Económicamente Activa","No hay grupo",4435
+"363","2","06","Sansare","Población Económicamente Activa","No hay grupo",4213
+"364","2","07","Sanarate","Población Económicamente Activa","No hay grupo",15213
+"365","2","08","San Antonio la Paz","Población Económicamente Activa","No hay grupo",7436
+"366","3","01","Antigua Guatemala","Población Económicamente Activa","No hay grupo",21222
+"367","3","02","Jocotenango","Población Económicamente Activa","No hay grupo",10292
+"368","3","03","Pastores","Población Económicamente Activa","No hay grupo",7055
+"369","3","04","Sumpango","Población Económicamente Activa","No hay grupo",14885
+"370","3","05","Santo Domingo Xenacoj","Población Económicamente Activa","No hay grupo",5701
+"371","3","06","Santiago Sacatepéquez","Población Económicamente Activa","No hay grupo",13469
+"372","3","07","San Bartolomé Milpas Altas","Población Económicamente Activa","No hay grupo",3513
+"373","3","08","San Lucas Sacatepéquez","Población Económicamente Activa","No hay grupo",10680
+"374","3","09","Santa Lucía Milpas Altas","Población Económicamente Activa","No hay grupo",7095
+"375","3","10","Magdalena Milpas Altas","Población Económicamente Activa","No hay grupo",4691
+"376","3","11","Santa María de Jesús","Población Económicamente Activa","No hay grupo",8735
+"377","3","12","Ciudad Vieja","Población Económicamente Activa","No hay grupo",14540
+"378","3","13","San Miguel Dueñas","Población Económicamente Activa","No hay grupo",5379
+"379","3","14","San Juan Alotenango","Población Económicamente Activa","No hay grupo",9012
+"380","3","15","San Antonio Aguas Calientes","Población Económicamente Activa","No hay grupo",5506
+"381","3","16","Santa Catarina Barahona","Población Económicamente Activa","No hay grupo",2133
+"382","4","01","Chimaltenango","Población Económicamente Activa","No hay grupo",39694
+"383","4","02","San José Poaquil","Población Económicamente Activa","No hay grupo",9798
+"384","4","03","San Martín Jilotepeque","Población Económicamente Activa","No hay grupo",17175
+"385","4","04","San Juan Comalapa","Población Económicamente Activa","No hay grupo",22117
+"386","4","05","Santa Apolonia","Población Económicamente Activa","No hay grupo",5865
+"387","4","06","Tecpán Guatemala","Población Económicamente Activa","No hay grupo",30466
+"388","4","07","Patzún","Población Económicamente Activa","No hay grupo",22949
+"389","4","08","San Miguel Pochuta","Población Económicamente Activa","No hay grupo",2664
+"390","4","09","Patzicía","Población Económicamente Activa","No hay grupo",13296
+"391","4","10","Santa Cruz Balanyá","Población Económicamente Activa","No hay grupo",4185
+"392","4","11","Acatenango","Población Económicamente Activa","No hay grupo",6853
+"393","4","12","San Pedro Yepocapa","Población Económicamente Activa","No hay grupo",10972
+"394","4","13","San Andrés Itzapa","Población Económicamente Activa","No hay grupo",12120
+"395","4","14","Parramos","Población Económicamente Activa","No hay grupo",5600
+"396","4","15","Zaragoza","Población Económicamente Activa","No hay grupo",9157
+"397","4","16","El Tejar","Población Económicamente Activa","No hay grupo",7974
+"398","5","01","Escuintla","Población Económicamente Activa","No hay grupo",60312
+"399","5","02","Santa Lucía Cotzumalguapa","Población Económicamente Activa","No hay grupo",33995
+"400","5","03","La Democracia","Población Económicamente Activa","No hay grupo",6709
+"401","5","04","Siquinalá","Población Económicamente Activa","No hay grupo",7384
+"402","5","05","Masagua","Población Económicamente Activa","No hay grupo",11485
+"403","5","06","Tiquisate","Población Económicamente Activa","No hay grupo",20837
+"404","5","07","La Gomera","Población Económicamente Activa","No hay grupo",14247
+"405","5","08","Guanagazapa","Población Económicamente Activa","No hay grupo",3381
+"406","5","09","San José","Población Económicamente Activa","No hay grupo",22775
+"407","5","10","Iztapa","Población Económicamente Activa","No hay grupo",5334
+"408","5","11","Palín","Población Económicamente Activa","No hay grupo",25967
+"409","5","12","San Vicente Pacaya","Población Económicamente Activa","No hay grupo",5851
+"410","5","13","Nueva Concepción","Población Económicamente Activa","No hay grupo",24030
+"411","5","14","Sipacate","Población Económicamente Activa","No hay grupo",5444
+"412","6","01","Cuilapa","Población Económicamente Activa","No hay grupo",15013
+"413","6","02","Barberena","Población Económicamente Activa","No hay grupo",21696
+"414","6","03","Santa Rosa de Lima","Población Económicamente Activa","No hay grupo",6545
+"415","6","04","Casillas","Población Económicamente Activa","No hay grupo",7604
+"416","6","05","San Rafael las Flores","Población Económicamente Activa","No hay grupo",3808
+"417","6","06","Oratorio","Población Económicamente Activa","No hay grupo",8167
+"418","6","07","San Juan Tecuaco","Población Económicamente Activa","No hay grupo",3181
+"419","6","08","Chiquimulilla","Población Económicamente Activa","No hay grupo",17819
+"420","6","09","Taxisco","Población Económicamente Activa","No hay grupo",9703
+"421","6","10","Santa María Ixhuatán","Población Económicamente Activa","No hay grupo",8102
+"422","6","11","Guazacapán","Población Económicamente Activa","No hay grupo",6801
+"423","6","12","Santa Cruz Naranjo","Población Económicamente Activa","No hay grupo",5985
+"424","6","13","Pueblo Nuevo Viñas","Población Económicamente Activa","No hay grupo",8896
+"425","6","14","Nueva Santa Rosa","Población Económicamente Activa","No hay grupo",12458
+"426","7","01","Sololá","Población Económicamente Activa","No hay grupo",33224
+"427","7","02","San José Chacayá","Población Económicamente Activa","No hay grupo",1419
+"428","7","03","Santa María Visitación","Población Económicamente Activa","No hay grupo",770
+"429","7","04","Santa Lucía Utatlán","Población Económicamente Activa","No hay grupo",6865
+"430","7","05","Nahualá","Población Económicamente Activa","No hay grupo",20685
+"431","7","06","Santa Catarina Ixtahuacán","Población Económicamente Activa","No hay grupo",12886
+"432","7","07","Santa Clara la Laguna","Población Económicamente Activa","No hay grupo",3331
+"433","7","08","Concepción","Población Económicamente Activa","No hay grupo",2209
+"434","7","09","San Andrés Semetabaj","Población Económicamente Activa","No hay grupo",4954
+"435","7","10","Panajachel","Población Económicamente Activa","No hay grupo",6935
+"436","7","11","Santa Catarina Palopó","Población Económicamente Activa","No hay grupo",1316
+"437","7","12","San Antonio Palopó","Población Económicamente Activa","No hay grupo",3991
+"438","7","13","San Lucas Tolimán","Población Económicamente Activa","No hay grupo",10613
+"439","7","14","Santa Cruz la Laguna","Población Económicamente Activa","No hay grupo",1698
+"440","7","15","San Pablo la Laguna","Población Económicamente Activa","No hay grupo",2602
+"441","7","16","San Marcos la Laguna","Población Económicamente Activa","No hay grupo",1134
+"442","7","17","San Juan la Laguna","Población Económicamente Activa","No hay grupo",5169
+"443","7","18","San Pedro la Laguna","Población Económicamente Activa","No hay grupo",4363
+"444","7","19","Santiago Atitlán","Población Económicamente Activa","No hay grupo",20581
+"445","8","01","Totonicapán","Población Económicamente Activa","No hay grupo",41863
+"446","8","02","San Cristóbal Totonicapán","Población Económicamente Activa","No hay grupo",13112
+"447","8","03","San Francisco el Alto","Población Económicamente Activa","No hay grupo",19043
+"448","8","04","San Andrés Xecul","Población Económicamente Activa","No hay grupo",9020
+"449","8","05","Momostenango","Población Económicamente Activa","No hay grupo",32144
+"450","8","06","Santa María Chiquimula","Población Económicamente Activa","No hay grupo",19026
+"451","8","07","Santa Lucía la Reforma","Población Económicamente Activa","No hay grupo",5896
+"452","8","08","San Bartolo Aguas Calientes","Población Económicamente Activa","No hay grupo",2958
+"453","9","01","Quetzaltenango","Población Económicamente Activa","No hay grupo",79458
+"454","9","02","Salcajá","Población Económicamente Activa","No hay grupo",8296
+"455","9","03","San Juan Olintepeque","Población Económicamente Activa","No hay grupo",13657
+"456","9","04","San Carlos Sija","Población Económicamente Activa","No hay grupo",6733
+"457","9","05","Sibilia","Población Económicamente Activa","No hay grupo",2255
+"458","9","06","Cabricán","Población Económicamente Activa","No hay grupo",3090
+"459","9","07","Cajolá","Población Económicamente Activa","No hay grupo",2849
+"460","9","08","San Miguel Siguilá","Población Económicamente Activa","No hay grupo",2019
+"461","9","09","San Juan Ostuncalco","Población Económicamente Activa","No hay grupo",15932
+"462","9","10","San Mateo","Población Económicamente Activa","No hay grupo",3139
+"463","9","11","Concepción Chiquirichapa","Población Económicamente Activa","No hay grupo",5440
+"464","9","12","San Martín Sacatepéquez","Población Económicamente Activa","No hay grupo",9925
+"465","9","13","Almolonga","Población Económicamente Activa","No hay grupo",5762
+"466","9","14","Cantel","Población Económicamente Activa","No hay grupo",18871
+"467","9","15","Huitán","Población Económicamente Activa","No hay grupo",2634
+"468","9","16","Zunil","Población Económicamente Activa","No hay grupo",6090
+"469","9","17","Colomba Costa Cuca","Población Económicamente Activa","No hay grupo",14945
+"470","9","18","San Francisco la Unión","Población Económicamente Activa","No hay grupo",1928
+"471","9","19","El Palmar","Población Económicamente Activa","No hay grupo",8801
+"472","9","20","Coatepeque","Población Económicamente Activa","No hay grupo",36094
+"473","9","21","Génova","Población Económicamente Activa","No hay grupo",9183
+"474","9","22","Flores Costa Cuca","Población Económicamente Activa","No hay grupo",6615
+"475","9","23","La Esperanza","Población Económicamente Activa","No hay grupo",8760
+"476","9","24","Palestina de los Altos","Población Económicamente Activa","No hay grupo",3425
+"477","1","00","Mazatenango","Población Económicamente Activa","No hay grupo",29804
+"478","1","00","Cuyotenango","Población Económicamente Activa","No hay grupo",11620
+"479","1","00","San Francisco Zapotitlán","Población Económicamente Activa","No hay grupo",8512
+"480","1","00","San Bernardino","Población Económicamente Activa","No hay grupo",5026
+"481","1","00","San José el Ídolo","Población Económicamente Activa","No hay grupo",2650
+"482","1","00","Santo Domingo Suchitepéquez","Población Económicamente Activa","No hay grupo",11426
+"483","1","00","San Lorenzo","Población Económicamente Activa","No hay grupo",4086
+"484","1","00","Samayac","Población Económicamente Activa","No hay grupo",9654
+"485","1","00","San Pablo Jocopilas","Población Económicamente Activa","No hay grupo",7220
+"486","1","01","San Antonio Suchitepéquez","Población Económicamente Activa","No hay grupo",18002
+"487","1","01","San Miguel Panán","Población Económicamente Activa","No hay grupo",2661
+"488","1","01","San Gabriel","Población Económicamente Activa","No hay grupo",3019
+"489","1","01","Chicacao","Población Económicamente Activa","No hay grupo",17871
+"490","1","01","Patulul","Población Económicamente Activa","No hay grupo",13704
+"491","1","01","Santa Bárbara","Población Económicamente Activa","No hay grupo",7676
+"492","1","01","San Juan Bautista","Población Económicamente Activa","No hay grupo",2215
+"493","1","01","Santo Tomas la Unión","Población Económicamente Activa","No hay grupo",4121
+"494","1","01","Zunilito","Población Económicamente Activa","No hay grupo",2958
+"495","1","01","Pueblo Nuevo","Población Económicamente Activa","No hay grupo",3921
+"496","1","02","Río Bravo","Población Económicamente Activa","No hay grupo",7847
+"497","1","02","San José La Máquina","Población Económicamente Activa","No hay grupo",6658
+"498","1","10","Retalhuleu","Población Económicamente Activa","No hay grupo",30824
+"499","1","10","San Sebastián","Población Económicamente Activa","No hay grupo",10956
+"500","1","10","Santa Cruz Muluá","Población Económicamente Activa","No hay grupo",4366
+"501","1","10","San Martín Zapotitlán","Población Económicamente Activa","No hay grupo",3993
+"502","1","10","San Felipe","Población Económicamente Activa","No hay grupo",9029
+"503","1","10","San Andrés Villa Seca","Población Económicamente Activa","No hay grupo",12278
+"504","1","10","Champerico","Población Económicamente Activa","No hay grupo",8749
+"505","1","10","Nuevo San Carlos","Población Económicamente Activa","No hay grupo",12355
+"506","1","10","El Asintal","Población Económicamente Activa","No hay grupo",10568
+"507","1","20","San Marcos","Población Económicamente Activa","No hay grupo",15979
+"508","1","20","San Pedro Sacatepéquez","Población Económicamente Activa","No hay grupo",28530
+"509","1","20","San Antonio Sacatepéquez","Población Económicamente Activa","No hay grupo",5289
+"510","1","20","Comitancillo","Población Económicamente Activa","No hay grupo",12260
+"511","1","20","San Miguel Ixtahuacán","Población Económicamente Activa","No hay grupo",5791
+"512","1","20","Concepción Tutuapa","Población Económicamente Activa","No hay grupo",6365
+"513","1","20","Tacaná","Población Económicamente Activa","No hay grupo",9659
+"514","1","20","Sibinal","Población Económicamente Activa","No hay grupo",3606
+"515","1","20","Tajumulco","Población Económicamente Activa","No hay grupo",9379
+"516","1","21","Tejutla","Población Económicamente Activa","No hay grupo",9887
+"517","1","21","San Rafael Pie de la Cuesta","Población Económicamente Activa","No hay grupo",5499
+"518","1","21","Nuevo Progreso","Población Económicamente Activa","No hay grupo",8537
+"519","1","21","El Tumbador","Población Económicamente Activa","No hay grupo",13457
+"520","1","21","San José el Rodeo","Población Económicamente Activa","No hay grupo",5356
+"521","1","21","Malacatán","Población Económicamente Activa","No hay grupo",25679
+"522","1","21","Catarina","Población Económicamente Activa","No hay grupo",8599
+"523","1","21","Ayutla","Población Económicamente Activa","No hay grupo",12546
+"524","1","21","Ocós","Población Económicamente Activa","No hay grupo",3557
+"525","1","21","San Pablo","Población Económicamente Activa","No hay grupo",13821
+"526","1","22","El Quetzal","Población Económicamente Activa","No hay grupo",6281
+"527","1","22","La Reforma","Población Económicamente Activa","No hay grupo",4471
+"528","1","22","Pajapita","Población Económicamente Activa","No hay grupo",6805
+"529","1","22","Ixchiguán","Población Económicamente Activa","No hay grupo",4968
+"530","1","22","San José Ojetenam","Población Económicamente Activa","No hay grupo",4091
+"531","1","22","San Cristóbal Cucho","Población Económicamente Activa","No hay grupo",4189
+"532","1","22","Sipacapa","Población Económicamente Activa","No hay grupo",4275
+"533","1","22","Esquipulas Palo Gordo","Población Económicamente Activa","No hay grupo",3691
+"534","1","22","Río Blanco","Población Económicamente Activa","No hay grupo",858
+"535","1","22","San Lorenzo","Población Económicamente Activa","No hay grupo",2745
+"536","1","23","La Blanca","Población Económicamente Activa","No hay grupo",9339
+"537","1","30","Huehuetenango","Población Económicamente Activa","No hay grupo",46820
+"538","1","30","Chiantla","Población Económicamente Activa","No hay grupo",25826
+"539","1","30","Malacatancito","Población Económicamente Activa","No hay grupo",5470
+"540","1","30","Cuilco","Población Económicamente Activa","No hay grupo",14191
+"541","1","30","Nentón","Población Económicamente Activa","No hay grupo",12775
+"542","1","30","San Pedro Necta","Población Económicamente Activa","No hay grupo",10525
+"543","1","30","Jacaltenango","Población Económicamente Activa","No hay grupo",12894
+"544","1","30","San Pedro Soloma","Población Económicamente Activa","No hay grupo",10292
+"545","1","30","San Ildefonso Ixtahuacán","Población Económicamente Activa","No hay grupo",14486
+"546","1","31","Santa Bárbara","Población Económicamente Activa","No hay grupo",8416
+"547","1","31","La Libertad","Población Económicamente Activa","No hay grupo",10131
+"548","1","31","La Democracia","Población Económicamente Activa","No hay grupo",16273
+"549","1","31","San Miguel Acatán","Población Económicamente Activa","No hay grupo",4649
+"550","1","31","San Rafael La Independencia","Población Económicamente Activa","No hay grupo",2823
+"551","1","31","Todos Santos Cuchumatán","Población Económicamente Activa","No hay grupo",6899
+"552","1","31","San Juan Atitán","Población Económicamente Activa","No hay grupo",5208
+"553","1","31","Santa Eulalia","Población Económicamente Activa","No hay grupo",10173
+"554","1","31","San Mateo Ixtatán","Población Económicamente Activa","No hay grupo",10132
+"555","1","31","Colotenango","Población Económicamente Activa","No hay grupo",6600
+"556","1","32","San Sebastián Huehuetenango","Población Económicamente Activa","No hay grupo",9103
+"557","1","32","Tectitán","Población Económicamente Activa","No hay grupo",1821
+"558","1","32","Concepción Huista","Población Económicamente Activa","No hay grupo",5260
+"559","1","32","San Juan Ixcoy","Población Económicamente Activa","No hay grupo",3360
+"560","1","32","San Antonio Huista","Población Económicamente Activa","No hay grupo",5449
+"561","1","32","San Sebastián Coatán","Población Económicamente Activa","No hay grupo",2393
+"562","1","32","Santa Cruz Barillas","Población Económicamente Activa","No hay grupo",27153
+"563","1","32","Aguacatán","Población Económicamente Activa","No hay grupo",15762
+"564","1","32","San Rafael Petzal","Población Económicamente Activa","No hay grupo",2416
+"565","1","32","San Gaspar Ixchil","Población Económicamente Activa","No hay grupo",2824
+"566","1","33","Santiago Chimaltenango","Población Económicamente Activa","No hay grupo",3236
+"567","1","33","Santa Ana Huista","Población Económicamente Activa","No hay grupo",3252
+"568","1","33","Unión Cantinil","Población Económicamente Activa","No hay grupo",4455
+"569","1","33","Petatán","Población Económicamente Activa","No hay grupo",2041
+"570","1","40","Santa Cruz del Quiché","Población Económicamente Activa","No hay grupo",25992
+"571","1","40","Chiché","Población Económicamente Activa","No hay grupo",9109
+"572","1","40","Chinique","Población Económicamente Activa","No hay grupo",3543
+"573","1","40","Zacualpa","Población Económicamente Activa","No hay grupo",9594
+"574","1","40","Chajul","Población Económicamente Activa","No hay grupo",12360
+"575","1","40","Santo Tomás Chichicastenango","Población Económicamente Activa","No hay grupo",50590
+"576","1","40","Patzité","Población Económicamente Activa","No hay grupo",1760
+"577","1","40","San Antonio Ilotenango","Población Económicamente Activa","No hay grupo",8532
+"578","1","40","San Pedro Jocopilas","Población Económicamente Activa","No hay grupo",8423
+"579","1","41","Cunén","Población Económicamente Activa","No hay grupo",10181
+"580","1","41","San Juan Cotzal","Población Económicamente Activa","No hay grupo",8127
+"581","1","41","Joyabaj","Población Económicamente Activa","No hay grupo",17798
+"582","1","41","Santa María Nebaj","Población Económicamente Activa","No hay grupo",22672
+"583","1","41","San Andrés Sajcabajá","Población Económicamente Activa","No hay grupo",4456
+"584","1","41","San Miguel Uspantán","Población Económicamente Activa","No hay grupo",16550
+"585","1","41","Sacapulas","Población Económicamente Activa","No hay grupo",18510
+"586","1","41","San Bartolomé Jocotenango","Población Económicamente Activa","No hay grupo",3186
+"587","1","41","Canillá","Población Económicamente Activa","No hay grupo",2776
+"588","1","41","Chicamán","Población Económicamente Activa","No hay grupo",6919
+"589","1","42","Playa Grande Ixcán","Población Económicamente Activa","No hay grupo",30823
+"590","1","42","Pachalum","Población Económicamente Activa","No hay grupo",2732
+"591","1","50","Salamá","Población Económicamente Activa","No hay grupo",24420
+"592","1","50","San Miguel Chicaj","Población Económicamente Activa","No hay grupo",11509
+"593","1","50","Rabinal","Población Económicamente Activa","No hay grupo",14490
+"594","1","50","Cubulco","Población Económicamente Activa","No hay grupo",16871
+"595","1","50","Granados","Población Económicamente Activa","No hay grupo",4667
+"596","1","50","Santa Cruz El Chol","Población Económicamente Activa","No hay grupo",3199
+"597","1","50","San Jerónimo","Población Económicamente Activa","No hay grupo",9610
+"598","1","50","Purulhá","Población Económicamente Activa","No hay grupo",15585
+"599","1","60","Cobán","Población Económicamente Activa","No hay grupo",73174
+"600","1","60","Santa Cruz Verapaz","Población Económicamente Activa","No hay grupo",10542
+"601","1","60","San Cristóbal Verapaz","Población Económicamente Activa","No hay grupo",20981
+"602","1","60","Tactic","Población Económicamente Activa","No hay grupo",14507
+"603","1","60","Tamahú","Población Económicamente Activa","No hay grupo",6919
+"604","1","60","San Miguel Tucurú","Población Económicamente Activa","No hay grupo",4312
+"605","1","60","Panzós","Población Económicamente Activa","No hay grupo",18774
+"606","1","60","Senahú","Población Económicamente Activa","No hay grupo",23804
+"607","1","60","San Pedro Carchá","Población Económicamente Activa","No hay grupo",75142
+"608","1","61","San Juan Chamelco","Población Económicamente Activa","No hay grupo",20950
+"609","1","61","San Agustín Lanquín","Población Económicamente Activa","No hay grupo",6308
+"610","1","61","Santa María Cahabón","Población Económicamente Activa","No hay grupo",17150
+"611","1","61","Chisec","Población Económicamente Activa","No hay grupo",24999
+"612","1","61","Chahal","Población Económicamente Activa","No hay grupo",5893
+"613","1","61","Fray Bartolomé de las Casas","Población Económicamente Activa","No hay grupo",19343
+"614","1","61","Santa Catalina La Tinta","Población Económicamente Activa","No hay grupo",10051
+"615","1","61","Raxruhá","Población Económicamente Activa","No hay grupo",11485
+"616","1","70","Flores","Población Económicamente Activa","No hay grupo",14888
+"617","1","70","San José","Población Económicamente Activa","No hay grupo",2324
+"618","1","70","San Benito","Población Económicamente Activa","No hay grupo",16820
+"619","1","70","San Andrés","Población Económicamente Activa","No hay grupo",10402
+"620","1","70","La Libertad","Población Económicamente Activa","No hay grupo",22360
+"621","1","70","San Francisco","Población Económicamente Activa","No hay grupo",4360
+"622","1","70","Santa Ana","Población Económicamente Activa","No hay grupo",6669
+"623","1","70","Dolores","Población Económicamente Activa","No hay grupo",8029
+"624","1","70","San Luis","Población Económicamente Activa","No hay grupo",19674
+"625","1","71","Sayaxché","Población Económicamente Activa","No hay grupo",22423
+"626","1","71","Melchor de Mencos","Población Económicamente Activa","No hay grupo",9956
+"627","1","71","Poptún","Población Económicamente Activa","No hay grupo",17760
+"628","1","71","Las Cruces","Población Económicamente Activa","No hay grupo",10446
+"629","1","71","El Chal","Población Económicamente Activa","No hay grupo",4217
+"630","1","80","Puerto Barrios","Población Económicamente Activa","No hay grupo",40881
+"631","1","80","Livingston","Población Económicamente Activa","No hay grupo",21910
+"632","1","80","El Estor","Población Económicamente Activa","No hay grupo",20562
+"633","1","80","Morales","Población Económicamente Activa","No hay grupo",36488
+"634","1","80","Los Amates","Población Económicamente Activa","No hay grupo",19339
+"635","1","90","Zacapa","Población Económicamente Activa","No hay grupo",24810
+"636","1","90","Estanzuela","Población Económicamente Activa","No hay grupo",3407
+"637","1","90","Río Hondo","Población Económicamente Activa","No hay grupo",8003
+"638","1","90","Gualán","Población Económicamente Activa","No hay grupo",15901
+"639","1","90","Teculután","Población Económicamente Activa","No hay grupo",6675
+"640","1","90","Usumatlán","Población Económicamente Activa","No hay grupo",4288
+"641","1","90","Cabañas","Población Económicamente Activa","No hay grupo",4277
+"642","1","90","San Diego","Población Económicamente Activa","No hay grupo",2278
+"643","1","90","La Unión","Población Económicamente Activa","No hay grupo",8024
+"644","1","91","Huité","Población Económicamente Activa","No hay grupo",3518
+"645","1","91","San Jorge","Población Económicamente Activa","No hay grupo",3342
+"646","2","00","Chiquimula","Población Económicamente Activa","No hay grupo",38285
+"647","2","00","San José la Arada","Población Económicamente Activa","No hay grupo",2778
+"648","2","00","San Juan Ermita","Población Económicamente Activa","No hay grupo",4551
+"649","2","00","Jocotán","Población Económicamente Activa","No hay grupo",13165
+"650","2","00","Camotán","Población Económicamente Activa","No hay grupo",9168
+"651","2","00","Olopa","Población Económicamente Activa","No hay grupo",7097
+"652","2","00","Esquipulas","Población Económicamente Activa","No hay grupo",19213
+"653","2","00","Concepción las Minas","Población Económicamente Activa","No hay grupo",3477
+"654","2","00","Quezaltepeque","Población Económicamente Activa","No hay grupo",9242
+"655","2","01","San Jacinto","Población Económicamente Activa","No hay grupo",3516
+"656","2","01","Ipala","Población Económicamente Activa","No hay grupo",7816
+"657","2","10","Jalapa","Población Económicamente Activa","No hay grupo",55595
+"658","2","10","San Pedro Pinula","Población Económicamente Activa","No hay grupo",18542
+"659","2","10","San Luis Jilotepeque","Población Económicamente Activa","No hay grupo",9366
+"660","2","10","San Manuel Chaparrón","Población Económicamente Activa","No hay grupo",2838
+"661","2","10","San Carlos Alzatate","Población Económicamente Activa","No hay grupo",5823
+"662","2","10","Monjas","Población Económicamente Activa","No hay grupo",9805
+"663","2","10","Mataquescuintla","Población Económicamente Activa","No hay grupo",14877
+"664","2","20","Jutiapa","Población Económicamente Activa","No hay grupo",46564
+"665","2","20","El Progreso","Población Económicamente Activa","No hay grupo",8494
+"666","2","20","Santa Catarina Mita","Población Económicamente Activa","No hay grupo",10381
+"667","2","20","Agua Blanca","Población Económicamente Activa","No hay grupo",5345
+"668","2","20","Asunción Mita","Población Económicamente Activa","No hay grupo",17975
+"669","2","20","Yupiltepeque","Población Económicamente Activa","No hay grupo",5929
+"670","2","20","Atescatempa","Población Económicamente Activa","No hay grupo",6781
+"671","2","20","Jerez","Población Económicamente Activa","No hay grupo",2425
+"672","2","20","El Adelanto","Población Económicamente Activa","No hay grupo",1871
+"673","2","21","Zapotitlán","Población Económicamente Activa","No hay grupo",2951
+"674","2","21","Comapa","Población Económicamente Activa","No hay grupo",9815
+"675","2","21","Jalpatagua","Población Económicamente Activa","No hay grupo",9072
+"676","2","21","Conguaco","Población Económicamente Activa","No hay grupo",6511
+"677","2","21","Moyuta","Población Económicamente Activa","No hay grupo",12173
+"678","2","21","Pasaco","Población Económicamente Activa","No hay grupo",2758
+"679","2","21","San José Acatempa","Población Económicamente Activa","No hay grupo",3987
+"680","2","21","Quesada","Población Económicamente Activa","No hay grupo",7628
+"681","1","01","Guatemala","Población ocupada","No hay grupo",423574
+"682","1","02","Santa Catarina Pinula","Población ocupada","No hay grupo",36193
+"683","1","03","San José Pinula","Población ocupada","No hay grupo",33820
+"684","1","04","San José del Golfo","Población ocupada","No hay grupo",2478
+"685","1","05","Palencia","Población ocupada","No hay grupo",25636
+"686","1","06","Chinautla","Población ocupada","No hay grupo",46674
+"687","1","07","San Pedro Ayampuc","Población ocupada","No hay grupo",22090
+"688","1","08","Mixco","Población ocupada","No hay grupo",213518
+"689","1","09","San Pedro Sacatepéquez","Población ocupada","No hay grupo",23096
+"690","1","10","San Juan Sacatepéquez","Población ocupada","No hay grupo",82166
+"691","1","11","San Raymundo","Población ocupada","No hay grupo",11693
+"692","1","12","Chuarrancho","Población ocupada","No hay grupo",3836
+"693","1","13","Fraijanes","Población ocupada","No hay grupo",27619
+"694","1","14","Amatitlán","Población ocupada","No hay grupo",45399
+"695","1","15","Villa Nueva","Población ocupada","No hay grupo",181059
+"696","1","16","Villa Canales","Población ocupada","No hay grupo",60989
+"697","1","17","San Miguel Petapa","Población ocupada","No hay grupo",58780
+"698","2","01","Guastatoya","Población ocupada","No hay grupo",9857
+"699","2","02","Morazán","Población ocupada","No hay grupo",4019
+"700","2","03","San Agustín Acasaguastlán","Población ocupada","No hay grupo",13628
+"701","2","04","San Cristóbal Acasaguastlán","Población ocupada","No hay grupo",2094
+"702","2","05","El Jícaro","Población ocupada","No hay grupo",4207
+"703","2","06","Sansare","Población ocupada","No hay grupo",4120
+"704","2","07","Sanarate","Población ocupada","No hay grupo",14791
+"705","2","08","San Antonio la Paz","Población ocupada","No hay grupo",7196
+"706","3","01","Antigua Guatemala","Población ocupada","No hay grupo",20544
+"707","3","02","Jocotenango","Población ocupada","No hay grupo",9847
+"708","3","03","Pastores","Población ocupada","No hay grupo",6789
+"709","3","04","Sumpango","Población ocupada","No hay grupo",14673
+"710","3","05","Santo Domingo Xenacoj","Población ocupada","No hay grupo",5615
+"711","3","06","Santiago Sacatepéquez","Población ocupada","No hay grupo",13302
+"712","3","07","San Bartolomé Milpas Altas","Población ocupada","No hay grupo",3453
+"713","3","08","San Lucas Sacatepéquez","Población ocupada","No hay grupo",10452
+"714","3","09","Santa Lucía Milpas Altas","Población ocupada","No hay grupo",6956
+"715","3","10","Magdalena Milpas Altas","Población ocupada","No hay grupo",4630
+"716","3","11","Santa María de Jesús","Población ocupada","No hay grupo",8682
+"717","3","12","Ciudad Vieja","Población ocupada","No hay grupo",14205
+"718","3","13","San Miguel Dueñas","Población ocupada","No hay grupo",5201
+"719","3","14","San Juan Alotenango","Población ocupada","No hay grupo",8683
+"720","3","15","San Antonio Aguas Calientes","Población ocupada","No hay grupo",5455
+"721","3","16","Santa Catarina Barahona","Población ocupada","No hay grupo",2111
+"722","4","01","Chimaltenango","Población ocupada","No hay grupo",38420
+"723","4","02","San José Poaquil","Población ocupada","No hay grupo",9758
+"724","4","03","San Martín Jilotepeque","Población ocupada","No hay grupo",16936
+"725","4","04","San Juan Comalapa","Población ocupada","No hay grupo",22044
+"726","4","05","Santa Apolonia","Población ocupada","No hay grupo",5784
+"727","4","06","Tecpán Guatemala","Población ocupada","No hay grupo",30246
+"728","4","07","Patzún","Población ocupada","No hay grupo",22671
+"729","4","08","San Miguel Pochuta","Población ocupada","No hay grupo",2577
+"730","4","09","Patzicía","Población ocupada","No hay grupo",13235
+"731","4","10","Santa Cruz Balanyá","Población ocupada","No hay grupo",4180
+"732","4","11","Acatenango","Población ocupada","No hay grupo",6732
+"733","4","12","San Pedro Yepocapa","Población ocupada","No hay grupo",10794
+"734","4","13","San Andrés Itzapa","Población ocupada","No hay grupo",11954
+"735","4","14","Parramos","Población ocupada","No hay grupo",5503
+"736","4","15","Zaragoza","Población ocupada","No hay grupo",9024
+"737","4","16","El Tejar","Población ocupada","No hay grupo",7683
+"738","5","01","Escuintla","Población ocupada","No hay grupo",56708
+"739","5","02","Santa Lucía Cotzumalguapa","Población ocupada","No hay grupo",32123
+"740","5","03","La Democracia","Población ocupada","No hay grupo",6144
+"741","5","04","Siquinalá","Población ocupada","No hay grupo",7032
+"742","5","05","Masagua","Población ocupada","No hay grupo",10524
+"743","5","06","Tiquisate","Población ocupada","No hay grupo",20227
+"744","5","07","La Gomera","Población ocupada","No hay grupo",13332
+"745","5","08","Guanagazapa","Población ocupada","No hay grupo",3121
+"746","5","09","San José","Población ocupada","No hay grupo",21673
+"747","5","10","Iztapa","Población ocupada","No hay grupo",5041
+"748","5","11","Palín","Población ocupada","No hay grupo",24866
+"749","5","12","San Vicente Pacaya","Población ocupada","No hay grupo",5638
+"750","5","13","Nueva Concepción","Población ocupada","No hay grupo",23192
+"751","5","14","Sipacate","Población ocupada","No hay grupo",5122
+"752","6","01","Cuilapa","Población ocupada","No hay grupo",14316
+"753","6","02","Barberena","Población ocupada","No hay grupo",20808
+"754","6","03","Santa Rosa de Lima","Población ocupada","No hay grupo",6393
+"755","6","04","Casillas","Población ocupada","No hay grupo",7421
+"756","6","05","San Rafael las Flores","Población ocupada","No hay grupo",3754
+"757","6","06","Oratorio","Población ocupada","No hay grupo",7948
+"758","6","07","San Juan Tecuaco","Población ocupada","No hay grupo",3132
+"759","6","08","Chiquimulilla","Población ocupada","No hay grupo",17190
+"760","6","09","Taxisco","Población ocupada","No hay grupo",9313
+"761","6","10","Santa María Ixhuatán","Población ocupada","No hay grupo",7974
+"762","6","11","Guazacapán","Población ocupada","No hay grupo",6642
+"763","6","12","Santa Cruz Naranjo","Población ocupada","No hay grupo",5835
+"764","6","13","Pueblo Nuevo Viñas","Población ocupada","No hay grupo",8660
+"765","6","14","Nueva Santa Rosa","Población ocupada","No hay grupo",12252
+"766","7","01","Sololá","Población ocupada","No hay grupo",32973
+"767","7","02","San José Chacayá","Población ocupada","No hay grupo",1408
+"768","7","03","Santa María Visitación","Población ocupada","No hay grupo",757
+"769","7","04","Santa Lucía Utatlán","Población ocupada","No hay grupo",6778
+"770","7","05","Nahualá","Población ocupada","No hay grupo",20357
+"771","7","06","Santa Catarina Ixtahuacán","Población ocupada","No hay grupo",12487
+"772","7","07","Santa Clara la Laguna","Población ocupada","No hay grupo",3285
+"773","7","08","Concepción","Población ocupada","No hay grupo",2082
+"774","7","09","San Andrés Semetabaj","Población ocupada","No hay grupo",4934
+"775","7","10","Panajachel","Población ocupada","No hay grupo",6836
+"776","7","11","Santa Catarina Palopó","Población ocupada","No hay grupo",1252
+"777","7","12","San Antonio Palopó","Población ocupada","No hay grupo",3920
+"778","7","13","San Lucas Tolimán","Población ocupada","No hay grupo",10425
+"779","7","14","Santa Cruz la Laguna","Población ocupada","No hay grupo",1692
+"780","7","15","San Pablo la Laguna","Población ocupada","No hay grupo",2523
+"781","7","16","San Marcos la Laguna","Población ocupada","No hay grupo",1104
+"782","7","17","San Juan la Laguna","Población ocupada","No hay grupo",5132
+"783","7","18","San Pedro la Laguna","Población ocupada","No hay grupo",4275
+"784","7","19","Santiago Atitlán","Población ocupada","No hay grupo",20450
+"785","8","01","Totonicapán","Población ocupada","No hay grupo",41202
+"786","8","02","San Cristóbal Totonicapán","Población ocupada","No hay grupo",12943
+"787","8","03","San Francisco el Alto","Población ocupada","No hay grupo",18567
+"788","8","04","San Andrés Xecul","Población ocupada","No hay grupo",8795
+"789","8","05","Momostenango","Población ocupada","No hay grupo",31828
+"790","8","06","Santa María Chiquimula","Población ocupada","No hay grupo",18790
+"791","8","07","Santa Lucía la Reforma","Población ocupada","No hay grupo",5691
+"792","8","08","San Bartolo Aguas Calientes","Población ocupada","No hay grupo",2939
+"793","9","01","Quetzaltenango","Población ocupada","No hay grupo",77698
+"794","9","02","Salcajá","Población ocupada","No hay grupo",8187
+"795","9","03","San Juan Olintepeque","Población ocupada","No hay grupo",13452
+"796","9","04","San Carlos Sija","Población ocupada","No hay grupo",6377
+"797","9","05","Sibilia","Población ocupada","No hay grupo",2208
+"798","9","06","Cabricán","Población ocupada","No hay grupo",3050
+"799","9","07","Cajolá","Población ocupada","No hay grupo",2753
+"800","9","08","San Miguel Siguilá","Población ocupada","No hay grupo",2009
+"801","9","09","San Juan Ostuncalco","Población ocupada","No hay grupo",15656
+"802","9","10","San Mateo","Población ocupada","No hay grupo",3057
+"803","9","11","Concepción Chiquirichapa","Población ocupada","No hay grupo",5428
+"804","9","12","San Martín Sacatepéquez","Población ocupada","No hay grupo",9855
+"805","9","13","Almolonga","Población ocupada","No hay grupo",5668
+"806","9","14","Cantel","Población ocupada","No hay grupo",18707
+"807","9","15","Huitán","Población ocupada","No hay grupo",2499
+"808","9","16","Zunil","Población ocupada","No hay grupo",6057
+"809","9","17","Colomba Costa Cuca","Población ocupada","No hay grupo",14640
+"810","9","18","San Francisco la Unión","Población ocupada","No hay grupo",1891
+"811","9","19","El Palmar","Población ocupada","No hay grupo",8422
+"812","9","20","Coatepeque","Población ocupada","No hay grupo",35236
+"813","9","21","Génova","Población ocupada","No hay grupo",8918
+"814","9","22","Flores Costa Cuca","Población ocupada","No hay grupo",6456
+"815","9","23","La Esperanza","Población ocupada","No hay grupo",8555
+"816","9","24","Palestina de los Altos","Población ocupada","No hay grupo",3402
+"817","1","00","Mazatenango","Población ocupada","No hay grupo",28803
+"818","1","00","Cuyotenango","Población ocupada","No hay grupo",11257
+"819","1","00","San Francisco Zapotitlán","Población ocupada","No hay grupo",8262
+"820","1","00","San Bernardino","Población ocupada","No hay grupo",4789
+"821","1","00","San José el Ídolo","Población ocupada","No hay grupo",2525
+"822","1","00","Santo Domingo Suchitepéquez","Población ocupada","No hay grupo",10915
+"823","1","00","San Lorenzo","Población ocupada","No hay grupo",3931
+"824","1","00","Samayac","Población ocupada","No hay grupo",9463
+"825","1","00","San Pablo Jocopilas","Población ocupada","No hay grupo",6895
+"826","1","01","San Antonio Suchitepéquez","Población ocupada","No hay grupo",17308
+"827","1","01","San Miguel Panán","Población ocupada","No hay grupo",2509
+"828","1","01","San Gabriel","Población ocupada","No hay grupo",2968
+"829","1","01","Chicacao","Población ocupada","No hay grupo",17223
+"830","1","01","Patulul","Población ocupada","No hay grupo",13165
+"831","1","01","Santa Bárbara","Población ocupada","No hay grupo",7433
+"832","1","01","San Juan Bautista","Población ocupada","No hay grupo",2172
+"833","1","01","Santo Tomas la Unión","Población ocupada","No hay grupo",3988
+"834","1","01","Zunilito","Población ocupada","No hay grupo",2900
+"835","1","01","Pueblo Nuevo","Población ocupada","No hay grupo",3836
+"836","1","02","Río Bravo","Población ocupada","No hay grupo",7638
+"837","1","02","San José La Máquina","Población ocupada","No hay grupo",6561
+"838","1","10","Retalhuleu","Población ocupada","No hay grupo",29505
+"839","1","10","San Sebastián","Población ocupada","No hay grupo",10668
+"840","1","10","Santa Cruz Muluá","Población ocupada","No hay grupo",4015
+"841","1","10","San Martín Zapotitlán","Población ocupada","No hay grupo",3881
+"842","1","10","San Felipe","Población ocupada","No hay grupo",8742
+"843","1","10","San Andrés Villa Seca","Población ocupada","No hay grupo",11708
+"844","1","10","Champerico","Población ocupada","No hay grupo",8251
+"845","1","10","Nuevo San Carlos","Población ocupada","No hay grupo",12005
+"846","1","10","El Asintal","Población ocupada","No hay grupo",9953
+"847","1","20","San Marcos","Población ocupada","No hay grupo",15716
+"848","1","20","San Pedro Sacatepéquez","Población ocupada","No hay grupo",28182
+"849","1","20","San Antonio Sacatepéquez","Población ocupada","No hay grupo",5196
+"850","1","20","Comitancillo","Población ocupada","No hay grupo",12068
+"851","1","20","San Miguel Ixtahuacán","Población ocupada","No hay grupo",5552
+"852","1","20","Concepción Tutuapa","Población ocupada","No hay grupo",5988
+"853","1","20","Tacaná","Población ocupada","No hay grupo",9258
+"854","1","20","Sibinal","Población ocupada","No hay grupo",3579
+"855","1","20","Tajumulco","Población ocupada","No hay grupo",9199
+"856","1","21","Tejutla","Población ocupada","No hay grupo",9810
+"857","1","21","San Rafael Pie de la Cuesta","Población ocupada","No hay grupo",5347
+"858","1","21","Nuevo Progreso","Población ocupada","No hay grupo",8209
+"859","1","21","El Tumbador","Población ocupada","No hay grupo",13050
+"860","1","21","San José el Rodeo","Población ocupada","No hay grupo",5228
+"861","1","21","Malacatán","Población ocupada","No hay grupo",24734
+"862","1","21","Catarina","Población ocupada","No hay grupo",8383
+"863","1","21","Ayutla","Población ocupada","No hay grupo",12287
+"864","1","21","Ocós","Población ocupada","No hay grupo",3502
+"865","1","21","San Pablo","Población ocupada","No hay grupo",13326
+"866","1","22","El Quetzal","Población ocupada","No hay grupo",6167
+"867","1","22","La Reforma","Población ocupada","No hay grupo",4391
+"868","1","22","Pajapita","Población ocupada","No hay grupo",6642
+"869","1","22","Ixchiguán","Población ocupada","No hay grupo",4856
+"870","1","22","San José Ojetenam","Población ocupada","No hay grupo",4068
+"871","1","22","San Cristóbal Cucho","Población ocupada","No hay grupo",4144
+"872","1","22","Sipacapa","Población ocupada","No hay grupo",3721
+"873","1","22","Esquipulas Palo Gordo","Población ocupada","No hay grupo",3629
+"874","1","22","Río Blanco","Población ocupada","No hay grupo",846
+"875","1","22","San Lorenzo","Población ocupada","No hay grupo",2736
+"876","1","23","La Blanca","Población ocupada","No hay grupo",9174
+"877","1","30","Huehuetenango","Población ocupada","No hay grupo",45820
+"878","1","30","Chiantla","Población ocupada","No hay grupo",25155
+"879","1","30","Malacatancito","Población ocupada","No hay grupo",5402
+"880","1","30","Cuilco","Población ocupada","No hay grupo",14142
+"881","1","30","Nentón","Población ocupada","No hay grupo",12466
+"882","1","30","San Pedro Necta","Población ocupada","No hay grupo",10049
+"883","1","30","Jacaltenango","Población ocupada","No hay grupo",12726
+"884","1","30","San Pedro Soloma","Población ocupada","No hay grupo",10105
+"885","1","30","San Ildefonso Ixtahuacán","Población ocupada","No hay grupo",14283
+"886","1","31","Santa Bárbara","Población ocupada","No hay grupo",8171
+"887","1","31","La Libertad","Población ocupada","No hay grupo",9965
+"888","1","31","La Democracia","Población ocupada","No hay grupo",15946
+"889","1","31","San Miguel Acatán","Población ocupada","No hay grupo",4563
+"890","1","31","San Rafael La Independencia","Población ocupada","No hay grupo",2803
+"891","1","31","Todos Santos Cuchumatán","Población ocupada","No hay grupo",6804
+"892","1","31","San Juan Atitán","Población ocupada","No hay grupo",5023
+"893","1","31","Santa Eulalia","Población ocupada","No hay grupo",9706
+"894","1","31","San Mateo Ixtatán","Población ocupada","No hay grupo",9975
+"895","1","31","Colotenango","Población ocupada","No hay grupo",6252
+"896","1","32","San Sebastián Huehuetenango","Población ocupada","No hay grupo",8667
+"897","1","32","Tectitán","Población ocupada","No hay grupo",1722
+"898","1","32","Concepción Huista","Población ocupada","No hay grupo",5229
+"899","1","32","San Juan Ixcoy","Población ocupada","No hay grupo",3167
+"900","1","32","San Antonio Huista","Población ocupada","No hay grupo",5407
+"901","1","32","San Sebastián Coatán","Población ocupada","No hay grupo",2359
+"902","1","32","Santa Cruz Barillas","Población ocupada","No hay grupo",26689
+"903","1","32","Aguacatán","Población ocupada","No hay grupo",15679
+"904","1","32","San Rafael Petzal","Población ocupada","No hay grupo",2392
+"905","1","32","San Gaspar Ixchil","Población ocupada","No hay grupo",2739
+"906","1","33","Santiago Chimaltenango","Población ocupada","No hay grupo",3205
+"907","1","33","Santa Ana Huista","Población ocupada","No hay grupo",3222
+"908","1","33","Unión Cantinil","Población ocupada","No hay grupo",4447
+"909","1","33","Petatán","Población ocupada","No hay grupo",2041
+"910","1","40","Santa Cruz del Quiché","Población ocupada","No hay grupo",25513
+"911","1","40","Chiché","Población ocupada","No hay grupo",9022
+"912","1","40","Chinique","Población ocupada","No hay grupo",3514
+"913","1","40","Zacualpa","Población ocupada","No hay grupo",9310
+"914","1","40","Chajul","Población ocupada","No hay grupo",12161
+"915","1","40","Santo Tomás Chichicastenango","Población ocupada","No hay grupo",50074
+"916","1","40","Patzité","Población ocupada","No hay grupo",1738
+"917","1","40","San Antonio Ilotenango","Población ocupada","No hay grupo",8424
+"918","1","40","San Pedro Jocopilas","Población ocupada","No hay grupo",8190
+"919","1","41","Cunén","Población ocupada","No hay grupo",10108
+"920","1","41","San Juan Cotzal","Población ocupada","No hay grupo",7972
+"921","1","41","Joyabaj","Población ocupada","No hay grupo",17180
+"922","1","41","Santa María Nebaj","Población ocupada","No hay grupo",22087
+"923","1","41","San Andrés Sajcabajá","Población ocupada","No hay grupo",4403
+"924","1","41","San Miguel Uspantán","Población ocupada","No hay grupo",16223
+"925","1","41","Sacapulas","Población ocupada","No hay grupo",18421
+"926","1","41","San Bartolomé Jocotenango","Población ocupada","No hay grupo",3124
+"927","1","41","Canillá","Población ocupada","No hay grupo",2537
+"928","1","41","Chicamán","Población ocupada","No hay grupo",6711
+"929","1","42","Playa Grande Ixcán","Población ocupada","No hay grupo",30626
+"930","1","42","Pachalum","Población ocupada","No hay grupo",2728
+"931","1","50","Salamá","Población ocupada","No hay grupo",24125
+"932","1","50","San Miguel Chicaj","Población ocupada","No hay grupo",11217
+"933","1","50","Rabinal","Población ocupada","No hay grupo",14111
+"934","1","50","Cubulco","Población ocupada","No hay grupo",16596
+"935","1","50","Granados","Población ocupada","No hay grupo",4564
+"936","1","50","Santa Cruz El Chol","Población ocupada","No hay grupo",3175
+"937","1","50","San Jerónimo","Población ocupada","No hay grupo",9530
+"938","1","50","Purulhá","Población ocupada","No hay grupo",15018
+"939","1","60","Cobán","Población ocupada","No hay grupo",71448
+"940","1","60","Santa Cruz Verapaz","Población ocupada","No hay grupo",10150
+"941","1","60","San Cristóbal Verapaz","Población ocupada","No hay grupo",20464
+"942","1","60","Tactic","Población ocupada","No hay grupo",14261
+"943","1","60","Tamahú","Población ocupada","No hay grupo",6777
+"944","1","60","San Miguel Tucurú","Población ocupada","No hay grupo",4036
+"945","1","60","Panzós","Población ocupada","No hay grupo",18256
+"946","1","60","Senahú","Población ocupada","No hay grupo",23308
+"947","1","60","San Pedro Carchá","Población ocupada","No hay grupo",73879
+"948","1","61","San Juan Chamelco","Población ocupada","No hay grupo",20530
+"949","1","61","San Agustín Lanquín","Población ocupada","No hay grupo",6127
+"950","1","61","Santa María Cahabón","Población ocupada","No hay grupo",16565
+"951","1","61","Chisec","Población ocupada","No hay grupo",24584
+"952","1","61","Chahal","Población ocupada","No hay grupo",5768
+"953","1","61","Fray Bartolomé de las Casas","Población ocupada","No hay grupo",18763
+"954","1","61","Santa Catalina La Tinta","Población ocupada","No hay grupo",9832
+"955","1","61","Raxruhá","Población ocupada","No hay grupo",11412
+"956","1","70","Flores","Población ocupada","No hay grupo",14478
+"957","1","70","San José","Población ocupada","No hay grupo",2249
+"958","1","70","San Benito","Población ocupada","No hay grupo",16260
+"959","1","70","San Andrés","Población ocupada","No hay grupo",10305
+"960","1","70","La Libertad","Población ocupada","No hay grupo",21990
+"961","1","70","San Francisco","Población ocupada","No hay grupo",4064
+"962","1","70","Santa Ana","Población ocupada","No hay grupo",6543
+"963","1","70","Dolores","Población ocupada","No hay grupo",7936
+"964","1","70","San Luis","Población ocupada","No hay grupo",19240
+"965","1","71","Sayaxché","Población ocupada","No hay grupo",21484
+"966","1","71","Melchor de Mencos","Población ocupada","No hay grupo",9767
+"967","1","71","Poptún","Población ocupada","No hay grupo",17345
+"968","1","71","Las Cruces","Población ocupada","No hay grupo",10284
+"969","1","71","El Chal","Población ocupada","No hay grupo",4153
+"970","1","80","Puerto Barrios","Población ocupada","No hay grupo",39284
+"971","1","80","Livingston","Población ocupada","No hay grupo",21005
+"972","1","80","El Estor","Población ocupada","No hay grupo",19954
+"973","1","80","Morales","Población ocupada","No hay grupo",35123
+"974","1","80","Los Amates","Población ocupada","No hay grupo",18992
+"975","1","90","Zacapa","Población ocupada","No hay grupo",23947
+"976","1","90","Estanzuela","Población ocupada","No hay grupo",3198
+"977","1","90","Río Hondo","Población ocupada","No hay grupo",7646
+"978","1","90","Gualán","Población ocupada","No hay grupo",15426
+"979","1","90","Teculután","Población ocupada","No hay grupo",6407
+"980","1","90","Usumatlán","Población ocupada","No hay grupo",4102
+"981","1","90","Cabañas","Población ocupada","No hay grupo",4130
+"982","1","90","San Diego","Población ocupada","No hay grupo",2259
+"983","1","90","La Unión","Población ocupada","No hay grupo",7887
+"984","1","91","Huité","Población ocupada","No hay grupo",3334
+"985","1","91","San Jorge","Población ocupada","No hay grupo",3146
+"986","2","00","Chiquimula","Población ocupada","No hay grupo",37439
+"987","2","00","San José la Arada","Población ocupada","No hay grupo",2746
+"988","2","00","San Juan Ermita","Población ocupada","No hay grupo",4418
+"989","2","00","Jocotán","Población ocupada","No hay grupo",12711
+"990","2","00","Camotán","Población ocupada","No hay grupo",8705
+"991","2","00","Olopa","Población ocupada","No hay grupo",6915
+"992","2","00","Esquipulas","Población ocupada","No hay grupo",18783
+"993","2","00","Concepción las Minas","Población ocupada","No hay grupo",3335
+"994","2","00","Quezaltepeque","Población ocupada","No hay grupo",9146
+"995","2","01","San Jacinto","Población ocupada","No hay grupo",3488
+"996","2","01","Ipala","Población ocupada","No hay grupo",7696
+"997","2","10","Jalapa","Población ocupada","No hay grupo",54714
+"998","2","10","San Pedro Pinula","Población ocupada","No hay grupo",18260
+"999","2","10","San Luis Jilotepeque","Población ocupada","No hay grupo",9276
+"1000","2","10","San Manuel Chaparrón","Población ocupada","No hay grupo",2815
+"1001","2","10","San Carlos Alzatate","Población ocupada","No hay grupo",5800
+"1002","2","10","Monjas","Población ocupada","No hay grupo",9515
+"1003","2","10","Mataquescuintla","Población ocupada","No hay grupo",14467
+"1004","2","20","Jutiapa","Población ocupada","No hay grupo",45270
+"1005","2","20","El Progreso","Población ocupada","No hay grupo",8253
+"1006","2","20","Santa Catarina Mita","Población ocupada","No hay grupo",10194
+"1007","2","20","Agua Blanca","Población ocupada","No hay grupo",5212
+"1008","2","20","Asunción Mita","Población ocupada","No hay grupo",17487
+"1009","2","20","Yupiltepeque","Población ocupada","No hay grupo",5835
+"1010","2","20","Atescatempa","Población ocupada","No hay grupo",6544
+"1011","2","20","Jerez","Población ocupada","No hay grupo",2385
+"1012","2","20","El Adelanto","Población ocupada","No hay grupo",1858
+"1013","2","21","Zapotitlán","Población ocupada","No hay grupo",2873
+"1014","2","21","Comapa","Población ocupada","No hay grupo",9644
+"1015","2","21","Jalpatagua","Población ocupada","No hay grupo",8883
+"1016","2","21","Conguaco","Población ocupada","No hay grupo",6411
+"1017","2","21","Moyuta","Población ocupada","No hay grupo",11785
+"1018","2","21","Pasaco","Población ocupada","No hay grupo",2640
+"1019","2","21","San José Acatempa","Población ocupada","No hay grupo",3865
+"1020","2","21","Quesada","Población ocupada","No hay grupo",7438
+"1021","1","01","Guatemala","Cesante","No hay grupo",10984
+"1022","1","02","Santa Catarina Pinula","Cesante","No hay grupo",905
+"1023","1","03","San José Pinula","Cesante","No hay grupo",767
+"1024","1","04","San José del Golfo","Cesante","No hay grupo",56
+"1025","1","05","Palencia","Cesante","No hay grupo",387
+"1026","1","06","Chinautla","Cesante","No hay grupo",1111
+"1027","1","07","San Pedro Ayampuc","Cesante","No hay grupo",363
+"1028","1","08","Mixco","Cesante","No hay grupo",5250
+"1029","1","09","San Pedro Sacatepéquez","Cesante","No hay grupo",296
+"1030","1","10","San Juan Sacatepéquez","Cesante","No hay grupo",1389
+"1031","1","11","San Raymundo","Cesante","No hay grupo",160
+"1032","1","12","Chuarrancho","Cesante","No hay grupo",23
+"1033","1","13","Fraijanes","Cesante","No hay grupo",469
+"1034","1","14","Amatitlán","Cesante","No hay grupo",1358
+"1035","1","15","Villa Nueva","Cesante","No hay grupo",5572
+"1036","1","16","Villa Canales","Cesante","No hay grupo",1552
+"1037","1","17","San Miguel Petapa","Cesante","No hay grupo",1463
+"1038","2","01","Guastatoya","Cesante","No hay grupo",140
+"1039","2","02","Morazán","Cesante","No hay grupo",78
+"1040","2","03","San Agustín Acasaguastlán","Cesante","No hay grupo",337
+"1041","2","04","San Cristóbal Acasaguastlán","Cesante","No hay grupo",42
+"1042","2","05","El Jícaro","Cesante","No hay grupo",132
+"1043","2","06","Sansare","Cesante","No hay grupo",20
+"1044","2","07","Sanarate","Cesante","No hay grupo",290
+"1045","2","08","San Antonio la Paz","Cesante","No hay grupo",129
+"1046","3","01","Antigua Guatemala","Cesante","No hay grupo",523
+"1047","3","02","Jocotenango","Cesante","No hay grupo",341
+"1048","3","03","Pastores","Cesante","No hay grupo",211
+"1049","3","04","Sumpango","Cesante","No hay grupo",142
+"1050","3","05","Santo Domingo Xenacoj","Cesante","No hay grupo",64
+"1051","3","06","Santiago Sacatepéquez","Cesante","No hay grupo",93
+"1052","3","07","San Bartolomé Milpas Altas","Cesante","No hay grupo",39
+"1053","3","08","San Lucas Sacatepéquez","Cesante","No hay grupo",167
+"1054","3","09","Santa Lucía Milpas Altas","Cesante","No hay grupo",110
+"1055","3","10","Magdalena Milpas Altas","Cesante","No hay grupo",41
+"1056","3","11","Santa María de Jesús","Cesante","No hay grupo",27
+"1057","3","12","Ciudad Vieja","Cesante","No hay grupo",246
+"1058","3","13","San Miguel Dueñas","Cesante","No hay grupo",154
+"1059","3","14","San Juan Alotenango","Cesante","No hay grupo",251
+"1060","3","15","San Antonio Aguas Calientes","Cesante","No hay grupo",36
+"1061","3","16","Santa Catarina Barahona","Cesante","No hay grupo",19
+"1062","4","01","Chimaltenango","Cesante","No hay grupo",1029
+"1063","4","02","San José Poaquil","Cesante","No hay grupo",12
+"1064","4","03","San Martín Jilotepeque","Cesante","No hay grupo",130
+"1065","4","04","San Juan Comalapa","Cesante","No hay grupo",41
+"1066","4","05","Santa Apolonia","Cesante","No hay grupo",40
+"1067","4","06","Tecpán Guatemala","Cesante","No hay grupo",115
+"1068","4","07","Patzún","Cesante","No hay grupo",143
+"1069","4","08","San Miguel Pochuta","Cesante","No hay grupo",54
+"1070","4","09","Patzicía","Cesante","No hay grupo",38
+"1071","4","10","Santa Cruz Balanyá","Cesante","No hay grupo",3
+"1072","4","11","Acatenango","Cesante","No hay grupo",64
+"1073","4","12","San Pedro Yepocapa","Cesante","No hay grupo",116
+"1074","4","13","San Andrés Itzapa","Cesante","No hay grupo",111
+"1075","4","14","Parramos","Cesante","No hay grupo",80
+"1076","4","15","Zaragoza","Cesante","No hay grupo",99
+"1077","4","16","El Tejar","Cesante","No hay grupo",236
+"1078","5","01","Escuintla","Cesante","No hay grupo",2607
+"1079","5","02","Santa Lucía Cotzumalguapa","Cesante","No hay grupo",1443
+"1080","5","03","La Democracia","Cesante","No hay grupo",485
+"1081","5","04","Siquinalá","Cesante","No hay grupo",258
+"1082","5","05","Masagua","Cesante","No hay grupo",696
+"1083","5","06","Tiquisate","Cesante","No hay grupo",406
+"1084","5","07","La Gomera","Cesante","No hay grupo",683
+"1085","5","08","Guanagazapa","Cesante","No hay grupo",99
+"1086","5","09","San José","Cesante","No hay grupo",813
+"1087","5","10","Iztapa","Cesante","No hay grupo",150
+"1088","5","11","Palín","Cesante","No hay grupo",776
+"1089","5","12","San Vicente Pacaya","Cesante","No hay grupo",106
+"1090","5","13","Nueva Concepción","Cesante","No hay grupo",578
+"1091","5","14","Sipacate","Cesante","No hay grupo",252
+"1092","6","01","Cuilapa","Cesante","No hay grupo",435
+"1093","6","02","Barberena","Cesante","No hay grupo",606
+"1094","6","03","Santa Rosa de Lima","Cesante","No hay grupo",117
+"1095","6","04","Casillas","Cesante","No hay grupo",105
+"1096","6","05","San Rafael las Flores","Cesante","No hay grupo",34
+"1097","6","06","Oratorio","Cesante","No hay grupo",118
+"1098","6","07","San Juan Tecuaco","Cesante","No hay grupo",10
+"1099","6","08","Chiquimulilla","Cesante","No hay grupo",456
+"1100","6","09","Taxisco","Cesante","No hay grupo",281
+"1101","6","10","Santa María Ixhuatán","Cesante","No hay grupo",31
+"1102","6","11","Guazacapán","Cesante","No hay grupo",57
+"1103","6","12","Santa Cruz Naranjo","Cesante","No hay grupo",64
+"1104","6","13","Pueblo Nuevo Viñas","Cesante","No hay grupo",152
+"1105","6","14","Nueva Santa Rosa","Cesante","No hay grupo",141
+"1106","7","01","Sololá","Cesante","No hay grupo",120
+"1107","7","02","San José Chacayá","Cesante","No hay grupo",3
+"1108","7","03","Santa María Visitación","Cesante","No hay grupo",2
+"1109","7","04","Santa Lucía Utatlán","Cesante","No hay grupo",43
+"1110","7","05","Nahualá","Cesante","No hay grupo",174
+"1111","7","06","Santa Catarina Ixtahuacán","Cesante","No hay grupo",125
+"1112","7","07","Santa Clara la Laguna","Cesante","No hay grupo",19
+"1113","7","08","Concepción","Cesante","No hay grupo",10
+"1114","7","09","San Andrés Semetabaj","Cesante","No hay grupo",10
+"1115","7","10","Panajachel","Cesante","No hay grupo",61
+"1116","7","11","Santa Catarina Palopó","Cesante","No hay grupo",49
+"1117","7","12","San Antonio Palopó","Cesante","No hay grupo",30
+"1118","7","13","San Lucas Tolimán","Cesante","No hay grupo",74
+"1119","7","14","Santa Cruz la Laguna","Cesante","No hay grupo",1
+"1120","7","15","San Pablo la Laguna","Cesante","No hay grupo",22
+"1121","7","16","San Marcos la Laguna","Cesante","No hay grupo",30
+"1122","7","17","San Juan la Laguna","Cesante","No hay grupo",12
+"1123","7","18","San Pedro la Laguna","Cesante","No hay grupo",27
+"1124","7","19","Santiago Atitlán","Cesante","No hay grupo",94
+"1125","8","01","Totonicapán","Cesante","No hay grupo",358
+"1126","8","02","San Cristóbal Totonicapán","Cesante","No hay grupo",107
+"1127","8","03","San Francisco el Alto","Cesante","No hay grupo",286
+"1128","8","04","San Andrés Xecul","Cesante","No hay grupo",143
+"1129","8","05","Momostenango","Cesante","No hay grupo",109
+"1130","8","06","Santa María Chiquimula","Cesante","No hay grupo",43
+"1131","8","07","Santa Lucía la Reforma","Cesante","No hay grupo",19
+"1132","8","08","San Bartolo Aguas Calientes","Cesante","No hay grupo",8
+"1133","9","01","Quetzaltenango","Cesante","No hay grupo",1195
+"1134","9","02","Salcajá","Cesante","No hay grupo",62
+"1135","9","03","San Juan Olintepeque","Cesante","No hay grupo",124
+"1136","9","04","San Carlos Sija","Cesante","No hay grupo",155
+"1137","9","05","Sibilia","Cesante","No hay grupo",11
+"1138","9","06","Cabricán","Cesante","No hay grupo",4
+"1139","9","07","Cajolá","Cesante","No hay grupo",84
+"1140","9","08","San Miguel Siguilá","Cesante","No hay grupo",5
+"1141","9","09","San Juan Ostuncalco","Cesante","No hay grupo",136
+"1142","9","10","San Mateo","Cesante","No hay grupo",55
+"1143","9","11","Concepción Chiquirichapa","Cesante","No hay grupo",4
+"1144","9","12","San Martín Sacatepéquez","Cesante","No hay grupo",33
+"1145","9","13","Almolonga","Cesante","No hay grupo",17
+"1146","9","14","Cantel","Cesante","No hay grupo",89
+"1147","9","15","Huitán","Cesante","No hay grupo",115
+"1148","9","16","Zunil","Cesante","No hay grupo",25
+"1149","9","17","Colomba Costa Cuca","Cesante","No hay grupo",189
+"1150","9","18","San Francisco la Unión","Cesante","No hay grupo",20
+"1151","9","19","El Palmar","Cesante","No hay grupo",191
+"1152","9","20","Coatepeque","Cesante","No hay grupo",542
+"1153","9","21","Génova","Cesante","No hay grupo",29
+"1154","9","22","Flores Costa Cuca","Cesante","No hay grupo",111
+"1155","9","23","La Esperanza","Cesante","No hay grupo",162
+"1156","9","24","Palestina de los Altos","Cesante","No hay grupo",5
+"1157","1","00","Mazatenango","Cesante","No hay grupo",630
+"1158","1","00","Cuyotenango","Cesante","No hay grupo",252
+"1159","1","00","San Francisco Zapotitlán","Cesante","No hay grupo",135
+"1160","1","00","San Bernardino","Cesante","No hay grupo",115
+"1161","1","00","San José el Ídolo","Cesante","No hay grupo",85
+"1162","1","00","Santo Domingo Suchitepéquez","Cesante","No hay grupo",361
+"1163","1","00","San Lorenzo","Cesante","No hay grupo",61
+"1164","1","00","Samayac","Cesante","No hay grupo",115
+"1165","1","00","San Pablo Jocopilas","Cesante","No hay grupo",158
+"1166","1","01","San Antonio Suchitepéquez","Cesante","No hay grupo",493
+"1167","1","01","San Miguel Panán","Cesante","No hay grupo",124
+"1168","1","01","San Gabriel","Cesante","No hay grupo",32
+"1169","1","01","Chicacao","Cesante","No hay grupo",352
+"1170","1","01","Patulul","Cesante","No hay grupo",393
+"1171","1","01","Santa Bárbara","Cesante","No hay grupo",85
+"1172","1","01","San Juan Bautista","Cesante","No hay grupo",22
+"1173","1","01","Santo Tomas la Unión","Cesante","No hay grupo",65
+"1174","1","01","Zunilito","Cesante","No hay grupo",42
+"1175","1","01","Pueblo Nuevo","Cesante","No hay grupo",34
+"1176","1","02","Río Bravo","Cesante","No hay grupo",79
+"1177","1","02","San José La Máquina","Cesante","No hay grupo",48
+"1178","1","10","Retalhuleu","Cesante","No hay grupo",887
+"1179","1","10","San Sebastián","Cesante","No hay grupo",177
+"1180","1","10","Santa Cruz Muluá","Cesante","No hay grupo",228
+"1181","1","10","San Martín Zapotitlán","Cesante","No hay grupo",50
+"1182","1","10","San Felipe","Cesante","No hay grupo",124
+"1183","1","10","San Andrés Villa Seca","Cesante","No hay grupo",459
+"1184","1","10","Champerico","Cesante","No hay grupo",320
+"1185","1","10","Nuevo San Carlos","Cesante","No hay grupo",157
+"1186","1","10","El Asintal","Cesante","No hay grupo",269
+"1187","1","20","San Marcos","Cesante","No hay grupo",154
+"1188","1","20","San Pedro Sacatepéquez","Cesante","No hay grupo",227
+"1189","1","20","San Antonio Sacatepéquez","Cesante","No hay grupo",41
+"1190","1","20","Comitancillo","Cesante","No hay grupo",111
+"1191","1","20","San Miguel Ixtahuacán","Cesante","No hay grupo",18
+"1192","1","20","Concepción Tutuapa","Cesante","No hay grupo",201
+"1193","1","20","Tacaná","Cesante","No hay grupo",160
+"1194","1","20","Sibinal","Cesante","No hay grupo",19
+"1195","1","20","Tajumulco","Cesante","No hay grupo",90
+"1196","1","21","Tejutla","Cesante","No hay grupo",24
+"1197","1","21","San Rafael Pie de la Cuesta","Cesante","No hay grupo",93
+"1198","1","21","Nuevo Progreso","Cesante","No hay grupo",160
+"1199","1","21","El Tumbador","Cesante","No hay grupo",283
+"1200","1","21","San José el Rodeo","Cesante","No hay grupo",60
+"1201","1","21","Malacatán","Cesante","No hay grupo",609
+"1202","1","21","Catarina","Cesante","No hay grupo",111
+"1203","1","21","Ayutla","Cesante","No hay grupo",173
+"1204","1","21","Ocós","Cesante","No hay grupo",27
+"1205","1","21","San Pablo","Cesante","No hay grupo",270
+"1206","1","22","El Quetzal","Cesante","No hay grupo",61
+"1207","1","22","La Reforma","Cesante","No hay grupo",22
+"1208","1","22","Pajapita","Cesante","No hay grupo",59
+"1209","1","22","Ixchiguán","Cesante","No hay grupo",55
+"1210","1","22","San José Ojetenam","Cesante","No hay grupo",6
+"1211","1","22","San Cristóbal Cucho","Cesante","No hay grupo",2
+"1212","1","22","Sipacapa","Cesante","No hay grupo",316
+"1213","1","22","Esquipulas Palo Gordo","Cesante","No hay grupo",44
+"1214","1","22","Río Blanco","Cesante","No hay grupo",0
+"1215","1","22","San Lorenzo","Cesante","No hay grupo",1
+"1216","1","23","La Blanca","Cesante","No hay grupo",74
+"1217","1","30","Huehuetenango","Cesante","No hay grupo",596
+"1218","1","30","Chiantla","Cesante","No hay grupo",202
+"1219","1","30","Malacatancito","Cesante","No hay grupo",55
+"1220","1","30","Cuilco","Cesante","No hay grupo",20
+"1221","1","30","Nentón","Cesante","No hay grupo",120
+"1222","1","30","San Pedro Necta","Cesante","No hay grupo",164
+"1223","1","30","Jacaltenango","Cesante","No hay grupo",119
+"1224","1","30","San Pedro Soloma","Cesante","No hay grupo",115
+"1225","1","30","San Ildefonso Ixtahuacán","Cesante","No hay grupo",51
+"1226","1","31","Santa Bárbara","Cesante","No hay grupo",159
+"1227","1","31","La Libertad","Cesante","No hay grupo",108
+"1228","1","31","La Democracia","Cesante","No hay grupo",212
+"1229","1","31","San Miguel Acatán","Cesante","No hay grupo",44
+"1230","1","31","San Rafael La Independencia","Cesante","No hay grupo",4
+"1231","1","31","Todos Santos Cuchumatán","Cesante","No hay grupo",66
+"1232","1","31","San Juan Atitán","Cesante","No hay grupo",35
+"1233","1","31","Santa Eulalia","Cesante","No hay grupo",224
+"1234","1","31","San Mateo Ixtatán","Cesante","No hay grupo",66
+"1235","1","31","Colotenango","Cesante","No hay grupo",227
+"1236","1","32","San Sebastián Huehuetenango","Cesante","No hay grupo",256
+"1237","1","32","Tectitán","Cesante","No hay grupo",68
+"1238","1","32","Concepción Huista","Cesante","No hay grupo",9
+"1239","1","32","San Juan Ixcoy","Cesante","No hay grupo",81
+"1240","1","32","San Antonio Huista","Cesante","No hay grupo",34
+"1241","1","32","San Sebastián Coatán","Cesante","No hay grupo",19
+"1242","1","32","Santa Cruz Barillas","Cesante","No hay grupo",167
+"1243","1","32","Aguacatán","Cesante","No hay grupo",38
+"1244","1","32","San Rafael Petzal","Cesante","No hay grupo",13
+"1245","1","32","San Gaspar Ixchil","Cesante","No hay grupo",39
+"1246","1","33","Santiago Chimaltenango","Cesante","No hay grupo",4
+"1247","1","33","Santa Ana Huista","Cesante","No hay grupo",25
+"1248","1","33","Unión Cantinil","Cesante","No hay grupo",5
+"1249","1","33","Petatán","Cesante","No hay grupo",0
+"1250","1","40","Santa Cruz del Quiché","Cesante","No hay grupo",253
+"1251","1","40","Chiché","Cesante","No hay grupo",56
+"1252","1","40","Chinique","Cesante","No hay grupo",15
+"1253","1","40","Zacualpa","Cesante","No hay grupo",109
+"1254","1","40","Chajul","Cesante","No hay grupo",14
+"1255","1","40","Santo Tomás Chichicastenango","Cesante","No hay grupo",148
+"1256","1","40","Patzité","Cesante","No hay grupo",4
+"1257","1","40","San Antonio Ilotenango","Cesante","No hay grupo",47
+"1258","1","40","San Pedro Jocopilas","Cesante","No hay grupo",186
+"1259","1","41","Cunén","Cesante","No hay grupo",30
+"1260","1","41","San Juan Cotzal","Cesante","No hay grupo",44
+"1261","1","41","Joyabaj","Cesante","No hay grupo",404
+"1262","1","41","Santa María Nebaj","Cesante","No hay grupo",116
+"1263","1","41","San Andrés Sajcabajá","Cesante","No hay grupo",32
+"1264","1","41","San Miguel Uspantán","Cesante","No hay grupo",72
+"1265","1","41","Sacapulas","Cesante","No hay grupo",34
+"1266","1","41","San Bartolomé Jocotenango","Cesante","No hay grupo",38
+"1267","1","41","Canillá","Cesante","No hay grupo",213
+"1268","1","41","Chicamán","Cesante","No hay grupo",142
+"1269","1","42","Playa Grande Ixcán","Cesante","No hay grupo",81
+"1270","1","42","Pachalum","Cesante","No hay grupo",1
+"1271","1","50","Salamá","Cesante","No hay grupo",139
+"1272","1","50","San Miguel Chicaj","Cesante","No hay grupo",43
+"1273","1","50","Rabinal","Cesante","No hay grupo",112
+"1274","1","50","Cubulco","Cesante","No hay grupo",155
+"1275","1","50","Granados","Cesante","No hay grupo",27
+"1276","1","50","Santa Cruz El Chol","Cesante","No hay grupo",8
+"1277","1","50","San Jerónimo","Cesante","No hay grupo",36
+"1278","1","50","Purulhá","Cesante","No hay grupo",401
+"1279","1","60","Cobán","Cesante","No hay grupo",882
+"1280","1","60","Santa Cruz Verapaz","Cesante","No hay grupo",226
+"1281","1","60","San Cristóbal Verapaz","Cesante","No hay grupo",229
+"1282","1","60","Tactic","Cesante","No hay grupo",148
+"1283","1","60","Tamahú","Cesante","No hay grupo",8
+"1284","1","60","San Miguel Tucurú","Cesante","No hay grupo",124
+"1285","1","60","Panzós","Cesante","No hay grupo",116
+"1286","1","60","Senahú","Cesante","No hay grupo",118
+"1287","1","60","San Pedro Carchá","Cesante","No hay grupo",456
+"1288","1","61","San Juan Chamelco","Cesante","No hay grupo",108
+"1289","1","61","San Agustín Lanquín","Cesante","No hay grupo",12
+"1290","1","61","Santa María Cahabón","Cesante","No hay grupo",306
+"1291","1","61","Chisec","Cesante","No hay grupo",178
+"1292","1","61","Chahal","Cesante","No hay grupo",40
+"1293","1","61","Fray Bartolomé de las Casas","Cesante","No hay grupo",163
+"1294","1","61","Santa Catalina La Tinta","Cesante","No hay grupo",89
+"1295","1","61","Raxruhá","Cesante","No hay grupo",26
+"1296","1","70","Flores","Cesante","No hay grupo",275
+"1297","1","70","San José","Cesante","No hay grupo",21
+"1298","1","70","San Benito","Cesante","No hay grupo",388
+"1299","1","70","San Andrés","Cesante","No hay grupo",67
+"1300","1","70","La Libertad","Cesante","No hay grupo",228
+"1301","1","70","San Francisco","Cesante","No hay grupo",72
+"1302","1","70","Santa Ana","Cesante","No hay grupo",91
+"1303","1","70","Dolores","Cesante","No hay grupo",38
+"1304","1","70","San Luis","Cesante","No hay grupo",251
+"1305","1","71","Sayaxché","Cesante","No hay grupo",445
+"1306","1","71","Melchor de Mencos","Cesante","No hay grupo",127
+"1307","1","71","Poptún","Cesante","No hay grupo",249
+"1308","1","71","Las Cruces","Cesante","No hay grupo",78
+"1309","1","71","El Chal","Cesante","No hay grupo",24
+"1310","1","80","Puerto Barrios","Cesante","No hay grupo",1089
+"1311","1","80","Livingston","Cesante","No hay grupo",454
+"1312","1","80","El Estor","Cesante","No hay grupo",280
+"1313","1","80","Morales","Cesante","No hay grupo",725
+"1314","1","80","Los Amates","Cesante","No hay grupo",144
+"1315","1","90","Zacapa","Cesante","No hay grupo",558
+"1316","1","90","Estanzuela","Cesante","No hay grupo",165
+"1317","1","90","Río Hondo","Cesante","No hay grupo",227
+"1318","1","90","Gualán","Cesante","No hay grupo",337
+"1319","1","90","Teculután","Cesante","No hay grupo",187
+"1320","1","90","Usumatlán","Cesante","No hay grupo",81
+"1321","1","90","Cabañas","Cesante","No hay grupo",92
+"1322","1","90","San Diego","Cesante","No hay grupo",10
+"1323","1","90","La Unión","Cesante","No hay grupo",67
+"1324","1","91","Huité","Cesante","No hay grupo",76
+"1325","1","91","San Jorge","Cesante","No hay grupo",181
+"1326","2","00","Chiquimula","Cesante","No hay grupo",577
+"1327","2","00","San José la Arada","Cesante","No hay grupo",25
+"1328","2","00","San Juan Ermita","Cesante","No hay grupo",21
+"1329","2","00","Jocotán","Cesante","No hay grupo",236
+"1330","2","00","Camotán","Cesante","No hay grupo",196
+"1331","2","00","Olopa","Cesante","No hay grupo",117
+"1332","2","00","Esquipulas","Cesante","No hay grupo",309
+"1333","2","00","Concepción las Minas","Cesante","No hay grupo",95
+"1334","2","00","Quezaltepeque","Cesante","No hay grupo",66
+"1335","2","01","San Jacinto","Cesante","No hay grupo",19
+"1336","2","01","Ipala","Cesante","No hay grupo",94
+"1337","2","10","Jalapa","Cesante","No hay grupo",468
+"1338","2","10","San Pedro Pinula","Cesante","No hay grupo",85
+"1339","2","10","San Luis Jilotepeque","Cesante","No hay grupo",35
+"1340","2","10","San Manuel Chaparrón","Cesante","No hay grupo",10
+"1341","2","10","San Carlos Alzatate","Cesante","No hay grupo",11
+"1342","2","10","Monjas","Cesante","No hay grupo",118
+"1343","2","10","Mataquescuintla","Cesante","No hay grupo",270
+"1344","2","20","Jutiapa","Cesante","No hay grupo",608
+"1345","2","20","El Progreso","Cesante","No hay grupo",166
+"1346","2","20","Santa Catarina Mita","Cesante","No hay grupo",140
+"1347","2","20","Agua Blanca","Cesante","No hay grupo",108
+"1348","2","20","Asunción Mita","Cesante","No hay grupo",293
+"1349","2","20","Yupiltepeque","Cesante","No hay grupo",31
+"1350","2","20","Atescatempa","Cesante","No hay grupo",135
+"1351","2","20","Jerez","Cesante","No hay grupo",10
+"1352","2","20","El Adelanto","Cesante","No hay grupo",5
+"1353","2","21","Zapotitlán","Cesante","No hay grupo",7
+"1354","2","21","Comapa","Cesante","No hay grupo",60
+"1355","2","21","Jalpatagua","Cesante","No hay grupo",80
+"1356","2","21","Conguaco","Cesante","No hay grupo",38
+"1357","2","21","Moyuta","Cesante","No hay grupo",256
+"1358","2","21","Pasaco","Cesante","No hay grupo",33
+"1359","2","21","San José Acatempa","Cesante","No hay grupo",60
+"1360","2","21","Quesada","Cesante","No hay grupo",74
+"1361","1","01","Guatemala","Aspirante","No hay grupo",4260
+"1362","1","02","Santa Catarina Pinula","Aspirante","No hay grupo",295
+"1363","1","03","San José Pinula","Aspirante","No hay grupo",215
+"1364","1","04","San José del Golfo","Aspirante","No hay grupo",35
+"1365","1","05","Palencia","Aspirante","No hay grupo",197
+"1366","1","06","Chinautla","Aspirante","No hay grupo",630
+"1367","1","07","San Pedro Ayampuc","Aspirante","No hay grupo",313
+"1368","1","08","Mixco","Aspirante","No hay grupo",1709
+"1369","1","09","San Pedro Sacatepéquez","Aspirante","No hay grupo",81
+"1370","1","10","San Juan Sacatepéquez","Aspirante","No hay grupo",672
+"1371","1","11","San Raymundo","Aspirante","No hay grupo",91
+"1372","1","12","Chuarrancho","Aspirante","No hay grupo",17
+"1373","1","13","Fraijanes","Aspirante","No hay grupo",164
+"1374","1","14","Amatitlán","Aspirante","No hay grupo",609
+"1375","1","15","Villa Nueva","Aspirante","No hay grupo",2239
+"1376","1","16","Villa Canales","Aspirante","No hay grupo",681
+"1377","1","17","San Miguel Petapa","Aspirante","No hay grupo",717
+"1378","2","01","Guastatoya","Aspirante","No hay grupo",99
+"1379","2","02","Morazán","Aspirante","No hay grupo",72
+"1380","2","03","San Agustín Acasaguastlán","Aspirante","No hay grupo",348
+"1381","2","04","San Cristóbal Acasaguastlán","Aspirante","No hay grupo",35
+"1382","2","05","El Jícaro","Aspirante","No hay grupo",92
+"1383","2","06","Sansare","Aspirante","No hay grupo",71
+"1384","2","07","Sanarate","Aspirante","No hay grupo",111
+"1385","2","08","San Antonio la Paz","Aspirante","No hay grupo",109
+"1386","3","01","Antigua Guatemala","Aspirante","No hay grupo",145
+"1387","3","02","Jocotenango","Aspirante","No hay grupo",100
+"1388","3","03","Pastores","Aspirante","No hay grupo",52
+"1389","3","04","Sumpango","Aspirante","No hay grupo",57
+"1390","3","05","Santo Domingo Xenacoj","Aspirante","No hay grupo",19
+"1391","3","06","Santiago Sacatepéquez","Aspirante","No hay grupo",64
+"1392","3","07","San Bartolomé Milpas Altas","Aspirante","No hay grupo",20
+"1393","3","08","San Lucas Sacatepéquez","Aspirante","No hay grupo",57
+"1394","3","09","Santa Lucía Milpas Altas","Aspirante","No hay grupo",26
+"1395","3","10","Magdalena Milpas Altas","Aspirante","No hay grupo",19
+"1396","3","11","Santa María de Jesús","Aspirante","No hay grupo",22
+"1397","3","12","Ciudad Vieja","Aspirante","No hay grupo",81
+"1398","3","13","San Miguel Dueñas","Aspirante","No hay grupo",20
+"1399","3","14","San Juan Alotenango","Aspirante","No hay grupo",73
+"1400","3","15","San Antonio Aguas Calientes","Aspirante","No hay grupo",15
+"1401","3","16","Santa Catarina Barahona","Aspirante","No hay grupo",3
+"1402","4","01","Chimaltenango","Aspirante","No hay grupo",211
+"1403","4","02","San José Poaquil","Aspirante","No hay grupo",23
+"1404","4","03","San Martín Jilotepeque","Aspirante","No hay grupo",93
+"1405","4","04","San Juan Comalapa","Aspirante","No hay grupo",24
+"1406","4","05","Santa Apolonia","Aspirante","No hay grupo",26
+"1407","4","06","Tecpán Guatemala","Aspirante","No hay grupo",72
+"1408","4","07","Patzún","Aspirante","No hay grupo",121
+"1409","4","08","San Miguel Pochuta","Aspirante","No hay grupo",31
+"1410","4","09","Patzicía","Aspirante","No hay grupo",17
+"1411","4","10","Santa Cruz Balanyá","Aspirante","No hay grupo",2
+"1412","4","11","Acatenango","Aspirante","No hay grupo",42
+"1413","4","12","San Pedro Yepocapa","Aspirante","No hay grupo",54
+"1414","4","13","San Andrés Itzapa","Aspirante","No hay grupo",49
+"1415","4","14","Parramos","Aspirante","No hay grupo",14
+"1416","4","15","Zaragoza","Aspirante","No hay grupo",32
+"1417","4","16","El Tejar","Aspirante","No hay grupo",51
+"1418","5","01","Escuintla","Aspirante","No hay grupo",940
+"1419","5","02","Santa Lucía Cotzumalguapa","Aspirante","No hay grupo",393
+"1420","5","03","La Democracia","Aspirante","No hay grupo",77
+"1421","5","04","Siquinalá","Aspirante","No hay grupo",85
+"1422","5","05","Masagua","Aspirante","No hay grupo",247
+"1423","5","06","Tiquisate","Aspirante","No hay grupo",194
+"1424","5","07","La Gomera","Aspirante","No hay grupo",221
+"1425","5","08","Guanagazapa","Aspirante","No hay grupo",161
+"1426","5","09","San José","Aspirante","No hay grupo",262
+"1427","5","10","Iztapa","Aspirante","No hay grupo",132
+"1428","5","11","Palín","Aspirante","No hay grupo",296
+"1429","5","12","San Vicente Pacaya","Aspirante","No hay grupo",104
+"1430","5","13","Nueva Concepción","Aspirante","No hay grupo",222
+"1431","5","14","Sipacate","Aspirante","No hay grupo",63
+"1432","6","01","Cuilapa","Aspirante","No hay grupo",240
+"1433","6","02","Barberena","Aspirante","No hay grupo",260
+"1434","6","03","Santa Rosa de Lima","Aspirante","No hay grupo",31
+"1435","6","04","Casillas","Aspirante","No hay grupo",71
+"1436","6","05","San Rafael las Flores","Aspirante","No hay grupo",19
+"1437","6","06","Oratorio","Aspirante","No hay grupo",94
+"1438","6","07","San Juan Tecuaco","Aspirante","No hay grupo",38
+"1439","6","08","Chiquimulilla","Aspirante","No hay grupo",154
+"1440","6","09","Taxisco","Aspirante","No hay grupo",98
+"1441","6","10","Santa María Ixhuatán","Aspirante","No hay grupo",91
+"1442","6","11","Guazacapán","Aspirante","No hay grupo",100
+"1443","6","12","Santa Cruz Naranjo","Aspirante","No hay grupo",81
+"1444","6","13","Pueblo Nuevo Viñas","Aspirante","No hay grupo",65
+"1445","6","14","Nueva Santa Rosa","Aspirante","No hay grupo",62
+"1446","7","01","Sololá","Aspirante","No hay grupo",110
+"1447","7","02","San José Chacayá","Aspirante","No hay grupo",7
+"1448","7","03","Santa María Visitación","Aspirante","No hay grupo",11
+"1449","7","04","Santa Lucía Utatlán","Aspirante","No hay grupo",36
+"1450","7","05","Nahualá","Aspirante","No hay grupo",125
+"1451","7","06","Santa Catarina Ixtahuacán","Aspirante","No hay grupo",241
+"1452","7","07","Santa Clara la Laguna","Aspirante","No hay grupo",22
+"1453","7","08","Concepción","Aspirante","No hay grupo",89
+"1454","7","09","San Andrés Semetabaj","Aspirante","No hay grupo",8
+"1455","7","10","Panajachel","Aspirante","No hay grupo",37
+"1456","7","11","Santa Catarina Palopó","Aspirante","No hay grupo",8
+"1457","7","12","San Antonio Palopó","Aspirante","No hay grupo",38
+"1458","7","13","San Lucas Tolimán","Aspirante","No hay grupo",109
+"1459","7","14","Santa Cruz la Laguna","Aspirante","No hay grupo",2
+"1460","7","15","San Pablo la Laguna","Aspirante","No hay grupo",50
+"1461","7","16","San Marcos la Laguna","Aspirante","No hay grupo",0
+"1462","7","17","San Juan la Laguna","Aspirante","No hay grupo",21
+"1463","7","18","San Pedro la Laguna","Aspirante","No hay grupo",57
+"1464","7","19","Santiago Atitlán","Aspirante","No hay grupo",27
+"1465","8","01","Totonicapán","Aspirante","No hay grupo",288
+"1466","8","02","San Cristóbal Totonicapán","Aspirante","No hay grupo",50
+"1467","8","03","San Francisco el Alto","Aspirante","No hay grupo",143
+"1468","8","04","San Andrés Xecul","Aspirante","No hay grupo",61
+"1469","8","05","Momostenango","Aspirante","No hay grupo",156
+"1470","8","06","Santa María Chiquimula","Aspirante","No hay grupo",140
+"1471","8","07","Santa Lucía la Reforma","Aspirante","No hay grupo",137
+"1472","8","08","San Bartolo Aguas Calientes","Aspirante","No hay grupo",10
+"1473","9","01","Quetzaltenango","Aspirante","No hay grupo",524
+"1474","9","02","Salcajá","Aspirante","No hay grupo",41
+"1475","9","03","San Juan Olintepeque","Aspirante","No hay grupo",76
+"1476","9","04","San Carlos Sija","Aspirante","No hay grupo",183
+"1477","9","05","Sibilia","Aspirante","No hay grupo",34
+"1478","9","06","Cabricán","Aspirante","No hay grupo",21
+"1479","9","07","Cajolá","Aspirante","No hay grupo",2
+"1480","9","08","San Miguel Siguilá","Aspirante","No hay grupo",4
+"1481","9","09","San Juan Ostuncalco","Aspirante","No hay grupo",102
+"1482","9","10","San Mateo","Aspirante","No hay grupo",24
+"1483","9","11","Concepción Chiquirichapa","Aspirante","No hay grupo",6
+"1484","9","12","San Martín Sacatepéquez","Aspirante","No hay grupo",26
+"1485","9","13","Almolonga","Aspirante","No hay grupo",67
+"1486","9","14","Cantel","Aspirante","No hay grupo",64
+"1487","9","15","Huitán","Aspirante","No hay grupo",8
+"1488","9","16","Zunil","Aspirante","No hay grupo",6
+"1489","9","17","Colomba Costa Cuca","Aspirante","No hay grupo",109
+"1490","9","18","San Francisco la Unión","Aspirante","No hay grupo",15
+"1491","9","19","El Palmar","Aspirante","No hay grupo",176
+"1492","9","20","Coatepeque","Aspirante","No hay grupo",289
+"1493","9","21","Génova","Aspirante","No hay grupo",223
+"1494","9","22","Flores Costa Cuca","Aspirante","No hay grupo",38
+"1495","9","23","La Esperanza","Aspirante","No hay grupo",39
+"1496","9","24","Palestina de los Altos","Aspirante","No hay grupo",10
+"1497","1","00","Mazatenango","Aspirante","No hay grupo",345
+"1498","1","00","Cuyotenango","Aspirante","No hay grupo",103
+"1499","1","00","San Francisco Zapotitlán","Aspirante","No hay grupo",109
+"1500","1","00","San Bernardino","Aspirante","No hay grupo",111
+"1501","1","00","San José el Ídolo","Aspirante","No hay grupo",33
+"1502","1","00","Santo Domingo Suchitepéquez","Aspirante","No hay grupo",131
+"1503","1","00","San Lorenzo","Aspirante","No hay grupo",92
+"1504","1","00","Samayac","Aspirante","No hay grupo",69
+"1505","1","00","San Pablo Jocopilas","Aspirante","No hay grupo",139
+"1506","1","01","San Antonio Suchitepéquez","Aspirante","No hay grupo",178
+"1507","1","01","San Miguel Panán","Aspirante","No hay grupo",26
+"1508","1","01","San Gabriel","Aspirante","No hay grupo",16
+"1509","1","01","Chicacao","Aspirante","No hay grupo",266
+"1510","1","01","Patulul","Aspirante","No hay grupo",128
+"1511","1","01","Santa Bárbara","Aspirante","No hay grupo",150
+"1512","1","01","San Juan Bautista","Aspirante","No hay grupo",19
+"1513","1","01","Santo Tomas la Unión","Aspirante","No hay grupo",65
+"1514","1","01","Zunilito","Aspirante","No hay grupo",16
+"1515","1","01","Pueblo Nuevo","Aspirante","No hay grupo",48
+"1516","1","02","Río Bravo","Aspirante","No hay grupo",120
+"1517","1","02","San José La Máquina","Aspirante","No hay grupo",43
+"1518","1","10","Retalhuleu","Aspirante","No hay grupo",403
+"1519","1","10","San Sebastián","Aspirante","No hay grupo",104
+"1520","1","10","Santa Cruz Muluá","Aspirante","No hay grupo",120
+"1521","1","10","San Martín Zapotitlán","Aspirante","No hay grupo",60
+"1522","1","10","San Felipe","Aspirante","No hay grupo",152
+"1523","1","10","San Andrés Villa Seca","Aspirante","No hay grupo",102
+"1524","1","10","Champerico","Aspirante","No hay grupo",172
+"1525","1","10","Nuevo San Carlos","Aspirante","No hay grupo",186
+"1526","1","10","El Asintal","Aspirante","No hay grupo",335
+"1527","1","20","San Marcos","Aspirante","No hay grupo",97
+"1528","1","20","San Pedro Sacatepéquez","Aspirante","No hay grupo",99
+"1529","1","20","San Antonio Sacatepéquez","Aspirante","No hay grupo",49
+"1530","1","20","Comitancillo","Aspirante","No hay grupo",68
+"1531","1","20","San Miguel Ixtahuacán","Aspirante","No hay grupo",209
+"1532","1","20","Concepción Tutuapa","Aspirante","No hay grupo",154
+"1533","1","20","Tacaná","Aspirante","No hay grupo",199
+"1534","1","20","Sibinal","Aspirante","No hay grupo",5
+"1535","1","20","Tajumulco","Aspirante","No hay grupo",70
+"1536","1","21","Tejutla","Aspirante","No hay grupo",41
+"1537","1","21","San Rafael Pie de la Cuesta","Aspirante","No hay grupo",50
+"1538","1","21","Nuevo Progreso","Aspirante","No hay grupo",135
+"1539","1","21","El Tumbador","Aspirante","No hay grupo",95
+"1540","1","21","San José el Rodeo","Aspirante","No hay grupo",58
+"1541","1","21","Malacatán","Aspirante","No hay grupo",285
+"1542","1","21","Catarina","Aspirante","No hay grupo",100
+"1543","1","21","Ayutla","Aspirante","No hay grupo",70
+"1544","1","21","Ocós","Aspirante","No hay grupo",21
+"1545","1","21","San Pablo","Aspirante","No hay grupo",204
+"1546","1","22","El Quetzal","Aspirante","No hay grupo",49
+"1547","1","22","La Reforma","Aspirante","No hay grupo",44
+"1548","1","22","Pajapita","Aspirante","No hay grupo",96
+"1549","1","22","Ixchiguán","Aspirante","No hay grupo",46
+"1550","1","22","San José Ojetenam","Aspirante","No hay grupo",11
+"1551","1","22","San Cristóbal Cucho","Aspirante","No hay grupo",37
+"1552","1","22","Sipacapa","Aspirante","No hay grupo",205
+"1553","1","22","Esquipulas Palo Gordo","Aspirante","No hay grupo",14
+"1554","1","22","Río Blanco","Aspirante","No hay grupo",11
+"1555","1","22","San Lorenzo","Aspirante","No hay grupo",4
+"1556","1","23","La Blanca","Aspirante","No hay grupo",74
+"1557","1","30","Huehuetenango","Aspirante","No hay grupo",384
+"1558","1","30","Chiantla","Aspirante","No hay grupo",388
+"1559","1","30","Malacatancito","Aspirante","No hay grupo",10
+"1560","1","30","Cuilco","Aspirante","No hay grupo",23
+"1561","1","30","Nentón","Aspirante","No hay grupo",160
+"1562","1","30","San Pedro Necta","Aspirante","No hay grupo",236
+"1563","1","30","Jacaltenango","Aspirante","No hay grupo",37
+"1564","1","30","San Pedro Soloma","Aspirante","No hay grupo",51
+"1565","1","30","San Ildefonso Ixtahuacán","Aspirante","No hay grupo",128
+"1566","1","31","Santa Bárbara","Aspirante","No hay grupo",49
+"1567","1","31","La Libertad","Aspirante","No hay grupo",42
+"1568","1","31","La Democracia","Aspirante","No hay grupo",67
+"1569","1","31","San Miguel Acatán","Aspirante","No hay grupo",32
+"1570","1","31","San Rafael La Independencia","Aspirante","No hay grupo",13
+"1571","1","31","Todos Santos Cuchumatán","Aspirante","No hay grupo",17
+"1572","1","31","San Juan Atitán","Aspirante","No hay grupo",108
+"1573","1","31","Santa Eulalia","Aspirante","No hay grupo",179
+"1574","1","31","San Mateo Ixtatán","Aspirante","No hay grupo",65
+"1575","1","31","Colotenango","Aspirante","No hay grupo",71
+"1576","1","32","San Sebastián Huehuetenango","Aspirante","No hay grupo",122
+"1577","1","32","Tectitán","Aspirante","No hay grupo",23
+"1578","1","32","Concepción Huista","Aspirante","No hay grupo",16
+"1579","1","32","San Juan Ixcoy","Aspirante","No hay grupo",94
+"1580","1","32","San Antonio Huista","Aspirante","No hay grupo",6
+"1581","1","32","San Sebastián Coatán","Aspirante","No hay grupo",13
+"1582","1","32","Santa Cruz Barillas","Aspirante","No hay grupo",248
+"1583","1","32","Aguacatán","Aspirante","No hay grupo",33
+"1584","1","32","San Rafael Petzal","Aspirante","No hay grupo",10
+"1585","1","32","San Gaspar Ixchil","Aspirante","No hay grupo",33
+"1586","1","33","Santiago Chimaltenango","Aspirante","No hay grupo",19
+"1587","1","33","Santa Ana Huista","Aspirante","No hay grupo",4
+"1588","1","33","Unión Cantinil","Aspirante","No hay grupo",2
+"1589","1","33","Petatán","Aspirante","No hay grupo",0
+"1590","1","40","Santa Cruz del Quiché","Aspirante","No hay grupo",181
+"1591","1","40","Chiché","Aspirante","No hay grupo",23
+"1592","1","40","Chinique","Aspirante","No hay grupo",11
+"1593","1","40","Zacualpa","Aspirante","No hay grupo",140
+"1594","1","40","Chajul","Aspirante","No hay grupo",163
+"1595","1","40","Santo Tomás Chichicastenango","Aspirante","No hay grupo",308
+"1596","1","40","Patzité","Aspirante","No hay grupo",15
+"1597","1","40","San Antonio Ilotenango","Aspirante","No hay grupo",39
+"1598","1","40","San Pedro Jocopilas","Aspirante","No hay grupo",29
+"1599","1","41","Cunén","Aspirante","No hay grupo",33
+"1600","1","41","San Juan Cotzal","Aspirante","No hay grupo",100
+"1601","1","41","Joyabaj","Aspirante","No hay grupo",137
+"1602","1","41","Santa María Nebaj","Aspirante","No hay grupo",420
+"1603","1","41","San Andrés Sajcabajá","Aspirante","No hay grupo",15
+"1604","1","41","San Miguel Uspantán","Aspirante","No hay grupo",239
+"1605","1","41","Sacapulas","Aspirante","No hay grupo",39
+"1606","1","41","San Bartolomé Jocotenango","Aspirante","No hay grupo",19
+"1607","1","41","Canillá","Aspirante","No hay grupo",13
+"1608","1","41","Chicamán","Aspirante","No hay grupo",53
+"1609","1","42","Playa Grande Ixcán","Aspirante","No hay grupo",91
+"1610","1","42","Pachalum","Aspirante","No hay grupo",2
+"1611","1","50","Salamá","Aspirante","No hay grupo",135
+"1612","1","50","San Miguel Chicaj","Aspirante","No hay grupo",245
+"1613","1","50","Rabinal","Aspirante","No hay grupo",259
+"1614","1","50","Cubulco","Aspirante","No hay grupo",94
+"1615","1","50","Granados","Aspirante","No hay grupo",69
+"1616","1","50","Santa Cruz El Chol","Aspirante","No hay grupo",15
+"1617","1","50","San Jerónimo","Aspirante","No hay grupo",40
+"1618","1","50","Purulhá","Aspirante","No hay grupo",135
+"1619","1","60","Cobán","Aspirante","No hay grupo",751
+"1620","1","60","Santa Cruz Verapaz","Aspirante","No hay grupo",145
+"1621","1","60","San Cristóbal Verapaz","Aspirante","No hay grupo",263
+"1622","1","60","Tactic","Aspirante","No hay grupo",88
+"1623","1","60","Tamahú","Aspirante","No hay grupo",120
+"1624","1","60","San Miguel Tucurú","Aspirante","No hay grupo",137
+"1625","1","60","Panzós","Aspirante","No hay grupo",356
+"1626","1","60","Senahú","Aspirante","No hay grupo",342
+"1627","1","60","San Pedro Carchá","Aspirante","No hay grupo",699
+"1628","1","61","San Juan Chamelco","Aspirante","No hay grupo",284
+"1629","1","61","San Agustín Lanquín","Aspirante","No hay grupo",152
+"1630","1","61","Santa María Cahabón","Aspirante","No hay grupo",239
+"1631","1","61","Chisec","Aspirante","No hay grupo",205
+"1632","1","61","Chahal","Aspirante","No hay grupo",76
+"1633","1","61","Fray Bartolomé de las Casas","Aspirante","No hay grupo",350
+"1634","1","61","Santa Catalina La Tinta","Aspirante","No hay grupo",114
+"1635","1","61","Raxruhá","Aspirante","No hay grupo",43
+"1636","1","70","Flores","Aspirante","No hay grupo",125
+"1637","1","70","San José","Aspirante","No hay grupo",47
+"1638","1","70","San Benito","Aspirante","No hay grupo",155
+"1639","1","70","San Andrés","Aspirante","No hay grupo",24
+"1640","1","70","La Libertad","Aspirante","No hay grupo",106
+"1641","1","70","San Francisco","Aspirante","No hay grupo",201
+"1642","1","70","Santa Ana","Aspirante","No hay grupo",31
+"1643","1","70","Dolores","Aspirante","No hay grupo",47
+"1644","1","70","San Luis","Aspirante","No hay grupo",158
+"1645","1","71","Sayaxché","Aspirante","No hay grupo",447
+"1646","1","71","Melchor de Mencos","Aspirante","No hay grupo",55
+"1647","1","71","Poptún","Aspirante","No hay grupo",146
+"1648","1","71","Las Cruces","Aspirante","No hay grupo",42
+"1649","1","71","El Chal","Aspirante","No hay grupo",36
+"1650","1","80","Puerto Barrios","Aspirante","No hay grupo",467
+"1651","1","80","Livingston","Aspirante","No hay grupo",417
+"1652","1","80","El Estor","Aspirante","No hay grupo",291
+"1653","1","80","Morales","Aspirante","No hay grupo",596
+"1654","1","80","Los Amates","Aspirante","No hay grupo",166
+"1655","1","90","Zacapa","Aspirante","No hay grupo",279
+"1656","1","90","Estanzuela","Aspirante","No hay grupo",40
+"1657","1","90","Río Hondo","Aspirante","No hay grupo",125
+"1658","1","90","Gualán","Aspirante","No hay grupo",120
+"1659","1","90","Teculután","Aspirante","No hay grupo",76
+"1660","1","90","Usumatlán","Aspirante","No hay grupo",104
+"1661","1","90","Cabañas","Aspirante","No hay grupo",47
+"1662","1","90","San Diego","Aspirante","No hay grupo",5
+"1663","1","90","La Unión","Aspirante","No hay grupo",59
+"1664","1","91","Huité","Aspirante","No hay grupo",104
+"1665","1","91","San Jorge","Aspirante","No hay grupo",13
+"1666","2","00","Chiquimula","Aspirante","No hay grupo",229
+"1667","2","00","San José la Arada","Aspirante","No hay grupo",5
+"1668","2","00","San Juan Ermita","Aspirante","No hay grupo",108
+"1669","2","00","Jocotán","Aspirante","No hay grupo",166
+"1670","2","00","Camotán","Aspirante","No hay grupo",233
+"1671","2","00","Olopa","Aspirante","No hay grupo",50
+"1672","2","00","Esquipulas","Aspirante","No hay grupo",94
+"1673","2","00","Concepción las Minas","Aspirante","No hay grupo",38
+"1674","2","00","Quezaltepeque","Aspirante","No hay grupo",26
+"1675","2","01","San Jacinto","Aspirante","No hay grupo",8
+"1676","2","01","Ipala","Aspirante","No hay grupo",24
+"1677","2","10","Jalapa","Aspirante","No hay grupo",362
+"1678","2","10","San Pedro Pinula","Aspirante","No hay grupo",174
+"1679","2","10","San Luis Jilotepeque","Aspirante","No hay grupo",51
+"1680","2","10","San Manuel Chaparrón","Aspirante","No hay grupo",13
+"1681","2","10","San Carlos Alzatate","Aspirante","No hay grupo",5
+"1682","2","10","Monjas","Aspirante","No hay grupo",143
+"1683","2","10","Mataquescuintla","Aspirante","No hay grupo",108
+"1684","2","20","Jutiapa","Aspirante","No hay grupo",635
+"1685","2","20","El Progreso","Aspirante","No hay grupo",72
+"1686","2","20","Santa Catarina Mita","Aspirante","No hay grupo",42
+"1687","2","20","Agua Blanca","Aspirante","No hay grupo",21
+"1688","2","20","Asunción Mita","Aspirante","No hay grupo",181
+"1689","2","20","Yupiltepeque","Aspirante","No hay grupo",61
+"1690","2","20","Atescatempa","Aspirante","No hay grupo",94
+"1691","2","20","Jerez","Aspirante","No hay grupo",30
+"1692","2","20","El Adelanto","Aspirante","No hay grupo",8
+"1693","2","21","Zapotitlán","Aspirante","No hay grupo",65
+"1694","2","21","Comapa","Aspirante","No hay grupo",99
+"1695","2","21","Jalpatagua","Aspirante","No hay grupo",105
+"1696","2","21","Conguaco","Aspirante","No hay grupo",53
+"1697","2","21","Moyuta","Aspirante","No hay grupo",118
+"1698","2","21","Pasaco","Aspirante","No hay grupo",81
+"1699","2","21","San José Acatempa","Aspirante","No hay grupo",61
+"1700","2","21","Quesada","Aspirante","No hay grupo",111
+"1701","1","01","Guatemala","No declarado","No hay grupo",7655
+"1702","1","02","Santa Catarina Pinula","No declarado","No hay grupo",867
+"1703","1","03","San José Pinula","No declarado","No hay grupo",677
+"1704","1","04","San José del Golfo","No declarado","No hay grupo",43
+"1705","1","05","Palencia","No declarado","No hay grupo",207
+"1706","1","06","Chinautla","No declarado","No hay grupo",704
+"1707","1","07","San Pedro Ayampuc","No declarado","No hay grupo",316
+"1708","1","08","Mixco","No declarado","No hay grupo",6069
+"1709","1","09","San Pedro Sacatepéquez","No declarado","No hay grupo",140
+"1710","1","10","San Juan Sacatepéquez","No declarado","No hay grupo",3909
+"1711","1","11","San Raymundo","No declarado","No hay grupo",79
+"1712","1","12","Chuarrancho","No declarado","No hay grupo",58
+"1713","1","13","Fraijanes","No declarado","No hay grupo",524
+"1714","1","14","Amatitlán","No declarado","No hay grupo",838
+"1715","1","15","Villa Nueva","No declarado","No hay grupo",6047
+"1716","1","16","Villa Canales","No declarado","No hay grupo",986
+"1717","1","17","San Miguel Petapa","No declarado","No hay grupo",1537
+"1718","2","01","Guastatoya","No declarado","No hay grupo",91
+"1719","2","02","Morazán","No declarado","No hay grupo",61
+"1720","2","03","San Agustín Acasaguastlán","No declarado","No hay grupo",210
+"1721","2","04","San Cristóbal Acasaguastlán","No declarado","No hay grupo",41
+"1722","2","05","El Jícaro","No declarado","No hay grupo",44
+"1723","2","06","Sansare","No declarado","No hay grupo",39
+"1724","2","07","Sanarate","No declarado","No hay grupo",177
+"1725","2","08","San Antonio la Paz","No declarado","No hay grupo",65
+"1726","3","01","Antigua Guatemala","No declarado","No hay grupo",1164
+"1727","3","02","Jocotenango","No declarado","No hay grupo",172
+"1728","3","03","Pastores","No declarado","No hay grupo",73
+"1729","3","04","Sumpango","No declarado","No hay grupo",961
+"1730","3","05","Santo Domingo Xenacoj","No declarado","No hay grupo",103
+"1731","3","06","Santiago Sacatepéquez","No declarado","No hay grupo",506
+"1732","3","07","San Bartolomé Milpas Altas","No declarado","No hay grupo",12
+"1733","3","08","San Lucas Sacatepéquez","No declarado","No hay grupo",277
+"1734","3","09","Santa Lucía Milpas Altas","No declarado","No hay grupo",272
+"1735","3","10","Magdalena Milpas Altas","No declarado","No hay grupo",117
+"1736","3","11","Santa María de Jesús","No declarado","No hay grupo",35
+"1737","3","12","Ciudad Vieja","No declarado","No hay grupo",770
+"1738","3","13","San Miguel Dueñas","No declarado","No hay grupo",122
+"1739","3","14","San Juan Alotenango","No declarado","No hay grupo",178
+"1740","3","15","San Antonio Aguas Calientes","No declarado","No hay grupo",26
+"1741","3","16","Santa Catarina Barahona","No declarado","No hay grupo",8
+"1742","4","01","Chimaltenango","No declarado","No hay grupo",1093
+"1743","4","02","San José Poaquil","No declarado","No hay grupo",13
+"1744","4","03","San Martín Jilotepeque","No declarado","No hay grupo",254
+"1745","4","04","San Juan Comalapa","No declarado","No hay grupo",244
+"1746","4","05","Santa Apolonia","No declarado","No hay grupo",54
+"1747","4","06","Tecpán Guatemala","No declarado","No hay grupo",141
+"1748","4","07","Patzún","No declarado","No hay grupo",115
+"1749","4","08","San Miguel Pochuta","No declarado","No hay grupo",11
+"1750","4","09","Patzicía","No declarado","No hay grupo",165
+"1751","4","10","Santa Cruz Balanyá","No declarado","No hay grupo",10
+"1752","4","11","Acatenango","No declarado","No hay grupo",142
+"1753","4","12","San Pedro Yepocapa","No declarado","No hay grupo",63
+"1754","4","13","San Andrés Itzapa","No declarado","No hay grupo",189
+"1755","4","14","Parramos","No declarado","No hay grupo",167
+"1756","4","15","Zaragoza","No declarado","No hay grupo",67
+"1757","4","16","El Tejar","No declarado","No hay grupo",237
+"1758","5","01","Escuintla","No declarado","No hay grupo",1864
+"1759","5","02","Santa Lucía Cotzumalguapa","No declarado","No hay grupo",1936
+"1760","5","03","La Democracia","No declarado","No hay grupo",67
+"1761","5","04","Siquinalá","No declarado","No hay grupo",684
+"1762","5","05","Masagua","No declarado","No hay grupo",666
+"1763","5","06","Tiquisate","No declarado","No hay grupo",305
+"1764","5","07","La Gomera","No declarado","No hay grupo",237
+"1765","5","08","Guanagazapa","No declarado","No hay grupo",107
+"1766","5","09","San José","No declarado","No hay grupo",484
+"1767","5","10","Iztapa","No declarado","No hay grupo",78
+"1768","5","11","Palín","No declarado","No hay grupo",505
+"1769","5","12","San Vicente Pacaya","No declarado","No hay grupo",70
+"1770","5","13","Nueva Concepción","No declarado","No hay grupo",142
+"1771","5","14","Sipacate","No declarado","No hay grupo",177
+"1772","6","01","Cuilapa","No declarado","No hay grupo",171
+"1773","6","02","Barberena","No declarado","No hay grupo",145
+"1774","6","03","Santa Rosa de Lima","No declarado","No hay grupo",55
+"1775","6","04","Casillas","No declarado","No hay grupo",42
+"1776","6","05","San Rafael las Flores","No declarado","No hay grupo",17
+"1777","6","06","Oratorio","No declarado","No hay grupo",30
+"1778","6","07","San Juan Tecuaco","No declarado","No hay grupo",13
+"1779","6","08","Chiquimulilla","No declarado","No hay grupo",247
+"1780","6","09","Taxisco","No declarado","No hay grupo",45
+"1781","6","10","Santa María Ixhuatán","No declarado","No hay grupo",34
+"1782","6","11","Guazacapán","No declarado","No hay grupo",27
+"1783","6","12","Santa Cruz Naranjo","No declarado","No hay grupo",17
+"1784","6","13","Pueblo Nuevo Viñas","No declarado","No hay grupo",41
+"1785","6","14","Nueva Santa Rosa","No declarado","No hay grupo",46
+"1786","7","01","Sololá","No declarado","No hay grupo",306
+"1787","7","02","San José Chacayá","No declarado","No hay grupo",9
+"1788","7","03","Santa María Visitación","No declarado","No hay grupo",5
+"1789","7","04","Santa Lucía Utatlán","No declarado","No hay grupo",68
+"1790","7","05","Nahualá","No declarado","No hay grupo",273
+"1791","7","06","Santa Catarina Ixtahuacán","No declarado","No hay grupo",275
+"1792","7","07","Santa Clara la Laguna","No declarado","No hay grupo",19
+"1793","7","08","Concepción","No declarado","No hay grupo",9
+"1794","7","09","San Andrés Semetabaj","No declarado","No hay grupo",53
+"1795","7","10","Panajachel","No declarado","No hay grupo",38
+"1796","7","11","Santa Catarina Palopó","No declarado","No hay grupo",7
+"1797","7","12","San Antonio Palopó","No declarado","No hay grupo",51
+"1798","7","13","San Lucas Tolimán","No declarado","No hay grupo",72
+"1799","7","14","Santa Cruz la Laguna","No declarado","No hay grupo",10
+"1800","7","15","San Pablo la Laguna","No declarado","No hay grupo",14
+"1801","7","16","San Marcos la Laguna","No declarado","No hay grupo",3
+"1802","7","17","San Juan la Laguna","No declarado","No hay grupo",25
+"1803","7","18","San Pedro la Laguna","No declarado","No hay grupo",28
+"1804","7","19","Santiago Atitlán","No declarado","No hay grupo",221
+"1805","8","01","Totonicapán","No declarado","No hay grupo",576
+"1806","8","02","San Cristóbal Totonicapán","No declarado","No hay grupo",1326
+"1807","8","03","San Francisco el Alto","No declarado","No hay grupo",2484
+"1808","8","04","San Andrés Xecul","No declarado","No hay grupo",271
+"1809","8","05","Momostenango","No declarado","No hay grupo",1224
+"1810","8","06","Santa María Chiquimula","No declarado","No hay grupo",275
+"1811","8","07","Santa Lucía la Reforma","No declarado","No hay grupo",81
+"1812","8","08","San Bartolo Aguas Calientes","No declarado","No hay grupo",49
+"1813","9","01","Quetzaltenango","No declarado","No hay grupo",1901
+"1814","9","02","Salcajá","No declarado","No hay grupo",111
+"1815","9","03","San Juan Olintepeque","No declarado","No hay grupo",107
+"1816","9","04","San Carlos Sija","No declarado","No hay grupo",232
+"1817","9","05","Sibilia","No declarado","No hay grupo",29
+"1818","9","06","Cabricán","No declarado","No hay grupo",69
+"1819","9","07","Cajolá","No declarado","No hay grupo",52
+"1820","9","08","San Miguel Siguilá","No declarado","No hay grupo",14
+"1821","9","09","San Juan Ostuncalco","No declarado","No hay grupo",1032
+"1822","9","10","San Mateo","No declarado","No hay grupo",84
+"1823","9","11","Concepción Chiquirichapa","No declarado","No hay grupo",95
+"1824","9","12","San Martín Sacatepéquez","No declarado","No hay grupo",48
+"1825","9","13","Almolonga","No declarado","No hay grupo",283
+"1826","9","14","Cantel","No declarado","No hay grupo",89
+"1827","9","15","Huitán","No declarado","No hay grupo",38
+"1828","9","16","Zunil","No declarado","No hay grupo",47
+"1829","9","17","Colomba Costa Cuca","No declarado","No hay grupo",250
+"1830","9","18","San Francisco la Unión","No declarado","No hay grupo",17
+"1831","9","19","El Palmar","No declarado","No hay grupo",99
+"1832","9","20","Coatepeque","No declarado","No hay grupo",1278
+"1833","9","21","Génova","No declarado","No hay grupo",134
+"1834","9","22","Flores Costa Cuca","No declarado","No hay grupo",80
+"1835","9","23","La Esperanza","No declarado","No hay grupo",374
+"1836","9","24","Palestina de los Altos","No declarado","No hay grupo",45
+"1837","1","00","Mazatenango","No declarado","No hay grupo",667
+"1838","1","00","Cuyotenango","No declarado","No hay grupo",62
+"1839","1","00","San Francisco Zapotitlán","No declarado","No hay grupo",29
+"1840","1","00","San Bernardino","No declarado","No hay grupo",48
+"1841","1","00","San José el Ídolo","No declarado","No hay grupo",122
+"1842","1","00","Santo Domingo Suchitepéquez","No declarado","No hay grupo",196
+"1843","1","00","San Lorenzo","No declarado","No hay grupo",23
+"1844","1","00","Samayac","No declarado","No hay grupo",161
+"1845","1","00","San Pablo Jocopilas","No declarado","No hay grupo",34
+"1846","1","01","San Antonio Suchitepéquez","No declarado","No hay grupo",153
+"1847","1","01","San Miguel Panán","No declarado","No hay grupo",19
+"1848","1","01","San Gabriel","No declarado","No hay grupo",25
+"1849","1","01","Chicacao","No declarado","No hay grupo",306
+"1850","1","01","Patulul","No declarado","No hay grupo",95
+"1851","1","01","Santa Bárbara","No declarado","No hay grupo",64
+"1852","1","01","San Juan Bautista","No declarado","No hay grupo",6
+"1853","1","01","Santo Tomas la Unión","No declarado","No hay grupo",23
+"1854","1","01","Zunilito","No declarado","No hay grupo",13
+"1855","1","01","Pueblo Nuevo","No declarado","No hay grupo",37
+"1856","1","02","Río Bravo","No declarado","No hay grupo",56
+"1857","1","02","San José La Máquina","No declarado","No hay grupo",30
+"1858","1","10","Retalhuleu","No declarado","No hay grupo",409
+"1859","1","10","San Sebastián","No declarado","No hay grupo",276
+"1860","1","10","Santa Cruz Muluá","No declarado","No hay grupo",53
+"1861","1","10","San Martín Zapotitlán","No declarado","No hay grupo",7
+"1862","1","10","San Felipe","No declarado","No hay grupo",63
+"1863","1","10","San Andrés Villa Seca","No declarado","No hay grupo",168
+"1864","1","10","Champerico","No declarado","No hay grupo",271
+"1865","1","10","Nuevo San Carlos","No declarado","No hay grupo",99
+"1866","1","10","El Asintal","No declarado","No hay grupo",124
+"1867","1","20","San Marcos","No declarado","No hay grupo",290
+"1868","1","20","San Pedro Sacatepéquez","No declarado","No hay grupo",298
+"1869","1","20","San Antonio Sacatepéquez","No declarado","No hay grupo",29
+"1870","1","20","Comitancillo","No declarado","No hay grupo",397
+"1871","1","20","San Miguel Ixtahuacán","No declarado","No hay grupo",253
+"1872","1","20","Concepción Tutuapa","No declarado","No hay grupo",788
+"1873","1","20","Tacaná","No declarado","No hay grupo",481
+"1874","1","20","Sibinal","No declarado","No hay grupo",33
+"1875","1","20","Tajumulco","No declarado","No hay grupo",682
+"1876","1","21","Tejutla","No declarado","No hay grupo",152
+"1877","1","21","San Rafael Pie de la Cuesta","No declarado","No hay grupo",47
+"1878","1","21","Nuevo Progreso","No declarado","No hay grupo",126
+"1879","1","21","El Tumbador","No declarado","No hay grupo",237
+"1880","1","21","San José el Rodeo","No declarado","No hay grupo",50
+"1881","1","21","Malacatán","No declarado","No hay grupo",1389
+"1882","1","21","Catarina","No declarado","No hay grupo",57
+"1883","1","21","Ayutla","No declarado","No hay grupo",254
+"1884","1","21","Ocós","No declarado","No hay grupo",17
+"1885","1","21","San Pablo","No declarado","No hay grupo",109
+"1886","1","22","El Quetzal","No declarado","No hay grupo",77
+"1887","1","22","La Reforma","No declarado","No hay grupo",11
+"1888","1","22","Pajapita","No declarado","No hay grupo",75
+"1889","1","22","Ixchiguán","No declarado","No hay grupo",335
+"1890","1","22","San José Ojetenam","No declarado","No hay grupo",281
+"1891","1","22","San Cristóbal Cucho","No declarado","No hay grupo",50
+"1892","1","22","Sipacapa","No declarado","No hay grupo",220
+"1893","1","22","Esquipulas Palo Gordo","No declarado","No hay grupo",18
+"1894","1","22","Río Blanco","No declarado","No hay grupo",5
+"1895","1","22","San Lorenzo","No declarado","No hay grupo",39
+"1896","1","23","La Blanca","No declarado","No hay grupo",82
+"1897","1","30","Huehuetenango","No declarado","No hay grupo",360
+"1898","1","30","Chiantla","No declarado","No hay grupo",242
+"1899","1","30","Malacatancito","No declarado","No hay grupo",40
+"1900","1","30","Cuilco","No declarado","No hay grupo",283
+"1901","1","30","Nentón","No declarado","No hay grupo",254
+"1902","1","30","San Pedro Necta","No declarado","No hay grupo",74
+"1903","1","30","Jacaltenango","No declarado","No hay grupo",67
+"1904","1","30","San Pedro Soloma","No declarado","No hay grupo",442
+"1905","1","30","San Ildefonso Ixtahuacán","No declarado","No hay grupo",92
+"1906","1","31","Santa Bárbara","No declarado","No hay grupo",403
+"1907","1","31","La Libertad","No declarado","No hay grupo",181
+"1908","1","31","La Democracia","No declarado","No hay grupo",560
+"1909","1","31","San Miguel Acatán","No declarado","No hay grupo",61
+"1910","1","31","San Rafael La Independencia","No declarado","No hay grupo",47
+"1911","1","31","Todos Santos Cuchumatán","No declarado","No hay grupo",77
+"1912","1","31","San Juan Atitán","No declarado","No hay grupo",28
+"1913","1","31","Santa Eulalia","No declarado","No hay grupo",640
+"1914","1","31","San Mateo Ixtatán","No declarado","No hay grupo",316
+"1915","1","31","Colotenango","No declarado","No hay grupo",127
+"1916","1","32","San Sebastián Huehuetenango","No declarado","No hay grupo",121
+"1917","1","32","Tectitán","No declarado","No hay grupo",63
+"1918","1","32","Concepción Huista","No declarado","No hay grupo",65
+"1919","1","32","San Juan Ixcoy","No declarado","No hay grupo",143
+"1920","1","32","San Antonio Huista","No declarado","No hay grupo",29
+"1921","1","32","San Sebastián Coatán","No declarado","No hay grupo",96
+"1922","1","32","Santa Cruz Barillas","No declarado","No hay grupo",568
+"1923","1","32","Aguacatán","No declarado","No hay grupo",91
+"1924","1","32","San Rafael Petzal","No declarado","No hay grupo",36
+"1925","1","32","San Gaspar Ixchil","No declarado","No hay grupo",9
+"1926","1","33","Santiago Chimaltenango","No declarado","No hay grupo",32
+"1927","1","33","Santa Ana Huista","No declarado","No hay grupo",11
+"1928","1","33","Unión Cantinil","No declarado","No hay grupo",68
+"1929","1","33","Petatán","No declarado","No hay grupo",2
+"1930","1","40","Santa Cruz del Quiché","No declarado","No hay grupo",2009
+"1931","1","40","Chiché","No declarado","No hay grupo",89
+"1932","1","40","Chinique","No declarado","No hay grupo",69
+"1933","1","40","Zacualpa","No declarado","No hay grupo",180
+"1934","1","40","Chajul","No declarado","No hay grupo",73
+"1935","1","40","Santo Tomás Chichicastenango","No declarado","No hay grupo",803
+"1936","1","40","Patzité","No declarado","No hay grupo",42
+"1937","1","40","San Antonio Ilotenango","No declarado","No hay grupo",129
+"1938","1","40","San Pedro Jocopilas","No declarado","No hay grupo",553
+"1939","1","41","Cunén","No declarado","No hay grupo",203
+"1940","1","41","San Juan Cotzal","No declarado","No hay grupo",75
+"1941","1","41","Joyabaj","No declarado","No hay grupo",946
+"1942","1","41","Santa María Nebaj","No declarado","No hay grupo",397
+"1943","1","41","San Andrés Sajcabajá","No declarado","No hay grupo",509
+"1944","1","41","San Miguel Uspantán","No declarado","No hay grupo",667
+"1945","1","41","Sacapulas","No declarado","No hay grupo",87
+"1946","1","41","San Bartolomé Jocotenango","No declarado","No hay grupo",32
+"1947","1","41","Canillá","No declarado","No hay grupo",192
+"1948","1","41","Chicamán","No declarado","No hay grupo",277
+"1949","1","42","Playa Grande Ixcán","No declarado","No hay grupo",161
+"1950","1","42","Pachalum","No declarado","No hay grupo",6
+"1951","1","50","Salamá","No declarado","No hay grupo",234
+"1952","1","50","San Miguel Chicaj","No declarado","No hay grupo",88
+"1953","1","50","Rabinal","No declarado","No hay grupo",35
+"1954","1","50","Cubulco","No declarado","No hay grupo",107
+"1955","1","50","Granados","No declarado","No hay grupo",27
+"1956","1","50","Santa Cruz El Chol","No declarado","No hay grupo",4
+"1957","1","50","San Jerónimo","No declarado","No hay grupo",116
+"1958","1","50","Purulhá","No declarado","No hay grupo",126
+"1959","1","60","Cobán","No declarado","No hay grupo",534
+"1960","1","60","Santa Cruz Verapaz","No declarado","No hay grupo",39
+"1961","1","60","San Cristóbal Verapaz","No declarado","No hay grupo",97
+"1962","1","60","Tactic","No declarado","No hay grupo",43
+"1963","1","60","Tamahú","No declarado","No hay grupo",19
+"1964","1","60","San Miguel Tucurú","No declarado","No hay grupo",434
+"1965","1","60","Panzós","No declarado","No hay grupo",173
+"1966","1","60","Senahú","No declarado","No hay grupo",313
+"1967","1","60","San Pedro Carchá","No declarado","No hay grupo",362
+"1968","1","61","San Juan Chamelco","No declarado","No hay grupo",94
+"1969","1","61","San Agustín Lanquín","No declarado","No hay grupo",82
+"1970","1","61","Santa María Cahabón","No declarado","No hay grupo",411
+"1971","1","61","Chisec","No declarado","No hay grupo",177
+"1972","1","61","Chahal","No declarado","No hay grupo",118
+"1973","1","61","Fray Bartolomé de las Casas","No declarado","No hay grupo",101
+"1974","1","61","Santa Catalina La Tinta","No declarado","No hay grupo",65
+"1975","1","61","Raxruhá","No declarado","No hay grupo",64
+"1976","1","70","Flores","No declarado","No hay grupo",141
+"1977","1","70","San José","No declarado","No hay grupo",14
+"1978","1","70","San Benito","No declarado","No hay grupo",570
+"1979","1","70","San Andrés","No declarado","No hay grupo",69
+"1980","1","70","La Libertad","No declarado","No hay grupo",420
+"1981","1","70","San Francisco","No declarado","No hay grupo",36
+"1982","1","70","Santa Ana","No declarado","No hay grupo",216
+"1983","1","70","Dolores","No declarado","No hay grupo",393
+"1984","1","70","San Luis","No declarado","No hay grupo",163
+"1985","1","71","Sayaxché","No declarado","No hay grupo",314
+"1986","1","71","Melchor de Mencos","No declarado","No hay grupo",235
+"1987","1","71","Poptún","No declarado","No hay grupo",244
+"1988","1","71","Las Cruces","No declarado","No hay grupo",38
+"1989","1","71","El Chal","No declarado","No hay grupo",140
+"1990","1","80","Puerto Barrios","No declarado","No hay grupo",900
+"1991","1","80","Livingston","No declarado","No hay grupo",456
+"1992","1","80","El Estor","No declarado","No hay grupo",219
+"1993","1","80","Morales","No declarado","No hay grupo",285
+"1994","1","80","Los Amates","No declarado","No hay grupo",277
+"1995","1","90","Zacapa","No declarado","No hay grupo",376
+"1996","1","90","Estanzuela","No declarado","No hay grupo",128
+"1997","1","90","Río Hondo","No declarado","No hay grupo",167
+"1998","1","90","Gualán","No declarado","No hay grupo",768
+"1999","1","90","Teculután","No declarado","No hay grupo",148
+"2000","1","90","Usumatlán","No declarado","No hay grupo",16
+"2001","1","90","Cabañas","No declarado","No hay grupo",59
+"2002","1","90","San Diego","No declarado","No hay grupo",78
+"2003","1","90","La Unión","No declarado","No hay grupo",129
+"2004","1","91","Huité","No declarado","No hay grupo",23
+"2005","1","91","San Jorge","No declarado","No hay grupo",54
+"2006","2","00","Chiquimula","No declarado","No hay grupo",489
+"2007","2","00","San José la Arada","No declarado","No hay grupo",19
+"2008","2","00","San Juan Ermita","No declarado","No hay grupo",50
+"2009","2","00","Jocotán","No declarado","No hay grupo",272
+"2010","2","00","Camotán","No declarado","No hay grupo",188
+"2011","2","00","Olopa","No declarado","No hay grupo",106
+"2012","2","00","Esquipulas","No declarado","No hay grupo",196
+"2013","2","00","Concepción las Minas","No declarado","No hay grupo",64
+"2014","2","00","Quezaltepeque","No declarado","No hay grupo",101
+"2015","2","01","San Jacinto","No declarado","No hay grupo",32
+"2016","2","01","Ipala","No declarado","No hay grupo",74
+"2017","2","10","Jalapa","No declarado","No hay grupo",269
+"2018","2","10","San Pedro Pinula","No declarado","No hay grupo",87
+"2019","2","10","San Luis Jilotepeque","No declarado","No hay grupo",21
+"2020","2","10","San Manuel Chaparrón","No declarado","No hay grupo",7
+"2021","2","10","San Carlos Alzatate","No declarado","No hay grupo",35
+"2022","2","10","Monjas","No declarado","No hay grupo",72
+"2023","2","10","Mataquescuintla","No declarado","No hay grupo",54
+"2024","2","20","Jutiapa","No declarado","No hay grupo",695
+"2025","2","20","El Progreso","No declarado","No hay grupo",198
+"2026","2","20","Santa Catarina Mita","No declarado","No hay grupo",73
+"2027","2","20","Agua Blanca","No declarado","No hay grupo",75
+"2028","2","20","Asunción Mita","No declarado","No hay grupo",119
+"2029","2","20","Yupiltepeque","No declarado","No hay grupo",18
+"2030","2","20","Atescatempa","No declarado","No hay grupo",57
+"2031","2","20","Jerez","No declarado","No hay grupo",17
+"2032","2","20","El Adelanto","No declarado","No hay grupo",3
+"2033","2","21","Zapotitlán","No declarado","No hay grupo",34
+"2034","2","21","Comapa","No declarado","No hay grupo",130
+"2035","2","21","Jalpatagua","No declarado","No hay grupo",98
+"2036","2","21","Conguaco","No declarado","No hay grupo",20
+"2037","2","21","Moyuta","No declarado","No hay grupo",141
+"2038","2","21","Pasaco","No declarado","No hay grupo",22
+"2039","2","21","San José Acatempa","No declarado","No hay grupo",46
+"2040","2","21","Quesada","No declarado","No hay grupo",47
+"2041","1","01","Guatemala","1","No hay grupo",371993
+"2042","1","02","Santa Catarina Pinula","1","No hay grupo",32285
+"2043","1","03","San José Pinula","1","No hay grupo",32477
+"2044","1","04","San José del Golfo","1","No hay grupo",3574
+"2045","1","05","Palencia","1","No hay grupo",32951
+"2046","1","06","Chinautla","1","No hay grupo",49195
+"2047","1","07","San Pedro Ayampuc","1","No hay grupo",26743
+"2048","1","08","Mixco","1","No hay grupo",182568
+"2049","1","09","San Pedro Sacatepéquez","1","No hay grupo",19966
+"2050","1","10","San Juan Sacatepéquez","1","No hay grupo",95216
+"2051","1","11","San Raymundo","1","No hay grupo",14557
+"2052","1","12","Chuarrancho","1","No hay grupo",6600
+"2053","1","13","Fraijanes","1","No hay grupo",22856
+"2054","1","14","Amatitlán","1","No hay grupo",51946
+"2055","1","15","Villa Nueva","1","No hay grupo",179788
+"2056","1","16","Villa Canales","1","No hay grupo",68501
+"2057","1","17","San Miguel Petapa","1","No hay grupo",55952
+"2058","2","01","Guastatoya","1","No hay grupo",11427
+"2059","2","02","Morazán","1","No hay grupo",6242
+"2060","2","03","San Agustín Acasaguastlán","1","No hay grupo",23261
+"2061","2","04","San Cristóbal Acasaguastlán","1","No hay grupo",3986
+"2062","2","05","El Jícaro","1","No hay grupo",6931
+"2063","2","06","Sansare","1","No hay grupo",7101
+"2064","2","07","Sanarate","1","No hay grupo",18644
+"2065","2","08","San Antonio la Paz","1","No hay grupo",10194
+"2066","3","01","Antigua Guatemala","1","No hay grupo",17742
+"2067","3","02","Jocotenango","1","No hay grupo",8690
+"2068","3","03","Pastores","1","No hay grupo",8237
+"2069","3","04","Sumpango","1","No hay grupo",15619
+"2070","3","05","Santo Domingo Xenacoj","1","No hay grupo",4667
+"2071","3","06","Santiago Sacatepéquez","1","No hay grupo",10715
+"2072","3","07","San Bartolomé Milpas Altas","1","No hay grupo",3299
+"2073","3","08","San Lucas Sacatepéquez","1","No hay grupo",9370
+"2074","3","09","Santa Lucía Milpas Altas","1","No hay grupo",6013
+"2075","3","10","Magdalena Milpas Altas","1","No hay grupo",5478
+"2076","3","11","Santa María de Jesús","1","No hay grupo",9616
+"2077","3","12","Ciudad Vieja","1","No hay grupo",13330
+"2078","3","13","San Miguel Dueñas","1","No hay grupo",5252
+"2079","3","14","San Juan Alotenango","1","No hay grupo",10951
+"2080","3","15","San Antonio Aguas Calientes","1","No hay grupo",4345
+"2081","3","16","Santa Catarina Barahona","1","No hay grupo",1400
+"2082","4","01","Chimaltenango","1","No hay grupo",42175
+"2083","4","02","San José Poaquil","1","No hay grupo",13009
+"2084","4","03","San Martín Jilotepeque","1","No hay grupo",44047
+"2085","4","04","San Juan Comalapa","1","No hay grupo",18653
+"2086","4","05","Santa Apolonia","1","No hay grupo",9043
+"2087","4","06","Tecpán Guatemala","1","No hay grupo",44448
+"2088","4","07","Patzún","1","No hay grupo",25850
+"2089","4","08","San Miguel Pochuta","1","No hay grupo",4773
+"2090","4","09","Patzicía","1","No hay grupo",14485
+"2091","4","10","Santa Cruz Balanyá","1","No hay grupo",3724
+"2092","4","11","Acatenango","1","No hay grupo",12250
+"2093","4","12","San Pedro Yepocapa","1","No hay grupo",17656
+"2094","4","13","San Andrés Itzapa","1","No hay grupo",14302
+"2095","4","14","Parramos","1","No hay grupo",7618
+"2096","4","15","Zaragoza","1","No hay grupo",10857
+"2097","4","16","El Tejar","1","No hay grupo",8328
+"2098","5","01","Escuintla","1","No hay grupo",71814
+"2099","5","02","Santa Lucía Cotzumalguapa","1","No hay grupo",59243
+"2100","5","03","La Democracia","1","No hay grupo",12465
+"2101","5","04","Siquinalá","1","No hay grupo",10769
+"2102","5","05","Masagua","1","No hay grupo",25332
+"2103","5","06","Tiquisate","1","No hay grupo",26755
+"2104","5","07","La Gomera","1","No hay grupo",24544
+"2105","5","08","Guanagazapa","1","No hay grupo",9692
+"2106","5","09","San José","1","No hay grupo",29619
+"2107","5","10","Iztapa","1","No hay grupo",10137
+"2108","5","11","Palín","1","No hay grupo",29479
+"2109","5","12","San Vicente Pacaya","1","No hay grupo",8275
+"2110","5","13","Nueva Concepción","1","No hay grupo",36885
+"2111","5","14","Sipacate","1","No hay grupo",8011
+"2112","6","01","Cuilapa","1","No hay grupo",19641
+"2113","6","02","Barberena","1","No hay grupo",27446
+"2114","6","03","Santa Rosa de Lima","1","No hay grupo",10093
+"2115","6","04","Casillas","1","No hay grupo",13481
+"2116","6","05","San Rafael las Flores","1","No hay grupo",6700
+"2117","6","06","Oratorio","1","No hay grupo",12819
+"2118","6","07","San Juan Tecuaco","1","No hay grupo",5270
+"2119","6","08","Chiquimulilla","1","No hay grupo",27668
+"2120","6","09","Taxisco","1","No hay grupo",15604
+"2121","6","10","Santa María Ixhuatán","1","No hay grupo",11944
+"2122","6","11","Guazacapán","1","No hay grupo",9087
+"2123","6","12","Santa Cruz Naranjo","1","No hay grupo",7954
+"2124","6","13","Pueblo Nuevo Viñas","1","No hay grupo",12439
+"2125","6","14","Nueva Santa Rosa","1","No hay grupo",18502
+"2126","7","01","Sololá","1","No hay grupo",41346
+"2127","7","02","San José Chacayá","1","No hay grupo",1950
+"2128","7","03","Santa María Visitación","1","No hay grupo",1278
+"2129","7","04","Santa Lucía Utatlán","1","No hay grupo",11401
+"2130","7","05","Nahualá","1","No hay grupo",42212
+"2131","7","06","Santa Catarina Ixtahuacán","1","No hay grupo",34202
+"2132","7","07","Santa Clara la Laguna","1","No hay grupo",4696
+"2133","7","08","Concepción","1","No hay grupo",3206
+"2134","7","09","San Andrés Semetabaj","1","No hay grupo",6005
+"2135","7","10","Panajachel","1","No hay grupo",6083
+"2136","7","11","Santa Catarina Palopó","1","No hay grupo",1981
+"2137","7","12","San Antonio Palopó","1","No hay grupo",8169
+"2138","7","13","San Lucas Tolimán","1","No hay grupo",14616
+"2139","7","14","Santa Cruz la Laguna","1","No hay grupo",3134
+"2140","7","15","San Pablo la Laguna","1","No hay grupo",3689
+"2141","7","16","San Marcos la Laguna","1","No hay grupo",1158
+"2142","7","17","San Juan la Laguna","1","No hay grupo",5062
+"2143","7","18","San Pedro la Laguna","1","No hay grupo",5045
+"2144","7","19","Santiago Atitlán","1","No hay grupo",15682
+"2145","8","01","Totonicapán","1","No hay grupo",47842
+"2146","8","02","San Cristóbal Totonicapán","1","No hay grupo",16640
+"2147","8","03","San Francisco el Alto","1","No hay grupo",26969
+"2148","8","04","San Andrés Xecul","1","No hay grupo",13438
+"2149","8","05","Momostenango","1","No hay grupo",52430
+"2150","8","06","Santa María Chiquimula","1","No hay grupo",24783
+"2151","8","07","Santa Lucía la Reforma","1","No hay grupo",11604
+"2152","8","08","San Bartolo Aguas Calientes","1","No hay grupo",5521
+"2153","9","01","Quetzaltenango","1","No hay grupo",76776
+"2154","9","02","Salcajá","1","No hay grupo",8565
+"2155","9","03","San Juan Olintepeque","1","No hay grupo",16119
+"2156","9","04","San Carlos Sija","1","No hay grupo",18781
+"2157","9","05","Sibilia","1","No hay grupo",4791
+"2158","9","06","Cabricán","1","No hay grupo",16257
+"2159","9","07","Cajolá","1","No hay grupo",8946
+"2160","9","08","San Miguel Siguilá","1","No hay grupo",4321
+"2161","9","09","San Juan Ostuncalco","1","No hay grupo",25511
+"2162","9","10","San Mateo","1","No hay grupo",3394
+"2163","9","11","Concepción Chiquirichapa","1","No hay grupo",8779
+"2164","9","12","San Martín Sacatepéquez","1","No hay grupo",13991
+"2165","9","13","Almolonga","1","No hay grupo",7758
+"2166","9","14","Cantel","1","No hay grupo",17400
+"2167","9","15","Huitán","1","No hay grupo",8047
+"2168","9","16","Zunil","1","No hay grupo",6178
+"2169","9","17","Colomba Costa Cuca","1","No hay grupo",24691
+"2170","9","18","San Francisco la Unión","1","No hay grupo",4792
+"2171","9","19","El Palmar","1","No hay grupo",15376
+"2172","9","20","Coatepeque","1","No hay grupo",51737
+"2173","9","21","Génova","1","No hay grupo",21644
+"2174","9","22","Flores Costa Cuca","1","No hay grupo",11581
+"2175","9","23","La Esperanza","1","No hay grupo",9827
+"2176","9","24","Palestina de los Altos","1","No hay grupo",9572
+"2177","1","00","Mazatenango","1","No hay grupo",35266
+"2178","1","00","Cuyotenango","1","No hay grupo",16316
+"2179","1","00","San Francisco Zapotitlán","1","No hay grupo",10559
+"2180","1","00","San Bernardino","1","No hay grupo",8094
+"2181","1","00","San José el Ídolo","1","No hay grupo",5569
+"2182","1","00","Santo Domingo Suchitepéquez","1","No hay grupo",23377
+"2183","1","00","San Lorenzo","1","No hay grupo",6969
+"2184","1","00","Samayac","1","No hay grupo",11219
+"2185","1","00","San Pablo Jocopilas","1","No hay grupo",10175
+"2186","1","01","San Antonio Suchitepéquez","1","No hay grupo",30715
+"2187","1","01","San Miguel Panán","1","No hay grupo",5701
+"2188","1","01","San Gabriel","1","No hay grupo",3157
+"2189","1","01","Chicacao","1","No hay grupo",31162
+"2190","1","01","Patulul","1","No hay grupo",19949
+"2191","1","01","Santa Bárbara","1","No hay grupo",13815
+"2192","1","01","San Juan Bautista","1","No hay grupo",4223
+"2193","1","01","Santo Tomas la Unión","1","No hay grupo",5960
+"2194","1","01","Zunilito","1","No hay grupo",4074
+"2195","1","01","Pueblo Nuevo","1","No hay grupo",5598
+"2196","1","02","Río Bravo","1","No hay grupo",14770
+"2197","1","02","San José La Máquina","1","No hay grupo",12277
+"2198","1","10","Retalhuleu","1","No hay grupo",45144
+"2199","1","10","San Sebastián","1","No hay grupo",13460
+"2200","1","10","Santa Cruz Muluá","1","No hay grupo",6911
+"2201","1","10","San Martín Zapotitlán","1","No hay grupo",6192
+"2202","1","10","San Felipe","1","No hay grupo",11494
+"2203","1","10","San Andrés Villa Seca","1","No hay grupo",26348
+"2204","1","10","Champerico","1","No hay grupo",18146
+"2205","1","10","Nuevo San Carlos","1","No hay grupo",20793
+"2206","1","10","El Asintal","1","No hay grupo",20265
+"2207","1","20","San Marcos","1","No hay grupo",23754
+"2208","1","20","San Pedro Sacatepéquez","1","No hay grupo",38668
+"2209","1","20","San Antonio Sacatepéquez","1","No hay grupo",10479
+"2210","1","20","Comitancillo","1","No hay grupo",34097
+"2211","1","20","San Miguel Ixtahuacán","1","No hay grupo",30726
+"2212","1","20","Concepción Tutuapa","1","No hay grupo",45255
+"2213","1","20","Tacaná","1","No hay grupo",51498
+"2214","1","20","Sibinal","1","No hay grupo",9165
+"2215","1","20","Tajumulco","1","No hay grupo",29526
+"2216","1","21","Tejutla","1","No hay grupo",21049
+"2217","1","21","San Rafael Pie de la Cuesta","1","No hay grupo",8948
+"2218","1","21","Nuevo Progreso","1","No hay grupo",16314
+"2219","1","21","El Tumbador","1","No hay grupo",22945
+"2220","1","21","San José el Rodeo","1","No hay grupo",9498
+"2221","1","21","Malacatán","1","No hay grupo",49607
+"2222","1","21","Catarina","1","No hay grupo",16719
+"2223","1","21","Ayutla","1","No hay grupo",17986
+"2224","1","21","Ocós","1","No hay grupo",5375
+"2225","1","21","San Pablo","1","No hay grupo",26745
+"2226","1","22","El Quetzal","1","No hay grupo",12911
+"2227","1","22","La Reforma","1","No hay grupo",10430
+"2228","1","22","Pajapita","1","No hay grupo",11380
+"2229","1","22","Ixchiguán","1","No hay grupo",12485
+"2230","1","22","San José Ojetenam","1","No hay grupo",11099
+"2231","1","22","San Cristóbal Cucho","1","No hay grupo",9461
+"2232","1","22","Sipacapa","1","No hay grupo",11292
+"2233","1","22","Esquipulas Palo Gordo","1","No hay grupo",6965
+"2234","1","22","Río Blanco","1","No hay grupo",3594
+"2235","1","22","San Lorenzo","1","No hay grupo",7976
+"2236","1","23","La Blanca","1","No hay grupo",14449
+"2237","1","30","Huehuetenango","1","No hay grupo",53856
+"2238","1","30","Chiantla","1","No hay grupo",45255
+"2239","1","30","Malacatancito","1","No hay grupo",10405
+"2240","1","30","Cuilco","1","No hay grupo",33526
+"2241","1","30","Nentón","1","No hay grupo",23029
+"2242","1","30","San Pedro Necta","1","No hay grupo",20685
+"2243","1","30","Jacaltenango","1","No hay grupo",18391
+"2244","1","30","San Pedro Soloma","1","No hay grupo",27412
+"2245","1","30","San Ildefonso Ixtahuacán","1","No hay grupo",20340
+"2246","1","31","Santa Bárbara","1","No hay grupo",17716
+"2247","1","31","La Libertad","1","No hay grupo",20518
+"2248","1","31","La Democracia","1","No hay grupo",28230
+"2249","1","31","San Miguel Acatán","1","No hay grupo",16260
+"2250","1","31","San Rafael La Independencia","1","No hay grupo",8148
+"2251","1","31","Todos Santos Cuchumatán","1","No hay grupo",17200
+"2252","1","31","San Juan Atitán","1","No hay grupo",10647
+"2253","1","31","Santa Eulalia","1","No hay grupo",19464
+"2254","1","31","San Mateo Ixtatán","1","No hay grupo",23213
+"2255","1","31","Colotenango","1","No hay grupo",20363
+"2256","1","32","San Sebastián Huehuetenango","1","No hay grupo",16967
+"2257","1","32","Tectitán","1","No hay grupo",6778
+"2258","1","32","Concepción Huista","1","No hay grupo",9681
+"2259","1","32","San Juan Ixcoy","1","No hay grupo",14598
+"2260","1","32","San Antonio Huista","1","No hay grupo",8454
+"2261","1","32","San Sebastián Coatán","1","No hay grupo",14201
+"2262","1","32","Santa Cruz Barillas","1","No hay grupo",51272
+"2263","1","32","Aguacatán","1","No hay grupo",25408
+"2264","1","32","San Rafael Petzal","1","No hay grupo",6719
+"2265","1","32","San Gaspar Ixchil","1","No hay grupo",3415
+"2266","1","33","Santiago Chimaltenango","1","No hay grupo",5535
+"2267","1","33","Santa Ana Huista","1","No hay grupo",4557
+"2268","1","33","Unión Cantinil","1","No hay grupo",8309
+"2269","1","33","Petatán","1","No hay grupo",2982
+"2270","1","40","Santa Cruz del Quiché","1","No hay grupo",37343
+"2271","1","40","Chiché","1","No hay grupo",14964
+"2272","1","40","Chinique","1","No hay grupo",5668
+"2273","1","40","Zacualpa","1","No hay grupo",16899
+"2274","1","40","Chajul","1","No hay grupo",25323
+"2275","1","40","Santo Tomás Chichicastenango","1","No hay grupo",66007
+"2276","1","40","Patzité","1","No hay grupo",3135
+"2277","1","40","San Antonio Ilotenango","1","No hay grupo",11506
+"2278","1","40","San Pedro Jocopilas","1","No hay grupo",16743
+"2279","1","41","Cunén","1","No hay grupo",22208
+"2280","1","41","San Juan Cotzal","1","No hay grupo",17364
+"2281","1","41","Joyabaj","1","No hay grupo",46096
+"2282","1","41","Santa María Nebaj","1","No hay grupo",37483
+"2283","1","41","San Andrés Sajcabajá","1","No hay grupo",15654
+"2284","1","41","San Miguel Uspantán","1","No hay grupo",35022
+"2285","1","41","Sacapulas","1","No hay grupo",24159
+"2286","1","41","San Bartolomé Jocotenango","1","No hay grupo",7578
+"2287","1","41","Canillá","1","No hay grupo",6943
+"2288","1","41","Chicamán","1","No hay grupo",24094
+"2289","1","42","Playa Grande Ixcán","1","No hay grupo",47639
+"2290","1","42","Pachalum","1","No hay grupo",4832
+"2291","1","50","Salamá","1","No hay grupo",30233
+"2292","1","50","San Miguel Chicaj","1","No hay grupo",15686
+"2293","1","50","Rabinal","1","No hay grupo",20107
+"2294","1","50","Cubulco","1","No hay grupo",28298
+"2295","1","50","Granados","1","No hay grupo",6940
+"2296","1","50","Santa Cruz El Chol","1","No hay grupo",4977
+"2297","1","50","San Jerónimo","1","No hay grupo",11646
+"2298","1","50","Purulhá","1","No hay grupo",28641
+"2299","1","60","Cobán","1","No hay grupo",102386
+"2300","1","60","Santa Cruz Verapaz","1","No hay grupo",15635
+"2301","1","60","San Cristóbal Verapaz","1","No hay grupo",34207
+"2302","1","60","Tactic","1","No hay grupo",16789
+"2303","1","60","Tamahú","1","No hay grupo",9187
+"2304","1","60","San Miguel Tucurú","1","No hay grupo",29359
+"2305","1","60","Panzós","1","No hay grupo",37246
+"2306","1","60","Senahú","1","No hay grupo",48694
+"2307","1","60","San Pedro Carchá","1","No hay grupo",114773
+"2308","1","61","San Juan Chamelco","1","No hay grupo",25844
+"2309","1","61","San Agustín Lanquín","1","No hay grupo",13096
+"2310","1","61","Santa María Cahabón","1","No hay grupo",35126
+"2311","1","61","Chisec","1","No hay grupo",41594
+"2312","1","61","Chahal","1","No hay grupo",15302
+"2313","1","61","Fray Bartolomé de las Casas","1","No hay grupo",33750
+"2314","1","61","Santa Catalina La Tinta","1","No hay grupo",22500
+"2315","1","61","Raxruhá","1","No hay grupo",17911
+"2316","1","70","Flores","1","No hay grupo",17703
+"2317","1","70","San José","1","No hay grupo",3490
+"2318","1","70","San Benito","1","No hay grupo",19715
+"2319","1","70","San Andrés","1","No hay grupo",16019
+"2320","1","70","La Libertad","1","No hay grupo",35758
+"2321","1","70","San Francisco","1","No hay grupo",8309
+"2322","1","70","Santa Ana","1","No hay grupo",11118
+"2323","1","70","Dolores","1","No hay grupo",13551
+"2324","1","70","San Luis","1","No hay grupo",34886
+"2325","1","71","Sayaxché","1","No hay grupo",51578
+"2326","1","71","Melchor de Mencos","1","No hay grupo",13240
+"2327","1","71","Poptún","1","No hay grupo",25374
+"2328","1","71","Las Cruces","1","No hay grupo",15912
+"2329","1","71","El Chal","1","No hay grupo",6993
+"2330","1","80","Puerto Barrios","1","No hay grupo",45611
+"2331","1","80","Livingston","1","No hay grupo",37180
+"2332","1","80","El Estor","1","No hay grupo",36840
+"2333","1","80","Morales","1","No hay grupo",48348
+"2334","1","80","Los Amates","1","No hay grupo",31313
+"2335","1","90","Zacapa","1","No hay grupo",26912
+"2336","1","90","Estanzuela","1","No hay grupo",4956
+"2337","1","90","Río Hondo","1","No hay grupo",10332
+"2338","1","90","Gualán","1","No hay grupo",21476
+"2339","1","90","Teculután","1","No hay grupo",8262
+"2340","1","90","Usumatlán","1","No hay grupo",6057
+"2341","1","90","Cabañas","1","No hay grupo",7189
+"2342","1","90","San Diego","1","No hay grupo",3794
+"2343","1","90","La Unión","1","No hay grupo",18791
+"2344","1","91","Huité","1","No hay grupo",5989
+"2345","1","91","San Jorge","1","No hay grupo",7180
+"2346","2","00","Chiquimula","1","No hay grupo",55053
+"2347","2","00","San José la Arada","1","No hay grupo",4704
+"2348","2","00","San Juan Ermita","1","No hay grupo",9085
+"2349","2","00","Jocotán","1","No hay grupo",38575
+"2350","2","00","Camotán","1","No hay grupo",35113
+"2351","2","00","Olopa","1","No hay grupo",14551
+"2352","2","00","Esquipulas","1","No hay grupo",25302
+"2353","2","00","Concepción las Minas","1","No hay grupo",6663
+"2354","2","00","Quezaltepeque","1","No hay grupo",14651
+"2355","2","01","San Jacinto","1","No hay grupo",7205
+"2356","2","01","Ipala","1","No hay grupo",11570
+"2357","2","10","Jalapa","1","No hay grupo",74783
+"2358","2","10","San Pedro Pinula","1","No hay grupo",31511
+"2359","2","10","San Luis Jilotepeque","1","No hay grupo",11963
+"2360","2","10","San Manuel Chaparrón","1","No hay grupo",4356
+"2361","2","10","San Carlos Alzatate","1","No hay grupo",9465
+"2362","2","10","Monjas","1","No hay grupo",13444
+"2363","2","10","Mataquescuintla","1","No hay grupo",20042
+"2364","2","20","Jutiapa","1","No hay grupo",75435
+"2365","2","20","El Progreso","1","No hay grupo",10417
+"2366","2","20","Santa Catarina Mita","1","No hay grupo",14363
+"2367","2","20","Agua Blanca","1","No hay grupo",8876
+"2368","2","20","Asunción Mita","1","No hay grupo",23855
+"2369","2","20","Yupiltepeque","1","No hay grupo",8989
+"2370","2","20","Atescatempa","1","No hay grupo",9233
+"2371","2","20","Jerez","1","No hay grupo",3121
+"2372","2","20","El Adelanto","1","No hay grupo",3679
+"2373","2","21","Zapotitlán","1","No hay grupo",4820
+"2374","2","21","Comapa","1","No hay grupo",16687
+"2375","2","21","Jalpatagua","1","No hay grupo",15348
+"2376","2","21","Conguaco","1","No hay grupo",12250
+"2377","2","21","Moyuta","1","No hay grupo",20848
+"2378","2","21","Pasaco","1","No hay grupo",4699
+"2379","2","21","San José Acatempa","1","No hay grupo",7488
+"2380","2","21","Quesada","1","No hay grupo",11710
